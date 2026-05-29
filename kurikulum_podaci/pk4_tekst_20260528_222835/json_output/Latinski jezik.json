@@ -1,0 +1,432 @@
+{
+  "predmet": "Latinski jezik",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "III"
+  },
+  "tematske_cjeline": [
+    "A JEZIČNA OBLAST - opća gimnazija",
+    "B KULTURNO-CIVILIZACIJSKA OBLAST - opća gimnazija",
+    "C UPOTREBA LATINSKOG JEZIKA U SUVREMENOM DOBU - opća gimnazija",
+    "A JEZIČNA OBLAST- opća gimnazija",
+    "B KULTURNO-CIVILIZACIJSKA OBLAST- opća gimnazija",
+    "C UPOTREBA LATINSKOG JEZIKA U SUVREMENOM DOBU- opća gimnazija",
+    "A JEZIČNA OBLAST - sva izborna područja osim opće gimnazije",
+    "B KULTURNO-CIVILIZACIJSKA OBLAST - sva izborna područja osim opće gimnazije",
+    "C UPOTREBA LATINSKOG JEZIKA U SUVREMENOM DOBU - sva izborna područja osim opće gimnazije",
+    "A JEZIČNA OBLAST - sva izborna područja osim opće gimnazije",
+    "B KULTURNO-CIVILIZACIJSKA OBLAST - sva izborna područja osim opće gimnazije",
+    "C UPOTREBA LATINSKOG JEZIKA U SUVREMENOM DOBU - sva izborna područja osim opće gimnazije"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "I.1.1",
+      "opis": ". Poznaje elemente fonetike i fonologije, abecedu, kvantitet sloga i naglasak."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": ". Čita i piše latinske riječi po pravilima tradicionalnog izgovora."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": ". Poznaje pravila klasičnog izgovora i uočava razlike između klasičnog i tradicionalnog izgovora."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": ". Razlikuje imenske vrste riječi."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": ". Razlikuje kojoj deklinaciji pripada imenica ili pridjev."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": ". Upotrebljava padežne oblike imenica i pridjeva."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": ". Poznaje gramatičke kategorije glagola."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": ". Poznaje pravila tvorbe glagolskih vremena prezentske osnove u indikativu aktivnom."
+    },
+    {
+      "oznaka": "I.3.3",
+      "opis": ". Objašnjava pravila upotrebe glagolskih vremena."
+    },
+    {
+      "oznaka": "I.4.1",
+      "opis": ". Navodi riječi u rječničkom obliku."
+    },
+    {
+      "oznaka": "I.4.2",
+      "opis": ". Analizira odnose riječi u rečenicama."
+    },
+    {
+      "oznaka": "I.4.3",
+      "opis": ". Prevodi rečenice uz pomoć nastavnika na maternji jezik."
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": ". Poznaje početke Rimske države."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": ". Poznaje porijeklo latinskog jezika i smješta ga unutar indoevropske porodice jezika."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": ". Poznaje značaj antičke države u antičkom svijetu i njen utjecaj na evropsku civilizaciju."
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": ". Koristi rječnike u književnom i digitalnom formatu."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": ". Prepoznaje latinske riječi i izraze u maternjem jeziku u svakodnevnoj upotrebi."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": ". Prepoznaje najučestalije latinske stručne izraze u maternjem jeziku."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": ". Primjenjuje pravila komparacije pridjeva."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": ". Koristi oblike latinskih zamjenica."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": ". Koristi oblike latinskih brojeva."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": ". Poznaje pravila tvorbe glagolskih vremena perfektne osnove."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": ". Prepoznaje pasivne oblike i poznaje njihovu upotrebu."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": ". Prepoznaje glagolske oblike u konjunktivu."
+    },
+    {
+      "oznaka": "V.2.4",
+      "opis": ". Prepoznaje oblike nepravilnih glagola."
+    },
+    {
+      "oznaka": "V.2.5",
+      "opis": ". Objašnjava upotrebu glagolskih vremena stanja i načina."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": ". Razlikuje nepromjenjive vrste riječi."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": ". Objašnjava tvorbu i komparaciju priloga."
+    },
+    {
+      "oznaka": "V.3.3",
+      "opis": ". Upotrebljava oblike nepromjenjivih vrsta riječi"
+    },
+    {
+      "oznaka": "V.4.1",
+      "opis": ". Tvori složene gramatičke oblike i konstrukcije."
+    },
+    {
+      "oznaka": "V.4.2",
+      "opis": ". Objašnjava upotrebu složenih gramatičkih oblika."
+    },
+    {
+      "oznaka": "V.4.3",
+      "opis": ". Prevodi prilagođen tekst sa latinskog na maternji jezik."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": ". Imenuje i opisuje ključne osobe, pojmove i događaje iz rimske povijesti."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": ". Uočava osnovna obilježja različitih tipova uređenja Rimske države kroz njen razvitak."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Poznaje latinsku pisanu i ostalu materijalnu baštinu u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "V.1.4",
+      "opis": ". Uočava važnost građanskog društva i njegov doprinos zajednici."
+    },
+    {
+      "oznaka": "V.1.5",
+      "opis": ". Smješta u prostor i vrijeme glavna obilježja civilizacije na prelasku antike u srednji vijek."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": ". Prepoznaje utjecaj migracija na izgled Europe."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": ". Prepoznaje utjecaj Rimljana na barbarske narode."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": ". Shvata transformaciju latinskoga iz govornog u jezik kulture, religije i znanosti."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": ". Koristi učestale latinizme u maternjem jeziku."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": ". Prepoznaje složene latinizme u maternjem jeziku i raščlanjuje ih uz pomoć nastavnika."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": ". Uz pomoć nastavnika prepoznaje latinizme u starnim jezicima."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": ". Poznaje u kojim se naukama latinski koristi kao stručni jezik."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": ". Reproducira latinske riječi u stručnoj terminologiji."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": ". Reproducira i raščlanjuje jednostavne izraze u stručnoj terminologiji."
+    },
+    {
+      "oznaka": "V.2.4",
+      "opis": ". Uz pomoć nastavnika raščlanjuje složenije izraze u stručnoj terminologiji."
+    },
+    {
+      "oznaka": "V.2.5",
+      "opis": ". Prevodi stručne izraze sa maternjeg na latinski jezik."
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": ". Poznaje elemente fonetike i fonologije, abecedu, kvantitet sloga i naglasak."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": ". Čita i piše latinske riječi po pravilima tradicionalnog izgovora."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": ". Poznaje pravila klasičnog izgovora i uočava razlike između klasičnog i tradicionalnog izgovora."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": ".Razlikuje imenske vrste riječi."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": ". Razlikuje kojoj deklinaciji pripada. imenica ili pridjev."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": ". Upotrebljava padežne oblike imenica i pridjeva."
+    },
+    {
+      "oznaka": "I.2.4",
+      "opis": ". Primjenjuje pravila komparacije pridjeva"
+    },
+    {
+      "oznaka": "I.2.5",
+      "opis": ". Koristi oblike latinskih zamjenica i brojeva."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": ". Poznaje gramatičke kategorije glagola."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": ". Poznaje pravila tvorbe glagolskih vremena prezentske i perfektne osnove u indikativu aktivnom i imperativ."
+    },
+    {
+      "oznaka": "I.3.3",
+      "opis": ". Objašnjava pravila upotrebe glagolskih vremena."
+    },
+    {
+      "oznaka": "I.3.4",
+      "opis": ". Prepoznaje pasivne oblike i njihovu upotrebu"
+    },
+    {
+      "oznaka": "I.4.1",
+      "opis": ". Razlikuje nepromjenjive vrste riječi"
+    },
+    {
+      "oznaka": "I.4.2",
+      "opis": ". Objašnjava tvorbu i komparaciju priloga"
+    },
+    {
+      "oznaka": "I.4.3",
+      "opis": ". Upotrebljava oblike nepromjenjivih vrsta riječi"
+    },
+    {
+      "oznaka": "I.5.1",
+      "opis": ". Navodi riječi u rječničkom obliku."
+    },
+    {
+      "oznaka": "I.5.2",
+      "opis": ". Analizira odnose riječi u rečenicama."
+    },
+    {
+      "oznaka": "I.5.3",
+      "opis": ". Prevodi rečenice na maternji jezik."
+    },
+    {
+      "oznaka": "I.5.4",
+      "opis": ". Prevodi kraći prilagođen tekst uz pomoć nastavnika na maternji jezik."
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": ". Poznaje početke Rimske države."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": ". Poznaje porijeklo latinskog jezika i smješta ga unutar indoevropske porodice jezika."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": ". Poznaje značaj antičke države u antičkom svijetu i njen utjecaj na evropsku civilizaciju."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": ". Imenuje i opisuje ključne osobe, pojmove i događaje iz rimske povijesti."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": ". Uočava osnovna obilježja različitih tipova uređenja Rimske države kroz njen razvitak."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": ". Uočava važnost građanskog društva i njegov doprinos zajednici"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": ". Koristi rječnike u književnom i digitalnom formatu."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": ". Prepoznaje latinske riječi i izraze u maternjem jeziku u svakodnevnoj upotrebi."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": ". Pravilno upotrebljava najučestalije latinske riječi u maternjem jeziku u svakodnevnoj upotrebi."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": ". Poznaje u kojim se naukama latinski koristi kao stručni jezik."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": ". Prepoznaje riječi i jednostavne izraze koji se koriste u stručnoj terminologiji u različitim naukama."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": ". Reproducira latinske riječi u stručnoj terminologiji."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": ". Prepoznaje glagolske oblike u konjunktivu."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": ". Prepoznaje oblike nepravilnih glagola."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": ". Objašnjava upotrebu glagolskih vremena stanja i načina."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": ". Tvori složene gramatičke oblike i konstrukcije."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": ". Objašnjava upotrebu složenih gramatičkih oblika."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": ". Prevodi prilagođen tekst sa latinskog na maternji jezik."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": ". Smješta u prostor i vrijeme glavna obilježja civilizacije na prelasku antike u srednji vijek."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": ". Poznaje latinsku pisanu i ostalu materijalnu baštinu u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Uočava važnost građanskog društva i njegov doprinos zajednici."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": ". Prepoznaje utjecaj migracija na izgled Europe."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": ". Prepoznaje utjecaj Rimljana na barbarske narode."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": ". Shvata transformaciju latinskoga iz govornog u jezik kulture, religije i znanosti."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": ". Koristi učestale latinizme u maternjem jeziku."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": ". Prepoznaje složene latinizme u maternjem jeziku i raščlanjuje ih uz pomoć nastavnika."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": ". Uz pomoć nastavnika prepoznaje latinizme u stranim jezicima."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": ". Reproducira i raščlanjuje jednostavne izraze u stručnoj terminologiji."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": ". Uz pomoć nastavnika raščlanjuje složenije izraze u stručnoj terminologiji."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": ". Prevodi stručne izraze sa maternjeg na latinski jezik."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Porijeklo značaj i postanak latinskog jezika i Rimske države; Latinsko pismo i izgovor; Imenice I.-V. deklinacije; Pridjevi I.-III. deklinacije; Vremena prezentske osnove u indikativu – aktivni oblici i imperativ; Odgovarajuće rečenice",
+    "vježbanja",
+    "citati i izreke po izboru nastavnika"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      ":",
+      "1.1. Preporuke za realizaciju tema",
+      "Budući da se učenici susreću prvi put s latinskim jezikom preporučene teme polaze od osnovnog nivoa i tako se postepeno proširuju sadržaji, primjereni uzrastu, jezičkom razvoju i interesovanjima učenika.",
+      "1.2. Preporuke za realizaciju leksičkih i gramatičkih struktura",
+      "Prepručuje se da učenici kroz vježbe i vokabular usvoje osnovne leksičke i gramatičke strukture. To će postići tako što će se najprije krenuti od fonologije, zatim morfologije i preko riječi do samih rečenica i prijevoda teksta. Prilikom obrade i uvježbavanja leksičkih i gramatičkih sadržaja, treba kreirati pozitivnu klimu u učionici i ponuditi širok spektar aktivnosti koje će odgovarati različitim stilovima učenja učenika. Važno je postepeno proširivati broj riječi pri realizaciji datih tema. Gramatičke i leksičke strukture se biraju primjereno proširivanju vokabulara i složenosti rečenica i tekstova i u uskoj su vezi sa funkcijama i temama uz postepeno usvajanje i povremeno ponavljanje. Deklinacija imenskih vrsta riječi je ključna za razvoj leksičkih i gramatičkih struktura. Struktura svakog jezika pa tako i latinskom je osnova i nastavak. Tako polazeći od imenskih riječi možemo krenuti s primjenom pravila za osnovu i nastavak riječi. Isto tako vrijedi i za glagole gdje se uče lični nastavci kroz način tvorbe glagola. Nastavke kompliciranih glagolskih oblika učenici ne moraju učiti napamet, već mogu gledati u njih prilikom odgovaranja. Učenici koriste leksičke i jezičke strukture u pisanju na osnovu slušanog, pročitanog i pisanog sadržaja.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      ":",
+      "Horizontalno umrežavanje podrazumijeva sadržaje koji se povezuju sa predmetima: Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (imenice, pridjevi); Historija kroz kulturno-civilizacijske sadržaje se mogu ostvariti i na maternjem jeziku kroz referate, eseje, prezentacije i rasprave. Latinski jezik je neizostavni dio prirodnih nauka gdje  kroz stručni vokablar i terminologiju doprinosi svakom znanstvenom radu, eseju ili publikaciji. Preporučuje se da se kroz nastavu bogati fond riječi stručnih medicinskih termina kojima bi se osoba mogla služiti kroz studije ili za bolje razumijevanje dijagnoza i recepata. U pravnoj struci   latinski jezik se ostvaruje kroz vokabular i terminologiju i pregršt pravnih izraza i termina koji su bili dio antičkih i srednjovjekovnih sudova. Današnje europsko sudstvo ima korijene u rimskom pravu. Osim toga učenjem kulturno-civilizacijskog sadržaja omogućava se učenicima bolji uvid u društvo i socio-ekonomski status prošlih vremena i tako se mogu napraviti neke paralele s dašnjim načinima življenja, običaja i kulture.",
+      "3."
+    ],
+    "kompetencijski_pristup": []
+  }
+}

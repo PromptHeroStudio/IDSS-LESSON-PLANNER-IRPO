@@ -1,0 +1,769 @@
+PREDMET: Tehnička kultura i Osnove tehnike
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Tehni%C4%8Dka%20kultura%20i%20Osnove%20tehnike
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Tehnička kultura i Osnove tehnike
+Tehnička kultura i Osnove tehnike
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Osnovno
+5
+Godine učenja i podučavanja predmeta: 1
+A TEHNIČKA DOKUMENTACIJA I MODELIRANJE
+A.5.1
+A.5.2
+A.5.3
+A.5.4
+A.5.5
+B TEHNIČKO-TEHNOLOŠKO ZNANJE I STVARALAŠTVO
+B.5.1
+B.5.2
+B.5.3
+C TEHNIKA I ŽIVOTNA OKOLINA
+C.5.1
+C.5.2
+C.5.3
+
+A
+TEHNIČKA DOKUMENTACIJA I MODELIRANJE
+
+A.5.1
+Razlikuje tehniku i tehnologiju.
+A.5.2
+Izrađuje tehnički crtež koristeći osnovna pravila tehničkog crtanja, tehničko pismo i kotiranje.
+A.5.3
+Primjenjuje osnovna pravila kotiranja.
+TIT-2.1.1 TIT-1.3.1 TIT-1.3.2
+Objašnjava šta je tehnika i tehnologija.
+Objašnjava razvoj tehnike.
+Razlikuje zanimanja u tehnici.
+Opisuje pribor za tehničko crtanje.
+Objašnjava osnovna pravila tehničkog crtanja.
+Razlikuje vrste linija uz upotrebu pribora za tehničko crtanje.
+Razlikuje uspravno i koso tehničko pismo.
+Koristi tehnička slova u okviru tehničkih crteža.
+Objašnjava potrebu i osnovna pravila kotiranja.
+Primjenjuje različite vrste kotiranja.
+
+
+A.5.4
+Primjenjuje osnovna pravila mjerila ili razmjere na jednostavnim tehničkim crtežima.
+A.5.5
+Koristi osnovne oblike tehnologije izrade praktičnog rada.
+TIT-1.3.2 TIT-1.3.1
+Objašnjava šta je mjerilo ili razmjera i zbog čega je potrebno koristiti mjerilo ili razmjeru.
+Izrađuje jednostavne tehničke crteže u zadanom mjerilu.
+Pravi plan rada, radne operacije - tehnologija izrade.
+Koristi tehnologiju za izradu praktičnog rada.
+Objašnjava ulogu tehnologije pri izradi praktičnog rada.
+KLJUČNI SADRŽAJI
+Tehnika, tehnologija, tehničko crtanje, vrste linija, kotiranje, mjerilo, tehničko pismo, materijali, praktičan rad.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Prilikom realizacije tematske cjeline upotrijebiti princip sistematičnosti i postupnosti. U okviru svake tematske cjeline, postupno i korak po korak, obraditi određenu nastavnu građu. Svaki od tih koraka treba da znači liniju kretanja prema sve složenijem, težem i daljem u otkrivanju manje poznatog ili potpuno nepoznatog. U smislu shvatljivosti materije koja se izučava, kao primjer primjene ovog principa, mogu se realizovati osnovna pravila kotiranja na jednostavnim tehničkim crtežima, osnovna pravila mjerila ili razmjere na jednostavnim tehničkim crtežima, a potom na složenijim.
+U cilju što kvalitetnije i afirmativnije prezentacije gradiva nastavnik treba primijeniti različite metode rada: usmeno izlaganje, razgovor, demonstracija, samostalne vježbe, kombinacija frontalnog i individualnog oblika rada te po potrebi individualno prilagođenog. U cilju osavremenjavanja nastavnog procesa nastavnik uključuje i upotrebu multimedijalnih sadržaja iz oblasti tehničkog crtanja.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti - međupredmetne korelacije
+Zavisno od interesa učenika i predviđenih nastavnih sadržaja predlaže se korelacija nastavnih sadržaja iz matematike. Nastava matematike razvija kod učenika: osjećaj za preciznost, urednost i sistematičnost, a sve je to potrebno za što uspješniju realizaciju nastave Osnova tehnike. Također je neophodno uspostaviti povezanost  nastavnih sadržaja iz  nastavnog predmeta Informatika, jer se nastavni sadržaji u okviru ovog predmeta realizuju i u ranije navedenim oblastima u sklopu predmeta Osnove tehnike. Učenici uz pribor za crtanje se koriste informacijskom i komunikacijskom tehnologijom.
+3. Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+Nakon realizacije navedene nastavne cjeline i ostvarenosti ishoda učenici bi trebali steći sljedeće kompetencije:
+●       tehničkim, estetskim i etičkim vrednovanjem i samovrednovanjem razvijaju samokritičnost i kritičko mišljenje prema radu i rezultatima rada,
+●       razvoj tehničke pismenosti, usvajanje međunarodnih normi u tehničkom crtanju.
+B
+TEHNIČKO-TEHNOLOŠKO ZNANJE I STVARALAŠTVO
+
+B.5.1
+Izrađuje predmete od različitih vrsta materijala vodeći računa o osobinama tog materijala.
+B.5.2
+Izrađuje predmete od upotrebne vrijednosti koristeći alate i mašine, vodeći računa o mjerama zaštite na radu.
+B.5.3
+Koristi programe za crtanje jednostavnih oblika i tehničkih crteža.
+TIT-1.1.2 TIT-1.2.1 TIT-2.2.3
+Opisuje način dobijanja određenih materijala.
+Objašnjava osobine materijala i njihovu primjenu.
+Objašnjava način prerade materijala.
+Dovodi u vezu primjenu materijala zavisno od svojstva.
+Klasificira alate prema namjeni.
+Koristi alate i mašine za obradu različitih materijala.
+Primjenjuje osnovne operacije obrade materijala.
+Organizuje radno mjesto primjenjujući mjere zaštite na radu.
+Prepoznaje prednosti crtanja na računaru.
+Koristi osnovne funkcije alata u programima (aplikacijama) za crtanje tehničkih crteža.
+Bira odgovarajući softver za određeni zadatak i unosi ili obrađuje zadane podatke.
+Izrađuje tehnički crtež po uputama i potrebama za izradu praktičnog rada.
+KLJUČNI SADRŽAJI
+Materijali (papir, karton, ljepenka, koža, platno, plastične folije), osnovne osobine materijala, pribor i alat za obradu materijala, postupci obrade, radne operacije, aplikacije za crtanje.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Nastavnik bi trebao, što je više moguće, uključiti praktičan rad u nastavu, omogućiti učenicima samostalno rukovanje i korištenje raznim alatima za obradu različitih materijala uz pridržavanje mjera zaštite na radu. Također bi trebao učeniku omogućiti kreativno izražavanje, te učenje kroz različite aktivnosti, npr. izrada predmeta od kože, kartona (izrada modela geometrijskih tijela, izrada modela slagalice, izrada novčanika, izrada zaštitne maske, izrada kreativne čestitke).
+Prilikom izlaganja nastavnog gradiva treba objasniti osnovne materijale, kao i upotrebu alata i pribora za rad s ovim materijalima. U cilju što kvalitetnije prezentacije gradiva treba koristi različite metode. Nastavnik postavlja različite vrste jednostavnih pitanja i potiče učenike na kvalitetne odgovore. Upotrebljava multimediju, a posebno multimedijalnih sadržaja iz oblasti materijala i njihove industrijske prerade, reciklaže i sl. Demonstrira radne operacije alatom koji je namijenjen za dalju obradu u cilju dobijanja finalnih proizvoda.
+Realizaciju vježbi iz tehničkog crtanja i savladavanje radnih operacija i rukovanje alatom u obradi papira, kartona, ljepenke, kože, platna i plastične folije nastavnik može realizovati adekvatnim izborom jednostavnog predmeta koji će se praviti u kreativnim radionicama. Priprema takvog rada podrazumijeva izbor jednostavnih slagalica koje su sastavljene od geometrijskih likova (trokut, kvadrat, krug, pravougaonik, romb) ili izradu geometrijskih tijela. Nastavnik uputama i pomaganjem pri realizaciji praktičnog rada uvodi učenike u srž primjene usvojenih znanja, demonstrira radne postupke uz stalno potenciranje realizacije učeničkih aktivnosti (samostalnost učenika u radu).
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Potrebno je uspostaviti korelaciju s nastavnim predmetima Informatika (izrada tehničkog crteža na računaru), Kultura življenja i Likovna kultura.   
+ 3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Učenici razvijaju tehnička i informatička znanja i vještine, koje su važne za razumijevanje i kritički način razmišljanja u kontekstu tehnike, tehnologije i informatike.
+Razvijaju osjećaj stvaranja, usvajanja vrijednosti rada i proizvodnje, stiču samopouzdanje i inovativnost prilikom dizajniranja ili modificiranja tehničke tvorevine.
+Razvoj digitalne pismenosti.
+C
+TEHNIKA I ŽIVOTNA OKOLINA
+
+C.5.1
+Procjenjuje važnost tehnike i tehnologije u zaštiti životne sredine.
+C.5.2
+Analizira mogućnosti poduzimanja različitih mjera u zaštiti životne sredine.
+C.5.3
+Opisuje značaj bicikla kao prijevoznog sredstva.
+TIT-3.1.4 TIT-2.4.1 TIT-1.5.2
+Opisuje značaj tehnike i tehnologije u zaštiti životne sredine.
+Objašnjava uticaj tehničkog i tehnološkog razvoja na okoliš i zdravlje ljudi.
+Nabraja vrste otpada i objašnjava načine odlaganja otpada (reciklažna dvorišta, deponije).
+Objašnjava razliku između reciklaže, ponovne upotrebe i smanjenja količine proizvedenog otpada.
+Objašnjava važnost upravljanja otpadom u cilju očuvanja životne sredine.
+Prepoznaje dijelove i opremu bicikla.
+Objašnjava ulogu dijelova i opreme na biciklu.
+Poštuje saobraćajne znakove koji se odnose na bicikliste.
+KLJUČNI SADRŽAJI
+Saobraćaj, saobraćajna pravila i propisi koji se odnose na bicikliste, saobraćajni znakovi koji se odnose na bicikliste, bicikl kao prevozno sredstvo, tehnika, školski poligon za bicikliste, tehnologija, životna sredina, otpad, vrste otpada, upravljanje otpadom, reciklaža.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Kroz ostvarivanje ovih ishoda kod učenika se razvija svijest o najčešćim izvorima zagađenja životne okoline, značaju prikupljanja i reciklaže otpada kao i značaju korištenja tehničkih sredstva ai uređaja u svrhu zaštite životne okoline. Učenike izvesti na školski saobraćajni poligon i vježbati vještine savladavanja prepreka i znakove - neka se učenici mijenjaju uloge ŠSP i onog ko se testira, jer će na taj način puno više zapamtiti nego samo sa slika. Koristiti simulaciju „stvarne“ saobraćajne situacije u kojima će učenici:
+prepoznati saobraćajnu infrastrukturu za bicikliste (biciklistička staza)
+opisati saobraćajne znakove koji se odnose na bicikliste
+opisati biciklistu kao učesnika u saobraćaju
+Prilikom realizacije tematske cjeline vezane za osnovne principe uticaja tehnike i tehnologije u zaštiti životne okoline: reciklaža, prerada starog papira, organizacija skladištenja papirnog otpada potrebno je korištenje različitih metoda u cilju što kvalitetnije i afirmativnije realizacije gradiva. U cilju osavremenjavanja nastavnog procesa nastavnik uključuje i upotrebu multi medijalnog projektora, izradu obrazovnog panoa, a posebno multimedijalnih sadržaja iz oblasti osobina materijala, predmeta i uređaja tehničkim mjerama zaštite životne okoline. Poseban obrazovni osvrt dati na tehničke mjere zaštite životne okoline i uticaj fabrika za preradu papira na životnu okolinu, uticaj sječe šume na eroziju tla, industrijsku preradu, reciklaži i sl). Važno je učenicima ukazati na prednosti alternativnih izvora energije, predstaviti pojmove reciklaže i reutalizacije, te održivog razvoja, ali i racionalno korištenje postojećih resursa i pravilno odlaganje otpada.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Zavisno o interesu učenika i predviđenih nastavnih sadržaja predlaže se korelacija nastavnih sadržaja nastavnih predmeta Informatika, Društvo, Likovna Kultura i Kultura življenja, Matematika.
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Učenici u praksi primjenjuju usvojena osnovna znanja o tehničkim mjerama zaštite životne okoline (reciklaža, organizacija i upravljanje deponijama papira i papirnih proizvoda) i o novim proizvodima napravljenih od otpadnih papirnih materijala. Na taj način razvijaju socijalno-građansku kompetenciju, kao i kulturu življenja.
+Razumiju značaj bicikla u javnom saobraćaju, savladavaju vožnju bicikla na adekvatno ocrtanom poligonu (prepreke, zaustavljanje, mimoilaženje, startanje i sl.).
+Osnovno
+6
+Godine učenja i podučavanja predmeta: 2
+A TEHNIČKA DOKUMENTACIJA I MODELIRANJE
+A.6.1
+A.6.2
+A.6.3
+B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO
+B.6.1
+B.6.2
+B.6.3
+B.6.4
+B.6.5
+C TEHNIKA I ŽIVOTNA OKOLINA
+C.6.1
+C.6.2
+C.6.3
+C.6.4
+A
+TEHNIČKA DOKUMENTACIJA I MODELIRANJE
+
+A.6.1
+Izrađuje građevinski tehnički crtež i priprema tehničku dokumentaciju.
+A.6.2
+Kreira građevinski tehnički crtež koristeći pravila tehničkog crtanja, kotiranja i mjerila ili razmjere.
+A.6.3
+Koristi softverske pakete za izradu jednostavnih tehničkih crteža.
+TIT-1.3.1 TIT-1.3.1 TIT-1.3.2
+Prepoznaje osnovne elemente tehničke dokumentacije.
+Preslikava gotov građevinski tehnički crtež.
+Crta tehnički crtež koji je baziran na postavljenom zadatku.
+Objašnjava vrstu i potrebe kotiranja građevinskog tehničkog crteža.
+Primjenjuje postupak crtanja glavne kotne linije, pomoćne kotne linije i kotnog broja.
+Izrađuje tehnički crtež za modele iz oblasti visokogradnje koristeći simbole u građevinarstvu.
+Izrađuje crteže u ortogonalnoj projekciji.
+Izrađuje građevinske tehničke crteže u zadanom mjerilu.
+Opisuje karakteristike softverskih paketa za izradu tehničkih crteža.
+Crta jednostavne predmete uz upotrebu softvera za crtanje.
+Prezentuje način izrade svog crteža na osnovu datih kriterija.
+KLJUČNI SADRŽAJI
+Građevinska tehnika, tehnički crtež, mjerilo, kotiranje, ortogonalne projekcije, građevinski simboli, softverski paketi za crtanje na računaru (npr. Paint, SketchUp).
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Prilikom realizacije tematske cjeline upotrijebiti princip sistematičnosti i postupnosti. U okviru svake tematske cjeline, postupno i korak po korak, obraditi određenu nastavnu građu. U smislu shvatljivosti materije koja se podučava, kao primjer primjene ovog principa, mogu se realizovati osnovna pravila kotiranja građevinskog tehničkog crteža na jednostavnim građevinskim tehničkim crtežima. Usmjeriti učenike da samostalno primjenjuju izradu građevinskog tehničkog crteža za jednostavne građevinske projekte, a zatim na složenije, itd.
+U cilju što kvalitetnije i afirmativnije prezentacije gradiva nastavnik treba primijeniti različite metode rada. U cilju osavremenjavanja nastavnog procesa nastavnik uključuje i upotrebu multimedijalnih sadržaja iz oblasti tehničkog crtanja.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Zavisno od interesa učenika i predviđenih nastavnih sadržaja postoji korelacija nastavnog predmeta  Matematika (geometrija). Također, neophodno je vršiti korelaciju nastavnog predmeta Informatika.
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Učenici bi trebali prilikom praktičnog rada:
+primijeniti stečeno znanje o građevinskom tehničkom crtežu i pripremi tehničke dokumentacije,
+razviti stvaralačke aktivnosti i primijeniti nova tehnološka dostignuća u svakodnevnom životu,
+razviti preciznost i tačnost
+koristiti uputstava za izradu tehničkog crteža,
+kreirati crtež na osnovnu zadatog razmjera/omjera.
+B
+TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO
+
+B.6.1
+Interpretira ulogu savremene tehnologije u društvu.
+B.6.2
+Utvrđuje karakteristike materijala i klasificira materijale prema namjeni.
+B.6.3
+Kreira vlastite proizvode kroz praktičnu primjenu alata i pribora.
+TIT-1.1.1 TIT-1.2.1 TIT-1.1.1
+Razlikuje tradicionalne i savremene tehnologije.
+Opisuje kako savremeni tehnički alati i uređaji služe ljudima u svakodnevnom životu.
+Objašnjava primjenu savremenih tehnologija.
+Prepoznaje važnost uključivanja IT u tehničko-tehnološki razvoj.
+Objašnjava razlike između materijala na temelju njihovih tehničkih karakteristika
+Opisuje tehničke karakteristike materijala.
+Objašnjava upotrebu materijala u izgradnji.
+Daje primjere načina proizvodnje i prerade materijala.
+Obrađuje materijal primjenom alata i mašina.
+ Opisuje svrhu radnih operacija prilikom obrade različitih materijala.
+ Izrađuje proizvod primjenjujući radne operacije.
+
+
+B.6.4
+Razlikuje alate i mašine koje se koriste u građevinarstvu u različitim fazama izgradnje građevinskih objekata.
+B.6.5
+Izrađuje maketu ili model građevinskih objekata i savremenog naselja prema tehničkoj dokumentaciji ili prema vlastitoj ideji vodeći računa o mjerama zaštite na radu.
+TIT-1.2.1 TIT-1.4.2
+Objašnjava upotrebu alata i mašina u građevinarstvu.
+Daje primjere upotrebe alata i mašina prilikom izgradnje građevinskog objekta.
+Prepoznaje faze izgradnje građevinskih objekata.
+Izrađuje crtež zamišljene makete ili modela.
+Izrađuje maketu ili model prema datom zahtjevu.
+Pridržava se mjera higijensko-tehničke zaštite tokom rada.
+KLJUČNI SADRŽAJI
+Savremena i tradicionalna tehnologija, Faze izgradnje, građevinski materijali (konstrukcioni, vezivni, instalacioni, izolacioni i novi), građevinski alati, mašine, model, maketa, higijensko-tehnička zaštita, drvo, PVC, žica.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Ova tematska cjelina se realizuje kroz praktičan rad koji omogućuje učenicima samostalno rukovanje i korištenje raznim alatima za obradu različitih materijala. Na taj način učenik se kreativno izražavanje, uči kroz različite aktivnosti, samostalno ili u grupi izrađuje makete i modele po želji ili u dogovoru s nastavnikom.
+Pri realizaciji ishoda učenja potrebno je učenike upoznati sa građevinskim materijalima, njihovim vrstama i namjenom kao i načinom obrade materijala. Objasniti promjene u načinu planiranja i gradnje objekata, navesti vrste građevinskih materijala koji su se koristili ranije i koji se koriste danas. Isto tako, veoma je važno naglasiti značaj novih građevinskih materijala koji skraćuju vrijeme izgradnje i poboljšavaju kvalitet i osobine izgrađenog građevinskog objekta.
+U cilju što kvalitetnijeg postizanja ishoda treba koristi različite metode. Nastavnik postavlja različite vrste jednostavnih pitanja i potiče učenike na kvalitetne odgovore. Uključuje i upotrebu multimedije, izradu obrazovnog panoa, a posebno multimedijalnih sadržaja iz oblasti materijala i njihove industrijske prerade, Demonstrira radne operacije s alatom koji je namijenjen za dalju obradu u cilju dobijanja finalnih proizvoda.
+2.Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Zavisno o interesu učenika i predviđenih nastavnih sadržaja moguće je ostvariti saradnju s nastavnim predmetom Likovna kultura.
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Nakon realizacije navedenih nastavnih sadržaja i ostvarenosti ishoda učenici bi trebali steći sljedeće kompetencije:
+razvijanje samopouzdanja,
+sticanje inovativnosti, kreativnosti i razvijanje individualnih sposobnosti,
+razvijanje navika za zajednički rad i zajednički uspjeh.
+C
+TEHNIKA I ŽIVOTNA OKOLINA
+
+C.6.1
+Utvrđuje pojmove u arhitekturi i građevinarstvu i različite stilove arhitekture.
+C.6.2
+Izrađuje projekat savremenog naselja.
+C.6.3
+Procjenjuje uticaj tehničkog i tehnološkog razvoja na okoliš i zdravlje ljudi i nudi praktično rješenje zaštite okoline u datoj situaciji.
+TIT-3.1.2 TIT-1.2.2 TIT-1.5.2
+Razlikuje stručne pojmove u arhitekturi i građevinarstvu.
+Prepoznaje različite stilove arhitekture.
+Objašnjava historijski razvoj arhitekture u svijetu i na tlu Bosne i Hercegovine.
+Daje primjere planiranja i uređenja  gradskih zona kroz vježbe i praktičnu nastavu.
+Izrađuje maketu savremenog naselja prema datom zahtjevu.
+Prezentira projekt savremenog naselja prema datim uputama, na temelju odabranih građevinskih i arhitektonskih elemenata.
+Objašnjava uticaj razvoja savremenog društva na okoliš i zdravlje ljudi.
+Razlikuje vrste otpada prema svojstvu i mjestu nastanka.
+Prepoznaje važnost reciklaže građevinskog otpada.
+Opisuje upotrebu uređaja i sredstava za gašenje požara.
+Izrađuje uređaje za sprječavanje zagađenja okoline.
+
+C.6.4
+Razlikuje graditeljsku i kulturnu baštinu u Bosni i Hercegovini.
+TIT-2.4.2
+Opisuje stare zanate.
+Upoređuje građevinske i kulturne baštine u Bosni i Hercegovini.
+KLJUČNI SADRŽAJI
+Urbanizam, rurizam, urbanistički i regulacioni planovi, arhitektura, građevinarstvo, graditeljska i kulturna baština Bosne i Hercegovine, životna sredina, visokogradnja, niskogradnja, hidrogradnja, stambena zgrada, okoliš, reciklaža, otpad.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Prilikom realizacije tematske cjeline vezane za osnovne principe uticaja tehnike i tehnologije u zaštiti životne okoline: reciklaža, prerada starog papira, organizacija skladištenja papirnog otpada potrebno je korištenje različitih metoda u cilju što kvalitetnije i afirmativnije realizacije gradiva. U cilju osavremenjavanja nastavnog procesa nastavnik uključuje i upotrebu multimedijalnog projektora, izradu obrazovnog panoa, a posebno multimedijalnih sadržaja iz oblasti osobina materijala, predmeta i uređaja tehničkim mjerama zaštite životne okoline. Poseban obrazovni osvrt dati na tehničke mjere zaštite životne okoline i uticaj fabrika za preradu papira na životnu okolinu, uticaj sječe šume na eroziju tla, industrijsku preradu, reciklaži i sl).
+Poželjne su posjete Zemaljskom muzeju, Muzeju grada Sarajeva, Baščaršiji, zanatlijama koji njeguju stare zanate, itd. Također, bilo bi poželjno organizovati igru „Potraga za blagom“, na način da se izabere nekoliko važnih kulturno-historijskih i vjerskih objekata (Katedrala, Saborna crkva, Gazi Husrev-begova džamija, Jevrejska sinagoga, Vijećnica, Sebilj i sl), učenicima se daju kratke upute na osnovu kojih mogu pronaći navedene objekte i nakon uspješnog pronalaska, obilaska i prikupljenih informacija, učenicima dati simbolične nagrade).
+Važno je učenicima ukazati na prednosti alternativnih izvora energije, predstaviti pojmove reciklaže i reutalizacije, te održivog razvoja, ali i racionalno korištenje postojećih resursa i pravilno odlaganje otpada.
+ 2. Mogućnosti ostvarivanjameđupredmetne povezanosti – međupredmetne korelacije
+Zavisno od interesa učenika i predviđenih nastavnih sadržaja predlaže se korelacija iz nastavnih predmeta Kultura življenja, Informatika, Historija, Geografija.
+ 3. Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+Nakon realizacije navedenih nastavnih sadržaja i ostvarenosti ishoda učenici bi trebali steći sljedeće kompetencije:
+razvijanje jezičko-komunikacijskih kompetencija putem sposobnosti pretraživanja, prikupljanje i procesuiranje informacija, podataka i pojmova da bi ih se moglo koristiti u projektnim zadacima,
+razvijanje građanske kompetencije putem razvijanja svijesti i razumijevanja nacionalnog kulturnog identiteta, sposobnosti da se uoče i shvate različita stajališta kao dio bogatstva bosanskohercegovačkog društva,
+razvijanje svijesti o pripadnosti lokalnoj zajednici.
+Osnovno
+7
+Godine učenja i podučavanja predmeta: 3
+A TEHNIČKA DOKUMENTACIJA I MODELIRANJE
+A.7.1
+A.7.2
+A.7.3
+A.7.4
+A.7.5
+B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO
+B.7.1
+B.7.2
+B.7.3
+B.7.4
+B.7.5
+B.7.6
+C TEHNIKA I ŽIVOTNA OKOLINA
+C.7.1
+C.7.2
+C.7.3
+C.7.4
+A
+TEHNIČKA DOKUMENTACIJA I MODELIRANJE
+
+A.7.1
+Izrađuje mašinski tehnički crtež i priprema tehničku dokumentaciju.
+A.7.2
+Koristi kotiranje mašinskog crteža.
+A.7.3
+Interpretira i crta različite vrste tehničkih crteža.
+TIT-1.3.1 TIT-1.3.2 TIT-1.3.2
+Prepoznaje osnovne elemente tehničke dokumentacije.
+Opisuje tehničku dokumentaciju.
+Preslikava gotov mašinski tehnički crtež.
+Crta tehnički crtež koji je baziran na postavljenom zadatku.
+Razlikuje mašinski od građevinskog tehničkog crteža.
+Kotira predmete različitih oblika primjenjujući različite vrste kotiranja.
+Objašnjava zašto je kotiranje potrebno na tehničkom crtežu.
+Crta ortogonalnu projekciju predmeta.
+Crta i/ili skicira predmet u aksonometrijskoj projekciji.
+Crta ortogonalnu projekciju i obrnuto na osnovu aksonometrijske projekcije crteža nekog predmeta.
+
+
+A.7.4
+Koristi mjerilo za crtanje tehničkog crteža.
+A.7.5
+Procjenjuje vrijednost proizvoda.
+TIT-1.3.1 TIT-1.3.3
+Crta predmet u zadanom mjerilu.
+Bira mjerilo za predmet koji želi da prikaže.
+Vrednuje svoj rad s estetskog i ekonomskog aspekta.
+Koristi povratne informacije dobijene vrednovanjem ili samovrednovanjem, radi unapređivanja sopstvenog proizvoda.
+KLJUČNI SADRŽAJI
+Mašinsko tehničko crtanje, kotiranje, mjerilo, ortogonalne projekcije, aksonometrijske projekcije.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Prilikom podučavanja i učenja učenike upoznati s osnovnim standardima tehničkog crtanja u mašinstvu, kao i osposobiti ih da primjenjuju osnovna pravila i standarde mašinskog tehničkog crtanja. Primijeniti princip postupnosti, korak po korak, pri obradi određenog nastavnog gradiva. Svaki od tih koraka znači usmjerenost prema složenijem, težem i daljem u otkrivanju manje poznatog ili potpuno nepoznatog. Kao primjer primjene ovog principa može se posmatrati kotiranje predmeta  pravilnog oblika, potom kotiranje predmeta nepravilnog oblika, i na kraju redno, paralelno, simetrično i kombinovano kotiranje u skladu sa zadatim predmetom kotiranja, ortogonalna (pravougaona) projekcija u ravni (2D) i prostoru (3D).
+Potrebno je uspostaviti takvu organizaciju i ostvarivanje nastavnog procesa kojim se obezbjeđuje da učenici stiču znanja povezana u logičan sistem naučnih činjenica, pojmova, zaključaka i zakona. Učenik u odgojno-obrazovnom procesu saznaje mnogo činjenica i podataka. Ako ti sadržaji nisu logički poredani, oni se teško pamte i usvajaju, a ako se i zapamte, teško se mogu koristiti i primijenjivati.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+U zavisnosti od realizacije nastavnih cjelina predlaže se korelacija s nastavnim cjelinama iz Matematike koje se realizuju i u nastavi tehničke kulture. Također je potrebno povezivati nastavne cjeline iz Informatike koje se realizuju u nastavi tehničke kulture.
+3. Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+Tehničko crtanje se koristi u svim vidovima tehnike i njegovo dobro poznavanje umnogome olakšava upoznavanje mašina, mehanizama, sklopova, itd.
+Nakon realizacije navedene nastavne cjeline i ostvarenosti ishoda učenja učenici bi trebali steći sljedeće kompetencije:
+vještine „čitanja“ i izrade tehničkih crteža i tehničke dokumentacije,
+samokritičnosti i kritičkog mišljenja prema radu i rezultatima rada na osnovu tehničkog, estetskog i etičkog vrednovanja i samovrednovanja,
+stvaralačke aktivnosti i primjenu novih tehnoloških dostignuća u svakodnevnom životu,
+preciznost i tačnost,
+sposobnost korištenja uputstava za određeni zadatak.
+B
+TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO
+
+B.7.1
+Analizira materijale po svojstvima i namjeni.
+B.7.2
+Organizuje radno mjesto primjenjujući mjere zaštite na radu.
+B.7.3
+Planira radne operacije za izradu praktičnog rada.
+TIT-1.1.1 TIT-1.4.1 TIT-1.4.2
+Opisuje osobine materijala u mašinstvu.
+Objašnjava postupak proizvodnje materijala.
+Bira materijal koji svojim svojstvima najbolje odgovara zadanom ili odabranom praktičnom radu.
+Objašnjava zašto je organizacija radnog mjesta važna.
+Postavlja tehnički crtež, pribor i materijal na radno mjesto u skladu s pravilima organizacije radnog mjesta i zaštite na radu.
+Opisuje radne operacije pri obradi metala.
+Prilagođava redoslijed i odabir radnih operacija pri obradi metala za izradu praktičnog rada.
+Bira odgovarajući alat za izradu praktičnog rada na osnovu planiranih radnih operacija.
+PREPORUKE ZA OSTVARENJE ISHODA
+  
+
+
+B.7.4
+Koristi se priborom, alatima i mašinama u proizvodnji i svakodnevnom životu.
+B.7.5
+Primjenjuje postupke obrade metala.
+B.7.6
+Analizira osnove robotike.
+TIT-1.4.3 TIT-1.2.2 TIT-1.2.2
+Objašnjava principe rada alata i mašina.
+Rukuje alatima i mašinama.
+Služi se priborom za mjerenje, crtanje i obilježavanje.
+Koristi analogne i digitalne mjerne instrumente.
+Primjenjuje mjere higijensko - tehničke zaštite.
+Opisuje osnovne elemente mašina.
+Razvrstava elemente mašina u grupe na primjerima.
+Koristi elemente mašina u praktičnom radu.
+Razlikuje robote prema vrsti i namjeni.
+Objašnjava osnovne elemente robotskog sklopa i njihovu ulogu.
+Razlikuje vrste kretanja kod robota.
+Objašnjava razlike između vrsta robota, bazirane na pogonu koji koriste.
+Primjenjuje elemente robotike za rješavanje zadataka u skladu s uzrastom.
+KLJUČNI SADRŽAJI
+Mašinski materijali, elementi mašina, alati i mašine za obradu metala, razdvojiva veza, nerazdvojiva veza, robotika, mjere zaštite, analogni i digitalni mjerni instrumenti, robotika i mikrokontrolori.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Ukoliko je moguće potrebno je svim učenicima omogućiti rad alatima i mašinama za obradu metala. Praktične radove prilagoditi uslovima u kabinetu tehničke kulture. Učenje o alatima kroz izradu praktičnih radova, ma koliko jednostavni bili, daje mnogo bolje i trajnije rezultate.
+Ishod učenja organizuje radno mjesto primjenjujući mjere zaštite na radu treba realizovati kao prožimajući ishod učenja u okviru praktičnog rada.
+Univerzalni kabinet treba da bude opremljen namještajem, alatom i potrebnim mašinama. Svakom učeniku je potrebno obezbijediti jedno radno mjesto na kojem obavlja planirane aktivnosti. Za rad na mašinama i obavljanje nekih specifičnih radnji potrebno je formirati nekoliko zajedničkih radnih mjesta za sve učenike.
+Prilikom demonstracije rada na mašinama i uređajima učenike treba upozoriti na:
+-      pravilno rukovanje,
+-      redoslijed postupaka obrade,
+-      pridržavanje propisa zaštite na radu i
+-      održavanje i čišćenje mašine.
+U radu se mogu demonstrirati pokreti ruku pri radu, radne operacije, itd. Obično se demonstracija vrši s grupom od 4 do 6 učenika. Pri demonstraciji rada na mašinama, učenici treba da se nalaze na istoj strani gdje se nalazi i nastavnik, kako bi pravilno shvatili pokrete i radne operacije. Nastavnik koji demonstrira rad na mašini mora imati dovoljno prostora za nesmetano rukovanje mašinom. Pokrete treba izvoditi tako da ih učenici vide. Demonstraciju pokreta treba da prate i objašnjenja. Nakon toga učenici i sami izvode rad na mašini, pri čemu ih u tome nastavnik prati, kontroliše, usmjerava i po potrebi daje dopunska objašnjenja.
+Prije radioničkih vježbi i praktičnog rada treba vršiti demonstraciju rukovanja priborom i alatom za obradu materijala. Prije demonstracije pribora i alata te tehničke obrade materijala treba u razgovoru s učenicima postaviti problem. Zatim se utvrđuje način kako će se obraditi određeni materijal, npr. način obrade drveta i kakav je alat i pribor potreban za takvu obradu. Učenicima se treba demonstrirati rad s uglomjerom, mjerenje pomoću stolarskog metra, korištenje šestara, a od alata treba demonstrirati rezbarski luk, ulaganje rezbarske pilice u luk, rezbarski stolić sa stegom, turpiju za drvo, čekić, stolarska kliješta. Od pribora i alata za obradu metala, učenicima treba demonstrirati rukovanje ugaonikom za metal, metalnim ravnalom, makazama za lim i različitim turpijama za metal.
+Posebno je važno da nastavnik pokaže pravilnu primjenu pribora za tehničko crtanje, sigurnu upotrebu pribora i alata koji učenici upotrebljavaju, a obradu materijala alatnim uređajem obavezno nadzire u neposrednoj blizini.
+Vježbe se primjereno biraju, od jednostavnih do složenih. Također je važno da na kraju rada nastavnik u razgovoru s učenicima razmijeni utiske o nivou zadovoljstva izrađenim radovima, upotrebi alata, poteškoćama koje su svladavali te o inovativnim rješenjima.
+U kabinetu za tehničku kulturu upotrebom alata i mašina učenici mogu prouzrokovati razne povrede, jer u potpunosti ne shvataju koje opasnosti mogu nastati nepravilnim rukovanjem mašinama i uređajima. Zbog toga ih treba uvijek upozoravati na opasnosti koje mogu nastati u radu i mjere koje treba preduzeti u cilju otklanjanja opasnosti.
+Zaštita učenika pri radu zahtijeva posebnu pažnju i brigu nastavnika tehničke kulture. Radi toga nastavnik mora posebnu pažnju posvetiti organizaciji rada u kabinetu za tehničku kulturu. Posebnu pažnju treba usmjeriti na navikavanje učenika da koriste sredstva zaštite pri radu. To također treba da radi i nastavnik, tako da odgojno djeluje na učenike.
+Značajnu ulogu pri zaštiti na radu ima pravilan raspored mašina i opreme u kabinetu za tehničku kulturu. Mašine treba da budu smještene po strani, dalje od glavnih prolaza za učenike.
+Za sigurnu i pravilnu upotrebu različitog pribora i alata potrebno je u potpunosti učenike upoznati s pravilima sigurnog rada.
+Učenicima treba povremeno držati predavanja uz korištenje slika, filmova i drugih prezentacija, vezana za zaštitu na radu.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Zavisno od interesa učenika i predviđenih nastavnih sadržaja predlaže se korelacija nastavnih sadržaja iz nastavnog predmeta Fizika. Znanja stečena pri izvođenju eksperimenata mogu se primijeniti i u nastavi Tehničke kulture. Prilikom izvođenju eksperimenata, kod učenika se razvija:
+osjećaj za rukovanje i oprez pri radu,
+održavanje i
+čuvanje aparata, pribora i materijala.
+U kabinetu za tehničku kulturu pri obradi metala i legura na bušilici, strugu i drugim mašinama, nastavnik treba da pokaže učenicima kako se obrađuju i koje kvalitete imaju metali i legure.
+U robotici se primijenjuju zakoni dinamike kada je u pitanju mehanička struktura uređaja - robota, prijenos kretanja robota, pogon robota i u korelaciji s nastavnim predmetom Informatika.
+3. Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+Povezivanje fizičkih i intelektualnih aktivnosti  vodi ka samopouzdanju i samokritičnosti. Učenik stiče brzinu, preciznost i sigurnost.
+Učenici usvajaju racionalno korištenje energije, upoznaju i istražuju mogućnosti upotrebe materijala. Iskustvom vlastitog dizajniranja i praktičnog rada upoznaju doživljaj zadovoljstva stvaranja, usvajaju vrijednosti rada i važnost proizvodnje, stiču samopouzdanje, kritičnost i samokritičnost, razvijaju preduzetnički način razmišljanja i djelovanja.
+Pravilan odnos učenika prema radu i dobri uslovi rada u kabinetu za tehničku kulturu doprinosi osvještavanju učenika o važnosti njihovog zdravlja i brige o društvenoj imovini.
+C
+TEHNIKA I ŽIVOTNA OKOLINA
+
+C.7.1
+Donosi odluke o izboru materijala za svoj rad na osnovu osobina datih materijala.
+C.7.2
+Kritički razmatra uticaj saobraćaja na tehnički i društveni napredak.
+C.7.3
+Analizira osnove motoristike.
+TIT-1.1.2 TIT-1.4.3 TIT-1.4.2 TIT-1.5.1
+Istražuje osobine različitih materijala.
+Vodi računa o ekološkoj prihvatljivosti materijala kada bira materijal za rad.
+Obrazlaže način upotrebe goriva i maziva u kontekstu zaštite životne okoline.
+Iznosi ideje za smanjenje emisije izduvnih gasova iz automobila.
+Analizira prednosti i nedostatke povećane upotrebe električnih vozila.
+Opisuje historijski razvoj pogonske mašine.
+Prepoznaje osnovne dijelove motora SUS.
+Objašnjava rad četverotaktnih motora i dvotaktnih motora.
+PREPORUKE ZA OSTVARENJE ISHODA
+  
+C.7.4
+Analizira mogućnosti zaštite životne sredine i kreira odgovarajuća praktična rješenja.
+TIT-1.4.2
+Prepoznaje prirodne resurse i njihovu ograničenost.
+Objašnjava opasnosti koje prijete onečišćenjem okoline izazvane društvenom nebrigom.
+Izražava ekološku osvještenost u svakodnevnom životu.
+Izrađuje uređaje za jednostavno pročišćavanje vode ili uređaj za mjerenje zagađenosti zraka.
+KLJUČNI SADRŽAJI
+Materijali, goriva i maziva, zaštita životne okoline, pogonska mašina, SUS motori, četverotaktni motor, dvotaktni motor, otpad, emisije izduvnih gasova.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Prilikom realizacije ove tematske cjeline potrebno je primijeniti princip očiglednosti koji je u tijesnoj vezi s nastavnom građom koja se obrađuje i uzrastom učenika. Što je uzrast učenika niži, time je veća potreba za očiglednošću u nastavi. Tipičan primjer posredne očiglednosti se ogleda prilikom rada četverotaktnog SUS motora (I takt – usisavanje, II takt - sabijanje, zapaljenje i sagorijevanje, III takt - širenje (ekspanzija) i IV takt – izduvavanje). Zavisno od problema koji se proučava najbolje je kombinovati neposrednu i posrednu vrstu očiglednosti.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Zavisno od aktivnosti koje su usmjerene na predviđene nastavne sadržaje predlaže se korelacija nastavnih sadržaja iz nastavnih predmeta Biologija i Fizika. U zaštiti okoline tj. tehnikama u zaštiti okoline znanje iz geografije značajno je zbog sagledavanja zagađenja kao društvenog problema, gledano kroz prizmu održivog razvoja. Također, tehnologija prečišćavanja otpadnih tvari, primjena tehnoloških procesa uz manju emisiju štetnih tvari u okolišu, važan su segment tehnološkog napretka u zaštiti okoline.
+3. Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+Učenik razvija svijest o prednosti alternativnih izvora energije ali i racionalnog korištenja postojećih resursa i pravilnog odlaganja otpada.
+Istraživanjem uticaja na prirodnu okolinu, od iskorištavanja materijala i energije u proizvodnji tehničkog proizvoda u tehnološkom i radnom procesu, zatim njezina korištenja, pa do mogućnosti upravljanja nakon isteka vijeka trajanja, u učenika se razvija svijest o potrebi održivog razvoja.
+Osnovno
+8
+Godine učenja i podučavanja predmeta: 4
+A TEHNIČKA DOKUMENTACIJA I MODELIRANJE
+A.8.1
+A.8.2
+A.8.3
+B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO
+B.8.1
+B.8.2
+B.8.3
+B.8.4
+B.8.5
+B.8.6
+B.8.7
+B.8.8
+B.8.9
+C TEHNIKA I ŽIVOTNA OKOLINA
+C.8.1
+C.8.2
+
+A
+TEHNIČKA DOKUMENTACIJA I MODELIRANJE
+
+A.8.1
+Primjenjuje osnove tehničkog crtanja.
+A.8.2
+Crta sheme u oblasti elektrotehnike i elektronike koristeći simbole električnih elemenata i normirane grafičke znakove.
+A.8.3
+Procjenjuje funkcionalnu i upotrebnu vrijednost električnih i elektroničkih uređaja/sklopova.
+TIT-1.3.1 TIT-1.3.2 TIT-1.4.2
+Primjenjuje pravila i standarde tehničkog crtanja.
+Analizira tehničke crteže.
+Skicira i izrađuje sheme.
+Objašnjava osnovne pojmove u elektrotehnici i elektronici.
+Opisuje vrste shema u elektrotehnici.
+Crta sheme u oblasti elektrotehnike i elektronike uz pretvaranje jednopolnih u dvopolne i obratno.
+Crta električne sheme upotrebom računarskih programa.
+Utvrđuje funkcionalnost električnih uređaja /sklopova.
+Služi se alatima, priborom i instrumentima u elektrotehnici i elektronici u svrhu izrade električnih i elektroničkih sklopova.
+Objašnjava način i principe rada električnih uređaja/sklopova.
+Analizira električne i elektroničke sheme, postupke spajanja elemenata u funkcionalnu cjelinu.
+KLJUČNI SADRŽAJI
+Tehničko crtanje, tehnički crtež, elektrotehnika, elektronika, električne sheme, električni sklop, uređaj, grafički simboli.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Ukoliko postoje adekvatni tehnički uslovi predlaže se korištenje IKT-a i programskih rješenja za izradu tehničke dokumentacije uz pomoć računara.
+Prilikom realizacije tematske cjeline upotrijebiti princip sistematičnosti i postupnosti. U okviru svake tematske cjeline, postupno i korak po korak, obraditi određenu nastavnu građu prema sve složenijem, težem i daljem u otkrivanju manje poznatog ili potpuno nepoznatog.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Za realizaciju tematske cjeline predlaže se korelacija nastavnih sadržaja iz nastavnih predmeta Informatika, Fizika i Hemija. U elektrotehnici i elektronici važno je povezivanje s nastavnim predmetom Hemija zbog razumijevanja sljedećih pojmova:
+pojmova o izvorima energije kao što su baterije i akumulatori, razne vrste svjetiljki (neonsko, halogeno, fluoroscentno, LED svjetlo) itd,
+različitih industrijskih postupaka kao što je elektroliza, 
+pojmova provodnika, izolatora i poluprovodnika, odnosno materijala koji se za to koriste (metali, nemetali, silicijum, ugljik),
+upoznavanje materijala koji se koriste u nanotehnologiji (nanomaterijali, ugljikove nanocijevi).
+3. Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+Razvijanje naučnog pogleda na svijet i razvijanje preciznosti/tačnosti u radu.
+Kompetencija u nauci i tehnologiji se ostvaruje razumijevanjem odnosa između tehnologije i naučnog napretka. Organizacija nastavnih aktivnosti treba da bude prilagođena indiviualnim karakteristikama učenika, te da omogući sintezu iskustava iz svakodnenvog života.
+Poticati učenike na samostalan rad ili rad u grupi kako bi razvili odgovornost za vlastito učenje, samoprocjenu i definisanje vlastitih ciljeva učenja, te sposobnosti popravljanja i poboljšavanja. Razvijanje kompetenije učiti kako se uči uz upotrebu različitih metoda i strategija učenja, kod učenika razvijamo samomotivaciju, samopouzdanje, sposobnost organizacije i uređivanje vlastitog učenja.
+B
+TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO
+
+B.8.1
+Organizuje radno mjesto vodeći računa o mjerama zaštite na radu.
+B.8.2
+Razlikuje izvore energije, prenos i transformacija energije.
+B.8.3
+Analizira proces proizvodnje i distribucije električne energije.
+TIT-1.4.1 TIT-2.3.1 TIT-2.3.1
+Opisuje mjere higijensko-tehničke zaštite (HTZ) u oblasti elektrotehnike.
+Objašnjava važnost sigurnosti radnog mjesta.
+Provjerava sigurnost radnog mjesta, pomoćnih sredstava i instrumenata.
+Primjenjuje odgovarajuća zaštitna sredstva potrebna za rad.
+Prepoznaje oblike u kojima se energija pojavljuje.
+Objašnjava prednosti električne nad drugim vidovima energije.
+Opisuje različite načine pretvaranja drugih oblika energije u električnu.
+Opisuje funkciju generatora i drugih dijelova u elektrani.
+Utvrđuje prednosti i nedostatke elektrana.
+Opisuje dijelove elektrodistributivne mreže.
+Tumači način i postupak pretvaranja energije na modelu kojeg je sam napravio (npr. elektromotor, dinamo mašina).
+PREPORUKE ZA OSTVARENJE ISHODA
+  
+
+
+B.8.4
+Analizira energetske potrebe u svim poljima ljudske djelatnosti.
+B.8.5
+Utvrđuje razlike između elektromehaničkih, elektrotoplotnih i kombinovanih kućanskih aparata.
+B.8.6
+Objašnjava ulogu elektroinstalacionih materijala i elemente električnih instalacija.
+TIT-2.3.2 TIT-2.3.1 TIT-2.3.2
+Razmatra ekonomsko i društveno značenje energije.
+Razmatra proizvodnju i potrošnju energije s ekološkog aspekta, te mjere štednje energije u svakodnevnom životu.
+Klasificira kućanske električne aparate.
+Opisuju princip rada električnih kućanskih aparata poznavajući njihove dijelove.
+Razlikuje vrste provodnika i ulogu izolacionih materijala  u električnim instalacijama.
+Objašnjava ulogu elektroinstalacionih materijala u električnoj instalaciji.
+Opisuje ulogu instalacionih osigurača u električnom kolu.
+Prepoznaje vrstu i ulogu potrošača u električnom kolu.
+
+
+
+B.8.7
+Sklapa/sastavlja elektronske uređaje/sklopove koristeći različite vrste elektronskih elementa.
+B.8.8
+Izrađuje i spaja električnu instalaciju prema električnoj shemi (jednopolnoj, dvopolnoj).
+B.8.9
+Objašnjava osnovne pojmove telekomunikacijskih sistema.
+TIT-1.2.2 TIT-1.4.2 TIT-2.2.3
+Opisuje ulogu elektronskih elemenata.
+Razvrstava elektronske elemente (pasivne, aktivne i pomoćne).
+Koristi mjerne instrumente za očitanje vrijednosti elektronskih elemenata.
+Opisuje veze elektronskih elemenata.
+Kritički razmatra uticaj napretka elektronike na razvoj novih tehnoloških rješenja i uređaja/sklopova na primjerima iz svakodnevnog života.
+Planira redoslijed radnih operacija.
+Koristi električnu shemu pri realizaciji praktičnog rada.
+Koristi odabrani pribor, alat i materijal.
+Objašnjava važnost racionalnog korištenja materijala, energije i vremena.
+Razlikuje elemente koji sačinjavaju telekomunikacijski sistem.
+Opisuje princip rada radio-veze i televizije.
+Objašnjava ulogu telefonskih centrala, telefonske mreže i organizaciju mreža.
+KLJUČNI SADRŽAJI
+Energija, distribucija, električne instalacije, aparati, elektronski elementi, mjerni instrumenti, telekomunikacije, toplotna, solarna, hemijska, mehanička, električna, geotermalna, energija zračenja, nuklearna energija, elektromehanički aparati, elektrotoplotni aparati, dalekovodi, transformatorska stanica (TS), transformatori, kombinovani aparati, osigurači, prekidači, brojila, razvodne kutije, provodnici, sijalice, sijalična grla, otpornici, kondenzatori, zavojnice, IC, diode, tranzistori, serijska veza, paralelna veza, kombinovana veza.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Naglasiti važnost i sigurnost učenika pri rukovanju električnim uređajima. Potrebno je koristiti ispravan elektroinstalacioni materijal i pribor, kontrolu uređaja vršiti bez napona instalacije i uređaja, uređaji s metalnim kućištem s obaveznim uzemljenjem. Također, ukazati na organizaciju radnog mjesta vodeći računa o mjerama zaštite na radu. Preporučuje se posjeta nekoj od elektrana ili distributivnom centru.
+Preporučuje se da učenici urade projekat u kojem bi analizirali sve električne aparate u svom domaćinstvu i izvedu zaključke o osobinama tih aparata, zatim rezultate istraživanja prezentiraju u školi. Učenici će uz pomoć nastavnika analizirati elemente električne instalacije u školi. Upoznati se s vrstom priključka objekta škole na električnu mrežu, upoznati se sa sadržajem priključnog i razvodnog ormarića, zabilježiti zaključke. Učenici će uz pomoć nastavnika analizirati elemente električne instalacije u školi. Razvijati smisao za organizaciju, preciznost i jednostavnost u opisivanju postupaka za rješavanje problema. Ukoliko postoje adekvatni tehnički uslovi u školi predlaže se korištenje elektronskih sklopova kao što su: Makeblock-mBot (Education Robot Kit), Micro:bit, STEMI Hexapod i sl. Preporučuje se upotreba eksperimentalnih/montažnih pločica (Breadboard-a), štampanih pločica.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Pri realizaciji aktivnosti u vezi s nastavnim sadržajem, ukoliko postoje tehnički uslovi, predlaže se međupredmetna korelacija s nastavnim predmetima Fizika, Informatika, Biologija.
+3. Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+Razvija se smisao za organizaciju, preciznost i jednostavnost u opisivanju postupaka za rješavanje problema. Navedene aktivnosti djeluju pozitivno na učenike u smislu:
+razvijanje pozitivnog stava i odnosa prema radu,
+formiranje pozitivne ličnosti i karaktera.
+  C
+TEHNIKA I ŽIVOTNA OKOLINA
+C.8.1
+Analizira energetske potrebe u svim poljima ljudske djelatnosti.
+C.8.2
+Analizira uticaj proizvodnje električnih uređaja/sklopova na okolinu i čovjeka.
+TIT-2.3.3 TIT-2.4.1
+Argumentuje važnost korištenja obnovljivih izvora energije putem primjera.
+Razmatra ekonomsko i društveno značenje energije.
+Razmatra proizvodnju i potrošnju energije s ekološkog aspekta, te mjere štednje energije u svakodnevnom životu.
+Analizira prednosti i nedostatke proizvodnje, uzimajući u obzir njihov uticaj na čovjeka i okolinu.
+Obrazlaže značaj pravilnog odlaganja i reciklaže elektronskog otpada.
+KLJUČNI SADRŽAJI
+Obnovljiva, neobnovljiva energija, ekologija, energetska efikasnost, reciklaža, elektronski otpad.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Koristiti osnovne programe za razmjenu poruka među učenicima (npr. elektronsku poštu, Google alate, Microsoft alate za učenje-OneNote, Edmodo, Office 365 ili neki primjeren siguran servis kako bi razmijenili rezultate svojih istraživanja). Rezultate učeničkih istraživanja sačuvati u pojedinačni portfolio učenika ili kreirati e-portfolio učenika.
+Diskutovati s učenicima o pozitivnim i negativnim primjerima odlaganja elektronskog otpada. Objasniti zašto se stari elektronski uređaji ne smiju bacati u smeće. Uputiti učenike da stare elektronke uređaje odlažu u najbliži centar za odlaganje e-otpada. Može se organizovati akcija prikupljanja elektroničkog otpada, te po mogućnosti iskoristiti prikupljeni otpad za izradu praktičnog rada (reutalizacija).
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Za realizaciju tematske cjeline predlaže se korelacija nastavnih sadržaja iz nastavnog predmeta Fizika.
+3.   Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+razvijanje stava o racionalnoj potrošnji energiji,
+razvijanje stava o potrebi zaštite okoline,
+afirmacija znanja i stvaralaštva.
+Osnovno
+9
+Godine učenja i podučavanja predmeta: 5
+A TEHNIČKA DOKUMENTACIJA I MODELIRANJE
+A.9.1
+A.9.2
+A.9.3
+B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO
+B.9.1
+B.9.2
+B.9.3
+B.9.4
+B.9.5
+C TEHNIKA I ŽIVOTNA OKOLINA
+C.9.1
+C.9.2
+
+A
+TEHNIČKA DOKUMENTACIJA I MODELIRANJE
+
+A.9.1
+Kreira shematske crteže za predstavljanje hidrauličkih, pneumatskih i elektroničkih uređaja i sistema.
+A.9.2
+Primjenjuje osnovna znanja o modeliranju i izradi tehničke dokumentacije upotrebom IKT-a.
+A.9.3
+Koristi 3D printer za izradu jednostavnih 3D modela.
+TIT-1.3.1 TIT-2.2.3 TIT-2.2.3
+Koristi simbole i elemente u hidrauličkim, pneumatskim ili elektronskim shematskim crtežima.
+Izrađuje shematske crteže u hidraulici, pneumatici i elektronici.
+Objašnjava značenje i funkciju hidrauličkih, pneumatskih i elektroničkih shematskih crteža.
+Komunicira na jeziku tehnike (tehnička terminologija i standardi u tehničkoj dokumentaciji).
+Vrši izbor odgovarajuće aplikacije za modeliranje i izradu jednostavne tehničke dokumentacije.
+Koristi aplikaciju (odgovarajući softverski program) i dostupne alate za modeliranje i izradu tehničke dokumentacije.
+Opisuje funkciju dijelova 3D printera.
+Vrši odabir parametara i pripreme radne ploče 3D printera.
+Printa jednostavne modele pomoću 3D printera.
+Objašnjava važnost održavanja radnih dijelova 3D printera.
+KLJUČNI SADRŽAJI
+Simboli, shematski crteži, softverski alati, IKT, 2D crtež, 3D crtež, 3D objekti (3D modeli), 3D printer.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Ukoliko postoje adekvatni tehnički uslovi predlaže se korištenje IKT-a, 3D printer „Wanhao i3“ i programskih rješenja za izradu tehničke dokumentacije uz pomoć računara kao naprimjer, Cura za Wanhao i3 ili neki drugi koji omogućavaju modeliranje i izradu 3D modela. Predlaže se da učenik niveliše radnu površinu, podešava temperaturu ploče i brizgaljke 3D printera te nadzire rad printera.
+U sklopu principa sistematičnosti i postupnosti primijeniti pravilo od bližeg ka daljem koje podrazumijeva da se, po mogućnosti, pojedina znanja usvajaju na primjerima iz bližeg prostora ili vremena. Naprimjer, prilikom izučavanja metoda konstrukcije i dizajna nekog mašinskog elementa ili sklopa, najpogodnije je da se taj element ili sklop izradi postupkom 3D printanja, a potom da se posjeti tvornica koja proizvodi takve elemente odnosno sklopove. Potrebno je na pristupačan način uvesti učenika u svijet tehnike, tako da se podstiče njihov interes za tehniku.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Za realizaciju tematske cjeline predlaže se korelacija s nastavnim sadržajima iz predmeta Fizika i Informatika.
+3. Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+praktična primjena naučnih dostignuća u neposrednoј praksi,
+razvoj opće tehničke kulture koju čine znanje i djelovanje,
+sposobnost primjene usvojenih znanja, vještina i personalnih, socijalnih i metodoloških sposobnosti, tokom učenja, kao i u privatnom i profesionalnom razvoju,
+razvoj digitalnih kompetencija,
+razvijanje osjećaja za preciznost, estetiku, formiranje racionalnih i ekonomičnih razmišljanja, svjesnost o značaju Tehničke kulture radi uspješnog obavljanja budućeg poziva.
+B
+TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO
+
+B.9.1
+Utvrđuje ulogu mehanike kao bitnog faktora u naučnom, društvenom i ekonomskom razvoju.
+B.9.2
+Prosuđuje o zastupljenosti mehanike, pneumatike i elektronike u mehatroničkom proizvodu i doprinos funkcionalnosti mehatroničkog sklopa.
+B.9.3
+Povezuje karakteristike o hidraulici, pneumatici i elektronici kao sastavnom dijelu mehatronike.
+TIT-2.2.1 TIT-1.3.3 TIT-2.2.2
+Opisuje napredak tehnike i tehnologije s aspekta mehanike.
+Objašnjava doprinos naučno-tehnološkog razvoja na život čovjeka.
+Daje primjere moguće primjene mehatronike u budućnosti  razvoja i unapređenja rada čovjeka i društvene zajednice.
+Razlikuje hidrauličke, pneumatske i elektroničke elemente.
+Koristi instrumente za mjerenje hidraulično-pneumatskih i elektroničkih veličina.
+Objašnjava tehničke karakteristike mehatroničkih, hidrauličkih, pneumatskih i elektroničkih elemenata.
+Osmišljava hidraulički, pneumatski ili elektronički model.
+Analizira specifične karakteristike i mogućnosti mehatronike.
+Koristi kriterije da odredi primjenu odgovarajućih mehaničkih (hidrauličkih, pneumatskih), elektroničkih elemenata u mehatroničkom sklopu.
+Izrađuje modele (makete) prema tehničko-tehnološkoj dokumentaciji.
+
+
+B.9.4
+Istražuje svojstva signalnih uređaja (senzora)  i njihovu važnost i zastupljenost u mehatronici i drugim oblastima tehnike i tehnologije.
+B.9.5
+Analizira primjenu automatike i sistema upravljanja s tehnološkog, ekonomskog i društvenog stajališta.
+TIT-2.2.1 TIT-2.2.2
+Opisuje svojstva različitih vrsta senzora.
+Objašnjava primjenu senzora u tehničkim pronalascima koje koristimo u svakodnevnom životu u različitim djelatnostima.
+Sastavlja jednostavan signalni uređaj – senzor.
+Razmatra uticaj razvoja signalnih uređaja na razvoj mehatronike i automatike.
+Opisuje automatiku i sisteme upravljanja.
+Analizira sisteme sa direktnim i indirektnim upravljanjem.
+Opisuje tehničke karakteristike automatskih sistema, robota, CNC mašine i drugih automatskih sistema.
+Opisuje ulogu računara u automatskom sistemu upravljanja.
+Obrazlaže ekonomske i društvene uticaje primjene automatike i sistema upravljanja.
+Istražuje značaj uvođenja novih proizvodnih tehnologija (automatizovane mašine).
+Izrađuje jednostavan automatski model upravljan računarom.
+KLJUČNI SADRŽAJI
+Tehnika, tehnologija, mehatronika, automatika, hidraulika, pneumatika, elektronika, aktuatori, senzori, procesori.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Nastavnik upoznaje učenike s mehaničkim i mehatroničkim proizvodima, daje priliku svakom učeniku da uoči razlike, objašnjava njihovu upotrebu i tehničke karakteristike, te objašnjava načine primjene i mogućnosti. Ukoliko je to moguće, ukoliko vrijeme i opremljenost kabineta dozvoljava, nastavnik daje priliku svakom učeniku pojedinačno da se koristi raznim alatima i mašinama za obradu različitih materijala i omogućava im kreativno izražavanje izradom različitih i modela.  
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Zavisno od aktivnosti koje su usmjerne na nastavne sadržaje predlaže se korelacija s nastavnim sadržajima iz predmeta Fizika i Informatika.
+3. Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+razvijanje kod učenika naučnog pogleda na svijet,
+svjesnost o značaju i potrebi tehnike u životu,
+ispoljavanje pozitivnog odnosa prema tehnici i želje za praćenje naučno-tehničkih dostignuća,
+razvijanje pozitivnog stava i odnosa prema radu,
+razvijanje svijesti o uticaju naučno–tehnološkog razvoja na život čovjeka,
+ispoljavanje spremnosti za primjenu stečenih znanja i vještina u praksi,
+donošenje logičnih i samostalnih zaključaka o značaju tehničkih proizvoda i tehnoloških  dostignuća u životu čovjeka,
+razvijanje navike održavanja sredstava za rad, primjene mjera zaštite na radu i zaštite okoline, afirmacija znanja i stvaralaštva.
+C
+TEHNIKA I ŽIVOTNA OKOLINA
+C.9.1
+Demonstrira pozitivne radne navike te primjenjuje mjere zaštite na radu i zaštite okoline.
+C.9.2
+Istražuje specifičnosti tehničkih zanimanja i njihovu ulogu u tehnici i tehnologiji.
+TIT-1.6.1 TIT-2.4.1
+Provjerava sigurnost radnog mjesta, pomoćnih sredstava i instrumenata.
+Primjenjuje mjere HTZ-a, te održava čistim i  urednim alat i radno mjesto.
+Istražuje podatke o zanimanjima zavisno o interesu i sposobnostima koristeći različite medije.
+Istražuje potrebu za specifičnim tehničkim zanimanjima u društvenoj zajednici.
+Otkriva ulogu tehnike i tehnologije u željenom zanimanju.
+Prezentuje rezultate istraživanja o tehničkim zanimanjima prema datim kriterijima.
+KLJUČNI SADRŽAJI
+Mjere HTZ-a,Tehnika, Tehnologija, tehnička zanimanja, alati.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Nastavnik upoznaje učenike sa zanimanja u tehnici, anketira učenike o njihovim željama, daje preporuke za deficitarna i perspektivna zanimanja. Nastavnik učenicima daje smjernice za realizaciju njihovog istraživanja. Dobro bi bilo obići proizvodne i tehničke objekte, kako bi učenici i neposredno vidjeli različite procese proizvodnje, korištenje savremenih uređaja i primjenu tehničke zaštite na radu, kada za to postoje mogućnosti. Također su dobrodošle i projekcije, nastavni filmovi i slično iz ove problematike.
+Ishod učenja demonstrira pozitivne radne navike te primjenjuje mjere zaštite na radu i zaštite okoline može se koristiti kao prožimajući za sve razrede.
+2.    Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Zavisno od aktivnosti koje su planirane predlaže se korelacija nastavnih sadržaja iz nastavnog predmeta Informatika.
+3.    Mogućnosti odgojnog djelovanja i razvoja kompetencija – kompetencijski pristup
+razvijanje kulture ponašanja u radu,
+poboljšavanje komunikacije učenika i prihvatanje drugačijeg mišljenja kroz grupni rad,
+shvatanje značaja modernizacije proizvodnje u cilju povećanja produktivnosti rada.
+
+
+
+
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

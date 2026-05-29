@@ -1,0 +1,347 @@
+{
+  "predmet": "Zdravi životni stilovi",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "5"
+  },
+  "tematske_cjeline": [
+    "A Živjeti zdravo",
+    "B Prevencija ovisnosti",
+    "C Životne vještine",
+    "A Živjeti zdravo",
+    "B Prevencija ovisnosti",
+    "C Životne vještine",
+    "A Živjeti zdravo",
+    "B Prevencija ovisnosti",
+    "C Životne vještine",
+    "A Živjeti zdravo",
+    "B Prevencija ovisnosti",
+    "C Živjeti zdravo",
+    "D Moje tijelo",
+    "A Živjeti zdravo",
+    "B Prevencija ovisnosti",
+    "C Životne vještine",
+    "D Moje tijelo"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.5.1",
+      "opis": "A.5.2"
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "B Prevencija ovisnosti"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "C Životne vještine"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.5.2"
+    },
+    {
+      "oznaka": "C.5.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "Procjenjuje važnost redovnog tjelesnog vježbanja za očuvanje i unapređenje zdravlja."
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": "Procjenjuje važnost pravilne ishrane za očuvanje i unapređenje vlastitog zdravlja."
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "Primjenjuje znanja o značajnu redovnog održavanje lične higijene i zaštite zdravlja."
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "Analizira utjecaj psihoaktivni supstanci na razvoj bolesti i ovisnosti (droga, pušenje, alkoholizam, nargila, energetska pića)."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "Analizira značaj prevencije nasilja otkrivajući uzroke i posljedice u rješavanju konfliktnih situacija."
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": "Izražava vlastite emocije razumijevajući osjećaje drugih."
+    },
+    {
+      "oznaka": "C.5.3",
+      "opis": "Procjenjuje vrijednost izbora svoga životnog stila s obzirom na zdravlje i ličnu dobrobit."
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "B Prevencija ovisnosti"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "C Životne vještine"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "Procjenjuje važnost redovnog tjelesnog vježbanja za očuvanje i unapređenje zdravlja."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "Procjenjuje važnost pravilne ishrane za očuvanje i unapređenje zdravlja"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "Primjenjuje znanja o značajnu redovnog održavanje lične higijene i očuvanja zdravlja."
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "Analizira utjecaj psihoaktivni supstanci na razvoj bolesti i ovisnosti (droga, pušenje, alkoholizam, nargila, energetska pića)."
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "Analizira značaj prevencije nasilja otkrivajući uzroke i posljedice u rješavanju konfliktnih situacija."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "Izražava vlastite emocije razumijevajući osjećaje drugih."
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "Procjenjuje vrijednost izbora svoga životnog stila s obzirom na zdravlje i osobnu dobrobit."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "B Prevencija ovisnosti"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "C Životne vještine"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Procjenjuje važnost redovnog tjelesnog vježbanja za očuvanje i unapređenje zdravlja."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "Procjenjuje važnost pravilne ishrane za očuvanje i unapređenje zdravlja."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "Primjenjuje znanja o značajnu redovnog održavanje lične higijene i očuvanja zdravlja."
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Analizira utjecaj psihoaktivni supstanci na razvoj bolesti i ovisnosti (droga, pušenje, alkoholizam, nargila, energetska pića)."
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "Analizira značaj prevencije nasilja otkrivajući uzroke i posljedice u rješavanju konfliktnih situacija."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "Izražava vlastite emocije razumijevajući osjećaje drugih."
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "Procjenjuje vrijednost izbora svoga životnog stila s obzirom na zdravlje i ličnu dobrobit."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "B Prevencija ovisnosti"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "C Živjeti zdravo"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "D Moje tijelo"
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "D.8.2"
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Procjenjuje važnost redovnog tjelesnog vježbanja za očuvanje i unapređenje zdravlja."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Procjenjuje važnost pravilne ishrane za očuvanje i unapređenje zdravlja."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "Primjenjuje znanja o značajnu redovnog održavanje lične higijene i očuvanja zdravlja."
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Analizira utjecaj psihoaktivni supstanci na razvoj bolesti i ovisnosti (droga, pušenje, alkoholizam, nargila, energetska pića)."
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "Analizira značaj prevencije nasilja otkrivajući uzroke i posljedice u rješavanju konfliktnih situacija."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "Izražava vlastite emocije razumijevajući osjećaje drugih."
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "Procjenjuje vrijednost izbora svoga životnog stila s obzirom na zdravlje i osobnu dobrobit."
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "Objašnjava važnost brige o reproduktivnom zdravlju."
+    },
+    {
+      "oznaka": "D.8.2",
+      "opis": "Analizira spolnu/rodnu ravnopravnost i spolno ponašanje razvijajući odgovornost."
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "Analizira promjene i teškoće koje se dešavaju u pubertetu."
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A.9.2"
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "B Prevencija ovisnosti"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "C Životne vještine"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.2"
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "D Moje tijelo"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "Procjenjuje važnost redovitog tjelesnog vježbanja za očuvanje i unapređenje zdravlja."
+    },
+    {
+      "oznaka": "A.9.2",
+      "opis": "Procjenjuje važnost pravilne ishrane za očuvanje i unapređenje zdravlja."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "Primjenjuje znanja o značajnu redovnog održavanje lične higijene i očuvanja zdravlja."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Analizira utjecaj psihoaktivni supstanci na razvoj bolesti i ovisnosti (droga, pušenje, alkoholizam, nargila, energetska pića)."
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "Analizira značaj prevencije nasilja otkrivajući uzroke i posljedice u rješavanju konfliktnih situacija."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": "Izražava vlastite emocije razumijevajući osjećaje drugih."
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "Procjenjuje vrijednost izbora svoga životnog stila s obzirom na zdravlje i ličnu dobrobit."
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Objašnjava važnost brige o reproduktivnom zdravlju."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Analizira spolnu/rodnu ravnopravnost i spolno ponašanje razvijajući odgovornost prema sebi i drugim."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "Analizira promjene i teškoće koje se dešavaju u pubertetu."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Tjelesna aktivnost u svakodnevnome životu – različite vrste sportova",
+    "dinamika",
+    "važnost redovne tjelesne aktivnosti i vježbanja",
+    "rizici sjedilačkog načina provođenja slobodnog vremena",
+    "vrijeme pred ekranima (najviše dva sata dnevno). Hrana kao energija – dnevni obroci",
+    "zdrave namirnice (žitarice",
+    "voće",
+    "povrće).Izrada piramide pravilne ishrane",
+    "zdrav tanjir – osnovne skupine prehrambenih namirnica",
+    "poželjne (zdrave) i nepoželjne namirnice. Bolesti nehigijenske ishrane - uzrokovane mikroorganizmima i bakterijama. Bolesti nepravilne ishrane - uzrokovane nedostatkom hranjivih sastojaka namirnica",
+    "nepravilnom i prekomjernom ishranom. Preporuke za svakodnevno održavanje higijene tijela",
+    "čistoća učionica",
+    "hodnika i školskog dvorišta. Čistoća sobe i prostora za učenje",
+    "lična higijena (higijena ruku",
+    "nogu",
+    "tijela",
+    "nosa",
+    "kašljanja i kihanja",
+    "higijena usta i zubi)",
+    "higijena odjeće i obuće primjereno okolnostima",
+    "higijena odmora i rekreacije",
+    "higijena hrane",
+    "higijena okoline",
+    "higijena stanovanja (stan",
+    "kuće i škole)",
+    "pribor i sredstva za ličnu higijenu."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Upotrebom video zapisa i sl. učenici se pripremaju za osnove kretanja  biciklom / romobilom, klizaljkama i rolama, a potom odlaze u grupama na praktičnu obuku. Pri obradi nastavni sadržaja, potrebno polaziti od onoga što učenici već znaju i na taj način poticati i usmjeravati njihovo razmišljanje jer su se u prethodnim razredima upoznali sa pojmom pravilne ishrane i lične higijene. Učenike treba navoditi kroz istraživanje, a informacije do kojih pri tome dođu trebaju povezati sa znanjima koja su im potrebna u svakodnevnom životu. Učenike je potrebno osposobiti da donose odluke važne za postizanje zdravog životnog stila."
+    ],
+    "medjupredmetne_korelacije": [
+      "Učenicima se može dati zadatak da urade istraživački projekat u okviru kojeg će biti potrebno saznati nešto više o zdravoj ishrani i tjelesnom vježbanju. Ovdje se može napraviti poveznica sa nastavnim predmetom Tjelesnim i zdravstvenim odgojem, Kulturom življenja i Priroda."
+    ],
+    "kompetencijski_pristup": [
+      "Tjelesno-zdravstven"
+    ]
+  }
+}

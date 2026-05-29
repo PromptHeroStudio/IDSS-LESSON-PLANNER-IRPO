@@ -1,0 +1,620 @@
+PREDMET: Programiranje
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Programiranje
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Programiranje
+Programiranje - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Srednje
+I
+Godine učenja i podučavanja predmeta: 1
+A Algoritmi
+A.I.1
+A.I.2
+B Reprezentacija i obrada podataka
+B.I.1
+B.I.2
+C Kontrola toka i komunikacija
+C.I.1
+C.I.2
+C.I.3
+C.I.4
+A
+Algoritmi
+A.I.1
+Konstruiše rješenja  problema modeliranjem algoritama i pseudokodova.
+A.I.2
+Primjenjuje strukture ponavljanja u rješavanju praktičnih problema.
+TIT-4.1.1 TIT-4.1.2 TIT-4.1.3 TIT-4.2.2
+A.I.1.a Klasifikuje probleme i metodike njihovog rješavanja.
+A.I.1.b Definiše algoritam i algoritamske strukture i objašnjava Turingove mašine.
+A.I.1.c Modelira algoritme koristeći dijagram toka.
+A.I.2.d Modelira pseudokodove za rješavanje problemskih zadataka.
+A.I.2.a Objašnjava koncept brojača i primjenjuje ga.
+A.I.2.b Kreira programe za izračunavanje sumacionih obrazaca.
+A.I.2.c Izrađuje programe sa ugniježdenim petljama koje iscrtavaju raznovrsne uzorke pravougaonog i trougaonog oblika. 
+A.I.2.d Konstruiše programe sa beskonačnim petljama za animiranje sadržaja. 
+KLJUČNI SADRŽAJI
+Algoritam i algoritmizacija, Pseudokod, Dijagram toka
+KLJUČNI SADRŽAJI
+Brojač, Sumacioni obrazac, Iscrtavanje uzoraka, Animiranje sadržaja
+PREPORUKE ZA OSTVARENJE ISHODA
+Kroz primjere već poznatih problema (matematika, fizika) učenike navoditi da ih intuitivno formulišu  i klasificiraju (računski i problemi dokazivanja, direktni i inverzni problemi), uoče koji su lakši, a koji teži za rješavanje. Kroz iste ove primjere dočarati šta je to ulaz i izlaz problema, te koje su metode iznalaženja puta od ulaza ka izlazu. Kroz ove primjere objasniti algoritmizaciju, te kreiranje algoritma za rješavanje, dijagrama toka i pseudokoda.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Algoritmizacija rješenja učenicima je već od ranije poznat koncept, iako ne još uvijek uobličen, kroz matematiku i prirodne nauke (fizika, hemija, biologija), te se stoga kroz ove već poznate primjere učenicima najbolje mogu približiti formalne definicije i postupci ove oblasti.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja matematičkih elemenata, fenomena i situacija; odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+PREPORUKE ZA OSTVARENJE ISHODA
+Primjena petlji prvenstveno ostvaruje vezu sa matematikom, te potencira sposobnosti uočavanja uzoraka i načina na koji se oni ponavljaju i mijenjaju. Ovdje je veoma bitno kroz mnoštvo raznovrsnih temeljito objašnjenih primjera osposobiti učenike da sami uočavaju te uzorke, te da tu sposobnost iskoriste za kreiranje vlastitih programa ovog tipa.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Iteracija je pojava koja se intenzivno javlja u svakodnevnom životu, te je povezujemo sa praktičnim problemima, i samim tim može se povezati sa bilo kojim predmetom. Također, oblast primjene iteracije ima snažnu vizuelnu komponentu, te se ostvaruje direktna veza sa Likovnom kulturom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja matematičkih elemenata, fenomena i situacija; odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+B
+Reprezentacija i obrada podataka
+B.I.1
+Izrađuje programe primjenjujući osobine i rad sa osnovnim tipovima podataka.
+B.I.2
+Upotrebljava nizove različitog tipa u programima.
+TIT-4.2.1 TIT-4.2.1 TIT-4.2.2
+B.I.1.a Koristi deklaraciju, inicijalizaciju, dodjelu, unos i ispis varijabli i konstanti brojčanog, znakovnog i logičkog tipa u programima.
+B.I.1.b Programira izračunavanje rezultata složenih izraza različitih tipova podataka pomoću operatora i  dopunskih biblioteka.
+B.I.1.c Uspostavlja korelaciju između tipova podataka i vrši konverziju između njih.
+B.I.2.a Radi sa brojčanim i znakovnim nizovima (manipulacija jednim elementom, manipulacija svim elementima niza, premetanje elemenata niza).
+B.I.2.b Koristi i statičke i dinamičke nizove pri izradi programa.
+B.I.2.c Primjenjuje znanja o strukturi i osnovnim operacijama nad dvodimenzionalnim i višedimenzionalnim nizovima.
+KLJUČNI SADRŽAJI
+Varijable, Tipovi, Deklaracija, Inicijalizacija, Dodjela, Operacije
+KLJUČNI SADRŽAJI
+Nizovi, Element niza, Indeks elementa
+PREPORUKE ZA OSTVARENJE ISHODA
+Tipove podataka treba obraditi sistematično i postupno, te sve vrijeme naglašavati vezu između jednog tipa podataka i preostalih. Prilikom obrade bilo kojeg tipa podataka (cjelobrojni, realni, znakovni i logički) treba temeljito proučiti operacije koje su nad njim definisane, te je poželjno obraditi i biblioteke koje eventualno sadrže neke dodatne funkcije za obradu tog tipa.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Brojčani tipovi podataka, te definisane operacije i veze među njima u neposrednoj su korelaciji sa skupovima brojeva koji se izučavaju u matematici. Reprezentacija znakovnih podataka u računarskoj memoriji obrađuje se na predmetu Informatika, te je pored matematike i u direktnoj vezi sa informatikom i engleskim jezikom. Logičke promjenljive i logičke funkcije obrađuju se na predmetima matematika i informatika nešto ranije, a u direktnoj su vezi i postavlja temelj za filozofiju, koju učenici tek trebaju izučavati u kasnijim razredima.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: kritičko korištenje tehnologije za pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+PREPORUKE ZA OSTVARENJE ISHODA
+Prilikom obrade nizova neophodno je izdvojiti dovoljno vremena kako bi učenici mogli u potpunosti usvojiti sva neophodna znanja. Veoma je bitno obraditi sve segmente rada sa nizovima: manipulacija jednim elementom, manipulacija nizom kao cjelinom, te promjena rasporeda elemenata. Ovdje je poželjno početi se baviti i problemom memorijskog utroška programa, te potencirati obradu niza "u mjestu", bez korištenja pomoćnih nizova. Dvodimenzionalne nizove treba ilustrovati preko tabela, a ne preko matrica, jer učenici još ne poznaju pojam matrice i apstrakcija tog nivoa nije primjerena za uzrast.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Kako simuliraju rad sa uređenim skupovima, nizovi su u direktnoj korelaciji sa matematikom. Nizovi su prvi način zapisivanja podataka koji učenici obrađuju, a koji ima neposrednu praktičnu primjenu, što je posebno očigledno kod znakovnih nizova u kojima se čuva tekst, pa je ovdje ostvarena veza i sa jezicima.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: kritičko korištenje tehnologije za pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+C
+Kontrola toka i komunikacija
+
+C.I.1
+Upoređuje programerske paradigme,  programske jezike i prevodioce. 
+C.I.2
+Struktuira ulazni i izlazni tok programa.
+C.I.3
+Primjenjuje sekvence iskaza i strukture grananja u programima.
+TIT-3.2.2 TIT-4.2.1 TIT-4.2.1 TIT-4.2.1 TIT-4.2.2
+C.I.1.a Upoređuje pristupe programiranju i programerske paradigme.
+C.I.1.b Klasificira programske jezike po tehničkim aspektima, lingvističkoj strukturi i podršci modelima programiranja.
+C.I.1.c Objašnjava ulogu prevodioca.
+C.I.1.d Upoređuje osnovne karakteristike asemblera, kompajlera i interpretera.
+C.I.2.a Uređuje prikaz izlaznog toka programa.
+C.I.2.b Primjenjuje nadovezani izlazni i ulazni tok u programima.
+C.I.2.c Programira kontrolu ispravnosti ulaznog toka.
+C.I.3.a Kreira programe linijske strukture – sekvencijalno programiranje.
+C.I.3.b Koristi jednostruke, dvostruke i višestruke strukture grananja i strukture grananja sa jednoznačnim izborima u programima.
+C.I.3.c Primjenjuje ugniježdene naredbe grananja u rješavanju kompleksnijih problema sa izborima.
+KLJUČNI SADRŽAJI
+Programerske paradigme, Programski jezici i prevodioci
+KLJUČNI SADRŽAJI
+Ulazni i izlazni tok programa, Nadovezivanje izlaznog/ulaznog toka, Uređivanje izlaznog toka, Kontrola ulaznog toka
+KLJUČNI SADRŽAJI
+Sekvenca, Selekcija
+PREPORUKE ZA OSTVARENJE ISHODA
+U sklopu upoznavanja učenika sa programerskim paradigmama neophodno je kroz konkretne primjere slijeda i načina izvršavanja postupaka koji na različite načine vode ka cilju prikazati različite programerske paradigme, imperativni i deklarativni pristup programiranju, te filozofije koje iz ovih pristupa proizilaze. Učenici bi uz svrstavanje programskih jezika u paradigmatsku kategoriju trebali znati razliku između jezika niskog i visokog nivoa, te svrstati jezike po aspektu namjene u sistemski, skriptni i specijalizovani. U sklopu ove cjeline učenici trebaju usvojiti i koncept prevodioca, te znati koje su razlilke i namjene asemblera, kompajlera i interpretera.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Unutar izučavanja programerskih paradigmi sveprisutna je veza sa matematikom (funkcije), logikom (logika iskaza i zaključivanje) i filozofijom (odnos objekat – akcija) i kontinuirano se prožima kroz nastavne sadržaje. Ove veze treba potencirati u svakoj prilici, te graditi kod učenika svijest o ovim vezama. Prilikom izučavanja programskih jezika i prevodioca i njihove lingvističke strukture, pored navedenih veza u ovoj oblasti, evidentna je neposredna veza sa jezicima, njihovom strukturom i formom. Uvijek je potrebno naglašavati da je i programski jezik jednako jezik kao i svaki govorni, sa svojom specifičnom sintaksom i semantikom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Socijalna i građanska kompetencija: poznavanje lingvističkih posebnosti različitih govornih jezika i preslikavanje pravila govornih na programske jezike, te konstruktivna komunikacija između korisnika i programa.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+PREPORUKE ZA OSTVARENJE ISHODA
+Svaki program mora imati ulaz – ono što nam je poznato na početku, i izlaz – ono što očekujemo da ćemo saznati. Ovdje je bitno kod učenika razviti odnos prema adekvatnom prikazu rezultata programa preko izlaznog toka, te kontroli podataka koje program preuzima sa ulaznog toka.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Ulazni i izlazni tok programa predstavljaju portal preko kojeg program komunicira sa korisnikom, te samim tim ova oblast ostvaruje vezu sa svim naukama koje sadrže socijalnu komponentu: jezicima, psihologijom i sociologijom, te naukama koje se bave vizualizacijom i grafičkim prikazom: matematika (grafički i tabelarni prikazi), tehničko crtanje i likovna kultura.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Socijalna i građanska kompetencija: poznavanje lingvističkih posebnosti različitih govornih jezika i preslikavanje pravila govornih na programske jezike, te konstruktivna komunikacija između korisnika i programa.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+PREPORUKE ZA OSTVARENJE ISHODA
+Put od ulaza ka izlazu može se odvijati na različite načine: sekvencijalno korak po korak, selektivno na osnovu izabranih ruta, ili iterativno kroz ponavljanja, te kombinovanjem ovakvih načina kretanja kroz program. Veoma je bitno kod učenika razviti sposobnost distinkcije ovakvih načina kretanja, te ih kroz svakodnevne primjere osposobiti da detektuju koju od navedenih algoritamskih struktura da koriste kada i primjene u programima.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Načini kretanja kroz program povezani su sa načinima kretanja u prirodi i svakodnevnom životu gdje sekvenca predstavlja pravolinijski put, selekcija raskrsnicu, a iteracija kružno kretanje. Zbog toga, možemo uočiti vezu sa mnogobrojnim predmetima koji proučavaju kako prirodne pojave, tako i socijalnu svakodnevnicu: matematikom, fizikom, geografijom, biologijom, te jezicima, istorijom, psihologijom i sociologijom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Socijalna i građanska kompetencija: poznavanje lingvističkih posebnosti različitih govornih jezika i preslikavanje pravila govornih na programske jezike, te konstruktivna komunikacija između korisnika i programa.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+
+C.I.4
+Konstruiše programe sa strukturama ponavljanja.
+TIT-4.2.1 TIT-4.2.2
+C.I.4.a Koristi operatore pomjeranja u programima. 
+C.I.4.b Modelira programe sasvim vrstama petlji relevantnog programskog jezika kod kojih je poznat broj ponavljanja, i beskonačnim petljama sa nasilnim prekidima.
+C.I.4.c Kreira programe sa višestrukim izvršavanjem.
+KLJUČNI SADRŽAJI
+Iteracija, Operatori pomjeranja
+PREPORUKE ZA OSTVARENJE ISHODA
+Ovdje posebnu pažnju treba posvetiti razvijanju učeničke sposobnosti za postavljanjem incijalnog uslova i uslova zaustavljanja, te uspostavljanjem koraka iteracije. Ove sposobnosti treba razvijati kroz raznovrsne programe koji koriste najrazličitije vrste i tipove petlji.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Načini kretanja kroz program povezani su sa načinima kretanja u prirodi i svakodnevnom životu gdje sekvenca predstavlja pravolinijski put, selekcija raskrsnicu, a iteracija kružno kretanje. Zbog toga, možemo uočiti vezu sa mnogobrojnim predmetima koji proučavaju kako prirodne pojave, tako i socijalnu svakodnevnicu: matematikom, fizikom, geografijom, biologijom, te jezicima, istorijom, psihologijom i sociologijom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Socijalna i građanska kompetencija: poznavanje lingvističkih posebnosti različitih govornih jezika i preslikavanje pravila govornih na programske jezike, te konstruktivna komunikacija između korisnika i programa.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+Srednje
+II
+Godine učenja i podučavanja predmeta: 2
+A Algoritmi
+A.II.1
+A.II.2
+A.II.3
+A.II.4
+B Reprezentacija i obrada podataka
+B.II.1
+B.II.2
+B.II.3
+B.II.4
+C Kontrola toka i komunikacija
+C.II.1
+C.II.2
+C.II.3
+A
+Algoritmi
+
+A.II.1
+Razvija funkcije generičke prirode. 
+A.II.2
+Izrađuje programe sa rekurzivnim rješenjima.
+A.II.3
+Primijenjuje složene pokazivačke tipove pri radu sa bibliotečkim funkcijama.
+A.II.1.a Objašnjava koncept generičkog programiranja.
+A.II.1.b Vrši preklapanje funkcija po broju i tipu parametara.
+A.II.1.c Koristi šablonske funkcije za pozivanje nad različitim tipovima podataka.
+A.II.1.d Modelira generičke funkcije sa višestrukom dedukcijom tipa podataka. 
+A.II.2.a Objašnjava princip rekurzivnog izvršavanja programa i D&C pristupa.
+A.II.2.b Konstruiše funkcije sa jednim i dva rekurzivna poziva. 
+A.II.2.c Analizira i modifikuje poznate rekurzivne algoritme (npr. Hanojske kule). 
+A.II.3.a Koristi bibliotečke funkcije koje primaju pokazivače kao parametre i koje vraćaju pokazivače.
+A.II.3.b Kreira pokazivače na kreirane funkcije kako bi ih prenio kao parametre bibliotečkim funkcijama u svrhu definisanja novih odnosa među podacima.  
+KLJUČNI SADRŽAJI
+Preklapanje funkcija, Generičke funkcije
+KLJUČNI SADRŽAJI
+Rekurzivne funkcije
+KLJUČNI SADRŽAJI
+Pokazivači na funkcije
+PREPORUKE ZA OSTVARENJE ISHODA
+Generičko programiranje funkcija predstavlja temelj za efikasan razvoj klasa u narednoj godini izučavanja ovog predmeta. Zbog toga je veoma bitno da učenici usvoje ove koncepte. Ukoliko su savladali osnove izrade funkcija, onda im izrada šablona i postavljanje predefinisanih vrijednosti ne bi trebali predstavljati nikakav problem, jer su nadogradnja na prethodno gradivo.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Moderno društvo teži šabloniziranju i generalizaciji postupaka, što oblast generičkog programiranja prati. Stoga, ovdje se da uočiti direktna veza sa sociologijom i psihologijom, te matematikom i prirodnim naukama koje teže algoritmizaciji i uopštavanju postupaka.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja matematičkih elemenata, fenomena i situacija; odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+PREPORUKE ZA OSTVARENJE ISHODA
+Rekurzivne funkcije su prvi koncept unutar ovog predmeta koji koristi potpuno drugačiji način razmišljanja od onog na koji su učenici naviknuti do ovog trenutka. Ovdje je bitno veoma postupno proći kroz primjere, te paralelno zadavati zadatke jednake težine onim iz primjera kako bi učenici polako usvojili koncept.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Rekurzivni postupci su postupci koji problem rješavaju usitnjavanjem polaznog problema do trivijalnog slučaja, a potom grade rješenje rekonstrukcijom. Ovakvi postupci uobičajeni su u matematici i prirodnim naukama: fizici, hemiji i biologiji.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja matematičkih elemenata, fenomena i situacija; odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+PREPORUKE ZA OSTVARENJE ISHODA
+Primjena složenih pokazivačkih tipova ne treba se izučavati u dubinu. Učenici se sa višestrukim pokazivačima samo trebaju upoznati, a akcenat treba biti na pokazivačima na funkcije koje će potom učenici iskoristiti kao parametre u bibliotečkim funkcijama u svrhu definisanja odnosa podataka (npr. pozivanje funkcije za sortiranje koja će skup uređenih tačaka sortirati po dužini radijus vektora, pri čemu se kriterij sortiranja nalazi u funkciji na koju pokazujemo).
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Pokazivači rade sa direktnim pristupom memoriji, te ovdje uočavamo vezu sa informatikom (struktura memorije računara) i matematikom (adresiranje i memorijsko zauzeće). Pored toga, s obzirom da se na ovom mjestu obrađuju i bibliotečke funkcije za sortiranje i filtriranje podataka, ostvaruje se direktna veza sa bazama podataka, statistikom, jezicima, te svim društvenim naukama koje sakupljaju i obrađuju podatke kao što su sociologija, geografija, isl.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja matematičkih elemenata, fenomena i situacija; odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+
+A.II.4
+Primjenjuje kontejnerske tipove podataka na rješavanje svakodnevnih problema.
+A.II.4.a Rješava programske zadatke analitičke geometrije primjenom biblioteke za rad sa kompleksnim brojevima.
+A.II.4.b Primjenjuje adaptivne kontejnere  (stek i red)  na problem dizajniranja kalkulatora i sintaksnu provjeru (redoslijed operacija i zagrada).
+A.II.4.c Konstruiše praktične programe za rad sa parovima ključ-vrijednost primjenom asocijativnih kontejnere (set i map) – npr. imenik. 
+KLJUČNI SADRŽAJI
+Kontejnerski tipovi podataka 
+PREPORUKE ZA OSTVARENJE ISHODA
+Primjenu kontejnerskih tipova podataka neophodno je proći kroz primjere. Učenici trebaju razumjeti svrhu adaptivnih kontejnera (steka i reda) u određivanju prioriteta operacija i sintaksnoj provjeri, te raditi na praktičnim problemima sa sekvencijalnim i asocijativnim kontejnerima, koristeći pritom iteratore.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Kontejnerski tipovi podataka imaju široku primjenu u praksi te se mogu povezati sa mnogim naučnim disciplinama. Adaptivni kontejneri najjaču vezu ostvaruju sa matematikom i jezicima, dok se asocijativni kontejneri povezuju sa svakodnevnim potrebama u kojima se podaci odmah čuvaju sortirani, pa se direktna veza ostvaruje sa bazama podataka, te svim društvenim naukama koje sakupljaju i obrađuju podatke na osnovu ključa kao što su sociologija, geografija, isl
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja matematičkih elemenata, fenomena i situacija; odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+B
+Reprezentacija i obrada podataka
+
+B.II.1
+Konstruiše funkcije različitog tipa sa različitim metodama prenosa i obrade podataka. 
+B.II.2
+Izrađuje programe koji implementiraju upisivanje, iščitavanje i modificiranje sadržaja eksternih datoteka.
+B.II.3
+Primjenjuje pokazivače i pokazivačku aritmetiku u programima.
+B.II.1.a Objašnjava razliku između prenosa parametara po vrijednosti i prenosa po referenci.
+B.II.1.b Koristi pozive funkcija u programima.
+B.II.1.c Programira različite tipove funkcija.
+B.II.2.a Objašnjava koncept eksterne datoteke i njene praktične primjene.
+B.II.2.b Povezuje eksterne datoteke sa programima koje kreira.
+B.II.3.a Objašnjava koncept pokazivača i njegovu vezu sa memorijom.
+B.II.3.b Koristi pokazivače i pokazivačku aritmetiku pri radu sa nizovima.
+B.II.3.c Analizira i identifikuje probleme prilikom upotrebe dinamičke alokacije memorije (viseći pokazivači i curenje memorije).
+B.II.3.d Konstruiše programe koji koriste pokazivače i pokazivačku aritmetiku.
+KLJUČNI SADRŽAJI
+Prenos po vrijednosti i prenos po referenci
+KLJUČNI SADRŽAJI
+Datoteka
+KLJUČNI SADRŽAJI
+Pokazivač, Dinamička alokacija memorije
+PREPORUKE ZA OSTVARENJE ISHODA
+Znanje iz funkcija treba graditi kroz postupno uvođenje načina prenosa podataka, te utjecaja funkcija na originalne podatke. Ovdje kroz znatan broj primjera i vježbi treba učenike osposobiti da instinktivno biraju ispravne načine prenosa i obrade podataka.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Obrada podataka unutar funkcija, datoteka i kontejnerskih tipova podataka, te kretanje kroz struktuirane podatke pomoću pokazivača su sve vrste preslikavanja, te se ovdje ostvaruje direktna veza sa matematikom, te informatikom kroz strukturu memorije računara. Pored toga, s obzirom da se ova cjelina bavi različitim reprezentacijama i tehnikama obrade podataka, ostvaruje se direktna veza i sa bazama podataka, te društvenim naukama koje sakupljaju i obrađuju podatke, kao što su sociologija, geografija, isl.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: kritičko korištenje tehnologije za pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+PREPORUKE ZA OSTVARENJE ISHODA
+U radu se prvenstveno treba detaljno posvetiti tekstualnim datotekama, njihovom kreiranju, popunjavanju, iščitavanju i modifikaciji, a po mogućnosti obraditi i binarne datoteke. Neophodno je učenicima pojasniti da se tok uvijek promatra iz referentnog sistema programa, te da izlazni tok upisuje u datoteku, a ulazni tok učitava u program.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Obrada podataka unutar funkcija, datoteka i kontejnerskih tipova podataka, te kretanje kroz struktuirane podatke pomoću pokazivača su sve vrste preslikavanja, te se ovdje ostvaruje direktna veza sa matematikom, te informatikom kroz strukturu memorije računara. Pored toga, s obzirom da se ova cjelina bavi različitim reprezentacijama i tehnikama obrade podataka, ostvaruje se direktna veza i sa bazama podataka, te društvenim naukama koje sakupljaju i obrađuju podatke, kao što su sociologija, geografija, isl.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: kritičko korištenje tehnologije za pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+PREPORUKE ZA OSTVARENJE ISHODA
+Koncept pokazivača učenicima na početku može biti nejasan. Stoga je ovdje bitno ići veoma postupno. Učenici treba da shvate osnovne koncepte i pristupe radu sa pokazivačima, i ne treba ići previše u dubinu, no samo osposobiti učenike za osnovnu manipulaciju. Upotreba dinamičke alokacije memorije treba se proučiti više teorijski, jer je praktična upotreba prekompleksna za ovaj uzrast. Učenicima treba pojasniti potrebu za dinamičkom alokacijom, njene prednosti i nedostatke, te samo okvirno proći sintaksu korištenja.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Obrada podataka unutar funkcija, datoteka i kontejnerskih tipova podataka, te kretanje kroz struktuirane podatke pomoću pokazivača su sve vrste preslikavanja, te se ovdje ostvaruje direktna veza sa matematikom, te informatikom kroz strukturu memorije računara. Pored toga, s obzirom da se ova cjelina bavi različitim reprezentacijama i tehnikama obrade podataka, ostvaruje se direktna veza i sa bazama podataka, te društvenim naukama koje sakupljaju i obrađuju podatke, kao što su sociologija, geografija, isl.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: kritičko korištenje tehnologije za pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+
+B.II.4
+Koristi kontejnerske tipove za struktuirano čuvanje kolekcije podataka.
+B.II.4.a Objašnjava princip rada kontejnerskih tipova podataka.
+B.II.4.b Upoređuje različite kontejnerske tipove podataka: sekvencijalni (vektori i liste), adapteri (stek i red), asocijativni (set i map).
+B.II.4.c Konstruiše programe koji koriste kontejnerske tipove podataka.
+KLJUČNI SADRŽAJI
+Iterator, Sekvencijalni kontejner, Adapter, Asocijativni kontejner
+PREPORUKE ZA OSTVARENJE ISHODA
+Kontejnerski tipovi podataka koji se obrađuju unutar ove cjeline daju učenicima uvid u nove načine reprezentacije kolekcije podataka. Neophodno je istaći karakteristike svakog od tipova, te učenike navesti da sami uočavaju koji je kontejnerski tip pogodan za koju upotrebu. Radi potpune efikasnosti upotrebe ovih tipova podataka neophodno je sa učenicima obraditi i iteratore uz obaveznu napomenu da se radi o specijalnim pokazivačima i uspostaviti veze sa ranijim gradivom.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Obrada podataka unutar funkcija, datoteka i kontejnerskih tipova podataka, te kretanje kroz struktuirane podatke pomoću pokazivača su sve vrste preslikavanja, te se ovdje ostvaruje direktna veza sa matematikom, te informatikom kroz strukturu memorije računara. Pored toga, s obzirom da se ova cjelina bavi različitim reprezentacijama i tehnikama obrade podataka, ostvaruje se direktna veza i sa bazama podataka, te društvenim naukama koje sakupljaju i obrađuju podatke, kao što su sociologija, geografija, isl.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: kritičko korištenje tehnologije za pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+C
+Kontrola toka i komunikacija
+
+C.II.1
+Razvija programe strogo modularnog dizajna. 
+C.II.2
+Konstruiše programe sa punom kontrolom ispravnosti toka u svrhu ispravljanja. 
+C.II.3
+Izrađuje cjelovit projektni zadatak. 
+C.II.1.a. Objašnjava promjenu toka programa prilikom poziva i izvršavanja funkcija (modula).
+C.II.1.b Dizajnira programe modularnog pristupa parčanjem koda u podprograme.
+C.II.2.a Pronalazi problematične tačke u programu i postavlja kontrolne tačke na tim mjestima.
+C.II.2.b Koristi bacanje izuzetaka iz modula programa.
+C.II.2.c Rukuje ugrađenim tipovima izuzetaka (biblioteke).
+C.II.3.a Dokumentuje korake i postupke projekta.
+C.II.3.b Projektuje opširniji program sadržaja tekuće tematske cjeline.
+C.II.3.c Kritički vrednuje uspješnost projekta.
+KLJUČNI SADRŽAJI
+Podprogram, Modularni dizajn
+KLJUČNI SADRŽAJI
+Kontrolne tačke programa, Obrada izuzetaka
+KLJUČNI SADRŽAJI
+Projektni zadatak
+PREPORUKE ZA OSTVARENJE ISHODA
+U sklopu izučavanja funkcija neophodno je učenicima pojasniti kako se pozivanje funkcija odvija na sistemskom nivou, te istaći prednosti ovakvog izvršavanja programa i pozivanja podprograma. Također, sa učenicima treba proći i prototipiranje funkcija, te pojasniti ulogu prototipa u modularnom dizajnu.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Pojam funkcije vodi direktno porijeklo iz matematičkog pojma funkcije, te na taj način ova oblast ostvaruje povezanost sa matematikom i prirodnim naukama kao što su fizika, hemija i biologija.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikaciona pismenost na maternjem jeziku: pisanje  dokumentacije, te usmeno prezentovanje rezultata svog rada.
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+PREPORUKE ZA OSTVARENJE ISHODA
+Ulaz u svaki program podložan je greškama, jer ovisi o unosu korisnika. Svaki dobar program trebao bi imati kontrolu stanja na osjetljivim mjestima, te definisane akcije u slučaju pojave greške. Ovdje je specijalno potrebno obratiti pažnju na pronalaženje ovih osjetljivih mjesta u programu i postavljanje kontrolnih tačaka na njima. Pored toga, sa učenicima bi trebalo proći ugrađene tipove izuzetaka i akcija u cilju pronalaska i uklanjanja grešaka.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Kontrola toka programa zasniva se na pojmovima domene i kodomene funkcije, te se ova povezanost nastavlja i ovdje. Pored ove povezanosti, kontrola toka programa se zbog načina na koji dolazi do greške još povezuje sa psihologijom i jezicima.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikaciona pismenost na maternjem jeziku: pisanje  dokumentacije, te usmeno prezentovanje rezultata svog rada.
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+PREPORUKE ZA OSTVARENJE ISHODA
+Po dostizanju svih relevantnih ishoda učenja (recimo kraj prvog polugodišta), potrebno je učenicima dati kraći projektni zadatak koji implementira modularni dizajn i koristi datoteke. Za ovaj projektni zadatak pogodni su programi koji simuliraju jednostavnije igrice. Po završetku obrade kontejnerskih tipova podataka (recimo kraj drugog polugodišta), učenici bi trebali dobiti drugi kraći projektni zadatak unutar kojeg će primijeniti kontejnerske tipove podataka na neki praktični problem. Cilj oba projektna zadatka je učenike poučiti o koracima koje je potrebno sprovesti tokom izrade programskog proizvoda, te o ispravnom pristupu u vođenju njegove dokumentacije.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Prilikom izrade projekta neposredna veza ostvaruje se sa matematičkim modelima, te maternjim jezikom kroz pisanje dokumentacije i prezentovanje projekta. Pored toga, unutar projekta je moguće ostvariti korelaciju sa bilo kojim predmetom kroz odabir teme. 
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikaciona pismenost na maternjem jeziku: pisanje  dokumentacije, te usmeno prezentovanje rezultata svog rada.
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+Srednje
+III
+Godine učenja i podučavanja predmeta: 3
+A Algoritmi
+A.III.1
+A.III.2
+A.III.3
+B Reprezentacija i obrada podataka
+B.III.1
+B.III.2
+B.III.3
+C Kontrola toka i komunikacija
+C.III.1
+C.III.2
+A
+Algoritmi
+
+A.III.1
+Procjenjuje efikasnost programa. 
+A.III.2
+Primjenjuje algoritme i funkcije za sortiranje i pretraživanje.
+A.III.3
+Implementira kompozicije klasa i čvorišta u klasama.
+A.III.1.a Mjeri vrijeme izvršavanja programa u realnom vremenu.
+A.III.1.b Izračunava broj operacija i memorijski utrošak u programima sa sekvencom, selekcijom i iteracijom, te u programima sa rekurzijom i stablima.
+A.III.1.c Pronalazi načine optimizacije broja operacija i memorijskog utroška programa. 
+A.III.2.a Generiše skupove nasumičnih vrijednosti uz ograničenja.
+A.III.2.b Analizira klasične i brze algoritme za sortiranje.
+A.III.2.c Objašnjava sekvencijalnu i binarnu pretragu. 
+A.III.2.d Modifikuje funkcije za sortiranje i pretraživanje.
+A.III.2.e Primjenjuje funkcije za sortiranje i pretraživanje.
+A.III.3.a Implementira ugniježdene strukturne tipove podataka.
+A.III.3.b Modifikuje klase sa čvorištima radi primjene u sopstvenim programima. 
+A.III.3.c  Konstruiše klase s čvorištima u većim programima. 
+KLJUČNI SADRŽAJI
+Vrijeme izvršavanja, Memorijski utrošak
+KLJUČNI SADRŽAJI
+Nasumične vrijednosti, Sortiranje, Pretraživanje
+KLJUČNI SADRŽAJI
+Kompozicija klasa, Čvorišta 
+PREPORUKE ZA OSTVARENJE ISHODA
+Kroz primjere programa koji izvršavaju isti zadatak, ali imaju različit broj operacija i memorijski utrošak, učenicima treba prikazati kako izračunati i optimizirati ove aspekte programa. Također, neophodno je skrenuti pažnju na klasična mjesta na kojima dolazi do rasipanja resursima. Neophodno je skrenuti pažnju na potrebu za optimizacijom čak i danas kada imamo više raspoloživih resursa, jer oni i dalje nisu neograničeni.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Određivanje efikasnosti programa u direktnoj je korelaciji sa matematikom i informatikom, te u indirektnoj vezi sa fizikom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja objekata i procesa kako iz matematike, tako i iz prirode i stvarnog života, te odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+PREPORUKE ZA OSTVARENJE ISHODA
+Prilikom izučavanja sortiranja i pretraživanja poželjno je prvo ponoviti sa učenicima relaciju poretka, te načine na koje se vrijednosti mogu sortirati. Nakon toga, učenicima treba detaljno pojasniti klasične metode sortiranja (selection, insertion i bubble), te brze rekurzivne metode (merge i quick), dok ostale metode treba samo spomenuti. Učenici nakon izučavanja ove oblasti trebaju biti u stanju modifikovati funkcije sortiranja i pretraživanja tako da rade sa različitim tipovima podataka i relacijama poretka. Pored toga, učenicima bi na kraju izučavanja oblasti trebalo pokazati i kako koristiti bibliotečke funkcije u svrhu primjene na sortiranje i pretraživanje.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Sortiranje i pretraživanje dio su svakodnevnice i javljaju se kako u svim sferama života, tako i u svim naučnim disciplinama koje na bilo koji način sakupljaju i obrađuju informacije. Neposrednu povezanost možemo uočiti sa matematikom, jezicima, bazama podataka, geografijom,...
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja objekata i procesa kako iz matematike, tako i iz prirode i stvarnog života, te odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+PREPORUKE ZA OSTVARENJE ISHODA
+Strukturni tipovi čvorišta neophodni su za implementaciju novih tipova podataka koji podržavaju iteratore i indeksiranje. Ovaj koncept isprva može biti zbunjujući učenicima, te je stoga neophodno izdvojiti vrijeme da se studiozno na času obradi veći broj primjera, od najjednostavnijih, do onih malo kompleksnijih. Ovdje nije neophodno ići pretjerano u dubinu materije, već osposobiti učenike da prepoznaju ovakve strukture, te da modifikuje već postojeće.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Koncept kompozicije klasa, iako je ovdje riječ o podacima, oslanja se na koncept kompozicije funkcija u matematici, i najpogodnije ga je i uvesti na taj način. 
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja objekata i procesa kako iz matematike, tako i iz prirode i stvarnog života, te odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+B
+Reprezentacija i obrada podataka
+
+B.III.1
+Primjenjuje koncepte objektno zasnovanog programiranja u praksi.
+B.III.2
+Primjenjuje koncepte objektno orijentisanog programiranja u praksi.
+B.III.3
+Projektuje generičke klase.
+B.III.1.a Objašnjava koncepte objektno zasnovanog programiranja (zaštitu podataka i enkapsulaciju).
+B.III.1.b Koristi strukture i klase u programima.
+B.III.1.c Projektuje klase u programima.
+B.III.2.a Objašnjava koncepte objektno orijentisanog programiranja: nasljeđivanje i polimorfizam.
+B.III.2.b Primjenjuje nasljeđivanje u programima.
+B.III.2.c Primjenjuje polimorfizam u programima.
+B.III.3.a Koristi generičko programiranje.
+B.III.3.b Generalizira osobine istorodnih objekata u cilju objedinjavanja programskih postupaka.
+B.III.3.c Modelira generičke tipove podataka.
+KLJUČNI SADRŽAJI
+Zaštita podataka, Enkapsulacija, Nasljeđivanje, Polimorfizam, Generičko programiranje 
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Kako bi mogli usvojiti koncepte objektno orijentisanog programiranja učenici prvo trebaju kroz obilan fond sati proći objektno zasnovano programiranje, te i jedan i drugi koncept obraditi kroz iscrpne primjere i uvježbavanje. Klase koje se obrađuju kao primjeri trebaju biti raznolike i postupno evoluirati od klasa sa atributima bazičnih tipova, preko klasa sa nizovima kao atributima, te na kraju do klasa sa pokazivačima kao atributima.
+Generičko programiranje klasa nastavlja se na gradivo drugog razreda u kojem su učenici obradili generičke funkcije, pa se prije obrade novog gradiva, treba prisjetiti onog prethodnog, te iz njega graditi dalje. 
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Koncepti objektno zasnovanog i objektno orijentisanog programiranja proizilaze iz društvenog doživljaja podataka i odnosa u prirodi, te ostvaraju direktnu vezu prvenstveno sa biologijom i sociologijom, te neizostavnom matematikom.
+Generički pristup programiranju u pozadini sadrži potrebu čovjeka da na isti način obrađuje različite vrste podataka, stavljajući te podatke u šablon i smanjujući tako broj različitih postupaka koje treba naučiti. Prema tome, ovdje vidimo pozadinu u psihologiji i sociologiji, te matematici koja učenike uči postupcima generalizacije.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja, specijalno generalizacije, i prikazivanja objekata stvarnog života u digitalnom obliku.
+Informatička pismenost: kritičko korištenje tehnologije za pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza, sposobnost i spremnost da se upotrijebe znanja i metodologije u svrhu objašnjavanja objekata iz stvarnog svijeta.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+C
+Kontrola toka i komunikacija
+C.III.1
+Kreira preklopljene operatore unutar klasa. 
+C.III.2
+Projektuje biblioteku sa alatima za novi tip podataka. 
+C.III.1.a Koristi konstruktore, destruktor i preklopljene operatore u programima.
+C.III.1.b Kreira samostalno preklopljene operatore.
+C.III.1.c Procjenjuje potrebu za preklapanjem operatora specifične namjene.
+C.III.2.a Organizuje program u više fajlova.
+C.III.2.b Proširuje program pomoću nestandarnih biblioteka.
+C.III.2.c Projektuje biblioteku za rad sa izvedenim tipom podataka.
+C.III.2.d Dokumentuje projekat.
+KLJUČNI SADRŽAJI
+Konstruktor, Destruktor, Preklapanje operatora
+KLJUČNI SADRŽAJI
+Organizacija programa, Nestandardne biblioteke, Dokumentacija
+PREPORUKE ZA OSTVARENJE ISHODA
+U cilju intuitivnijeg i profesionalnijeg rada sa izvedenim tipovima podataka vrši se preklapanje operatora. Ovdje je neophodno proći kroz postupke kreiranja konstruktora, destruktora, konstruktora kopije i operatora dodjele, te preklapanje aritmetičkih i operatora poređenja. Pored toga, poželjno je obraditi i preklapanje operatora izlaznog i ulaznog toka, operatora pomjeranja i preklapanje zagrada.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Kako preklopljeni operatori omogućavaju rad sa standardnim operatorima čiji su operandi izvedeni tipovi podataka, to upotreba izvedenih tipova postaje intuitivnija, jer se približava notaciji na koju su korisnici već naviknuti. Prilagođavanje korisniku uvijek povlači vezu sa psihologijom i sociologijom, dok činjenica da operatorima pridružujemo standardna značenja povlači vezu sa matematikom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikaciona pismenost na maternjem jeziku: piše dokumentaciju, te usmeno prezentuje rezultate svog rada.
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+PREPORUKE ZA OSTVARENJE ISHODA
+U toku godine potrebno je planirati neophodno vrijeme za dva manja ili jedan veliki samostalni učenički projekat. Ukoliko se planiraju dva manja, poželjno je da jedan bude iz objektno zasnovanog programiranja, a drugi da proizilazi iz njega i bude objektno orijentisan. Finalni rezultat bi trebao biti biblioteka za rad sa novodefinisanim tipom podataka, poželjno generičkim. Kako bi učenici mogli novi tip podataka razvijati kao biblioteku neophodno je prije početka projekta sa učenicima proći razdvajanje programa u više fajlova. U toku izrade projekta predavač bi trebao pratiti rad pojedinca, odnosno grupe, koja radi na projektu i pružati im pomoć u vidu navođenja na ispravan put u radu, te ispravljanja grešaka u programu koje učenici ne mogu otkloniti sami. Također, tokom cijele izrade projekta učenike treba navoditi da rade paralelno na dokumentaciji projektnog zadatka.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Prilikom izrade projekta neposredna veza ostvaruje se sa matematičkim modelima, te maternjim jezikom kroz pisanje dokumentacije i prezentovanje projekta. Pored toga, unutar projekta je moguće ostvariti korelaciju sa bilo kojim prirodnim ili stručnim tehničkim predmetom kroz odabir tipa podataka koji se razvija.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikaciona pismenost na maternjem jeziku: piše dokumentaciju, te usmeno prezentuje rezultate svog rada.
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+Srednje
+IV
+Godine učenja i podučavanja predmeta: 4
+A Algoritmi
+A.IV.1
+A.IV.2
+B Reprezentacija i obrada podataka
+B.IV.1
+C Kontrola toka i komunikacija
+C.IV.1
+C.IV.2
+C.IV.3
+C.IV.4
+C.IV.5
+A
+Algoritmi
+A.IV.1
+Primijenjuje algebarske transformacije na grafičke objekte u računarskoj reprezentaciji. 
+A.IV.2
+Kombinuje poznate grafičke primitive u svrhu prikaza složenijih grafičkih objekata u programima.
+A.IV.1.a Objašnjava načine zapisa grafičkih prikaza u računarskoj memoriji.
+A.IV.1.b Izračunava pozicije koordinata objekata nakon geometrijskih transformacija u dvodimenzionalnom i trodimenzionalnom prikazu.
+A.IV.1.c Primjenjuje matematičke zapise krivih linija na modeliranje grafičkih objekata. 
+A.IV.2.a Koristi grafičke primitive ravne linije, pravogaonika, kruga i kružnog isječka prilikom izrade programa.
+A.IV.2.b Izrađuje programe sa grafičkim prikazima.
+KLJUČNI SADRŽAJI
+Fizičke i logičke koordinate, Grafička primitiva, Translacija, Rotacija, Skaliranje, Projekcija, Perspektiva, Kriva linija, Grafički objekat
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Kako bi brže i efikasnije savladali programiranje grafičkih objekata, učenicima je neophodno prvo predočiti osnove računarske grafike i geometrije. Teorijski dio treba prikazati uz mnoštvo vizuelnih primjera, i ne mora se nužno razdvajati od praktične primjene, nego se ove dvije tematske cjeline mogu i presjecati.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Pored evidentne veze između računarske geometrije i matematike, ovdje se ostvaruje još i veza sa fizikom (elastičnost), te sa likovnom kulturom (perspektiva).
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene raznih vrsta prikazivanja objekata i procesa, te odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+B
+Reprezentacija i obrada podataka B.IV.1
+Modelira jednostavne programe u asemblerskom jeziku.
+B.IV.1.a Objašnjava sintaksu i način izvršavanja asemblerskog koda.
+B.IV.1.b Koristi instrukcije za sekvencijalne programe.
+B.IV.1.c Modelira asemblerski kôd sa skokovima.
+B.IV.1.d Manipulira stekom na sistemskom nivou.
+KLJUČNI SADRŽAJI
+Asemblerski jezik, Instrukcije, Skokovi, Manipulacija stekom 
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Ovo je prvi put da se učenici susreću sa programiranjem na nižem nivou. Stoga je nužno ići polako, kako bi učenici mogli sistematski razviti pristup ovakvom načinu razmišljanja. Preporučljivo je da se programiranje u asemblerskom jeziku izučava praktično, pozivanjem asemblerskog načina rada u nekom programskom jeziku visokog nivoa. 
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Učenje programiranja u asemblerskom jeziku može predstavljati izazov, te je stoga neophodno ostvariti živu vezu sa jezicima, i prikazati asemblerski način zadavanja instrukcija kao sintaksu novog jezika. Pored veze sa jezicima, neposredna je veza i sa predmetom informatika, te matematikom i prirodnim naukama.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja, specijalno generalizacije, i prikazivanja objekata stvarnog života u digitalnom obliku.
+Informatička pismenost: kritičko korištenje tehnologije za pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza, sposobnost i spremnost da se upotrijebe znanja i metodologije u svrhu objašnjavanja objekata iz stvarnog svijeta.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+C
+Kontrola toka i komunikacija
+
+C.IV.1
+Objašnjava organizaciju procesora i memorije iz perspektive programera. 
+C.IV.2
+Objašnjava proces prevođenja i izvršavanja programa. 
+C.IV.3
+Razvija programe sačinjene od više međusobno interaktivnih dokumenata. 
+C.IV.1.a Opisuje organizaciju procesora i memorije.
+C.IV.1.b Klasifikuje registre po njihovoj namjeni.
+C.IV.1.c Objašnjava princip generisanja mašinskog koda.
+C.IV.2.a Objašnjava faze i mehanizme prilikom kompajliranja, specijalno uloge kompajlera, parsera i linkera.
+C.IV.2.b Objašnjava višenîtno izvršavanje programa.
+C.IV.3.a Primijenjuje imenike na uklanjanje kolizija u imenovanju objekata i predprocesorske naredbe na upravljanje uslovnim prevođenjem.
+C.IV.3.b Primjenjuje predprocesorske naredbe i imenike u svrhu definisanja procesa prilikom izvršavanja i povezivanja eksternih dokumenata sa programom.
+
+
+C.IV.4
+Modelira programe sa grafičkim korisničkim sučeljem. 
+C.IV.5
+Projektuje i dokumentuje program sa grafičkim elementima. 
+C.IV.4.a Implementira interaktivne elemente u programima.
+C.IV.4.b Primjenjuje interaktivne elemente za kreiranje programa sa grafičkim korisničkim sučeljem.
+C.IV.5.a Organizuje program u više fajlova.
+C.IV.5.b Proširuje program pomoću nestandarnih biblioteka.
+C.IV.5.c Projektuje program sa grafičkim korisničkim sučeljem.
+C.IV.5.d Evaluira projekat u pisanoj formi.
+KLJUČNI SADRŽAJI
+Kompajliranje, Parser, Linker, Nît, Imenik, Predprocesor, Sučelje, Prozor, Dugme, Projekat, Dokumentacija
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Kako bi mogli razvijati kompleksne programe i upravljati svim segmentima prevođenja i izvršavanja programa, neophodno je učenicima približiti postupak prevođenja programa na svim nivoima i kroz sve faze. Neophodno je uspostaviti vezu programa koje su do ovog trenutka razvijali sa mašinom na najnižem nivou, te sa korisnikom kroz grafičko korisničko sučelje (GUI) na najvišem nivou.
+U toku godine potrebno je planirati neophodno vrijeme za projektni zadatak. Finalni rezultat bi trebao biti višedokumentni program sa grafičkim korisničkim sučeljem. U toku izrade projekta predavač bi trebao pratiti rad pojedinca, odnosno grupe, koja radi na projektu i pružati im pomoć u vidu navođenja na ispravan put u radu, te ispravljanja grešaka u programu koje učenici ne mogu otkloniti sami. Također, tokom cijele izrade projekta učenike treba navoditi da rade paralelno na dokumentaciji projektnog zadatka.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Put programa od izvornog fajla prema mašini, pa od mašine prema aplikaciji i, na kraju, korisniku obiluje mnoštvom prevođenja izvornog koda iz jednog oblika u drugi. Prema tome, ovdje je veza sa jezicima neizostavna, te veza sa matematičkim i hijerarhijskim modelima.
+Prilikom izrade projekta neposredna veza ostvaruje se sa matematičkim modelima u pozadini, i estetikom (likovnu kultura, filozofija, psihologija i sociologija) u vidljivom dijelu aplikacije, te maternjim jezikom kroz pisanje dokumentacije i prezentovanje projekta. Pored toga, unutar projekta je moguće ostvariti korelaciju sa bilo kojim drugim predmetom kroz odabir teme.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikaciona pismenost na maternjem jeziku: pisanje dokumentacije, te usmeno prezentovanje rezultata rada.
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

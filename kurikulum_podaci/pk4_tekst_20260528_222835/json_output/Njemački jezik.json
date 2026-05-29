@@ -1,0 +1,2194 @@
+{
+  "predmet": "Njemački jezik",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "5"
+  },
+  "tematske_cjeline": [
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje i razumijevanje pročitanog sadržaja",
+    "C Govor i usmena produkcija i komunikacija",
+    "D Pisanje i pismena produkcija i komunikacija"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.5.1",
+      "opis": "A.5.2"
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "B Čitanje i razumijevanje pročitanog sadržaja"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B.5.2"
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "C Govor i usmena produkcija i komunikacija"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.5.2"
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": "D.5.2"
+    },
+    {
+      "oznaka": "D.5.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "A.5.1. Učenik/-ca analizira slušajući različite audio/ audio-vizuelne sadržaje"
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": "A.5.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "A.5.3. Učenik/-ca primjenjuje različite strategije slušanja kritički promišljajući o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.2.2 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": ".1"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B.5.1. Učenik/-ca analizira informacije u različitim pisanim sadržajima"
+    },
+    {
+      "oznaka": "B.5.2",
+      "opis": "B.5.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "B.5.3. Učenik/-ca primjenjuje različite strategije čitanja kritički promišljajući o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.5.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.5.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.5.1. Učenik/-ca kreira različite vrste monoloških i dijaloških oblika komunikacije u skladu sa osnovnim odlikama govornog jezika koristeći IKT"
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": "C.5.2. Učenik/-ca koristi u govoru različite komunikacijske strategije kritički promišljajući o obrascima sporazumijevanja u interkulturalnom kontekstu"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": "D.5.1. Učenik/-ca kreira informacije pisanom realizacijom jezika, promišljajući o diskursnoj kompetenciji"
+    },
+    {
+      "oznaka": "D.5.2",
+      "opis": "D.5.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "D.5.3",
+      "opis": "D.5.3. Učenik/-ca koristi u pisanju različite komunikacijske strategije kritički promišljajući o obrascima pismene komunikacije i koristeći IKT"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.3.1 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "D.5.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.5.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.5.2",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "D.5.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.5.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "B Čitanje i razumijevanje pročitanog sadržaja"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B.6.2"
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "C Govor i usmena produkcija i komunikacija"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": "D.6.2"
+    },
+    {
+      "oznaka": "D.6.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.1. Učenik/-ca analizira slušajući različite audio/ audio-vizuelne sadržaje"
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "A.6.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "A.6.3. Učenik/-ca primjenjuje različite strategije slušanja kritički promišljajući o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.3.1 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B.6.1. Učenik/-ca analizira informacije u različitim pisanim sadržajima"
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": "B.6.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti i razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "B.6.3. Učenik/-ca primjenjuje različite strategije čitanja kritički promišljajući o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": ".1"
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.1. Učenik/-ca kreira različite vrste monoloških i dijaloških oblika komunikacije u skladu sa osnovnim odlikama govornog jezika koristeći IKT"
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "C.6.2. Učenik/-ca koristi u govoru različite komunikacijske strategije kritički promišljajući o obrascima sporazumijevanja u interkulturalnom kontekstu"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": "D.6.1. Učenik/-ca kreira informacije pisanom realizacijom jezika promišljajući o diskursnoj kompetenciji"
+    },
+    {
+      "oznaka": "D.6.2",
+      "opis": "D.6.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "D.6.3",
+      "opis": "D.6.3. Učenik/-ca koristi u pisanju različite komunikacijske strategije kritički promišljajući o obrascima pismene komunikacije i koristeći IKT"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.3.1 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "D.6.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.6.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.6.2",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "D.6.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.6.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "B Čitanje i razumijevanje pročitanog sadržaja"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "C Govor i usmena produkcija i komunikacija"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": "D.7.2"
+    },
+    {
+      "oznaka": "D.7.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.1. Učenik/-ca analizira slušajući različite audio/ audio-vizuelne sadržaje"
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "A.7.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "A.7.3. Učenik/-ca primjenjuje različite strategije slušanja kritički promišljajući o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.2.2 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.1. Učenik/-ca analizira informacije u različitim pisanim sadržajima"
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "B.7.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "B.7.3. Učenik/-ca primjenjuje različite strategije čitanja kritički promišljajući o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": ".1"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.1. Učenik/-ca kreira različite vrste monoloških i dijaloških oblika komunikacije u skladu sa osnovnim odlikama govornog jezika koristeći IKT"
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "C.7.2. Učenik/-ca koristi u govoru različite komunikacijske strategije kritički promišljajući o obrascima sporazumijevanja u interkulturalnom kontekstu"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": ".2"
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": "D.7.1. Učenik/-ca kreira informacije pisanom realizacijom jezika promišljajući o diskursnoj kompetenciji"
+    },
+    {
+      "oznaka": "D.7.2",
+      "opis": "D.7.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "D.7.3",
+      "opis": "D.7.3. Učenik/-ca koristi u pisanju različite komunikacijske strategije kritički promišljajući o obrascima pismene komunikacije i koristeći IKT"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.3.1 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "D.7.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.7.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.7.2",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "D.7.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.7.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "B Čitanje i razumijevanje pročitanog sadržaja"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "C Govor i usmena produkcija i komunikacija"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "D.8.2"
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.1. Učenik/-ca analizira slušajući različite audio/ audio-vizuelne sadržaje"
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "A.8.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti i razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "A.8.3. Učenik/-ca primjenjuje različite strategije slušanja kritički promišljajući o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.3.1 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.1. Učenik/-ca analizira informacije u različitim pisanim sadržajima"
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "B.8.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti i razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "B.8.3. Učenika/-ca primjenjuje različite strategije čitanja kritički promišljajući o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.1. Učenik/-ca kreira različite vrste monoloških i dijaloških oblika komunikacije u skladu sa osnovnim odlikama govornog jezika koristeći IKT"
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "C.8.2. Učenik/-ca koristi u govoru različite komunikacijske strategije kritički promišljajući o obrascima sporazumijevanja u interkulturalnom kontekstu"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "D.8.1. Učenik/-ca kreira informacije pisanom realizacijom jezika promišljajući o diskursnoj kompetenciji"
+    },
+    {
+      "oznaka": "D.8.2",
+      "opis": "D.8.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "D.8.3. Učenik/-ca koristi u pisanju različite komunikacijske strategije kritički promišljajući o obrascima pismene komunikacije i koristeći IKT"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.3.1 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "D.8.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.8.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.8.2",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "D.8.2",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A.9.2"
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "B Čitanje i razumijevanje pročitanog sadržaja"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "C Govor i usmena produkcija i komunikacija"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.2"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A.9.1. Učenik/-ca analizira slušajući različite audio/ audio-vizuelne sadržaje"
+    },
+    {
+      "oznaka": "A.9.2",
+      "opis": "A.9.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "A.9.3. Učenik/-ca primjenjuje različite strategije slušanja kritički promišljajući o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.3.1 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": ".5."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.1. Učenik/-ca analizira informacije u različitim pisanim sadržajima"
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "B.9.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti razlike razvijajući interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "B.9.3. Učenika/-ca primjenjuje različite strategije čitanja i kritički promišlja o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.1. Učenik/-ca kreira različite vrste monoloških i dijaloških oblika komunikacije u skladu sa osnovnim odlikama govornog jezika koristeći IKT"
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": "C.9.2. Učenik/-ca koristi u govoru različite komunikacijske strategije kritički promišljajući o obrascima sporazumijevanja u interkulturalnom kontekstu"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.1. Učenik/-ca kreira informacije pisanom realizacijom jezika, promišljajući o diskursnoj kompetenciji"
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "D.9.2. Učenik/-ca konstruktivno prosuđuje kulturološke sličnosti i razlike razvijajući  interkulturalnu senzibilnost"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "D.9.3. Učenik/-ca koristi u pisanju različite komunikacijske strategije  i kritički promišlja o obrascima pismene komunikacije koristeći IKT"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.3.1 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": ".2."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": ".3."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": ".4."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": ".1."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": ".2."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.3.1 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "Prati kraći niz instrukcija za poznate svakodnevne aktivnosti."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.5",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.3.1 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.3.1 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.5",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.3.1 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.3.1 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.5",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.3.1 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.3.1 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.5",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.2.3 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.5",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.3.1 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.5",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": ". Učenik/-ca kombinira  različite strategije čitanja i kritički promišlja o izvorima informacija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.5",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.3.1 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "I.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.2.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "I.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.2 SJZ-1.3.1 SJZ-1.1.2 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.5",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.3.2 SJZ-2.1.2"
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.5",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.3",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.3.1 SJZ-4.2.3 SJZ-4.3.1 SJZ-4.3.2"
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.2.4",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "U 5. razredu obrađuju se teme koje su prilagođene nivou jezičke kompetencije i uzrastu učenika.  Preporučene teme su:  Pozdravi",
+    "Predstavljanje",
+    "Ja i moja porodica",
+    "Škola",
+    "Moja bliža okolina",
+    "Vrijeme",
+    "Sport",
+    "Slobodno vrijeme i Moja domovina.  Od velike važnosti je obraditi  funkcionalnu upotrebu jezičkih sadržaja: pozdravljanje;  predstavljanje sebe i bliskih osoba i upoznavanje drugih; imenovanje dana u sedmici",
+    "mjeseci u godini i godišnjih doba",
+    "izražavanje osnovnih informacija o sebi",
+    "imenovanje osoba (članovi uže i šire porodice)",
+    "školskog pribora",
+    "atmosferskog  vremena",
+    "hronološkog vremena (puni sat – pola sata).   Leksičke strukture:   Osim stalne nadogradnje rječnika u vezi s datim temama",
+    "učenici će naučiti koristiti: afikse  (-e",
+    "-st",
+    "-t",
+    "-en",
+    "-t",
+    "-en)",
+    "antonime (npr. traurig-lustig",
+    "schwierig-einfach",
+    "schnell langsam",
+    "alt-jung...)",
+    "te prevodne ekvivalente ključnih riječi uz poređenje s b/h/s jezikom i nekim drugim stranim jezikom.  Gramatičke strukture su bez formalnih gramatičkih uputa:    određeni i neodređeni član",
+    "nulti član (Er ist Polizist.)",
+    "imenice u nominativu i akuzativu",
+    "množina imenica (Gast-Gäste)",
+    "negacija nein i nicht (Nein",
+    "Tim ist nicht in der Schule.)",
+    "lične zamjenice u nominativu i prisvojne zamjenice (mein/meine i dein/deine)",
+    "konjugacija pravilnih glagola u prezentu",
+    "pomoćni glagol u prezentu (sein)",
+    "modalni glagol u prezentu (können)",
+    "glagoski način imperativ",
+    "prijedlozi u njihovoj funkcionalnoj upotrebi (um",
+    "in",
+    "an",
+    "auf",
+    "nach",
+    "aus)",
+    "brojevi do 12",
+    "izjavne i upitne rečenice (W-Fragen: Wer bist du?) i da/ne upitne rečenice (Ja/Nein- Fragen: Kommst du aus Deutschland?)",
+    "veliko slovo pri pisanju imenica",
+    "znakovi interpunkcije i osnovni red riječi u rečenici."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      ":",
+      "1.1. Preporuke za realizaciju tema",
+      "Preporučene teme na ovom nivou se postepeno proširuju, primjerene su uzrastu, jezičkom razvoju i interesovanjima učenika. Teme se mogu izučavati zasebno ili u kombinaciji. Nastavnik bira broj, vrstu i raspored tema, jezičkih sredstava u nastavnoj godini, jer se u svakome razredu svi sadržaji proširuju i produblju.",
+      "1.2. Preporuke za realizaciju leksičkih i gramatičkih struktura",
+      "Gramatičke i leksičke strukture se biraju primjereno razvojnoj dobi učenika i u uskoj su vezi sa funkcijama i temama uz postepeno usvajanje i ponavljanje. Njemački jezik se u 1. godini učenja izučava oponašanjem, igranjem i ponavljanjem jezičkih obrazaca, odnosno jednostavnih rečenica naučenih napamet. Jezičke strukture  se usvajaju bez korištenja maternjeg jezika u što autentičnijem komunikacijskom kontekstu. Na receptivnom nivou učenici se izlažu i širemu rasponu jezičkih struktura od navedenih. Napomena „uz čestu pomoć nastavnika”  (npr. postavljanjem potpitanja, vizuelni prikaz), ali i pomoć drugih učenika, rad prema modelu zadatka uz služenje udžbenikom i sl.",
+      "Preporučene vrste tekstova: brojalice, pjesmice (tradicionalne i moderne, slikovnice, vrlo jednostavne rečenice praćene slikama, vrlo jednostavni tekstovi od nekoliko kratkih rečenica praćenih slikama, vrlo jednostavni dijaloški i opisni tekstovi.",
+      "Neke preporučene aktivnosti: gestikulacija, slaganje slika odgovarajućim redoslijedom, pokazivanje i opisivanje predmeta i slika, ponavljanje riječi i izraza, dopunjavanje tekstova, izvođenje zadanih radnji i vrlo jednostavnih uputa (Steh auf!), pjevanje, recitovanje, pantomima, imitiranje, gluma, razne igre, ples, najjednostavniji projektni zadaci (plakati, ...), korištenje digitalnih alata u svrhu učenja.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      ":",
+      "Horizontalno umrežavanje podrazumijeva odgovarajuće audio, printane i pisane sadržaje formom povezane sa predmetima Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (imenice, zamjenice pridjevi), Muzička kultura (pjesmice i brojalice), Likovna kultura (ilustracija pojmova: crtanje, bojenje – slikovni rječnik), Tjelesni i zdravstveni odgoj (aktivnosti u prirodi i specifičnim uslovima, npr. “Wir gehen auf den Spielplatz”), sportske aktivnosti (rodeln), Matematika (brojanje), Moja okolina (zanimanja, članovi šire porodice, iskazivanje vremena - puni sati, pola sata), Informatika (edukativne igre, aplikacije).",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "omogućav"
+    ]
+  }
+}

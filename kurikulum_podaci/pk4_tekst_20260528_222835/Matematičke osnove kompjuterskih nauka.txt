@@ -1,0 +1,207 @@
+PREDMET: Matematičke osnove kompjuterskih nauka
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Matemati%C4%8Dke%20osnove%20kompjuterskih%20nauka
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Matematičke osnove kompjuterskih nauka
+Matematičke osnove kompjuterskih nauka - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Srednje
+III
+Godine učenja i podučavanja predmeta: 1
+A Teorija skupova i brojeva
+A.III.1
+A.III.2
+A.III.3
+A.III.4
+A.III.5
+B Algebra
+B.III.1
+B.III.2
+B.III.3
+C Teorija grafova i algoritama
+C.III.1
+C.III.2
+C.III.3
+C.III.4
+A
+Teorija skupova i brojeva
+
+A.III.1
+Primjenjuje osobine i odnose skupova na rješavanje problemskih zadataka.
+A.III.2
+Analizira podatke prikupljene iz različitih izvora predstavljajući ih u različitim formama.
+A.III.3
+Bira i kombinuje strategije i operacije za rješavanje problema dajući rješenja u kontekstu problema.
+A.III.1.a. Izvodi složene operacije sa skupovima.
+A.III.1.b. Objašnjava Raselov paradoks.
+A.III.1.c. Povezuje skupovne operacije sa primjerima iz svakodnevnog života uz grafičku ilustraciju.
+A.III.2.a. Prikuplja podatke potrebne za rješavanje zadatog problema.
+A.III.2.b. Izdvaja podatke prema zadatim kriterijima.
+A.III.2.c. Prikazuje podatke na prikladan način tabelom i dijagramima.
+A.III.3.a. Primjenjuje algoritam za dobivanje svih prostih brojeva manjih od zadatog prirodnog broja (Eratostenovo sito).
+A.III.3.b. Primjenjuje NZD i NZS i Euklidov algoritam i njegov obrat.
+
+
+A.III.4
+Argumentuje postupak za rješavanje Diofantovih jednačina.
+A.III.5
+Primjenjuje kongruencije pri rješavanju linearnih problema i njihovih sistema.
+A.III.4.a. Kombinuje metode i tehnike rješavanja Diofantovih jednačina.
+A.III.4.b. Primjenjuje Diofantove jednačine u problemskim situacijama.
+A.III.5.a. Izvodi računske operacije po cjelobrojnom modulu.
+A.III.5.b. Koristi osobine kongruencija pri rješavanju problemskih zadataka.
+A.III.5.c. Povezuje probleme iz stvarnog života sa linearnim kongruencijama i njihovim sistemima.
+A.III.5.d. Rješava problemske situacije primjenjujući linearne kongruencije i njihove sisteme.
+KLJUČNI SADRŽAJI
+Skup; Skupovne operacije; Raselov paradoks;
+Tabela; Dijagram;  
+Djeljivost; Eratostenovo sito; NZD; NZS; ; Euklidov algoritam;
+Diofantove jednačine;
+Modularni sistemi; Kongruencije; Kineska teorema o ostacima; Sistem linearnih kongruencija;
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Pojam skupa proširiti na razne primjere skupova i relacija među njima (presjek, unija, razlika, simetrična razlika, podskup, partitivni skup, kardinalni broj skupa). Obratiti pažnju na pravilno korištenje matematičkih simbola prilikom zapisivanja skupova i skupovnih relacija. Analizirati sa učenicima Raselov paradoks.
+Kombinirati različite načine prikupljanja i razvrstavanja podataka, te ih prikazati putem tabela ili dijagrama. S obzirom na veliku primjenu sadržaja ove tematske cjeline, veoma je važno njene zakonitosti usvojiti do nivoa na kojem će učenicima oni postati prirodni i jednostavno primjenjivi kako u zadacima, tako i u svakodnevnom životu. Do ovih zakonitosti učenici bi trebali sami dolaziti induktivnim putem, ali ih obavezno treba iskazati i strogo matematički. Zadatke bi trebalo postepeno usložnjavati i kombinovati primjene dva i više pravila.
+Rješavanje Diofantovih jednačina dovesti do nivoa automatizma. Demonstrirati učenicima postupak rješavanja Diofantove jednačine. Primjenjivati Diofantove jednačine u jednostavnim problemskim zadacima.
+Kongruencije se trebaju uvesti putem primjera koji su učenicima već poznati (npr. danas je petak i za sedam dana je ponovo petak, tj. 5+7≡5(mod 7)). Svaki dio zapisa kongruencije treba tumačiti kako bi se razumio matematički zapis. Do zakonitosti koje vrijede među kongruencijama treba dolaziti induktivnim putem, te izvoditi generalizacije. Također računske operacije treba uvesti učenicima putem prirodnih primjera, a tek onda preći na generalna pravila. Da bi se učenici zainteresovali za kongruencije i rad s njima, ponuditi im interesantne zadatke, npr. kako odrediti ostatak nekog broja koji ima veliki eksponent stepena pri dijeljenju nekim brojem.
+Sadržaji ove tematske cjeline se mogu proučavati kroz interaktivan rad što doprinosi dinamičnoj atmosferi i potiče učenike na međusobni dijalog, konstruktivne rasprave, samostalno istraživanje i spremnost za kontinuiranim učenjem, te povećava samopouzdanje, samokontrolu i samoprocjenu. Povećavati sposobnost i spremnost korištenja matematičkih oblika mišljenja, te razvijati kreativnost i inovativnost. Od učenika tražiti da ,,matematiziraju” situacije i da ih rješavaju pomoću matematičkih alata samostalno ili u grupama u cilju razvoja  kritičkog mišljenja. Grupnim oblikom rada povećati motivaciju učenika za rad.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (npr. izražajno čitanje definicije funkcije radi isticanja riječi ,,svaki“ i ,,tačno jedan“; analiziranje dijelova rečenice u smislu razumijevanja veze između datih podataka);
+Informatika (npr. prikaz kompjuterskih simulacija Venovog dijagrama, dijeljenja sa ostatkom i sl, korištenje algoritma za računanje NZD i NZS, prikaz podataka grafički pomoću GeoGebre);
+Matematika (npr. ponavljanje ranije usvojenih pojmova, primjena Pitagorine teoreme);
+Tjelesni i zdravstveni odgoj (npr. primjena Venovog dijagrama);
+Likovna kultura (npr. korištenje boja za naglašavanje funkcionalnih veza među elementima);
+Geografija (npr. prikaz raznih skupova stanovništva, računanje prosječnih vrijednosti korsteći kriterije djeljivosti);
+Biologija (npr. Venov dijagram za prikaz životinjskih vrsta, rodova i sl., razmnožavanje mikroorganizama);
+Historija (npr. staroegipatski algoritam za množenje i dijeljenje);
+Fizika (npr. prigušene oscilacije, ubrzano kretanje, transferzalni valovi, kosi hitac, temparatura, korištenje uslova djeljivosti u zadacima radi kraćeg i lakšeg računanja, primjena linearnih jednačina i sistema linearnih jednačina na računski dio zadatka);
+Hemija (npr. radioaktivni raspad, miješanje hemijskih elemenata); 
+Programiranje se koristi kako bi se proizvela programska rješenja koja se koriste u svima naukama, ali ono i koristi druge nauke kako bi dizajn, funkcionalnost i upotreba programskog okruženja bila funkcionalna. U  gimnaziji se pretežno rješavaju matematički zadaci ili zadaci iz fizike, hemije, biologije koji imaju matematičku osnovu i logički su koncipirani.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme;  poštivanje istine kao temelja matematičkog razmišljanja.
+Kompetencija u nauci i tehnologij: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja matematičkih elemenata, fenomena i situacija; odabir i zamjena načina prikazivanja ako i kada je to potrebno; sposobnost i spremnost da se upotrijebe znanja i metodologija da bi se objasnila priroda; kompetencija u tehnologiji se tumači kao primjena znanja da bi se promijenilo prirodno okruženje u skladu sa ljudskim potrebama.
+Učenik slijedi pravila i svojstva operacija, kombinuje metode kako bi došao do tačnog rješenja. On planira put rješenja i razmatra analogne probleme. Podsticati istrajnost i učenje na greškama. Osposobiti učenika da jezičku formu problema pretvori u matematičku kao i obrnuto. Samostalnim i timskim radom razvijati metakognitivne kompetencije, kao i međusobno poštovanje, poštovanje privatnosti i prepoznavnaje pouzdanosti i valjanosti prikupljenih informacija. Korištenjem softverskog paketa Geogebra razvija se digitalna pismenost kao i IKT vještine.
+Informatička pismenost (informacijska, medijska, tehnološka): kritičko korištenje informacijsko-komunikacijske tehnologije za prikupljanje, vrednovanje i pohranjivanje informacija, za produkciju, predstavljanje i razmjene informacija i za ušešće u virtuelnim društvenim mrežama; upotreba tehnologije u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo; korištenje tehnologije za podršku kritičkog načina razmišljanja; Razvijati vještine upravljanja informacijama, te procjenjivanje važnosti i istinitosti tih informacija. Razvijati spremnost na argumentovano iznošenje vastitih ideja i obrazlaganje vlastitog mišljenja. Razvijati pozitivan odnos prema radu  i sposobnost učenika da uči, te njihovu samostalnost, samopouzdanje i samoprocjenu.
+Samoinicijativa i poduzetnička kompetencija: prepoznavanje vlastitih jakih i slabih strana; rad u timovima na kooperativan i fleksibilan način; konstruktivno sarađivanje u aktivnostima i upotreba vještina grupnog rada; upravljanje rizikom i razvijanje svijesti o odgovornosti.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (sažimanje, generalizacija, podrška upotrebi viših kognitivnih sposobnosti, kao što su analiza, sinteza, vrednovanje, upotreba kritičkog mišljenje (razlikovanje između činjenica i mišljenja, argumentovanje teza); upotreba logičnog strukturiranja i nizanja argumenata; razvijanje kreativnosti i potrebe za izraživanjem (proizvodnja i povezivanje različitih ideja, proizvodnja pretpostavki i različitih proizvoda); podrška radoznalosti, želji za novim znanjima (omogućavanje izražavanja vlastitih misli, ideja, emocija; razvijanje sposobnosti posmatranja, učestvovanja i integrisanja novih iskustava i spremnosti za mijenjanje prethodnih).
+B
+Algebra
+
+B.III.1
+Primjenjuje napredne tehnike pri radu sa logičkim iskazima.
+B.III.2
+Analizira rezultate statističke obrade podataka dobijenih primjenom osnovnih tehnika.
+B.III.3
+Primjenjuje dvodimenzionalne algebarske prikaze podataka u obradi.
+B.III.1.a. Koristi DPLL algoritam za rješavanje CNF SAT problema.
+B.III.1.b. Koristi Karnoove mape za pojednostavljivanje logičkih iskaza.
+B.III.2.a. Utvrđuje vjerovatnoću slučajnih događaja.
+B.III.2.b. Uspostavlja uzorak za statističku obradu.
+B.III.2.c. Računa osnovne statističke podatke na osnovu datog uzorka.
+B.III.2.d. Utvrđuje gustinu raspodjele i standardnu devijaciju unutar statističkog proračuna.
+  B.III.3.a. Kombinuje tehnike rada s matricama koristeći elementarne operacije.
+B.III.3.b. Rješava osnovne matrične jednačine.
+B.III.3.c. Primjenjuje rad sa matricama u programiranju višedimenzionalnih polja.
+KLJUČNI SADRŽAJI
+Kvantor; DPLL algoritam; Karnoove mape;
+Uzorak, Brojevne sredine, Medijan, Devijacija, Distribucija uzorka;
+Matrica; Jedinična matrica; Determinanta matrice; Inverzna matrica; Matrična jednačina;
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Ponavljanje osnova o matematičkoj logici i Booleovoj algebri  putem raznih kvizova doprinijet će dinamičnom radu među učenicima. Radeći samostalno i u grupama, učenici  trebaju u sklopu ove tematske cjeline proširiti svoja znanja iz matematičke logike i upoznati naprednije načine prikaza i obrade logičkih vrijednosti.
+U sklopu tematske cjeline koja se bavi statističkom obradom podataka učenici prvo trebaju savladati izračunavanje vjerovatnoće slučajnog događaja, sa akcentom na situacije koje posmatraju omjer broj povoljnih: broj mogućih, te na konverziju dobijenog broja iz intervala [0,1] u procentualni zapis. Nakon toga proći sa učenicima osnove statističke obrade podataka sa posebnim akcentom na devijacije (odstupanja) i distribuciju uzorka.
+Pojam matrice potrebno je uvesti kroz odgovarajuće primjere. Učenici trebaju znati vrste matrica i osnovne operacije sa matricama. Učenicima demonstrirati primjenu matrica u drugim oblastima matematike (sistemi jednačina, vektori,...) i u računarstvu (grafika, kriptografija,...).
+  Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (npr. transformacija verbalnih i simboličkih podataka jednih u druge);
+Informatika (npr. binarni sistemi, kompjuterske simulacije veza među skupovima brojeva, određivanje složenosti algoritma, algoritmi za sortiranje, demonstracija nastanka Pascalovog trougla, prikaz podataka grafički pomoću GeoGebre, Kriptografije);
+Fizika (npr. električna kola, određuje definiciono područje prilikom rješavanja zadatka, komunikacijske mreže, dokazivanje formula, Slaterove determinante);
+Matematika (npr. Dekartov proizvod skupova, dokazivanje nekih formula);
+Hemija (npr. generisanje kombinacija baza i hemijskih spojeva);
+Biologija (npr. izračunavanje određenih pojava, inteligentna analiza ljudskog lica);
+Psihologija (npr. kombinatorni problemi);
+Filozofija s logikom (npr. dokazivanje nekih formula);
+Programiranje se koristi kako bi se proizvela programska rješenja koja se koriste u svima naukama, ali ono i koristi druge nauke kako bi dizajn, funkcionalnost i upotreba programskog okruženja bila funkcionalna. U  gimnaziji se pretežno rješavaju matematički zadaci ili zadaci iz fizike, hemije, biologije koji imaju matematičku osnovu i logički su koncipirani.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme;  poštivanje istine kao temelja matematičkog razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja matematičkih elemenata, fenomena i situacija; odabir i zamjena načina prikazivanja ako i kada je to potrebno; sposobnost i spremnost da se upotrijebe znanja i metodologija da bi se objasnila priroda; kompetencija u tehnologiji se tumači kao primjena znanja da bi se promijenilo prirodno okruženje u skladu sa ljudskim potrebama.
+Učenik/ca slijedi pravila i svojstva operacija, kombinuje metode kako bi došao do tačnog rješenja. On planira put rješenja i razmatra analogne probleme. Podsticati istrajnost i učenje na greškama. Korištenjem softverskog paketa Geogebra razvija se digitalna pismenost kao i IKT vještine.
+Informatička pismenost (informacijska, medijska, tehnološka): kritičko korištenje informacijsko-komunikacijske tehnologije za prikupljanje, vrednovanje i pohranjivanje informacija, za produkciju, predstavljanje i razmjene informacija i za ušešće u virtuelnim društvenim mrežama; upotreba tehnologije u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo; korištenje tehnologije za podršku kritičkog načina razmišljanja;
+Samoinicijativa i poduzetnička kompetencija: prepoznavanje vlastitih jakih i slabih strana; rad u timovima na kooperativan i fleksibilan način; konstruktivno sarađivanje u aktivnostima i upotreba vještina grupnog rada; upravljanje rizikom i razvijanje svijesti o odgovornosti.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (sažimanje, generalizacija, podrška upotrebi viših kognitivnih sposobnosti, kao što su analiza, sinteza, vrednovanje, upotreba kritičkog mišljenje (razlikovanje između činjenica i mišljenja, argumentovanje teza); upotreba logičnog strukturiranja i nizanja argumenata); razvijanje kreativnosti i potrebe za izraživanjem (proizvodnja i povezivanje različitih ideja, proizvodnja pretpostavki i različitih proizvoda); podrška radoznalosti, želji za novim znanjima (omogućavanje izražavanja vlastitih misli, ideja, emocija; razvijanje sposobnosti posmatranja, učestvovanja i integrisanja novih iskustava i spremnosti za mijenjanje prethodnih).
+C
+Teorija grafova i algoritama
+
+C.III.1
+Analizira efikasnost algoritama.
+C.III.2
+Analizira terminalnost  algoritama.
+C.III.3
+Kombinuje strategije i operacije teorije grafova za rješavanje stvarnih problema.
+C.III.1.a. Izračunava broj operacija i memorijski utrošak algoritama.
+C.III.1.b. Utvrđuje kompleksnost algoritma u O notaciji.
+C.III.1.c. Vrednuje performase različitih algoritama za isti problem.
+C.III.1.d. Komparira algoritme koji rješavaju isti problem na osnovu vremenske i prostorne složenosti i odabire povoljniji za konkretnu primjenu.
+C.III.2.a. Objašnjava vezu između Čerčove teze i Turingove mašine.
+C.III.2.b. Objašnjava problem terminacije algoritma (Halting problem).
+C.III.2.c. Utvrđuje pripadnost algoritma odgovarajućem skupu: P, NP ili NPC.
+C.III.3.a. Objašnjava graf, vrste grafova i načine njihovih predstavljanja.
+C.III.3.b. Koristi algoritme za obilazak grafa (DFS i BFS).
+C.III.3.c.Utvrđuje postojanje Eulerove ture i Hamiltonovog ciklusa u grafu.
+C.III.3.d. Evaluira Problem kineskog poštara i Problem trgovačkog putnika.
+C.III.3.e. Primjenjuje algoritme za pronalazak najkraćeg puta.
+C.III.3.f. Analizira problem bojenja grafa.
+
+C.III.4
+Konstruiše stabla i na njima primjenjuje odgovarajuće strategije u svrhu rješavanja praktičnih problema.
+C.III.4.a. Objašnjava stablo i vrste stabala.
+C.III.4.b. Pronalazi minimalno razapinjuće stablo.
+C.III.4.c. Primjenjuje binarno stablo pretrage na probleme iz prakse.
+KLJUČNI SADRŽAJI
+Algoritam; Vremenska složenost algoritma; Broj operacija u algoritmu; Brzina rasta funkcije; O-notacija; Memorijski utrošak;
+Turingova mašina; Problem zaustavljanja; Problem rješivosti; Skupovi P, NP i NPC;
+Graf, Vrste grafova; Predstavljanje grafova u računarskoj memoriji; DFS i BFS; Eulerov put; Hamiltonov ciklus; Problem najkraćeg puta; Problem bojenja grafa;
+Stablo; Minimalno razapinjuće stablo; Binarno stablo pretrage;   
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Učenici trebaju biti u stanju procijeniti algoritam, njegovo prisustvo u realnom životu i prepoznati korake iz svakodnevnog života. Neophodno je razvijati svijest o povezanosti nastavnog gradiva s stvarnim životom kroz osmišljavanje koraka algoritama. Ovakvim pristupima moguće je probleme iz drugih polja rješavati koristeći ideju algoritma.
+Prilikom proučavanja teorije algoritama biraju se raznovrsni problemi različite težine. Rješavanje algoritamskog problema se može raditi u grupama. Učenik procjenjuje tačnost, obim ulaznih i izlaznih podataka. Učenici analiziraju i opisuju šta postojeći algoritam radi. Kompariraju dva algoritama koji rješavaju isti problem. Procjenjuju tačnost algoritma za različite ulazne vrijednosti. Koriste algoritme za rješavanje problema iz stvarnog života. Prema ovom ishodu treba ići kroz sve ostale mjereći pritom efikasnost prikazanih algoritama unutar drugih tematskih cjelina i stavljajući ih u kontekst rješivosti.
+Turingove mašine, problem zaustavljanja i rješivosti problema ne treba raditi detaljno, ali je učenike neophodno upoznati sa ovim konceptima i njihovim utjecajem na teoriju algoritama.
+Osnovni pojmovi teorija grafova se trebaju uvesti putem primjera koji su učenicima već poznati (npr. postavljanje saobraćajnica, električnih mreža, računarskih mreža, strukturna formula molekula, pravljenje rasporeda časova i slično.). Do zakonitosti koje vrijede među grafovima treba dolaziti induktivnim putem, te izvoditi generalizacije. Također vrste grafova i bojenje grafova treba uvesti putem učenicima prirodnih primjera, a tek onda preći na opća pravila. Da bi se učenici zainteresovali za grafove i rad s njima, ponuditi im nekoliko interesantnih primjera koji olakšavaju rješavanje zadataka (npr. kako smjestiti hemikalije u magacin vodeći računa da ne dođu u dodir one koje izazivaju hemijsku reakciju ili na koji način će poštar najracionalnije raznijeti poštu).
+Pojam stabla se treba uvesti putem primjera koji su učenicima već poznati (npr. porodično stablo ili organizaciona struktura firme). Također vrste stabala i algoritme koji vrijede za binarna stabla treba uvesti putem učenicima prirodnih primjera, a tek onda preći na generalna pravila. Da bi se učenici zainteresovali za stabla i rad s njima, ponuditi im nekoliko interesantnih primjera koji olakšavaju rješavanje zadataka (npr. formiranje binarnog stabla pretrage za imena učenika u razredu gdje bi ključ bio formiranje po abecedi, a korijen ime učenika iz prve klupe).
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Informatika (npr. Web graf, projektovanje integralnih kola, konstruisanje štampanih kola, praktični problemi koji se rješavaju pomoću računara, memorijske jedinice u računaru; predstavljanje složenih algoritama ili lokalne računarske mreže ili definisanje, utvrđivanje i pretraga podataka);
+Hemija (npr. Predstavljanje struktura molekula, smještanje hemikalija u magacin);
+Geografija (npr. bojenje karte svijeta, mreža ulica u jednom gradu, organizacija poslova u velikom gradu (raznošenje pošte, naplata računa i slično);
+Tjelesni i zdravstveni odgoj (npr. organizacija takmičenja );
+Likovna kultura (npr. korištenje boja za naglašavanje funkcionalnih veza među elementima);
+Matematika (npr. predstavljanje matematičkih formula ili provjera da li se neki element nalazi u grafu i ako ne ubaciti ga);
+Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (npr. formiranje binarnog stabla pretrage za imena učenika u razredu gdje bi ključ bio formiranje po abecedi, a korijen ime učenika iz prve klupe);
+Biologija (npr. porodično stablo)
+Programiranje se koristi kako bi se proizvela programska rješenja koja se koriste u svima naukama, ali ono i koristi druge nauke kako bi dizajn, funkcionalnost i upotreba programskog okruženja bila funkcionalna. U  gimnaziji se pretežno rješavaju matematički zadaci ili zadaci iz fizike, hemije, biologije koji imaju matematičku osnovu i logički su koncipirani.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: poznavanje matematičkih pojmova i koncepata, uključujući najvažnije geometrijske i algebarske teoreme;  poštivanje istine kao temelja matematičkog razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja matematičkih elemenata, fenomena i situacija; odabir i zamjena načina prikazivanja ako i kada je to potrebno; sposobnost i spremnost da se upotrijebe znanja i metodologija da bi se objasnila priroda; kompetencija u tehnologiji se tumači kao primjena znanja da bi se promijenilo prirodno okruženje u skladu sa ljudskim potrebama.
+Informatička pismenost (informacijska, medijska, tehnološka): kritičko korištenje informacijsko-komnikacijske tehnologije za prikupljanje, vrednovanje i pohranjivanje informacija, za produkciju, predstavljanje i razmjene informacija i za ušešće u virtuelnim društvenim mrežama; upotreba tehnologije u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo; korištenje tehnologije za podršku kritičkog načina razmišljanja.
+Samoinicijativa i poduzetnička kompetencija: prepoznavanje vlastitih jakih i slabih strana; rad u timovima na kooperativan i fleksibilan način; konstruktivno sarađivanje u aktivnostima i upotreba vještina grupnog rada; upravljanje rizikom i razvijanje svijesti o odgovornosti.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (sažimanje, generalizacija, podrška upotrebi viših kognitivnih sposobnosti, kao što su analiza, sinteza, vrednovanje, upotreba kritičkog mišljenja (razlikovanje između činjenica i mišljenja, argumentovanje teza); upotreba logičnog strukturiranja i nizanja argumenata; razvijanje kreativnosti i potrebe za izraživanjem (proizvodnja i povezivanje različitih ideja, proizvodnja pretpostavki i različitih proizvoda); podrška radoznalosti, želji za novim znanjima (omogućavanje izražavanja vlastitih misli, ideja, emocija; razvijanje sposobnosti posmatranja, učestvovanja i integrisanja novih iskustava i spremnosti za mijenjanje prethodnih).
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

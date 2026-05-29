@@ -1,0 +1,629 @@
+{
+  "predmet": "Informatika",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "1"
+  },
+  "tematske_cjeline": [
+    "A Informacione i komunikacione tehnologije",
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "A Informacione i komunikacione tehnologije",
+    "A Informacione i komunikacione tehnologije",
+    "C Digitalno društvo",
+    "A Informacione i komunikacione tehnologije",
+    "A Informacione i komunikacione tehnologije",
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "C Digitalno društvo",
+    "A Informacione i komunikacione tehnologije",
+    "A Informacione i komunikacione tehnologije",
+    "A Informacione i komunikacione tehnologije",
+    "C Digitalno društvo",
+    "B Rješavanje problema primjenom IKT-a",
+    "A Informacione i komunikacione tehnologije",
+    "A Informacione i komunikacione tehnologije",
+    "A Informacione i komunikacione tehnologije",
+    "C Digitalno društvo",
+    "B Rješavanje problema primjenom IKT-a",
+    "A Informacione i komunikacione tehnologije",
+    "C Digitalno društvo",
+    "C Digitalno društvo",
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "A Informacione i komunikacione tehnologije",
+    "C Digitalno društvo",
+    "A Informacione i komunikacione tehnologije",
+    "C Digitalno društvo",
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "B Rješavanje problema primjenom IKT-a",
+    "B Rješavanje problema primjenom IKT-a",
+    "A Informacione i komunikacione tehnologije",
+    "C Digitalno društvo",
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "C Digitalno društvo",
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "C Digitalno društvo",
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "C Digitalno društvo",
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "C Digitalno društvo"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.1.1",
+      "opis": "A.1.2"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": "B Rješavanje problema primjenom IKT-a"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "A Informacione i komunikacione tehnologije"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": "Primjenjuje određene vrste IKT usluga, uređaja i medija."
+    },
+    {
+      "oznaka": "A.1.2",
+      "opis": "Upotrebljava mjere zaštite prilikom korištenja IKT-a."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-5.2.2"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": "Upotrebljava program za crtanje sa osnovnim alatima za izradu jednostavnijeg rada."
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "Prepoznaje program za crtanje i njegovu namjenu."
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "Primjenjuje digitalne tehnologije pri učenju kroz igru."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "Koristi edukativne igre primjerene uzrastu u svrhu učenja."
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": "Upotrebljava program za pisanje."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "Prepoznaje program za pisanje i njegovu namjenu."
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "C Digitalno društvo"
+    },
+    {
+      "oznaka": "C.2.1",
+      "opis": "A Informacione i komunikacione tehnologije"
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "Upotrebljava program za crtanje koristeći osnovne alate uz primjenu ergonomskih smjernica u radu sa kompjuterom."
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "Primjenjuje ergonomske smjernice u radu na kompjuteru."
+    },
+    {
+      "oznaka": "C.2.1",
+      "opis": "Primjenjuje digitalne tehnologije pri učenju kroz igru."
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "Razlikuje ikone programa za pregledanje audio i video zapisa."
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "Upotrebljava program za pisanje uz primjenu ergonomskih smjernica u radu sa kompjuterom."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "Prepoznaje program za pisanje i njegovu namjenu."
+    },
+    {
+      "oznaka": "A.3.1",
+      "opis": "A Informacione i komunikacione tehnologije"
+    },
+    {
+      "oznaka": "A.3.1",
+      "opis": "B Rješavanje problema primjenom IKT-a"
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": "B.3.2"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": "C.3.2"
+    },
+    {
+      "oznaka": "A.3.1",
+      "opis": "Upotrebljava program za pisanje, uz primjenu ergonomskih smjernica u radu sa kompjuterom."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "Primjenjuje osnove formatiranja za uređivanje naslova, teksta unutar odlomka, teksta uz korištenje znakova interpunkcije."
+    },
+    {
+      "oznaka": "A.3.1",
+      "opis": "Primjenjuje program za crtanje za kreiranje vlastitih radova."
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "Primjenjuje gotove oblike u crtanju (veličina, boja, vrste linija...)."
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": "Primjenjuje multimedijalne sadržaje u svrhu učenja."
+    },
+    {
+      "oznaka": "B.3.2",
+      "opis": "Kreira različite predmete od e-otpada."
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "TIT-2.4.2"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": "Upoređuje informacije prikupljene putem  interneta."
+    },
+    {
+      "oznaka": "C.3.2",
+      "opis": "Upotrebljava internet u svrhu predstavljanja sebe ili drugih."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-5.1.2"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "A Informacione i komunikacione tehnologije"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "A Informacione i komunikacione tehnologije"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "A.4.2"
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": "C.4.2"
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "Objašnjava značaj upotrebe IKT-a za društvo."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "Koristi stečeno znanje za definiranje pojma informatike kao nauke."
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "Koristi komponente kompjuterskog sistema."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Opisuje funkciju kompjutera, kompjuterskog sistema uz osvrt  na ergonomske smjernice."
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "Upotrebljava program za obradu teksta."
+    },
+    {
+      "oznaka": "A.4.2",
+      "opis": "Kreira radove koristeći program za crtanje i obradu fotografija."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "TIT-3.4.3"
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": "Prikuplja informacije putem interneta."
+    },
+    {
+      "oznaka": "C.4.2",
+      "opis": "Primjenjuje osnove sigurnosti i zaštite u virtualnom okruženju."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-5.2.2"
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": "Procjenjuje značaj algoritma u rješavanju problema iz svakodnevnice."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Primjenjuje algoritamske korake kroz rješavanje problema u svakodnevnom životu."
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "A Informacione i komunikacione tehnologije"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "A Informacione i komunikacione tehnologije"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "C Digitalno društvo"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "B Rješavanje problema primjenom IKT-a"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "Primjenjuje različite vrste IKT-a u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Koristi IKT uređaje i medije za rješavanja problema i izazova u svakodnevnom životu."
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "Raspoznaje karakteristike hardvera i softvera, te njihovu ulogu u računarskom sistemu."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Navodi ulogu hardvera i softvera."
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "Kreira multimedijalne prezentacije."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "Raspoznaje razliku između aplikacija za obradu teksta i za kreiranje prezentacija."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "Procjenjuje informacije prikupljene putem interneta."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Organizira prikupljene informacije s internetskih stranica na principu važnosti za zadanu temu."
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "Rješava zadate probleme upotrebom jednostavnih programskih jezika."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Prepoznaje značaj programiranja sa aspekta rješavanja određenih problema."
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "C Digitalno društvo"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "A Informacione i komunikacione tehnologije"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "Klasificira memoriju u kompjuteru."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Objašnjava važnost i ulogu memorije, veličinu datoteka u odnosu na raspoloživi prostor."
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "Analizira i povezuje elemente kompjuterskih mreža i njihove karakteristike."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "Upotrebljava internet servise (usluge) za preteživanje, komunikaciju i razmjenu informacija i materijala."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": "TIT-5.1.4"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "Analizira pravila ponašanja u digitalnom društvu."
+    },
+    {
+      "oznaka": ".2.4",
+      "opis": "Povezuje pravila ponašanja iz stvarnog svijeta s pravilima ponašanja u virtuelnom svijetu."
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "Koristi softver za tabelarne proračune."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "Izrađuje zadatke sa proračunima i grafičkim prikazom."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "TIT-3.4.1"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "Rješava problemske zadatke u programskom jeziku."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Razlikuje korake i pravila za kreiranje algoritama."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "B Rješavanje problema primjenom IKT-a"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "C Digitalno društvo"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Koristi osnovne naredbe i mogućnosti aplikativnog softvera za obradu teksta."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "Upotrebljava različite efekte za tekst."
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Analizira i povezuje elemente programiranja."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "Rješava probleme primjenjujući naredbe grananja u nekom od programskih jezika."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "TIT-4.2.1"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Upotrebljava softver za uređivanje fotografija i stolno izdavaštvo."
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "Prepoznaje važnost primjene kompjuterske grafike u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "Istražuje i analizira informacije prikupljene putem interneta."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "Primjenjuje Cloud tehnologije u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-5.1.3"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "C Digitalno društvo"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "B Rješavanje problema primjenom IKT-a"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Primjenjuje aplikativni softver za proračunske tabele na višem nivou."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "Prepoznaje svrhu korištenja aplikativnog softvera za proračunske tabele na konkretnim primjerima."
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "Analizira i povezuje elemente kompjuterskih mreža i njihove karakteristike."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "Upotrebljava internet servise u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": "TIT-5.1.1"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Koristi audio-vizualne sadržaje i softvere."
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "Koristi softver i uređaje za snimanje zvuka i videa."
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Rješava probleme primjenjujući naredbe ponavljanja u nekom od programskih jezika."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Opisuje problem pomoću algoritma navodeći koji su ulazni podaci i koji su rezultati na izlazu."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B Rješavanje problema primjenom IKT-a"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "A Informacione i komunikacione tehnologije"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "C Digitalno društvo"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "B"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Rješava probleme upotrebom programskog jezika."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Raspoznaje programske strukture primjenjujući ih za rješavanje nekog problema."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Kreira jednostavnu web stranicu primjenjujući HTML jezik."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Prepoznanje osnovnu strukturu HTML dokumenta."
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "Objašnjava osnovne osobine brojnih sistema i primjenjuje osnove prevođenja iz jednog u drugi brojni sistem."
+    },
+    {
+      "oznaka": ".3.3",
+      "opis": "Opisuje brojne sisteme sa osnovnim karakteristikama (binarni, oktalni, dekadni, heksadecimalni)."
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "Razvija projekt primjenjujući stečena znanja iz informatike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-3.2.1 TIT-3.2.2 TIT-3.2.3 TIT-3.3.1"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "A.I.4.a Uređuje tekstualni dokument povezujući tekst, slike, tablice, formule, fusnote, reference i sl."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-4.1.2 TIT-4.1.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-5.1.3"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "TIT-3.4.3 TIT-3.4.2"
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "A.II.4.a Istražuje oblike i forme 2D prikaza."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "TIT-4.2.1 TIT-4.2.1 TIT-4.2.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "TIT-4.2.2 TIT-3.4.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "TIT-5.2.3 TIT-5.2.4 TIT-5.1.4 TIT-5.1.1 TIT-5.1.4"
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "TIT-3.4.2"
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "TIT-4.1.3 TIT-4.2.1 TIT-4.2.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "B.III.4.a Objašnjava koncepte objektno zasnovanog programiranja: zaštitu podataka i enkapsulaciju."
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "TIT-5.1.4"
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "TIT-3.4.2"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "TIT-4.2.2 TIT-4.2.2"
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "C.IV.1.a (OG, MI) Prezentuje prijedlog projekta i plan njegove izrade."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Računar. Dijelovi računara. IKT uređaji i mediji. Ergonomske smjernice."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Pred učenicima ovog uzrasta svakako stoji izazov adaptaciranja na novo životno razdoblje, na školu kao novi životni prostor i na sva pravila koje školski život neminovno donosi. Novo vrijeme nam donosi i novi virtualni prostor, koji je potpuno prirodna sredina za naše učenike. Učitelji će imati zadatak prilagođavanja toj situaciji. Informatiku, tj. tehnologiju, u tom smislu, ne bismo trebali koristiti nužno kao odvojen predmet, već je mnogo lakše i korisnije koristiti je prožimajući je kroz sadržaje drugih predmeta. Time tehnologiju koristimo kao sredstvo za motiviranje učenika, ali i kao direktno sredstvo za učenje."
+    ],
+    "medjupredmetne_korelacije": [
+      "Kroz sadržaje vezane za radno okruženje možemo ostvariti korelaciju sa sadržajima iz predmeta Moja okolina koji se bave školom i školskim prostorijama."
+    ],
+    "kompetencijski_pristup": []
+  }
+}

@@ -1,0 +1,162 @@
+PREDMET: Nacrtna geometrija
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Nacrtna%20geometrija
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Nacrtna geometrija
+Nacrtna geometrija - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Godine učenja i podučavanja predmeta: 1
+A STEREOMETRIJA
+A..1
+A..2
+B GEOMETRIJSKE KONSTRUKCIJE
+B..1
+B..2
+C PROJICIRANJE
+C..1
+C..2
+C..3
+D VIDLJIVOST
+D..1
+E ROTACIJA
+E..1
+A
+STEREOMETRIJA
+A..1
+Analizira svojstva geometrijskih tijela.
+A..2
+Sintetizira matematičke argumente o geometrijskim odnosima i geometrijskim figurama.
+MTP-3.1.1 MTP-3.1.2
+Modelira uspravna i kosa geometrijska tijela prema njihovoj mreži.
+Upoređuje obla i rogljasta geometrijska tijela.
+Skicira uspravna i kosa obla i rogljasta geometrijska tijela i njihove elemente.
+Skicira mrežu uspravnih oblih i rogljastih geometrijskih tijela.
+Kombinira svojstva figura u ravni za rješavanje stereometrijskih zadataka.
+Kombinira svojstva uspravnih i kosih geometrijskih tijela i ravanskih figura za rješavanje problemskih zadataka.
+KLJUČNI SADRŽAJI
+Slobodna paralelna projekcija, Polke-Švarcova teorema, Primjeri crteža prostornih geometrijskih figura, Kosa projekcija geometrijskih figura, Geometrijska tijela u specijalnim položajima: Prizma i piramida, Valjak i kupa, Sfera.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnost učenja i podučavanja tematske cjeline - metodičke smjernice
+Dosadašnja znanja o geometrijskim tijelima i elementima prostora se proširuju. Sve što se radi treba biti popraćeno odgovarajućim skicama i pravilnom upotrebom termina. Fokus se stavlja na svojstva geometrijskih tijela i međusobni odnos geometrijskih figura u prostoru. Zadaci ne zahtijevaju izračunavanje površina i volumena, ali traže znanja o odnosima i međusobnim ovisnostima elemenata geometrijskih tijela u prostoru.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Matematika – Nacrtna geometrija razmatra stereometrijske probleme konstruktivno-geometrijskom metodom, a stereometrijski problem je svakako matematički problem, tako da je povezanost neupitna. Takođe se može povezati sa zadacima minimuma i maksimuma u matematičkoj analizi.
+Informatika – Stereometrijski problemi su veoma pogodni za primjenu IKT-a, jer se mogu vizalizirati u nekom programu dinamičke geometrije kao što je GeoGebra, Robocompass, Tinkercad i slično.
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Kod učenika razviti sposobnost misaone vizualizacije objekata i prostornih oblika (misaono kretanje objekata i snalaženje sa geometrijskim oblicima objekata i njihovim položajima.)
+Razviti osjećaj za geometrijske aspekte svijeta koji nas okružuje i oblike koji formiraju objekti oko nas. Upotrebom programa dinamičke geometrije učenici će steći osjećaj za vizuelizaciju i analizu.
+Istraživanje geometrijskih tijela u prostoru će svakako doprinijeti razvoju kreativnog i kritičkog mišljenja. Učenik prepoznaje ulogu ove tematske cjeline u nauci, tehnici, inžinjerstvu, tehnologiji, umjetnosti i kulturi.
+B
+GEOMETRIJSKE KONSTRUKCIJE
+B..1
+Analizira svojstva i odnose geometrijskih elemenata, te koristi simbole i različite prikaze.
+B..2
+Kombinuje matematičke argumente o geometrijskim odnosima prilikom konstrukcija.
+MTP-3.1.1 MTP-3.1.2
+Koristi svojstva paralelograma.
+Koristi svojstva paralelnih i okomitih pravih.
+Koristi svojstva pravilnih mnogouglova.
+Opisuje tok konstrukcije upotrebom simbola.
+Konstruiše pravilni poligon zadanih elemenata.
+Konstruiše elipsu uz date kriterije.
+Konstruiše zlatni presjek.
+Primjenjuje konstrukciju zlatnog presjeka pri konstrukciji zlatnog pravougaonika, zlatne spirale.
+Konstruiše Arhimedovu spiralu.
+KLJUČNI SADRŽAJI
+Konstrukcije pravilnih poligona kad je data stranica, Konstrukcije pravilnih poligona kad je dat poluprečnik opisane kružnice, Konstrukcija zlatnog presjeka, Osobine paralelnog projiciranja, Konjugovani prečnici i tangente elipse, Konstrukcija elipse pomoću konjugovanih prečnika, Razne konstrukcije elipse (pomoću definicije, pomoću središta zakrivljenosti, pomoću koncentričnih kružnica), Konstrukcija Arhimedove spirale.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja  tematske cjeline – metodičke smjernice
+Dosadašnja znanja o geometrijskim figurama i njihovim konstrukcijama se proširuju. Fokus treba biti na konstrukciji i opisu konstrukcije a ne na složenim dokazima. Posebnu pažnju treba posvetiti konstrukcijama elipse. Ako se uklopi u vremenski okvir, poželjno je uraditi konstrukciju zlatne i Arhimedove spirale.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Matematika (elipsa, mnogouglovi, geometrijske konstrukcije)
+Geografija (elipsa – putanja kretanja planeta)
+Fizika (elipsa – Keplerovi zakoni)
+Informatika (Geogebra ili neki drugi dinamički program u kom je moguće izvoditi konstrukcije)
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Razvijati osjećaj za vizualizaciju i analizu koji se podstiču upotrebom programa dinamičke geometrije. Podsticati učenike na istraživanje različitih mogućnosti i kreativno i kritičko promišljanje. Kod učenika razvijati preciznost, urednost, postupnost, te istrajnost dovođenja do konačnog rješenja. Osposobljavati učenika za apstraktno i prostorno mišljenje, te efikasno povezivanje matematičkih i geometrijskih znanja sa idejama i rezultatima koristeći raznovrsne prikaze. Usmjeravati učenika da artikuliše svoja razmišljanja i sagledava probleme iz različitih perspektiva i upoređuje različite metode rješavanja.
+C
+PROJICIRANJE
+
+C..1
+Interpertira i crta različite vrste aksonometrijskih crteža.
+C..2
+Interpertira i crta ortoganalne projekcije geometrijskih objekata na tri ravni (tlocrt, nacrt, bokocrt).
+C..3
+Interpertira i crta projekcije geometrijskih figura i tijela koje se nalaze u specijalnim položajima prema ravni projekcije.
+TIT-1.3.2 MTP-3.1.3 MTP-3.1.3
+Prikazuje prostorne figure u različitim projekcijama.
+Primjenjuje Polke-Švarcovu teoremu prilikom crtanja prostornih geometrijskih figura.
+Konstruktivno prikazuje desni koordinatni sistem primjenom aksonometrijske metode.
+Crta ortogonalnu projekciju figure.
+Crta sve tri ortogonalne projekcije tačke, duži i prave zadanih koordinatama.
+Određuje tragove, nagibne uglove i pravu veličinu duži odnosno pravih u sve tri projekcije.
+Projicira ravan i crta tragove ravni.
+Određuje položaj projekcije figure i geometrijskog tijela u zavisnosti od njihovog položaja u prostoru.
+Crta tlocrt, nacrt i bokocrt figure i geometrijskog tijela u zavisnosti od njihovog položaja u prostoru.
+KLJUČNI SADRŽAJI
+Projekcija tačke. Projekcija prave. Projekcija duži. Slobodna paralelna projekcija. Polke-Švarcova teorema. Kosa projekcija. Određenost tačke Monžovim projekcijama. Određenost prave Monžovim projekcijama. Prave u osobitim položajima. Tragovi prave. Nagibni uglovi prave. Projekcije prave. Određenost duži Monžovim projekcijama. Veličina duži i veličina nagibnih uglova. Tragovi ravni. Ravni u osobitim položajima. Projiciranje ravni. Slike u ravni koja je paralelna sa ravni projekcije. Slike u ravni koja je normalna na ravan projekcije.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja  tematske cjeline – metodičke smjernice
+Sadržaje uvoditi ilustrovanjem pojmova i odnosa koristeći prostorne modele ili kompjuterske animacije. Dosadašnja znanja sistematizirati i voditi učenike ka logičkom zaključivanju  o vezama koje vrijede, kao i o posljedicama mijenjanja određenih parametara i položaja u prostoru.
+Koristiti gotove skice koje nam služe kako bismo došli do ideje kako riješiti odgovarajući problem.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Informatika (Autocad ili bilo koji drugi program za izvođenje konstrukcija i projiciranje)
+Fizika (Ortogonalna projekcija je čest pojam u mehanici, a različite vrste projiciranja pojavljuju se i u optici.)
+Matematika (Analitička geometrija, vektori u prostoru)
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Uz pomoć interaktivnih sadržaja ili prostornih modela učenik vizualizira i donosi zaključke, sintetizira i primjenjuje stečena znanja, rješava konkretne probleme iz nacrtne geometrije, razvija kreativnost i osjećaj za prostor. Učenik zaključuje o nekim geometrijskim odnosima na nov način, predviđa rješenja i smješta ih u odgovarajući okvir. Poticati učenike da vizualizacijom uz pomoć različitih softvera analiziraju, izvode zaključke i generaliziraju. Razvijati apstraktno i prostorno mišljenje.
+D
+VIDLJIVOST D..1
+Analizira položaj geometrijskih figura u svrhu određivanja vidljivosti.
+MTP-3.1.3
+Razlikuje vidljive od nevidljivih bočnih ivica geometrijskih tijela u različitim vrstama projekcija u zavisnosti od smjera i ugla projiciranja.
+Određuje vidljivost dijelova geometrijskih figura u prvoj, drugoj i trećoj ortogonalnoj projekciji prateći zrake projiciranja, odnosno prolazak kroz kvadrante/oktante.
+KLJUČNI SADRŽAJI
+Slobodna paralelna projekcija, Kosa projekcija, Vidljivost pri projiciranju na jednu ravan, Vidljivost pri projiciranju na dvije ravni, Vidljivost u trećoj projekciji, Geometrijska tijela u specijalnim položajima
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja  tematske cjeline – metodičke smjernice
+Vidljivost objašnjavati pomoću modela ili koristeći kompjutersku animaciju. Voditi učenike da sami zaključuju koji dio figure se vidi, kao i o posljedicama mijenjanja smjera gledanja ili projiciranja.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Informatika (neki softver za vizualizaciju, npr. Tinkercad)
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Razumijevanje geometrijskih pojmova i proširivanje dosadašnjih znanja doprinose razvoju prostornog i logičkog mišljenja. Primjenom IKT-a uskladiti nastavu sa zahtjevima vremena i prilika. Pokazivati spremnost za korištenje informatičke i komunikacijske tehnologije kao alata za rješavanje problema. Ohrabrivati isprobavanje novih strategija i pristupa učenju. Unapređivati vještine neophodne za razvoj kreativnog mišljenja, kao i komunikacijsko-kolaboracijske vještine. Osposobljavati učenike da argumentuju stavove, polemišu i uvažavaju sagovornike. Razvijati samopouzdanje, samostalnost, te pozitivan odnos prema radu i kontinuiranom učenju.
+E
+ROTACIJA E..1
+Rješava geometrijske probleme koristeći rotaciju.
+MTP-3.1.4
+Rotira tačku, duž, pravu i različite geometrijske figure oko fiksne tačke za dati orijentisani ugao i oko ose normalne na ravan projekcije.
+Rotira ravan oko fiksne prave za dati orijentisani ugao i oko njenog traga dovodeći je u specijalan položaj.
+Konstruiše konkretnu geometrijsku figuru primjenom rotacije.
+Opisuje preslikavanja ravni izvedena metodom rotacije.
+Primjenjuje rotaciju za određivanje prave veličine duži ili neke druge geometrijske figure.
+KLJUČNI SADRŽAJI
+Veličina duži i veličine nagibnih uglova duži. Rotacija oko ose normalne na ravan projekcija: Rotacija tačke. Rotacija duži. Rotacija prave. Rotacija ravni. Slike u ravni koja je normalna na ravan projekcije. Geometrijska tijela u specijalnim položajima.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja  tematske cjeline – metodičke smjernice
+Dosadašnja znanja o rotaciji kao izometrijskoj transformaciji se proširuju, ali pristup ostaje isti. Sve što se radi treba biti popraćeno odgovrajućim skicama, po mogućnosti upotrebom nekog softvera za crtanje. Fokus treba biti na određivanju prave veličine duži odnosno ugla. Dakle učenici trebaju naučiti geometrijsko-konstruktivni put kojim se dolazi do prave veličine i stvarnog oblika neke geometrijske figure. Takođe fokus treba biti na jednostavnijim primjerima u kojima težište zadatka neće biti na komplikovanim konstrukcijama.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Fizika (Rotaciono kretanje)
+Matematika (Rotacija, izometrijske transformacije, analitička geometrija u prostoru)
+Informatika (Geogebra, Robocompass, Auto Cad, Tinkercad,...)
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Učenik razvija sposobnost logičkog i prostornog razmišljanja i predstavljanja datog problema na različite načine. Vizualizacijom uz pomoć različitih softvera (Geogebra, Robocompass, Auto Cad, Tinkercad,...) analizira i izvodi zaključke, te generalizuje. Kombinuje metode i različitim pristupima dolazi do rješenja, te tako razvija kreativnost.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

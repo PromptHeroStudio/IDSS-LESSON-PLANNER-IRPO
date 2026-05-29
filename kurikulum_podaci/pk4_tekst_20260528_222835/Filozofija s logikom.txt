@@ -1,0 +1,293 @@
+PREDMET: Filozofija s logikom
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Filozofija%20s%20logikom
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Filozofija s logikom
+Filozofija sa logikom - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Srednje
+III
+Godine učenja i podučavanja predmeta: 2
+A Oblici misli / kritičko mišljenje i argumentacija
+A.III.1
+A.III.2
+A.III.3
+A.III.4
+
+A
+Oblici misli / kritičko mišljenje i argumentacija
+
+A.III.1
+ Objašnjava i primjenjuje osnovne oblike misli, logička pravila i teorije.
+  A.III.2
+ Evaluira logičku strukturu zaključka i kreira vlastite primjere logičkih zadataka.
+A.III.3
+ Analizira logičku strukturu tekstova različitih funkcionalnih stilova te vrednuje različite forme argumentacije.
+Definira pojam, sud i zaključak.
+Analizira vrste pojmova i sudova, kao i teorije o spornim logičkim pitanjima.
+Utvrđuje odnose među pojmovima i sudovima koristeći Vennove dijagrame odnosno logički kvadrat.
+Određuje istinosnu vrijednost suda pomoću istinosnih tabela.   
+Primjenjuje logička pravila na zadani sadržaj iz različitih područja.
+  Objašnjava strukturu zaključka (premise, konkluzija) i njegove različite oblike (deduktivni, induktivni).
+Objašnjava  kako se različiti oblici zaključka primjenjuju u filozofskoj argumentaciji.
+Primjenjuje pravila dedukcije uz pronalaženje novih sadržaja.
+Procjenjuje valjanost deduktivnog zaključka.
+
+Kreira vlastite primjere dobro obrazložene argumentacije u pisanom obliku.
+  Analizira tekst pomoću misaonih cjelina koje su prisutne u argumentaciji.
+Analizira i na različite načine strukturira argumentacije iz svakodnevnog života i  tekstove različitih funkcionalnih stilova.
+Procjenjuje različite vrste argumentacije  prema njihovoj logičkoj strukturi, primjenjujući logička pravila i vještine kritičkog mišljenja.
+
+A.III.4
+Otkriva tipične pogreške u argumentaciji putem kritičkog mišljenja.
+Otkriva pogreške u prevođenju na jezik logike, pogreške indukcije i analogije, pogreške u dokazivanju i pogreške relevantnosti.
+U kratkom tekstu identificira osnovne pogreške u argumentaciji.
+Primjenjuje kritičko mišljenje i strategije rješavanja problema u razrednim diskusijama, analizi tekstova, analizi pojedinih filozofskih učenja i sl.
+KLJUČNI SADRŽAJI
+Formalna logika - Aristotel (Organon - Kategorije), dedukcija, indukcija, analogija, pojam, sud, zaključak, silogizam, valjanost i istinitost zaključka, figure i modusi silogizma, argumentiranje, logičke pogreške. Indikatori logičkih odnosa u običnom jeziku – premisa i konkluzije, logički odnosi, logička svojstva. Definicija, dokaz, objašnjenje, predikcija.
+Neformalna logika - kritičko mišljenje i argumentiranje - model kritičkog mišljenja, faze kritičkog mišljenja, razumijevanje, strukturiranje, evaluiranje argumentacije. Logičke pogreške u neformalnoj logici.
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke  smjernice
+ U nastavi logike potrebno je pronaći optimalnu mjeru u izboru i količini sadržaja, a sa druge strane osigurati obilje primjera i zadataka za vježbanje. Vrlo  je važno da učenici ne samo znaju nego i ovladaju oblicima valjane misli, primjenjuju ih kao pravila zaključivanja, te ih osvijeste  kao načine na koji mi strukturiramo ili  možemo strukturirati misli. Primjeri trebaju osigurati prepoznavanje oblika među kojima ne postoji logički slijed te pronalaženje protuprimjera i gradnju protumodela (valjan - nevaljan zaključak i sl.). 
+Preporuka je da se u konačnici učenici/ce uvježbavaju da sami kreiraju primjere logičkih zadataka, čime bi se osiguralo da stečene vještine kritičkog i kreativnog mišljenja primjenjuju i dalje razvijaju, što i jeste cilj nastave logike.
+ Na izvornim ili različitim didaktički oblikovanim tekstovima vježbati uočavanje logičkih struktura. Poželjno je da se u nastavi logike koriste tekstovi različitih stilova i iz različitih sfera života, uključujući svakodnevni život, kako bi učenici osvijestili puni smisao nastave logike.
+Uloga je nastavnika u vođenju, tumačenju i poticanju svih učenika/ca da se aktivno uključe i učestvuju u nastavi logike.
+ Preporuka je ne tražiti da učenik/ca nazive pogrešaka u argumentaciji uči napamet, već da u tekstu ili govoru zna prepoznati pogrešku ili pronaći njezin naziv na popisu, te obrazložiti zašto je to pogreška. Također, potrebno je  uvježbavati logičke pogreške koje se javljaju u neformalnoj logici.
+ Nastavnicima se preporučuje korištenje različitih didaktičkih materijala i  strategija za uvježbavanje kritičkog mišljenja, kako putem formalne tako i putem  neformalne logike. Preporučuje se korištenje sokratovskog dijaloga za uvježbavanje filozofskog argumentiranja (pristup i metod filozofije za djecu (P4C)).
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne  korelacije
+U ovoj je oblasti moguće ostvariti međupredmetnu povezanost sa svim nastavnim predmetima budući da je logika kao refleksija mišljenja o samom sebi, u biti svakog rasuđivanja i u biti metoda pojedinačnih nauka.
+Matematika - indukcija, dedukcija, istinosne tabele
+Psihologija – povezanost sa kognitivnom oblasti
+ BJK/HJK/SJK – odnos jezika i mišljenja. Analiza logičke strukture  tekstova različitih funkcionalnih stilova, svakodnevni jezik i jezik logike.
+ 3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija –  kompetencijski pristup
+ Učenici će u okviru ove tematske cjeline steći sljedeće kompetencije:
+ Kroz različita pitanja o prirodi filozofskog mišljenja i njegovoj metodi, kao i pri povezivanju filozofskih sadržaja drugim predmetima i sa svakodnevnim životom, učenici će razvijati metakognitivne vještine  (kritičko i kreativno mišljenje, kao i vještine rješavanja problema).
+Radeći u parovima i grupama, učenici će upoznavati sebe i druge te razvijati vlastite socijalne vještine i saradničko mišljenje te jačati socijalnu empatiju.
+Jezičko-komunikacijske kompetencije se jačaju uvježbavanjem jasnog i preciznog iznošenja misli i uvažavanjem protuargumenata što doprinosi kvalitetnijoj komunikaciji i saradnji.
+Kreativno-produktivne kompetencije učenici će sticati kreiranjem vlastitih logičkih zadataka te refleksijom o spornim logičkim pitanjima.
+  Srednje
+IV
+Godine učenja i podučavanja predmeta: 2
+B Velika filozofska pitanja i problemi
+B.IV.1
+B.IV.2
+B.IV.3
+C Čovjek i svijet
+C.IV.1
+C.IV.2
+C.IV.3
+D Spoznaja, znanje, nauka, tehnologija
+D.IV.1
+D.IV.2
+D.IV.3
+E Moral, politika i umjetnost
+E.IV.1
+E.IV.2
+E.IV.3
+B
+Velika filozofska pitanja i problemi
+
+B.IV.1
+Objašnjava najznačajnija područja filozofije,velika pitanja koja proizlaze iz tih područja, kao i prirodu filozofskog mišljenja.
+B.IV.2
+Evaluira pojedina filozofska učenja i odgovore na neka od velikih pitanja.
+B.IV.3
+Analizira filozofske koncepte neophodne za raspravu o velikim filozofskim pitanjima te načine na koje se ovi koncepti koriste u različitim filozofskim tradicijama i svakodnevnom životu.
+  Opisuje glavna područja filozofije i prirodu filozofskog mišljenja.
+Identificira glavna pitanja koja proizlaze iz ovih područja.
+Objašnjava kako su se pojedina velika pitanja razvijala iz potrebe čovjeka za racionalnim kritičkim promišljanjem svijeta.
+Objašnjava svrhu podučavanja filozofije .
+Analizira kako različite filozofske tradicije odgovaraju na velika pitanja.
+Vrednuje pojedina učenja i njihove odgovore na velika pitanja.
+Kreira vlastiti odgovor na pojedina velika pitanja, koristeći filozofsku argumentaciju i kritičko mišljenje.
+Definira pojmove neophodne za raspravu o velikim pitanjima.
+ Raspravlja o  načinima na koje su filozofski koncepti upotrebljavani u različitim filozofskim tradicijama i kako su se razvijali kroz povijest.
+ Prepoznaje  relevantnost filozofskih pitanja, teorija i vještina za društvo, svakodnevni život, te ulogu filozofije za bolje i svrsishodnije razumijevanje popularne kulture.
+ Izrađuje jednostavno filozofsko istraživanje (filozofski esej).
+KLJUČNI SADRŽAJI
+Svrha filozofije, priroda filozofskog mišljenja, sumnja, čuđenje, dijalog vs. monolog, periodizacija povijesti filozofije, filozofske discipline, velika filozofska pitanja i problemi, Sokratov metod i koncept “istraženog života” kod Sokrata, kritičko mišljenje, relevantnost filozofije danas,odnos filozofije prema nefilozofskim pristupima svijetu.    
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Nastavnici mogu kroz kratke isječke izvornih filozofskih tekstova, učenicima pružiti uvid u velika filozofska pitanja i različite odgovore na ista pitanja.
+Preporuka za ovu oblast bi bila dati učenicima Malog princa kao filozofsku lektiru, zadatak bi bio odgovoriti na pitanje: “Zašto je Mali princ filozofsko djelo?”.
+Temeljna metoda je dijaloška, gdje se učenici kroz upotrebu sokratovskih pitanja potiču na kritičko, kreativno i suradničko mišljenje.
+Nastavnicima se preporučuje da već sa završetkom ove oblasti započnu sa učenicima raditi na uvježbavanju pisanja filozofskog eseja - učenici će imati zadatak napisati sokratovski esej baziran na isječku iz Odbrane Sokratove. Učenici se stavljaju u poziciju suvremenog Sokrata, odabiru razlog/ideju zbog kojeg su optuženi na sudu i u dijaloškoj formi pišu esej iznoseći uvjerljivu argumentaciju i pobijajući argumentaciju protivnika. Esej započinju kratkim uvodom iznoseći razlog optužbe i završavaju zaključkom u kojem sumiraju argumente, kao i svoju odanost idealima.
+Također se kod učenika/ca može kroz upotrebu pažljivo odabranih i didaktičko-metodičkih nefilozofskih sadržaja potaknuti filozofski način promišljanja.
+ 2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+ BHS jezik i književnost – filozofska analiza književnog djela. U ovoj je oblasti ostvariva međupredmetna povezanost sa BHS jezikom i književnosti kroz filozofsku analizu isječaka književnih djela, interpretaciju i razumijevanje istih, kao i kroz proces pisanja eseja.
+Fizika – korelacija sa ovim predmetom proizlazi iz prvih velikih filozofskih pitanja o nastanku kosmosa, uzrocima svega postojećeg i sl.
+Kultura religija – korelacija sa ovim predmetom nalazi se u pitanjima o razumijevanju svijeta, njegovom nastanku i sl.
+ 3.       Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup:
+            Učenici će u okviru ove tematske cjeline steći sljedeće kompetencije:
+ •         Kroz različita pitanja o prirodi filozofskog mišljenja i njegovoj metodi, kao i pri povezivanju filozofskih sadržaja sa svakodnevnim životom, učenici će razvijati metakognitivne vještine ( kritičko mišljenje i vještine rješavanja problema),
+•         Radeći u parovima i grupama, učenici će upoznavati sebe i druge te razvijati vlastite socijalne vještine i saradničko mišljenje i jačati socijalnu empatiju,
+•         U dijelu realizacije projektnih zadataka – priprema i prezentacija istraživačkog projekta, učenici će jačati informatičku pismenost.
+•         Jezičko-komunikacijske kompetencije se jačaju uvježbavanjem jasnog i preciznog iznošenja misli, što doprinosi kvalitetnijoj komunikaciji i suradnji.
+•         Jezično-komunikacijska kompetencija na stranom jeziku - primjeri koje nastavnik odabere mogu biti na stranom jeziku koje učenici uče, te na taj način razvijaju i kompetenciju za razumijevanje naučnog teksta na stranom jeziku.
+     C
+Čovjek i svijet
+
+C.IV.1
+Objašnjava temeljne metafizičke (ontološke) pojmove i pojedina filozofska učenja relevantna za raspravu o čovjeku i svijetu.
+C.IV.2
+Analizira različite metafizičke (ontološke) i antropološke pozicije te evaluira odgovore na neka od najznačajnijih pitanja u ovoj oblasti. 
+C.IV.3
+Objašnjava povezanost između metafizike (ontologije) i filozofske antropologije sa drugim područjima filozofije, kao i sa različitim aspektima društvenog života, uključujući svakodnevni život.
+Objašnjava  neke od najznačajnijih metafizičkih i antropoloških pojmova i pitanja.
+Objašnjava metafizičke pozicije nekih od najznačajnijih filozofa I filozofskih škola iz ove oblasti.
+Raspravlja o različitim metafizičkim pozicijama referirajući se na neke od klasičnih i suvremenih filozofskih tekstova.
+Uspoređuje kako različiti filozofi i/ili filozofske škole pristupaju ovim pitanjima.
+Evaluira prednosti i slabosti pojedinih odgovora na temeljna metafizička i antropološka pitanja.
+Identificira  utjecaj metafizičkih i antropoloških ideja na svakodnevni život.
+Objašnjava načine na koje metafizika i antropologija proizlazi iz i utječe na druga područja filozofije i druga predmetna područja.
+Objašnjava različite utjecaje na razvoj metafizičkog mišljenja.
+  KLJUČNI SADRŽAJI
+Napomena: da bi se realizirali ključni sadržaji koji će učenike dovesti do željenih ishoda, nastavnici nipošto ne trebaju obraditi sve dolje navedene filozofe nego će napraviti vlastiti odabir uzimajući u obzir aktualnost i relevantnost pojedinih filozofa za što bolje razumijevanje svijeta i društvene stvarnosti te uvažavajući osobenost i iskazane potrebe i interese učenika.  
+Priroda stvarnosti, pitanje o prapočelu (filozofi prirode), Platonovo razlikovanje pojavnog i svijeta ideja, Aristotelovo prevladavanje Platonova dualizma,  srednjovijekovne ontološke pozicije (kršćanske, islamske), panteizam G. Bruna, novovijekovno shvatanje supstancije (racionalizam, empirizam), Hegelov panlogizam, ontološke koncepcije suvremene filozofije (Heidegger), priroda jastva, identitet, odnos duh / tijelo, učenje o duši/jastvu (Sokrat, Platon, Aristotel), jastvo  (Descartes, Hume, Locke, Kant, Hegel, Ryle, Fodor, Churchland, Husserl, Merleau-Ponty), sloboda (determinizam / indeterminizam), Mill, Dennett,  egzistencijalistički pojam tjeskobe i slobode -  Sartre. Razumijevanje čovjeka (Scheller, Plessner i Gehlen). Postmodermistička misao i kritika moderne (Derrida, Baudrillard). feminističko poimanje slobode.
+Šta je uzrok svega postojećeg? Da li je on jedan ili ih je više? Je li on materijalne ili idealne prirode?
+Postoji li išta trajno u vremenu? Je li prostor djeljiv? Kakav je odnos klasičnih filozofskih koncepata naspram moderne znanosti?
+Imaju li bića svrhu? Da li svijet postoji neovisno o našoj svijesti?
+Šta je čovjek? Kakva je njegova bit?
+Šta je smisao života?
+Šta je identitet? Postoji li nešto poput jastva?
+Možemo li ikada znati drugoga?
+Da li način na koji se odnosimo prema drugima ono što nas čini ljudima?
+Na koji način čovjek razvoj tehnologija određuje poimanje čovjeka?
+Što nam otkrića neuroznanosti mogu reći o tome što znači  biti čovjek?
+Da li je čovjek slobodno biće? Šta je sloboda?
+   PREPORUKE ZA OSTVARENJE ISHODA
+ 1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+ U ovoj oblasti se istražuje temeljno pitanje što znači biti čovjek, odnosno ko sam ja. Sa učenicima se vodi rasprava o ključnim pojmovima kao što su identitet, sloboda i ljudska priroda,  te  razmatraju pitanja poput: što ljude izdvaja od ostalih vrsta; gdje su granice ljudskog;i mogu li se životinje ili strojevi smatrati osobama itd.? Također se istražuje pitanje postojanja svijeta, pitanja načela, uzroka svega postojećeg, svrhovitosti u svijetu, stvarnosti i sl.
+Ova oblast također pruža priliku učenicima da promišljaju ova pitanja iz različitih perspektiva. Na primjer, rasprave o konceptu sebstva mogu uključivati širok spektar primjera od budističkog pojma anattā ili "ne-sebstva" do poricanja koncepta solipsistički izoliranog jastva (De Beauvoir 1965).
+Ova oblast omogućava nastavnicima da istražuju teme od posebnog interesa, poput odnosa između roda i identiteta ili aktualne novosti o napretku u robotici. Također,   nastavnicima se pruža prilika da istraže širok raspon tema i koriste poticajne primjere.
+Nastavnici biraju poticajne izvorne tekstove koji govore o ljudskoj slobodi i konceptu “stvarnosti”.
+Na kraju ove oblasti učenici pišu esej o vlastitom razumijevanju jastva koje je bazirano na kritičkom sagledavanju i analiziranju koncepcija jastva o kojima su učili ili esej o pitanju ljudske slobode.
+Filozofska lektira: prve dvije meditacije Descartesovih Meditacija, Sartre Mučnina, ili drama Iza zatvorenih vrata ili filozofski esej Egzistencijalizam je humanizam.
+Rad na izvornim tekstovima filozofa od iznimnog je značaja za poticanje i razvoj kritičkog mišljenja.
+Gledanje filma Matrix ili Trumanov šou i pisanje eseja u kontekstu Platonovog i Descartesovog poimanja realnosti i dovođenja u vezu sa temom filma. Također, učenici mogu pogledati filmove poput Život je lijep ili Schindlerova lista i napisati kratki esej povezujući film sa konkretnim filozofskim učenjima.
+  Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+U ovoj oblasti se pruža mogućnost međupredmetnog povezivanja sa Psihologijom i i Sociologijom – pitanja identiteta, ličnosti, roda. Kulturom religija - ontološka rasprava o bogu, Aristotelov koncept boga nasuprot teološkom, teodiceja itd.
+Također, moguće je ostvariti međupredmetnu povezanost sa Fizikom i Hemijom u pitanjima nastanka svijeta, filozofsko razumijevanje koncepata vremena i prostora i  usporedba sa modernim znanstvenim razumijevanjem.
+B/H/S jezik i književnost  - pitanja o čovjeku, identitetu, egzistenciji.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup:
+            Učenici će u okviru ove tematske cjeline steći sljedeće kompetencije:
+Radeći u parovima i grupama, učenici će upoznavati sebe i druge te razvijati vlastite socijalne vještine i saradničko mišljenje i jačati socijalnu empatiju,
+Jezičko-komunikacijske kompetencije se jačaju uvježbavanjem jasnog i preciznog iznošenja misli, što doprinosi kvalitetnijoj komunikaciji i suradnji.
+Jezično-komunikacijska kompetencija na stranom jeziku - primjeri koje nastavnik odabere mogu biti na stranom jeziku koje učenici uče, te na taj način razvijaju i kompetenciju za razumijevanje naučnog teksta na stranom jeziku.
+Medijska pismenost - učenici kroz analiziranje zadatih filmova i drugih medija razvijaju i kritičko promišljanje, kao i medijsku pismenost.
+     D
+Spoznaja, znanje, nauka, tehnologija
+
+D.IV.1
+Objašnjava temeljne  epistemološke pojmove i pojedina filozofska učenja relevantna za raspravu o spoznaji, znanju, znanosti i tehnologiji.
+D.IV.2
+Analizira različite epistemološke postavke i probleme te evaluira ponuđene odgovore na neka od najznačajnijih pitanja u ovoj oblasti
+D.IV.3
+Objašnjava povezanost epistemologije sa drugim područjima filozofije, kao i sa različitim aspektima društvenog života, uključujući  svakodnevni život.
+Objašnjava  neke od najznačajnijih epistemoloških pojmova  i učenja, kao pojmove i pitanja filozofije znanosti.
+ Objašnjava epistemološke i  pozicije nekih od najznačajnijih filozofa i filozofskih škola.
+Raspravlja o različitim epistemološkim pozicijama referirajući se na neke od klasičnih i suvremenih filozofskih tekstova.
+Upoređuje kako različiti filozofi i/ili filozofske škole pristupaju ovim pitanjima.      
+Evaluira prednosti i slabosti pojedinih odgovora na temeljna epistemološka pitanja. 
+Identificira utjecaj epistemoloških ideja na svakodnevni život.
+Objašnjava načine na koje epistemologija proizlazi iz i utječe na druga područja filozofije i na druga predmetna područja.
+Objašnjava različite utjecaje na razvoj epistemoloških mišljenja.
+   KLJUČNI SADRŽAJI
+Napomena: da bi se realizirali ključni sadržaji koji će učenike dovesti do željenih ishoda, nastavnici nipošto ne trebaju obraditi sve dolje navedene filozofe nego će napraviti vlastiti odabir uzimajući u obzir aktualnost i relevantnost pojedinih filozofa za što bolje razumijevanje svijeta i društvene stvarnosti te uvažavajući osobenost i iskazane potrebe i interese učenika.
+Priroda, izvor i granice spoznaje, izvjesnosti (pouzdanosti) spoznaje, objektivnost / relativnost  znanja, kulturalna uvjetovanost znanja i znanosti, znanstveni progres (Kuhn),  utjecaj sofisticiranih tehnologija na našu spoznaju, pristup znanju, znanje i moć, znanost i pseudoznanost, metode znanosti,  umjetne inteligencija – Turing test, Searlova kineska soba, Dreyfusova utjelovljena inteligencija, rodna perspektiva u svijetu znanosti. Racionalizam, empirizam, skepticizam, koherencija, korespodencija, pragmatizam, fenomenalizam, fundamentalizam, a priori, a posteriori, falsifikacionizam, paradigma, znanstvena revolucija, pozitivizam, naturalizam, konstruktivizam.
+Predsokratovci, Sokrat, Platon, Aristotel, Bruno, Bacon, Descartes, Locke, Berkeley, Hume, Kant, Husserl, Peirce, Russell, Wittgenstein, Quine, Putnam, Freire, Chomsky, Galileo, Popper, Feyerabend, Hacking, van Fraassen, Dennett, Fox Keller, Foucault, Lyotard.
+.
+Šta možemo znati? Šta je izvor naše spoznaje?
+Šta je istina?
+Je li znanje kulturno uvjetovano?
+Što razlikuje znanost od pseudoznanosti ili neznanosti?
+Znači li znanost istinu?
+Kako znanost napreduje?
+Treba li znanstvenike smatrati moralno odgovornim za implikacije njihovih izuma?
+Može li računar misliti? Može li računar znati da je računar?
+  PREPORUKE ZA OSTVARENJE ISHODA
+     Preporuke za realizaciju tematske cjeline
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Učenicima treba ponuditi raznolikost didaktičkih materijala koji trebaju biti recentni i relevantni. Naročito treba obratiti pažnju na to da se u ovoj oblasti ostvari prirodna međupredmetna povezanost i sa učenicima raspravlja o problemima koji proističu iz suvremenih i aktualnih znanstvenih istraživanja, poput etičkih implikacija i pitanja koja se tiču umjetne inteligencije. Ova oblast pruža priliku nastavnicima da učenicima ukažu na povezanost između znanosti i filozofije, kao i na njihove razlike.
+ Nastavnici učenicima mogu dati zadatak da pronađu i analiziraju nekoliko članaka iz različitih izvora u kojima su opisani različiti događaji od globalnog značaja, poput političkih protesta,  sudskih odluka, donošenja novih zakona i sl. Pitanja kojima se učenici mogu voditi u analizi su: da li članak nudi uvjerljiv opis događaja; koji argumenti i dokazi su ponuđeni u članku; da li je izvor pouzdan i kredibilan;  da li mogu prepoznati kako je perspektiva autora utjecala na izvješće; da li je članak konzistentan sa  drugim pouzdanim interpretacijama istog događaja? Na kraju, učenici mogu objasniti kako bi filozofi poput Descartesa, Humea i Kanta tumačili proces putem kojeg su učenici analizirali i vrednovali članak.
+ Učenici mogu pogledati filmove Apokalipsa danas, 2001: Odiseja u svemiru, Blade Runner, Ime ruže ili Rashomon i napisati filozofski esej o temi znanosti, istine, perspektive  i  objektivnosti naše spoznaje, referirajući se na pojedina filozofska učenja.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Psihologija, Sociologija, Fizika, Biologija, Hemija, Matematika, Informatika  - posebice naučno-istraživačka oblast, pitanja znanstvenog metoda, pouzdanost znanostvenih istina, pseudoznanost/znanost, utjecaj razvoja informatičkih znanosti i tehnologije na znanost uopće.
+ Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Kroz ovu oblast učenici će naročito razvijati metakognitivne kompetencije (kritičko mišljenje i vještine rješavanja problema), budući da se ova oblast odnosi na refleksiju o onome što uče u drugim nastavnim predmetima.
+Radeći u grupama učenici će razvijati vlastite socijalne vještine i saradničko mišljenje
+Timskim radom će jačati vlastitu odgovornost i odnos prema radu.
+U dijelu realizacije recentnih tema i projektnih zadataka vezanih za znanost i tehnologiju učenici će jačati informatičku i medijsku pismenost.
+  E
+Moral, politika i umjetnost
+
+E.IV.1
+Objašnjava temeljne  filozofske pojmove i pojedina filozofska učenja relevantna za raspravu o moralu, politici  umjetnosti.
+  E.IV.2
+Analizira različite etičke, političke i estetičke postavke i teorije te evaluira ponuđene odgovore na neka od najznačajnijih pitanja u ovoj oblasti.
+  E.IV.3
+Objašnjava međusobnu povezanost etike, filozofije politike i estetike, kao i njihovu povezanost sa drugim područjima filozofije i različitim aspektima društvenog života, uključujući i svakodnevni život.
+Objašnjava neke od najznačajnijih etičkih, političkih i estetičkih pojmova i pitanja.
+Objašnjava  različite etičke, političke i estetičke pozicije nekih od najznačajnijih filozofa i filozofskih škola.
+Raspravlja o različiim  teorijama iz ovih oblasti referirajući se na  neke od klasičnih i suvremenih filozofskih tekstova.
+ Upoređuje kako različiti filozofi i/ili filozofske škole pristupaju ovim pitanjima.
+ Evaluira prednosti i slabosti pojedinih odgovora na temeljna pitanja morala, politike i umjetnosti. 
+Identificira utjecaj etičkih, političkih i estetskih ideja na svakodnevni život.
+Objašnjava načine na koje etika, filozofija  politike i estetike proizlazi iz i utječu na druga područja filozofije i  na druga predmetna područja.
+Objašnjava  različite utjecaje na razvoj etike, filozofije  politike i estetike.
+KLJUČNI SADRŽAJI
+ Napomena: da bi se realizirali ključni sadržaji koji će učenike dovesti do željenih ishoda, nastavnici nipošto ne trebaju obraditi sve dolje navedene filozofe nego će napraviti vlastiti odabir uzimajući u obzir aktuelnost i relevantnost pojedinih filozofa za što bolje razumijevanje svijeta i društvene stvarnosti te uvažavajući osobenost i iskazane potrebe i interese učenika.   
+  Ključni sadržaji: normativna etika – moralna načela, etike vrline, deontološke vs. teleološke etike, meta-etika - porijeklo i priroda moralnih vrijednosti, temelji moralne prosudbe, jezik etike, primjenjena etika - bioetika, etika okoliša, prava životinja.
+ Stoici, Sokrat,  Platon, Aristotel, Konfucije, Buddha,  Bentham, Mill, Kant, Singer, Kierkegaard, Sartre, de Beauvoir,  Levinas, Jonas, Nussbaum.
+Odnos pojedinca i društva (sloboda, sreća, korist), odnos prirode i  zakona,  sloboda, odgovornost, pravednost, jednakost, država, vlast, civilno društvo, Platonovo I Aristotelovo shvaćanje države i politike, Machiavelli (cilj opravdava sredstva), Hobbes, Rousseau, Locke (društveni ugovor, ideja suverenosti naroda), Hegel, Marx (umna država, carstvo slobode, carstvo nužnosti), Rawls (teorija pravednosti), Huxley “Vrli novi svijet”, Orwell “1984”.  Wollstonecraft, Popper, Charles Taylor, Arendt, Okin, Rawls, Nozick, Sen, Habermas, Foucault, F. Hayek. Anarhizam, konzervatizam, liberalizam, utopizam, komunitarizam, marksizam, totalitarizam, ideologija, sloboda, jednakost, pravednost, ljudska prava, cenzura i sloboda govora i informacija, manjine i marginalizirane skupine, mediji u suvremenom društvu.
+Priroda umjetnosti, umjetnik i proces stvaranja umjetničkog djela, estetsko iskustvo i prosudba, Pojam lijepog i ljepote, umjetnička istina,  funkcija umjetnosti, teorije umjetnosti, estetika ružnoga, odnos umjetnosti i morala. Platonovo poimanje lijepog i umjetnosti i Aristotelovo shvaćanje odgojno-etičke katartičke funkcije tragedije,  Kantovo određenje doživljaja ljepote kao bezinteresnog sviđanja forme umjetničkog djela, Hegelovo poimanje umjetnosti kao osjetilnog, pojedinačnog prikazivanja ideje, Schellingovo estetički panteizam i određenje da estetsko nije spoznatljivo umom, Schopenhauerovo učenje o umjetnosti kao tješiteljice, Nietzscheovo učenje o umjetnosti kao najpotpunijem čovjekovom očitovanju, Heideggerovo poimanje umjetnosti, Adorno i estetika ružnoga.   Danto, Croce, Bell, Lyotard, Charles Nussbaum.
+Šta je moral?
+Postoje li temeljni i općeprihvaćeni moralni principi?
+Šta je dobro? Koje su temeljne vrline?
+Koji su izvori i kriteriji naše moralne prosudbe i djelovanja?
+Šta je sloboda?
+U kakvom su odnosu pojedinac i društvo?
+Jesu li sloboda i jednakost kompatibilni?
+Jesu li ljudska prava neotuđiva i univerzalna?
+Može li pravednost biti i ideal i proces?
+Šta je umjetnost?
+Kako definiramo lijepo i ružno?
+Postoje li objektivni kriteriji vrednovanja umjetničkog djela?
+Treba li umjetničko djelo sadržavati religijsku, etičku ili političku poruku?
+Koja je funkcija umjetnosti?
+  PREPORUKE ZA OSTVARENJE ISHODA
+     Preporuke za realizaciju tematske cjeline
+1. Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice.
+Ova je oblast od velikog značaja za svakodnevni život učenika, jer se u njoj problematiziraju pitanja praktične filozofije – etike, estetike i politike. Upravo zbog toga se nastavnicima preporučuje korištenje raznovrsnih materijala, kako filozofskih tekstova (klasičnih i suvremenih), tako i korištenje različitih video materijala (TED talks, Crash Philosophy i dr.), umjetničkih djela, članaka o aktualnim globalnim događajima, filma itd.  kao poticaja za filozofsko promišljanje i analizu.
+Nastavnicima se preporučuje korištenje inovativnih praksi i strategija za poticanje kritičkog mišljenja i kreativnosti kod učenika poput stripovne metode u nastavi. Za ovu oblast se preporučuje čitanje stripa V kao Vendeta koji sa svojim sugestivnim prikazom totalitarnog društva u postapokaliptičnoj Britaniji, nameće kao iznimno dobar poticaj za raspravu o društvenim i političkim temama, odnosno temama s područja političke filozofije koje su važne za društva današnjice. Ovaj strip se u nastavi filozofije sa logikom može koristiti kao sjajna platforma kako bi se učenike navelo da preispitaju vlastite moralne principe i promišljanja o vlasti, odnosno da ih sagledaju iz različitih etičkih i političkih perspektiva sa kojima su se upoznali na nastavi filozofije (utilitarizam, retributivizam, deontološke teorije, etički relativizam vs apsolutizam, etički univerzalizam, liberalizam vs komunitarizam i sl.). Etička rasprava sa učenicima može prenijeti i na pitanja rasizma, homofobije i korištenja nedopuštenih istraživanja na ljudima, kao i na propitivanje totalitaritma.
+Učenicima se mogu dati isječci iz Huxley-evog distopijskog romana “Vrli novi svijet” i Orwell-e “1984” da bi se potaknule rasprave o brojnim pitanjima iz oblasti političke filozofije.Analiza umjetničkih djela poput  DuchampoveFontane, PicassoveGuernice i sl.
+Učenici mogu pogledati filmove poput: Gattaca, Odlazak u smrt (1995), dokumentarac Neugodna istina,Goyini duhovi, Malo dobrih ljudi, Gospodar muha i sl., a potom napisati esej povezujući film sa određenim filozofskim učenjima i problematikom.
+ Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Sociologija, Psihologija – etičke teorije i pitanja, moć, pravednost, sloboda, odgovornost, mediji.
+Kultura religija – etički problemi, autonomna i heteronomna etika
+Likovna kultura, Muzička kultura – estetski problemi vrednovanja umjetničkog djela, pojam lijepog, formiranje estetskih sudova
+BHS jezik i književnost – filozofska analiza književnih djela Huxley “Vrli novi svijet”, Orwell “1984”
+Biologija, Fizika, Hemija – etičke implikacije prirodoznanstvenih istraživanja.
+ 3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+ Ova oblast pruža velike mogućnosti za razvoj interkulturalnih kompetencija učenika, razvijanje njihovog senzibiliteta i empatije za  druge, oblikovanje njihovog estetskog ukusa i razvijanje univerzalnih etičkih vrlina i humanističkih vrijednosti kod učenika.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

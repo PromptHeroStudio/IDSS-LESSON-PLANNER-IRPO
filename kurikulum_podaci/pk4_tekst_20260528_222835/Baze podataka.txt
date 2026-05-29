@@ -1,0 +1,121 @@
+PREDMET: Baze podataka
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Baze%20podataka
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Baze podataka
+Baze podataka - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Srednje
+III
+Godine učenja i podučavanja predmeta: 1
+A Prezentacija i obrada podataka
+A.III.1
+A.III.2
+B Projektovanje baze podataka
+B.III.1
+B.III.2
+C Upravljanje bazama podataka
+C.III.1
+C.III.2
+A
+Prezentacija i obrada podataka
+A.III.1
+Demonstrira faze razvoja baze podataka i njenu strukturu na osnovu vrste.
+A.III.2
+Modelira relacionu shemu složene baze podataka.
+A.III.1.a Klasifikuje vrste i strukture različitih tipova baza podataka.
+A.III.1.b Objašnjava faze razvoja baze podataka.
+A.III.2.a Objašnjava pojmove entitet i relacija u bazama podataka.
+A.III.2.b  Klasificira atribute i dodjeljuje im specijalne funkcije: primarni ključ, alternativni ključ, spoljni ključ.
+A.III.2.c Koristi vezne tabele za uklanjanje n:n veza.
+A.III.2.d Vrši normalizaciju baze podataka.
+A.III.2.e Projektuje samostalno bazu podataka i njenu relacionu shemu.
+KLJUČNI SADRŽAJI
+Mrežni, hijerarhijski i relacioni model, Entitet, Relacija,
+Logička veza, Funkcionalna veza, Relaciona šema, Vezna tabela, Normalizacija
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Osnove teorije podataka učenicima pružaju uvid u moguće načine pohrane podataka (mrežni, hijerarhijski i relacioni model). Pored toga, sa učenicima treba detaljno preći potpun proces izrade baze podataka, od ispistivanja tržišta, preko prijedloga i specifikacija projekta, projektovanja šematskog prikaza i implementacije, do testiranja  i ažuriranja.
+Prilikom modeliranja baza podataka veoma je bitno sa učenicima obraditi mnoštvo primjera, te osposobiti učenike da jasno razgraniče šta su i kako se biraju atributi tabele, a šta su podaci unutar tabele, šta su primarni, alternativni i spoljni ključ i kako se uspostavljaju, te kako se elementi baze kaskadno povezuju.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Teorija podataka bavi se načinima pohrane i obrade podataka, te je stoga u direktnoj vezi s primjenama u svakodnevnom životu. Na temelju ovoga, možemo uspostaviti direktnu vezu sa sociologijom i ekonomijom, te jezicima koji su njegov sastavni dio. Načini zapisivanja podataka koriste stroge matematičke modele, te je stoga veza s matematikom neizostavna.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: kritičko korištenje informacijsko-komunikacijske tehnologije za prikupljanje, vrednovanje i pohranjivanje informacija, za produkciju, predstavljanje i razmjenu informacija i za ušešće u virtuelnim društvenim mrežama.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti; podrška radoznalosti kroz omogućavanje izražavanja misli, ideja i emocija, te razvijanje sposobnosti posmatranja, učestvovanja i integrisanja novih iskustava.
+B
+Projektovanje baze podataka
+B.III.1
+Konstruiše upite za kreiranje baze podataka, njenih entiteta i relacija.
+B.III.2
+Projektuje relacionu bazu podataka.
+B.III.1.a Kreira praznu bazu podataka pomoću upita.
+B.III.1.b Uspostavlja veze između tabela pomoću upita.
+B.III.1.c Formira upite za dodavanje i brisanje tabela iz baze podataka.
+B.III.2.a Predlaže projekt i prezentuje njegov plan.
+B.III.2.b Istražuje primjere iz stvarnog života u svrhu uspostavljanja baze podataka sa realnim atributima i relacijama.
+B.III.2.c Implementira predloženi projekt koristeći SQL, te DBMS po izboru.
+B.III.2.d Dokumentuje korake i postupke i objedinjuje ih u potpun pisani izvještaj koji sadrži prijedlog, specifikacije i rezultate testiranja projekta.
+KLJUČNI SADRŽAJI
+Deklarativni jezik, Tabela, Upit,
+Projekat, Prijedlog projekta, Specifikacije projekta, Rješavanje problema, Testiranje, Dokumentacija
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Nakon projektovanja baza podataka u vidu relacionih shema, učenici treba da savladaju njihovo prevođenje u digitalni oblik pomoću SQL-a. Učenici ovdje treba da savladaju  postupke kreiranja baze podataka, pisanja upita za kreiranje tabela i uspostavljanja veza među njima, te pisanje upita za brisanje tabela.
+Na kraju izučavanja SQL baza podataka potrebno je planirati neophodno vrijeme za samostalni učenički projekt. Finalni rezultat bi trebala biti složena baza podataka sa administratorskim i korisničkom dijelom. U toku izrade projekta nastavnik bi trebao pratiti rad pojedinca, odnosno grupe, koja radi na projektu i pružati im pomoć u vidu navođenja na ispravan put u radu, te ispravljanja grešaka u programu koje učenici ne mogu otkloniti sami. Također, tokom cijele izrade projekta učenike treba navoditi da rade paralelno na dokumentaciji projektnog zadatka, s obzirom da skupa s bazom treba da predajui i potpunu opsežnu dokumentaciju projekta. 
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Kroz oblast deklarativnog programiranja učenici uče novi programski jezik, te je pored stalne veze s matematikom, evidentna povezanost s jezicima. Programiranje pomoću upita koristi drugačiji, čovjeku razumljiviji, stil pisanja naredbi, pa ovdje uočavamo i vezu s psihologijom.
+Prilikom izrade projekta neposredna veza ostvaruje se s matematičkim modelima, te maternjim jezikom kroz pisanje dokumentacije i prezentovanje projekta. Pored toga, sve veze s nastavnim predmetima ostvarene u toku godine (jezici, psihologija, sociologija,...) se preslikavaju na ovu oblastu, a nutar projekta je moguće ostvariti korelaciju s bilo kojim nastavnim predmetom kroz odabir teme.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja, specijalno generalizacije, i prikazivanja objekata stvarnog života u digitalnom obliku.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Samoinicijativa i poduzetnička kompetencija: upravljanje projektima, rad u timovima na kooperativan i fleksibilan način, konstruktivno sarađivanje u aktivnostima i upotreba vještina grupnog rada.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+C
+Upravljanje bazama podataka
+C.III.1
+Manipulira sadržajima baze podataka pomoću upita.
+C.III.2
+Organizuje NoSQL bazu podataka.
+C.III.1.a Koristi upite za ubacivanje, brisanje i modifikovanje sadržaja tabela baze podataka.
+C.III.1.b Primjenjuje logičke operacije u upitima za ispis filtriranih sadržaja baze podataka.
+C.III.2.a Opisuje NoSQL sisteme za upravljanje bazama podataka.
+C.III.2.b Upotrebljava NoSQL sistem za upravljanje bazama podataka.
+KLJUČNI SADRŽAJI
+Unos, Brisanje, Modifikovanje, Filtriranje,
+NoSQL baze, DBMS za NoSQL baze podataka
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Nakon što savladaju pisanje DDL upita za manipulaciju objektima, učenici treba da budu osposobljeni za pisanje DML upita za upravljanje sadržajima baza podataka. Učenici ovdje treba da se osposobe za upite za unos, brisanje i modifikaciju sadržaja, te pregled sadržaja baze pomoću filtera (logički uslovi, unije, presjeci).
+Nisu sve baze podataka pisane pomoću SQL-a. Učenike treba upoznati da postoje i druge baze podataka koje se kreiraju drugačije, te u kojima se manipulacijom sadržajima ne upravlja preko upita. Ovdje učenici treba da usvoje bazna znanja o korištenju nekog NoSQL sistema za upravljanje bazama podataka, kao što su npr. Firebase, MongoDB, i sl.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Kroz oblast deklarativnog programiranja učenici uče novi programski jezik, te je pored stalne veze s matematikom, evidentna povezanost s jezicima. Programiranje pomoću upita koristi drugačiji, čovjeku razumljiviji, stil pisanja naredbi, pa ovdje uočavamo i vezu s psihologijom.
+NoSQL sistemi za upravljanje bazama podataka nude još jedan, novi način prikazivanja baza podataka, pa ovdje možemo uočiti vezu s jezicima u smislu prevođenja iz SQL modela u NoSQL model, te psihologijom zbog prelaska na intuitivnije prikaze. Podaci se i dalje nalaze u specifičnim relacijama, te je veza sa matematikom i dalje prisutna. Na kraju, kroz izbor baze podataka koja se kreira moguće je ostvariti korelaciju s bilo kojim drugim nastavnim predmetom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja (logičko i prostorno razmišljanje) i prikazivanja (formula, modela, konstrukcija, grafikona/dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: kritičko korištenje tehnologije za prikupljanje, vrednovanje i pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

@@ -1,0 +1,192 @@
+{
+  "predmet": "Softver inžinjering",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "I"
+  },
+  "tematske_cjeline": [
+    "A Aspekti razvoja softvera",
+    "B Upravljanje softverom",
+    "C Pouzdanost i sigurnost sistema"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "V.1.1",
+      "opis": "Primjenjuje etička i profesionalna pitanja za softverske inžinjere."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "Koristi koncepte i modele softverskih procesa."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Raščlanjuje aktivnosti razvoja softverskih zahtjeva, implementacije, testiranja i evolucije."
+    },
+    {
+      "oznaka": "V.1.4",
+      "opis": "Povezuje organizovanost procesa sa dizajnom i analizom softverskog rješenja."
+    },
+    {
+      "oznaka": "V.1.5",
+      "opis": "Analizira faktore koji utiču na kvalitet i poboljšanje softverskog procesa."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "Definiše agilne metode razvoja softvera i razlike u odnosu na planirani razvoj."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "Koristi prakse agilnog razvoja kao što su refaktorisanje, programiranje u paru i razvoj prvog testa;"
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "Primjenjuje Scrum metodologiju u projektnim zadacima."
+    },
+    {
+      "oznaka": "V.2.4",
+      "opis": "Kombinuje agilne i planirane metode razvoja kod većih softverskih sistema."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "Razlikuje korisničke i sistemske zahtjeve u projektovanju softverskog rješenja."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "Koristi grafičke modele za predstavljanje softverskih sistema."
+    },
+    {
+      "oznaka": "V.3.3",
+      "opis": "Modelira dijagrame u UML-u (klase, sekvence, stanja, slučajevi upotrebe)."
+    },
+    {
+      "oznaka": "V.4.1",
+      "opis": "Primjenjuje arhitektonske obrasce u dizajnu softverskih sistema."
+    },
+    {
+      "oznaka": "V.4.2",
+      "opis": "Primjenjuje objektno-orijentisani proces projektovanja i dizajna."
+    },
+    {
+      "oznaka": "V.4.3",
+      "opis": "Analizira ideje dizajnerskih obrazaca i načine ponovne upotrebe softverskog znanja."
+    },
+    {
+      "oznaka": "V.4.4",
+      "opis": "Izdvaja ključna pitanja implementacije softvera, uključujući ponovno korištenje softvera i razvoj otvorenog koda."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "Identifikuje elemente organizacije softverskog projekta i podjele zadataka u skladu s kompetencijama projekta."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "Procjenjuje rizike softverskog projekta i faktore koji utiču na motivaciju članova tima."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Predstavlja ključna pitanja koja utiču na timski rad, sastav tima, organizacija i komunikaciju unutar tima."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "Klasifikuje osnove obračuna troškova softvera i faktore koji utiču na cijenu softverskog sistema."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "Opisuje planiranje projekta i korištenje trakastih dijagrama za vizuelizaciju rasporeda aktivnosti."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "Demonstriraagilno planiranje projekta kroz praktičnu aktivnost \"Igra planiranja\"."
+    },
+    {
+      "oznaka": "V.2.4",
+      "opis": "Koristi tehniku procjene troškova u konkretnim projektima i simulacijama."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "Primjenjuje tehnike procjene troškova u planiranim softverskim projektima."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "Analizira faktore koji utiču na troškove softverskog sistema i njihov uticcaj na budžet."
+    },
+    {
+      "oznaka": "V.3.3",
+      "opis": "Primjenjuje mehanizme za osiguranje kvalitete softvera u praksi."
+    },
+    {
+      "oznaka": "V.3.4",
+      "opis": "Objašnjava upravljanje kvalitetom u agilnim metodama kroz razvoj timske kulture."
+    },
+    {
+      "oznaka": "V.3.5",
+      "opis": "Procjenjuje atribute kvalitete softvera, softverske analitike i ograničenja softverskog mjerenja."
+    },
+    {
+      "oznaka": "V.4.2",
+      "opis": "Objašnjava izazove pri izgradnji sistema i koristi prednosti kontinuirane integracije i automatizovane izgradnje sistema."
+    },
+    {
+      "oznaka": "V.4.3",
+      "opis": "Primjenjuje metode upravljanja promjenama softvera u praktičnim situacijama."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "Primjenjuje faze testiranja softvera, od testiranja tokom razvoja do testiranja prihvatanja, u skladu s definisanim standardima kvaliteta."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "Odabire izbor test slučajeva usmjerenih na identifikaciju i otklanjanje grešaka u programu."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Kreira planove i scenarije testiranja prije pisanja koda te implementira automatsko pokretanje testova."
+    },
+    {
+      "oznaka": "V.1.4",
+      "opis": "Klasifikuje vrste testiranja (testiranje komponenti, sistema i izdanja) u kontekstu osiguranja pouzdanosti i sigurnosti softvera."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "Izrađuje tehničku i korisničku dokumentaciju za isporuku softvera."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "Organizuje obuku korisnika za upotrebu sistema."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "Povezuje proces održavanja softverskog sistema s fazama njegovog životnog ciklusa."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Profesionalni razvoj softvera; Etika softverskog inžinjeringa; Studija slučaja; Modeli softverskih procesa; Agilne metode; Funkcionalni i nefunkcionalni zahtjevi; Kontekstni modeli; Modeli interakcije; Strukturni modeli; Modeli ponašanja; Inžinjering vođen modelom Odluke o arhitektonskom dizajnu; Objektno orijentisani dizajn koristeći UML; Dizajnerski obrasci; Pitanja implementacije; Razvoj otvorenog koda Evolucijski procesi; Naslijeđeni sistemi; Održavanje softvera"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Prijedlog rada na projektu za ostvarivanje ishoda učenja i indikatora:",
+      "1. Izabrati jednu od tradicionalnih metoda modelovanja koja će biti primijenjena u procesu razvoja konkretnog softvera. Preporučuju se kaskadni ili V model. U skladu sa izabranom metodom, predložiti detaljan plan projekta u kome treba:",
+      "definisati kritične tačke (milestones) koje pokazuju šta treba da bude urađeno na projektu i do kada;",
+      "navesti uloge svih članova projektog tima uz precizan opis šta ko od njih treba da uradi i do kada;",
+      "navesti planirane rezultate za svaku kritičnu tačku; rezultati mogu biti softverski moduli, modeli, dokumentacija, kratka korisnička uputstva i sl.",
+      "2. Izraditi specifikaciju softverskih zahtjeva. Posebnu pažnju posvetiti:",
+      "funkcionalnim zahtjevima sistema;",
+      "zahtjevima kojima se definišu veze sistema sa okruženjem zahtjevima po pitanju performansi koje sistem treba da ispuni.",
+      "Specifikacija može, prema potrebi, da sadrži tekstualne opise zahtjeva, UML dijagrame, snimke ekrana, prijedloge izvještaja, tabela i dr.",
+      "3. Isprojektovati sistem sa aspekta njegove arhitekture i programskog kôda.",
+      "Predstaviti arhitekturu sistema u vidu modularne hijerarhije iz koje se jasno vidi koje komponente postoje u sistemu i kako su one međusobno povezane. Pri tome koristiti odgovarajući stil projektovanja.",
+      "Izabrati programski jezik koji će biti korišten pri implementaciji i obrazložiti njegov izbor. Opisati strukture podataka i algoritme koji će biti primijenjeni.",
+      "Napraviti strukturu programskih modula, tj. datoteka pomoću kojih će sistem biti implementiran. Navesti potrebne procedure i funkcije u okviru svakog programskog modula.",
+      "Pri projektovanju intenzivno koristiti sve vrste UML dijagrama.",
+      "4. Na izabranom programskom jeziku napisati programski kôd koji realizuje sistem. Datoteke sa izvornim kôdom dopuniti odgovarajućom unutrašnjom dokumentacijom, tj. komentarima. Na jednoj strani, priložiti primjer dobro dokumentovanog programskog kôda (početak datoteke sa zaglavljem).",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      "Međupredmetna povezanost nastavnog predmeta Softver inžinjering ostvaruje se kroz  integraciju sadržaja i vještina iz različitih obrazovnih područja, čime se učenicima omogućava holističko razumijevanje i primjena stečenih znanja u širem kontekstu. Gradivni elementi softverskog sistema direktno se nadovezuju na ranije usvojena znanja iz Matematičkih osnova računarskih nauka i Napredne primijenjene informatike, gdje učenici koriste mehanizme nadzora rada sistema, administracije i izvještavanja. Ova povezanost omogućava učenicima da razumiju kako matematičke i logičke strukture utiču na funkcionalnost i stabilnost softverskih rješenja. Kroz komponente baza podataka i programiranja, učenici primjenjuju znanja razvijajući sposobnost implementacije osnovne funkcionalnosti softverskog sistema i pravilnog upravljanja podacima. Kroz aktivnosti izrade projekata, razvijaju se komunikacijske vještine, posebno kroz obradu teksta i prezentaciju rezultata, što omogućava integraciju jezika, u kontekstu istraživanja literature i korištenja interneta kao pouzdanog izvora informacija. Numerička obrada podataka povezuje se s matematičkim sadržajem, dok kreativno računarstvo omogućava primjenu koncepta softverskog inžinjeringa kroz praktične zadatke u okviru Fizike, Psihologije, Sociologije i ostalih prirodnih nauka. Učenici razvijaju vještine grafičke obrade podataka, analize i prezentacije rezultata, što doprinosi i njihovoj sposobnosti timskog rada i organizacije projekata.",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Učenic"
+    ]
+  }
+}

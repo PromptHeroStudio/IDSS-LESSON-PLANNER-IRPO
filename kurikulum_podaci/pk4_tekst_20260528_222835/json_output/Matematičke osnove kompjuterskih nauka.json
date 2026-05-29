@@ -1,0 +1,41 @@
+{
+  "predmet": "Matematičke osnove kompjuterskih nauka",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "III"
+  },
+  "tematske_cjeline": [
+    "A Teorija skupova i brojeva",
+    "B Algebra",
+    "C Teorija grafova i algoritama"
+  ],
+  "ishodi": [],
+  "kljucni_sadrzaji": [
+    "Skup; Skupovne operacije; Raselov paradoks; Tabela; Dijagram;   Djeljivost; Eratostenovo sito; NZD; NZS; ; Euklidov algoritam; Diofantove jednačine; Modularni sistemi; Kongruencije; Kineska teorema o ostacima; Sistem linearnih kongruencija;"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Pojam skupa proširiti na razne primjere skupova i relacija među njima (presjek, unija, razlika, simetrična razlika, podskup, partitivni skup, kardinalni broj skupa). Obratiti pažnju na pravilno korištenje matematičkih simbola prilikom zapisivanja skupova i skupovnih relacija. Analizirati sa učenicima Raselov paradoks.",
+      "Kombinirati različite načine prikupljanja i razvrstavanja podataka, te ih prikazati putem tabela ili dijagrama. S obzirom na veliku primjenu sadržaja ove tematske cjeline, veoma je važno njene zakonitosti usvojiti do nivoa na kojem će učenicima oni postati prirodni i jednostavno primjenjivi kako u zadacima, tako i u svakodnevnom životu. Do ovih zakonitosti učenici bi trebali sami dolaziti induktivnim putem, ali ih obavezno treba iskazati i strogo matematički. Zadatke bi trebalo postepeno usložnjavati i kombinovati primjene dva i više pravila.",
+      "Rješavanje Diofantovih jednačina dovesti do nivoa automatizma. Demonstrirati učenicima postupak rješavanja Diofantove jednačine. Primjenjivati Diofantove jednačine u jednostavnim problemskim zadacima.",
+      "Kongruencije se trebaju uvesti putem primjera koji su učenicima već poznati (npr. danas je petak i za sedam dana je ponovo petak, tj. 5+7≡5(mod 7)). Svaki dio zapisa kongruencije treba tumačiti kako bi se razumio matematički zapis. Do zakonitosti koje vrijede među kongruencijama treba dolaziti induktivnim putem, te izvoditi generalizacije. Također računske operacije treba uvesti učenicima putem prirodnih primjera, a tek onda preći na generalna pravila. Da bi se učenici zainteresovali za kongruencije i rad s njima, ponuditi im interesantne zadatke, npr. kako odrediti ostatak nekog broja koji ima veliki eksponent stepena pri dijeljenju nekim brojem.",
+      "Sadržaji ove tematske cjeline se mogu proučavati kroz interaktivan rad što doprinosi dinamičnoj atmosferi i potiče učenike na međusobni dijalog, konstruktivne rasprave, samostalno istraživanje i spremnost za kontinuiranim učenjem, te povećava samopouzdanje, samokontrolu i samoprocjenu. Povećavati sposobnost i spremnost korištenja matematičkih oblika mišljenja, te razvijati kreativnost i inovativnost. Od učenika tražiti da ,,matematiziraju” situacije i da ih rješavaju pomoću matematičkih alata samostalno ili u grupama u cilju razvoja  kritičkog mišljenja. Grupnim oblikom rada povećati motivaciju učenika za rad."
+    ],
+    "medjupredmetne_korelacije": [
+      "Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (npr. izražajno čitanje definicije funkcije radi isticanja riječi ,,svaki“ i ,,tačno jedan“; analiziranje dijelova rečenice u smislu razumijevanja veze između datih podataka);",
+      "Informatika (npr. prikaz kompjuterskih simulacija Venovog dijagrama, dijeljenja sa ostatkom i sl, korištenje algoritma za računanje NZD i NZS, prikaz podataka grafički pomoću GeoGebre);",
+      "Matematika (npr. ponavljanje ranije usvojenih pojmova, primjena Pitagorine teoreme);",
+      "Tjelesni i zdravstveni odgoj (npr. primjena Venovog dijagrama);",
+      "Likovna kultura (npr. korištenje boja za naglašavanje funkcionalnih veza među elementima);",
+      "Geografija (npr. prikaz raznih skupova stanovništva, računanje prosječnih vrijednosti korsteći kriterije djeljivosti);",
+      "Biologija (npr. Venov dijagram za prikaz životinjskih vrsta, rodova i sl., razmnožavanje mikroorganizama);",
+      "Historija (npr. staroegipatski algoritam za množenje i dijeljenje);",
+      "Fizika (npr. prigušene oscilacije, ubrzano kretanje, transferzalni valovi, kosi hitac, temparatura, korištenje uslova djeljivosti u zadacima radi kraćeg i lakšeg računanja, primjena linearnih jednačina i sistema linearnih jednačina na računski dio zadatka);",
+      "Hemija (npr. radioaktivni raspad, miješanje hemijskih elemenata);",
+      "Programiranje se koristi kako bi se proizvela programska rješenja koja se koriste u svima naukama, ali ono i koristi druge nauke kako bi dizajn, funkcionalnost i upotreba programskog okruženja bila funkcionalna. U  gimnaziji se pretežno rješavaju matematički zadaci ili zadaci iz fizike, hemije, biologije koji imaju matematičku osnovu i logički su koncipirani."
+    ],
+    "kompetencijski_pristup": [
+      "Matematičk"
+    ]
+  }
+}

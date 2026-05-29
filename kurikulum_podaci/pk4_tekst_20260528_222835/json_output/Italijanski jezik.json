@@ -1,0 +1,780 @@
+{
+  "predmet": "Italijanski jezik",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "5"
+  },
+  "tematske_cjeline": [
+    "A Slušanje i razumijevanje slušanog",
+    "B Čitanje i razumijevanje pročitanog",
+    "C Govor i usmena komunikacija",
+    "D Pisanje i pismeno sporazumijevanje",
+    "A Slušanje i razumijevanje slušanog",
+    "B Čitanje i razumijevanje pročitanog",
+    "C Govor i usmena komunikacija",
+    "D Pisanje i pismeno sporazumijevanje",
+    "A Slušanje i razumijevanje slušanog",
+    "B Čitanje i razumijevanje pročitanog",
+    "C Govor i usmena komunikacija",
+    "D Pisanje i pismeno sporazumijevanje",
+    "A Slušanje i razumijevanje slušanog",
+    "B Čitanje i razumijevanje pročitanog",
+    "C Govor i usmena komunikacija",
+    "D Pisanje i pismeno sporazumijevanje",
+    "A Slušanje i razumijevanje slušanog",
+    "B Čitanje i razumijevanje pročitanog",
+    "C Govor i usmena komunikacija",
+    "D Pisanje i pismeno sporazumijevanje",
+    "A Gimnazija Slušanje i razumijevanje slušanog",
+    "B Gimnazija Čitanje i razumijevanje pročitanog",
+    "C Gimnazija Govor i usmena komunikacija",
+    "D Gimnazija Pisanje i pismeno sporazumijevanje",
+    "A Gimnazija Slušanje i razumijevanje slušanog",
+    "B Gimnazija Čitanje i razumijevanje pročitanog",
+    "C Gimnazija Govor i usmena komunikacija",
+    "D Gimnazija Pisanje i pismeno sporazumijevanje",
+    "A Gimnazija Slušanje i razumijevanje slušanog",
+    "B Gimnazija Čitanje i razumijevanje pročitanog",
+    "C Gimnazija Govor i usmena komunikacija",
+    "D Gimnazija Pisanje i pismeno sporazumijevanje",
+    "A Gimnazija Slušanje i razumijevanje slušanog",
+    "B Gimnazija Čitanje i razumijevanje pročitanog",
+    "C Gimnazija Govor i usmena komunikacija",
+    "D Gimnazija Pisanje i pismeno sporazumijevanje",
+    "A Srednja stručna škola Slušanje i razumijevanje slušanog",
+    "B Srednja stručna škola Čitanje i razumijevanje pročitanog",
+    "C Srednja stručna škola Govor i usmena komunikacija",
+    "D Srednja stručna škola Pisanje i pismeno sporazumijevanje",
+    "A Srednja stručna škola Slušanje i razumijevanje slušanog",
+    "B Srednja stručna škola Čitanje i razumijevanje pročitanog",
+    "C Srednja stručna škola Govor i usmena komunikacija",
+    "D Srednja stručna škola Pisanje i pismeno sporazumijevanje",
+    "A Srednja stručna škola Slušanje i razumijevanje slušanog",
+    "B Srednja stručna škola Čitanje i razumijevanje pročitanog",
+    "C Srednja stručna škola Govor i usmena komunikacija",
+    "D Srednja stručna škola Pisanje i pismeno sporazumijevanje",
+    "A Srednja stručna škola Slušanje i razumijevanje slušanog",
+    "B Srednja stručna škola Čitanje i razumijevanje pročitanog",
+    "C Srednja stručna škola Govor i usmena komunikacija",
+    "D Srednja stručna škola Pisanje i pismeno sporazumijevanje",
+    "A Slušanje i razumijevanje slušanog sadržaja",
+    "B Čitanje",
+    "D Pisanje"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.5.1",
+      "opis": "A.5.2"
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "B Čitanje i razumijevanje pročitanog"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B.5.2"
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "C Govor i usmena komunikacija"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.5.2"
+    },
+    {
+      "oznaka": "C.5.3",
+      "opis": "D Pisanje i pismeno sporazumijevanje"
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": "D.5.2"
+    },
+    {
+      "oznaka": "D.5.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "Tumači slušani sadržaj primjenjujući strategije slušanja."
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": "Analizira vokabular, jezičke i fonetske zakonitosti."
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "Procjenjuje obrasce sporazumijevanja slušanog sadržaja, objašnjava međukulturne razlike u odnosu na vlastitu kulturu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "Tumači različite vrste tekstova primjenjujući strategije čitanja."
+    },
+    {
+      "oznaka": "B.5.2",
+      "opis": "Analizira vokabular, jezičke i pravopisne zakonitosti."
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "Istražuje o jeziku, kulturi i civilizacijskim vrijednostima i poredi ih s vlastitim."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "Učestvuje u različitim oblicima govorne produkcije i koristi različite komunikacijske strategije u govoru."
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": "Koristi raznolik i precizan vokabular i organizuje misli i argumente u skladu s jezičkim i fonetskim zakonitostima."
+    },
+    {
+      "oznaka": "C.5.3",
+      "opis": "Procjenjuje društveni kontekst te na osnovu njega prilagođava vlastiti izraz poštujući pravila i norme sporazumijevanja i međukulturne različitosti prilikom interakcije."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": "Kreira različite vrste tekstova u skladu s namjenom i publikom primjenjujući različite strategije pisanja."
+    },
+    {
+      "oznaka": "D.5.2",
+      "opis": "Primjenjuje raznolik i precizan vokabular i organizuje misli i argumente u skladu s jezičkim i pravopisnim zakonitostima."
+    },
+    {
+      "oznaka": "D.5.3",
+      "opis": "Procjenjuje društveni kontekst te na osnovu njega prilagođava vlastiti izraz poštujući pravila i norme sporazumijevanja i međukulturne različitosti prilikom interakcije."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "B Čitanje i razumijevanje pročitanog"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B.6.2"
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "C Govor i usmena komunikacija"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "D Pisanje i pismeno sporazumijevanje"
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": "D.6.2"
+    },
+    {
+      "oznaka": "D.6.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "Tumači slušani sadržaj primjenjujući strategije slušanja."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "Analizira vokabular, jezičke i fonetske zakonitosti."
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "Procjenjuje obrasce sporazumijevanja slušanog sadržaja, objašnjava međukulturne razlike u odnosu na vlastitu kulturu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "Tumači različite vrste tekstova primjenjujući strategije čitanja."
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": "Analizira vokabular, jezičke i pravopisne zakonitosti."
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "Istražuje o jeziku, kulturi i civilizacijskim vrijednostima i poredi ih s vlastitim."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "Učestvuje u različitim oblicima govorne produkcije i koristi različite komunikacijske strategije u govoru."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "Koristi raznolik i precizan vokabular i organizuje misli i argumente u skladu s jezičkim i fonetskim zakonitostima."
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "Procjenjuje društveni kontekst te na osnovu njega prilagođava vlastiti izraz poštujući pravila i norme sporazumijevanja i međukulturne različitosti prilikom interakcije."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": "Kreira različite vrste tekstova u skladu s namjenom i publikom primjenjujući različite strategije pisanja."
+    },
+    {
+      "oznaka": "D.6.2",
+      "opis": "Primjenjuje raznolik i precizan vokabular i organizuje misli i argumente u skladu s jezičkim i pravopisnim zakonitostima."
+    },
+    {
+      "oznaka": "D.6.3",
+      "opis": "Procjenjuje društveni kontekst te na osnovu njega prilagođava vlastiti izraz poštujući pravila i norme sporazumijevanja i međukulturne različitosti prilikom interakcije."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "B Čitanje i razumijevanje pročitanog"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "C Govor i usmena komunikacija"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "D Pisanje i pismeno sporazumijevanje"
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": "D.7.2"
+    },
+    {
+      "oznaka": "D.7.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Tumači slušani sadržaj primjenjujući strategije slušanja."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "Analizira vokabular, jezičke i fonetske zakonitosti."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "Procjenjuje obrasce sporazumijevanja slušanog sadržaja, objašnjava međukulturne razlike u odnosu na vlastitu kulturu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Tumači različite vrste tekstova primjenjujući strategije čitanja."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "Analizira vokabular, jezičke i pravopisne zakonitosti."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "Istražuje o jeziku, kulturi i civilizacijskim vrijednostima i poredi ih s vlastitim."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "Učestvuje u različitim oblicima govorne produkcije i koristi različite komunikacijske strategije u govoru."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "Koristi raznolik i precizan vokabular i organizuje misli i argumente u skladu s jezičkim i fonetskim zakonitostima."
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "Procjenjuje društveni kontekst te na osnovu njega prilagođava vlastiti izraz poštujući pravila i norme sporazumijevanja i međukulturne različitosti prilikom interakcije."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": "Kreira različite vrste tekstova u skladu s namjenom i publikom primjenjujući različite strategije pisanja."
+    },
+    {
+      "oznaka": "D.7.2",
+      "opis": "Primjenjuje raznolik i precizan vokabular i organizuje misli i argumente u skladu s jezičkim i pravopisnim zakonitostima."
+    },
+    {
+      "oznaka": "D.7.3",
+      "opis": "Procjenjuje društveni kontekst te na osnovu njega prilagođava vlastiti izraz poštujući pravila i norme sporazumijevanja i međukulturne različitosti prilikom interakcije."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "B Čitanje i razumijevanje pročitanog"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "C Govor i usmena komunikacija"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "D Pisanje i pismeno sporazumijevanje"
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "D.8.2"
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Tumači slušani sadržaj primjenjujući strategije slušanja."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Analizira vokabular, jezičke i fonetske zakonitosti."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "Procjenjuje obrasce sporazumijevanja slušanog sadržaja, objašnjava međukulturne razlike u odnosu na vlastitu kulturu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Tumači različite vrste tekstova primjenjujući strategije čitanja."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Analizira vokabular, jezičke i pravopisne zakonitosti."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "Istražuje o jeziku, kulturi i civilizacijskim vrijednostima i poredi ih s vlastitim."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "Učestvuje u različitim oblicima govorne produkcije i koristi različite komunikacijske strategije u govoru."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "Koristi raznolik i precizan vokabular i organizuje misli i argumente u skladu s jezičkim i fonetskim zakonitostima."
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "Procjenjuje društveni kontekst te na osnovu njega prilagođava vlastiti izraz poštujući pravila i norme sporazumijevanja i međukulturne različitosti prilikom interakcije."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "Kreira različite vrste tekstova u skladu s namjenom i publikom primjenjujući različite strategije pisanja."
+    },
+    {
+      "oznaka": "D.8.2",
+      "opis": "Primjenjuje raznolik i precizan vokabular i organizuje misli i argumente u skladu s jezičkim i pravopisnim zakonitostima."
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "Procjenjuje društveni kontekst te na osnovu njega prilagođava vlastiti izraz poštujući pravila i norme sporazumijevanja i međukulturne različitosti prilikom interakcije."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A.9.2"
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "B Čitanje i razumijevanje pročitanog"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "C Govor i usmena komunikacija"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.2"
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "D Pisanje i pismeno sporazumijevanje"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "Tumači slušani sadržaj primjenjujući strategije slušanja."
+    },
+    {
+      "oznaka": "A.9.2",
+      "opis": "Analizira vokabular, jezičke i fonetske zakonitosti."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "Procjenjuje obrasce sporazumijevanja slušanog sadržaja, objašnjava međukulturne razlike u odnosu na vlastitu kulturu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Tumači različite vrste tekstova primjenjujući strategije čitanja."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "Analizira vokabular, jezičke i pravopisne zakonitosti."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "Istražuje o jeziku, kulturi i civilizacijskim vrijednostima i poredi ih s vlastitim."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "Učestvuje u različitim oblicima govorne produkcije i koristi različite komunikacijske strategije u govoru."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": "Koristi raznolik i precizan vokabular i organizuje misli i argumente u skladu s jezičkim i fonetskim zakonitostima."
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "Procjenjuje društveni kontekst te na osnovu njega prilagođava vlastiti izraz poštujući pravila i norme sporazumijevanja i međukulturne različitosti prilikom interakcije."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Kreira različite vrste tekstova u skladu s namjenom i publikom primjenjujući različite strategije pisanja."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Primjenjuje raznolik i precizan vokabular i organizuje misli i argumente u skladu s jezičkim i pravopisnim zakonitostima."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "Procjenjuje društveni kontekst te na osnovu njega prilagođava vlastiti izraz poštujući pravila i norme sporazumijevanja i međukulturne različitosti prilikom interakcije."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.3 SJZ-4.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.3 SJZ-4.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1 SJZ-1.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1 SJZ-2.2.2 SJZ-2.2.3 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.2 SJZ-3.1.1 SJZ-3.1.2 SJZ-3.2.1 SJZ-3.1.2 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.1.1 SJZ-4.1.2 SJZ-4.3.2 SJZ-4.2.3 SJZ-4.3.1"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Predložene teme: pozdravljanje",
+    "predstavljanje",
+    "svakodnevne aktivnosti",
+    "škola",
+    "slobodno vrijeme",
+    "fizički izgled Vokabular u vezi s predloženim temama Gramatički sadržaj:  Alfabet",
+    "pravila čitanja i izgovora Imenice: jednina i množina",
+    "muški i ženski rod Zamjenice: lične",
+    "upitne Član: određeni",
+    "neodređeni Pridjevi: rod i broj pridjeva",
+    "opisni (na -o",
+    "-a",
+    "-e )",
+    "prisvojni Brojevi: do 30",
+    "redni brojevi do 10 Glagoli: pomoćni",
+    "modalni",
+    "pravilni i frekventni nepravilni (andare",
+    "venire",
+    "dire",
+    "uscire",
+    "fare",
+    "sapere...)",
+    "infinitiv",
+    "prezent Prilozi: za mjesto",
+    "vrijeme Prijedlozi: a",
+    "di",
+    "con",
+    "per Rečenice: red riječi u potvrdnoj",
+    "odričnoj i upitnoj rečenici"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      ":",
+      "Stvaranje ugodne atmosfere u učionici je jedan od osnovnih elemenata za motivisanje učenika, uspješno razumijevanje i usvajanje gradiva. Fokus rada je na usmenom iskazu koji se povezuje sa situacijom u razredu, igrom, pjesmom, dramatizacijom i pokretom uz poticanje maštovitosti i kreativnosti učenika.",
+      "1.1. Preporuke za realizaciju tema",
+      "Preporučene teme na ovom nivou su primjerene uzrastu, jezičkom razvoju i interesovanjima učenika. Teme se mogu izučavati zasebno ili u kombinaciji, a nastavnik bira broj, vrstu i raspored tema.",
+      "1.2. Preporuke za realizaciju leksičkih i gramatičkih struktura:",
+      "Za uvođenje i provjeru leksike (u situacijama) koriste se predmeti, slikovne kartice, posteri, fotografije, pantomima, geste. Novi leksički materijal se uvodi na osnovu poznatih gramatičkih struktura i bez upotrebe b/h/s jezika. Gramatičke strukture se usvajaju mehanički, a njihovo značenje u tekstu se uči postepeno povezujući ih s poznatom leksikom. Jezičke sadržaje je neophodno neprestano ponavljati da bi ih učenici zapamtili, koristeći različite načine rada i uključujući sva čula. Nastava se odvija na stranom jeziku te ga treba koristiti koliko god je to moguće.",
+      "Moguće didaktičke aktivnosti:",
+      "- pokazivanje predmeta kao poticaj za govornu aktivnost",
+      "- postavljanje pitanja/odgovaranje na pitanja",
+      "- recitovanje i pjevanje popraćeno pokretima i gestama kad god je to moguće",
+      "- izrada postera i panoa",
+      "- učešće u kraćim dijaloškim situacijama i dramskim prikazima situacija",
+      "- glasno i izražajno čitanje prema zvučnom modelu i ostale vježbe izgovora",
+      "- upotreba savremenih didaktičkih sredstava i Internetatokom obrade, utvrđivanja i vrednovanja gradiva",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      ":",
+      "Horizontalno umrežavanje podrazumijeva odgovarajuće audio, printane i pisane sadržaje formom povezane sa nastavnim predmetima Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (imenice, zamjenice pridjevi), Muzička kultura (pjesmice i brojalice), Likovna kultura (ilustracija pojmova: crtanje, bojenje – slikovni rječnik), Tjelesni i zdravstveni odgoj (aktivnosti u prirodi i specifičnim uslovima), sportske aktivnosti (klizanje, rolanje), Matematika (brojanje), Društvo (zanimanja, članovi šire porodice, iskazivanje vremena - puni sati, pola sata), Informatika (edukativne igre, aplikacije).",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "omogućav"
+    ]
+  }
+}

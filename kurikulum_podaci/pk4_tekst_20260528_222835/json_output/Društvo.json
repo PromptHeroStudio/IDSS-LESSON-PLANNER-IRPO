@@ -1,0 +1,178 @@
+{
+  "predmet": "Društvo",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "5"
+  },
+  "tematske_cjeline": [
+    "A Moja domovina",
+    "B Zemlja - prostor življenja",
+    "C Društveni procesi i pojave"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.5.1",
+      "opis": "A.5.2"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "C Društveni procesi i pojave"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.5.2"
+    },
+    {
+      "oznaka": "C.5.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "A.1. Istražuje historijske i geografske karakteristike Bosne i Hercegovine u vremenu i prostoru."
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": "A.2. Opisuje kontinuitet i promjene u historiji Bosne i Hercegovine kroz različite periode."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "DHP-2.1.2 DHP-2.1.3 HIS-2.0.1 HIS-2.0.2 HIS-3.0.1"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": ". Razlikuje osnove mjerenja, računanja i protoka vremena."
+    },
+    {
+      "oznaka": "A.1.2",
+      "opis": ". Istražuje porijeklo imena, državne simbole, granice i veličinu Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "A.1.3",
+      "opis": ". Opisuje geografski položaj Bosne i Hercegovine na Balkanskom poluotoku i  Evropi."
+    },
+    {
+      "oznaka": "A.1.4",
+      "opis": ". Opisuje glavni grad i njihove znamenitosti smislenim korištenjem različitih medija."
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": ". Opisuje društvene, ekonomske, kulturne i vjerske prilike  u BiH, kroz određena historijska razdoblja (predhistorija, stari, srednji, novi vijek i savremeno doba)."
+    },
+    {
+      "oznaka": "A.2.2",
+      "opis": ". Identificira ključne događaje, ličnosti i procese koji su oblikovali političku, društvenu, ekonomsku i kulturnu stvarnost Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "A.2.3",
+      "opis": ". Objašnjava važnost kulturno-historijske baštine Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "A.2.4",
+      "opis": ". Analizira ulogu i doprinos važnih ličnosti u historijskom i kulturnom razvoju Bosne i Hercegovine (sa posebnim osvrtom na žene)."
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B.1. Objašnjava prirodno-geografske odlike Bosne i Hercegovine."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-1.1.1 GEO-1.1.3"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": ". Razlikuje osnovne elemente geografske karte."
+    },
+    {
+      "oznaka": "B.1.2",
+      "opis": ". Opisuje osnovne reljefne odlike Bosne i Hercegovine koristeći geografsku kartu."
+    },
+    {
+      "oznaka": "B.1.3",
+      "opis": ". Razlikuje osnovne tipove klima u Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "B.1.4",
+      "opis": ". Opisuje osnovne odlike voda u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "B.1.5",
+      "opis": ". Navodi primjere tipičnih biljnih i životinjskih vrsta u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.1. Opisuje društvene odlike Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": "C.2. Objašnjava osnovne privredne odlike Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "C.5.3",
+      "opis": "C.3. Objašnjava načine očuvanja prirodnih resursa i važnost njihovog održivog iskorištavanja."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "PNP-2.1.1 GEO-3.3.1 GEO-4.3.2 GEO-3.3.1 GEO-4.3.2"
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": ". Identifikuje odlike stanovništva Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "C.1.2",
+      "opis": ". Prepoznaje doprinos nacionalnih manjina kulturnoj i društvenoj raznolikosti Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "C.1.3",
+      "opis": ". Razlikuje karakteristike gradskih i seoskih naselja iz Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "C.2.1",
+      "opis": ". Opisuje različite tipove poljoprivredne proizvodnje u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "C.2.2",
+      "opis": ". Razlikuje karakteristike industrijske, energetske i rudarske proizvodnje."
+    },
+    {
+      "oznaka": "C.2.3",
+      "opis": ". Prikazuje važnost saobraćajne povezanosti u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": ". Prepoznaje značaj održivog razvoja u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.3.2",
+      "opis": ". Identificira geoekološke probleme i prirodne opasnosti Bosne i Hercegovine (zagađenje zraka, vode i tla, ugroženost biodiverziteta)."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Mjerenje vremena. Ime i simboli Bosne i Hercegovine – zastava",
+    "grb",
+    "himna",
+    "novac. Geografski položaj Bosne i i Hercegovine. Granice i veličina Bosne i Hercegovine. Glavni grad KLJUČNI SADRŽAJI Političke",
+    "ekonomske i kulturne prilike u Bosne i Hercegovine u prehistorijsko doba Političke",
+    "ekonomske i kulturne prilike u Bosne i Hercegovine u doba antike Političke",
+    "ekonomske i kulturne prilike u Bosne i Hercegovine u srednjem vijeku Političke",
+    "ekonomske i kulturne prilike u novom vijeku Političke",
+    "ekonomske i kulturne prilike u Bosne i Hercegovine u savremenom dobu"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Preporučuje se metoda aktivnog učenja u kojoj učenik sam prikuplja podatke i na osnovu njih        donosi svoje zaključke. Vlastita saznanja može da iskaže na različite načine (npr. da nacrta kako         su se mijenjali simboli, grb i zastava kroz prošlost). To može biti i u obliku stripa, jer je taj oblik izražavanja veoma blizak djeci.",
+      "Da bi spoznao veličinu i granice Bosne i Hercegovine, učenik može da planira virtualno putovanje prema mjestima koja graniče sa susjednim državama, usvajajući vještinu organiziranja putovanja sa svim potrebnim elementima (procjenjuje udaljenost, planira novčana sredstva itd.).",
+      "Za opisivanje glavnog grada i njegovih znamenitosti, nastavnik može da se posluži raznim izvorima znanja kao što su:  knjige, razglednice, fotografije, video i zvučni zapisi. Bitno je da osigura učenicima pristup računarima, pametnim telefonima ili tabletima, da bi mogli da istražuju i izrade neku multimedijalnu prezentaciju.",
+      "Istraživački pristup je potrebno integrisati u proces učenja svih tema: od istraživanja u neposrednoj okolini, izvođenja vježbi, posmatranja, upotrebe simulacija do problemskih zadataka i drugih načina, kako bi se poticalo aktivno, istraživačko i iskustveno učenje.",
+      "Bitno je također naglasiti koliko je važno znati računati vrijeme, kako historijsko, tako i u svakodnevnom životu. Nastavnik/ca može da pita učenike kada oni mjere vrijeme i da im navede primjere da upravo iščekuju zvono ili da mjere vrijeme do svog rođendana kada će dobiti neki poklon. Isto tako treba se naglasiti da je vrijeme bitna odrednica za svakoga a posebno za onoga ko se bavi prošlošću i da se ono mjeri satovima i kalendarima. Pri tome učenici mogu da nacrtaju ili donesu neke satove (pješčane, digitalne itd.) ili da naprave lentu vremena, koja može biti i njihova razredna, u koju će da upisuju događaje koje uče u predmetu društvo. Isto tako, na tu lentu vremena mogu da upisuju imena ljudi koji su obilježili neko vrijeme i svojim radom doprinijeli razvoju svoje zemlje. Mogu i da istražuju zbog čega se neke škole, ulice ili ustanove zovu po određenoj ličnosti ili zašto se ta ličnost npr. našla na nekoj novčanici. Navikavati učenike da razlikuju činjenice od mišljenja.",
+      "Mogućnost ostvarivanja međupredmetne povezanosti – međupredmetne korelacije",
+      "Potrebno je ukazati na važnost korelacije sa drugim nastavnim predmetima, kao i da svaka nauka otkriva neku novu perspektivu i doprinosi stvaranju šire slike kod učenika. Važno je i da naglasimo da ta korelacija može biti i sa prirodnim i sa društvenim naukama. Svakako je najbliža poveznica sa nastavnim predmetima Likovna kultura i Muzička  kultura (grb, zastava, himna, novac). Povezanost sa nastavnim predmetom Matematika se odnosi na mjerne elemente granice i veličinu Bosne i Hercegovine, te njenog glavnog grada, ali i mjerenje vremena ili izračunavanje troškova za eventualni izlet obilaska prirodnih i kulturno-historijskih znamenitosti."
+    ],
+    "medjupredmetne_korelacije": [
+      "Potrebno je ukazati na važnost korelacije sa drugim nastavnim predmetima, kao i da svaka nauka otkriva neku novu perspektivu i doprinosi stvaranju šire slike kod učenika. Važno je i da naglasimo da ta korelacija može biti i sa prirodnim i sa društvenim naukama. Svakako je najbliža poveznica sa nastavnim predmetima Likovna kultura i Muzička  kultura (grb, zastava, himna, novac). Povezanost sa nastavnim predmetom Matematika se odnosi na mjerne elemente granice i veličinu Bosne i Hercegovine, te njenog glavnog grada, ali i mjerenje vremena ili izračunavanje troškova za eventualni izlet obilaska prirodnih i kulturno-historijskih znamenitosti."
+    ],
+    "kompetencijski_pristup": [
+      "Odgo"
+    ]
+  }
+}

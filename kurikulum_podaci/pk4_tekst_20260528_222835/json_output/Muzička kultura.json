@@ -1,0 +1,1568 @@
+{
+  "predmet": "Muzička kultura",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "1"
+  },
+  "tematske_cjeline": [
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE U KONTEKSTU",
+    "C dur skala. Melodijski instrumenti Orffovog instrumentarija (metalofon, blokflauta), dostupni instrumenti.",
+    "C - dur skala. Dinamičke oznake (ff, f, mf, mp, pp, crescendo i decrescendo).",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE / GLAZBE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE / GLAZBE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE / GLAZBE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE / GLAZBE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE / GLAZBE U KONTEKSTU",
+    "A SLUŠANJE I UPOZNAVANJE MUZIKE / GLAZBE",
+    "B STVARALAŠTVO I REPRODUKCIJA",
+    "C RAZUMIJEVANJE MUZIKE / GLAZBE U KONTEKSTU"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.1.1",
+      "opis": "A.1.2"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "B.1.2"
+    },
+    {
+      "oznaka": "B.1.3",
+      "opis": "C RAZUMIJEVANJE MUZIKE U KONTEKSTU"
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": "C.1.2"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": "A1.1 Procjenjuje muzički stil i oblik slušajući vokalna, instrumentalna i vokalno-instrumentalna djela."
+    },
+    {
+      "oznaka": "A.1.2",
+      "opis": "A2.1 Analizira slušana muzička djela pronalazeći elemente strukture i izvođačke sastave."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-4.1.2 UMP-4.2.1 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Upoznaje i razlikuje karakter kompozicija slušanjem."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Prepoznaje jednostavne muzičke oblike na osnovu slušanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Prepoznaje vokalnu, vokalno-instrumentalnu i instrumentalnu muziku/glazbu."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Prepoznaje muške i ženske pjevačke glasove."
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": ".3 Izražava metriku kroz pokret."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Pokazuje / izražava doživljaj nakon slušanog muzičkog  djela prateći ritam različitim dijelovima tijela (instrumenti tijela)."
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "B1.1 Pjeva po sluhu i notnom tekstu razvijajući muzikalnost i muzičko  pamćenje."
+    },
+    {
+      "oznaka": "B.1.2",
+      "opis": "B2.1 Primjenjuje notni zapis na instrumentariju kroz reprodukciju pri skupnom muziciranju (instrumentalni sastavi)."
+    },
+    {
+      "oznaka": "B.1.3",
+      "opis": "B3.1 Razvija muzičku pismenost koristeći se muzičkom / terminologijom pri analizi muzičkog djela."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Pjeva pjesme i muzičke  igre unisono (jednoglasno)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izvodi memorisane sadržaje razvijajući osjećaj za visinu, trajanje i kvalitet tona."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Imitira zvukove koji ga okružuju."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Prepoznaje i izvodi brojalice prema ilustriranoj notnoj partituri."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Muzičke sadržaje reprodukuje na ritmičkim i improviziranim instrumentima."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "Razlikuje sviranje ritma od sviranja melodije."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Prepoznaje različito trajanje zvukova (dugo-kratko) povezujući veličinu aplikacije sa trajanjem zvuka kroz ilustrovani notni zapis."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Prepoznaje visinu i jačinu tonova (visoko-duboko, glasno-tiho)."
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": "C1.1 Procjenjuje ulogu muzike  u društvu i važnost njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.1.2",
+      "opis": "C2.1 Izvodi javne nastupe sa ciljem produkcije i reprodukcije muzike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izražava muzičke impresije nastale slušanjem muzike u različitim segmentima života (koncerti, predstave, školske priredbe, projekti itd)."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Prepoznaje važnost javnog nastupa razvijajući svijest o pripadnosti grupi."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izrađuje uz pomoć učitelja instrumente od dostupnih materijala."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Izvodi na improvizovanim instrumentima kratke kompozicije na javnim nastupima."
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "A.2.2"
+    },
+    {
+      "oznaka": "B.2.1",
+      "opis": "B.2.2"
+    },
+    {
+      "oznaka": "B.2.3",
+      "opis": "C RAZUMIJEVANJE MUZIKE U KONTEKSTU"
+    },
+    {
+      "oznaka": "C.2.1",
+      "opis": "C.2.2"
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "A1.1 Procjenjuje muzički stil i oblik slušajući vokalna, vokalno-instrumentalna i instrumentalna djela."
+    },
+    {
+      "oznaka": "A.2.2",
+      "opis": "A2.1 Analizira slušana muzička djela pronalazeći elementestrukture i izvođačke sastave."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-4.1.2 UMP-4.2.1 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Poznaje muzička  djela i kompozitore na osnovu slušanja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Procjenjuje karakter djela na osnovu slušanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Razlikuje vokalnu od vokalno-instrumentalne i instrumentalne muzike."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Demonstrira metriku kroz pokret."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Razlikuje pjevačke glasove (muški, ženski, dječiji)."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Pokazuje / izražava doživljaj nakon slušanog muzičkog djela prateći ritam različitim dijelovima tijela (instrumenti tijela)."
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": ": Učenicima treba omogućiti da uoče karakter kompozicije (svečano, tužno-veselo), dinamiku (tiho-glasno), tempo (brzo-sporo), kretanje melodije (uzlazno-silazno), ponavljanja sadržaja (isto- slično-različito). Postepeno uvođenje muzičkih oznaka za tempo i dinamiku."
+    },
+    {
+      "oznaka": "B.2.1",
+      "opis": "B1.1 Pjeva po sluhu i notnom tekstu razvijajući muzikalnost i muzičko pamćenje."
+    },
+    {
+      "oznaka": "B.2.2",
+      "opis": "B2.1 Primjenjuje notni zapis na instrumentariju kroz reprodukciju pri skupnom muziciranju (instrumentalni sastavi)."
+    },
+    {
+      "oznaka": "B.2.3",
+      "opis": "B3.1 Razvija muzičku pismenost koristeći se muzičkom terminologijom pri analizi muzičkog djela."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.1.2 UMP-5.2.3 UMP-6.2.2 UMP-4.1.3 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Pjeva pjesme i muzičke igre unisono (jednoglasno)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izvodi memorisane sadržaje razvijajući osjećaj za visinu, trajanje i kvalitet tona te jačinu i brzinu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Muzičke  sadržaje izvodi putem instrumenata tijela."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Muzičke  sadržaje reprodukuje na improviziranim instrumentima i na ritmičkim instrumentima iz Orffovog instrumentarija."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Izvodi brojalice prema ilustriranoj notnoj partituri."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Prepoznaje različito trajanje zvukova (dugo-kratko) povezujući veličinu aplikacije sa trajanjem zvuka kroz ilustrovani notni zapis."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Prepoznaje visinu, jačinu, brzinu izvođenja tonova (visoko-duboko; glasno-srednje glasno/tiho-tiho; brzo-umjereno-sporo)."
+    },
+    {
+      "oznaka": "C.2.1",
+      "opis": "C1.1 Procjenjuje ulogu muzike  u društvu i važnost njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.2.2",
+      "opis": "C2.1 Izvodi javne nastupe sa ciljem produkcije i reprodukcije muzike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izražava muzičke  impresije nastale slušanjem muzike  u različitim segmentima života (koncerti, predstave, školske priredbe, projekti itd)."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Prepoznaje važnost javnog nastupa razvijajući svijest o pripadnosti grupi."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izrađuje uz pomoć učitelja instrumente od dostupnih materijala."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Izvodi na improvizovanim instrumentima kratke kompozicije na javnim nastupima."
+    },
+    {
+      "oznaka": "A.3.1",
+      "opis": "A.3.2"
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": "B.3.2"
+    },
+    {
+      "oznaka": "B.3.3",
+      "opis": "C RAZUMIJEVANJE MUZIKE U KONTEKSTU"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": "C.3.2"
+    },
+    {
+      "oznaka": "A.3.1",
+      "opis": "A1.1. Procjenjuje muzički  stil i oblik slušajući vokalna, vokalno- instrumentalna i instrumentalna djela."
+    },
+    {
+      "oznaka": "A.3.2",
+      "opis": "A2.1. Analizira slušana muzička / glazbena djela pronalazeći elemente strukture i izvođačke sastave."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-4.1.2 UMP-4.2.1 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Imenuje muzička  djela i kompozitore aktivno slušajući muziku."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Opisuje slušana muzička  djela na osnovu elementarnih muzičkih parametara."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": "Uočava dijelove kompozicija."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Objašnjava razlike između vokalne, vokalno-instrumentalne i instrumentalne muzike."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Razlikuje izvođačke sastave."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Prepoznaje tempo i dinamiku slušanog djela koristeći muzičke termine."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Iznosi stav i mišljenje o odslušanoj kompoziciji."
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": "B1.1 Pjeva po sluhu i notnom tekstu razvijajući muzikalnost i muzičko  pamćenje."
+    },
+    {
+      "oznaka": "B.3.2",
+      "opis": "B2.1 Primjenjuje notni zapis na instrumentariju kroz reprodukciju pri skupnom muziciranju (instrumentalni sastavi)."
+    },
+    {
+      "oznaka": "B.3.3",
+      "opis": "B3.1 Razvija muzičku / glazbenu pismenost koristeći se muzičkom / glazbenom terminologijom pri analizi muzičkog / glazbenog djela."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Pjeva pjesme i muzičke  igre unisono (jednoglasno) sa izraženim elementima artikulacije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izvodi memorisane sadržaje razvijajući osjećaj za visinu, trajanje i kvalitet tona te glasnoću i brzinu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Imenuje i opisuje instrumente Orffovog instrumentarija."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izvodi muzičke  sadržaje na više ritmičkih instrumenata iz Orffovog instrumentarija."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Izvodi brojalice prema ilustriranoj notnoj partituri."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Imenuje muzičke / glazbene termine u skladu sa ključnim sadržajima."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Povezuje pokret i trajanje zvuka sa muzičkim/glazbenim metrom i ritmom."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Izvodi brojalice prema ilustriranoj notnoj partituri."
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": "C1.1 Procjenjuje ulogu muzike  u društvu i važnost njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.3.2",
+      "opis": "C2.1 Izvodi javne nastupe sa ciljem produkcije i reprodukcije muzike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izražava muzičke/glazbene impresije i mišljenje, nastale slušanjem muzike  u različitim segmentima života (koncerti, predstave, školske priredbe, projekti itd)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Povezuje muzičke  sadržaje sa sadržajima drugih umjetnosti."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izrađuje uz pomoć učitelja i samostalno instrumente od dostupnih materijala."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Nastupa na internim i javnim priredbama izvodeći pjesme i plesne dramatizacije povezane sa značajnim događajima."
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "A.4.2"
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": "B.4.2"
+    },
+    {
+      "oznaka": "B.4.3",
+      "opis": "C RAZUMIJEVANJE MUZIKE U KONTEKSTU"
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": "C.4.2"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "A1.1 Procjenjuje muzički  stil i oblik slušajući vokalna, vokalno- instrumentalna i instrumentalna djela."
+    },
+    {
+      "oznaka": "A.4.2",
+      "opis": "A2.1 Analizira slušana muzička / glazbena djela pronalazeći elemente strukture i izvođačke sastave."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-4.1.2 UMP-4.2.1 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": ".1 Razvrstava muzička  djela prema elementarnim formama umjetničke i tradicijske muzike."
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": ".2 Navodi primjere jednostavnih muzičkih  oblika instrumentalne,vokalno-instrumentalne i vokalne muzike."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Objašnjava doživljaj slušanog djela jednostavnim muzičkim  jezikom."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Prikazuje doživljaj slušanog djela kroz likovno izražavanje."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Razvrstava slušana djela prema stilu (umjetnička, tradicijska itd.)"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Razvrstava izvođačke ansamble prema sastavu."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Opisuje tempo i dinamiku slušanog djela."
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": "B1.1 Pjeva po sluhu i notnom tekstu razvijajući muzikalnost i muzičko  pamćenje."
+    },
+    {
+      "oznaka": "B.4.2",
+      "opis": "B2.1 Primjenjuje notni zapis na instrumentariju kroz reprodukciju pri skupnom muziciranju (instrumentalni sastavi)."
+    },
+    {
+      "oznaka": "B.4.3",
+      "opis": "B3.1 Razvija muzičku  /  glazbenu pismenost koristeći se muzičkom / glazbenom terminologijom pri analizi muzičkog / glazbenog djela."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izvodi pjesme, brojalice, muzičke igre poštujući tekst, melodiju, tempo i dinamiku djela."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Klasifikuje instrumente Orffovog instrumentarija."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Objašnjava podjelu jedinice mjere (TA-TE)."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Improvizuje ritam na zadanu melodiju (muzičke  igre) u cilju razvoja muzičke  kreativnosti."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Objašnjava muzičke / glazbene termine."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Razlikuje pojmove prima volta i secunda volta, repeticija i ligatura."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Razlikuje note različitog trajanja (polovinka, četvrinka i osminka injihove pauze)."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "U skladu sa svojim mogućnostima, učenici trebaju izvoditi jednostavne ritmičke aranžmane na udaraljkama iz Orffovog instrumentarija pazeći pri tome na muzički metar i preciznost ritmičkog izvođenja."
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": "C1.1 Procjenjuje ulogu muzike  u društvu i važnost njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.4.2",
+      "opis": "C2.1 Izvodi javne nastupe sa ciljem produkcije i reprodukcije muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Iskazuje / izražava svoje mišljenje o posjećenim kulturnim događajima kroz realizaciju mini projekata (mapa uma,intervju izvođača itd.)."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Priprema prigodne pjesme i plesne dramatizacije za značajne događaje uz pomoć nastavnika."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izvodi pjesme i plesne dramatizacije prigodne za značajne događaje."
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "A.5.2"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B.5.2"
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "C RAZUMIJEVANJE MUZIKE U KONTEKSTU"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.5.2"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "A1.1 Procjenjuje muzički stil i oblik slušajući vokalna, vokalno- instrumentalna i instrumentalna djela."
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": "A2.1 Analizira slušana muzička  djela pronalazeći elemente strukture i izvođačke sastave."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-4.1.2 UMP-4.2.1 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Tumači obilježja vokalnih, vokalno-instrumentalnih i instrumentalnih djela (umjetničke i tradicijske muzike)."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Razlikuje pjevačke glasove i vrste horova."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Razlikuje instrumentalne sastave."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Otkriva tempo, metriku, dinamiku i repeticiju u slušanim djelima."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Objašnjava jednostavnim muzičkim  jezikom slušana djela."
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B1.1 Pjeva po sluhu i notnom tekstu razvijajući muzikalnost i muzičko  pamćenje."
+    },
+    {
+      "oznaka": "B.5.2",
+      "opis": "B2.1 Primjenjuje notni zapis na instrumentariju kroz reprodukciju pri skupnom muziciranju (instrumentalni sastavi)."
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "B3.1 Razvija muzičku pismenost koristeći se muzičkom terminologijom pri analizi muzičkog djela."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Pjeva pjesme po sluhu i jednostavne kompozicije solmizacijom koristeći se fonomimijom."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izvodi tonove u okviru C dur skale na jednostavnim melodijskim instrumentima."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Svira kraće ritmičke obrasce kao pratnju pjesmica koje pjeva na dostupnim instrumentima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Zapisuje tonove C - dur skale u notnom sistemu."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Imenuje osnovne oznake i njihove varijante za dinamiku i tempo."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C1.1 Procjenjuje ulogu muzike u društvu i važnost njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": "C2.1 Izvodi javne nastupe sa ciljem produkcije i reprodukcije muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Prikazuje svoje mišljenje o posjećenim kulturnim događajima kroz realizaciju mini projekata a u skladu sa ključnim sadržajima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Priprema prigodne pjesme i plesne dramatizacije za značajne događaje uz pomoć nastavnika."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izvodi pjesme i plesne dramatizacije prigodne za značajne događaje."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Primjenjuje muzičke sadržaje kroz sadržaje drugih umjetnosti (vizuelna umjetnost , ples, igrokazi)."
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B.6.2"
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "C RAZUMIJEVANJE MUZIKE U KONTEKSTU"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A1.1 Procjenjuje muzički  stil i oblik slušajući vokalna, vokalno- instrumentalna i instrumentalna djela."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "A2.1 Analizira slušana muzička  / glazbena djela pronalazeći elemente strukture i izvođačke sastave."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-4.1.2 UMP-4.2.1 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Objašnjava ulogu instrumenta u orkestru."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Obrazlaže obilježja Antičke muzike  povezujući historijske događaje koji su uticali na razvoj tadašnje muzike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Objašnjava slušana djela kategorišući grupe instrumenata u simfonijskom orkestru."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Razlikuje jednostavnu strukturu oblika dvodijelne i trodijelne pjesme."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Analizira jednostavan nostni zapis u skladu sa ključnim sadržajima."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Objašnjava slušana djela jednostavnim muzičkim  jezikom iznoseći vlastiti stav."
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B1.1 Pjeva po sluhu i notnom tekstu razvijajući muzikalnost i muzičko pamćenje."
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": "B2.1 Primjenjuje notni zapis na instrumentariju kroz reprodukciju pri skupnom muziciranju (instrumentalni sastavi)."
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "B3.1 Razvija muzičku  pismenost koristeći se muzičkom  terminologijom pri analizi muzičkog djela."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izvodi pjesme primjenjujući pravila vokalne tehnike (intonacija, artikulacija, dikcija), a u skladu sa svojim mogućnostima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izvodi fragmente jednostavnih kompozicija koriteći se muzičkim  pismom."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Razlikuje tešku od lake dobe (teza-arza) kao i 2/4, 3/4 i 4/ 4 mjeru."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Navodi tonove u okviru proširene C - dur skale , objašnjavajući osnovne elemente dura."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Primjenjuje ritmičke slogove (ta-te,ta-fa-te-fe) u cilju razvijanja osjećaja za ritam i podjelu jedinice brojanja."
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C1.1 Procjenjuje ulogu muzike u društvu i važnost njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "C2.1 Izvodi javne nastupe sa ciljem produkcije i reprodukcije muzike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Razlikuje muzičke  žanrove popularne muzike  sa akcentom na tekst i melodiju."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Tumači ulogu muzike  u ostalim umjetnostima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Demonstrira muzičku kreativnost i vještine koristeći se dostupnim instrumentima i plesnom koreografijom."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Kreira koreografiju uz upotrebu različitih stilova muzike."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "C RAZUMIJEVANJE MUZIKE U KONTEKSTU"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A1.1 Procjenjuje muzički  stil i oblik slušajući vokalna, vokalno- instrumentalna i instrumentalna djela."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "A2.1 Analizira slušana muzička  djela pronalazeći elemente strukture i izvođačke sastave."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-4.1.2 UMP-4.2.1 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Obrazlaže obilježja muzike srednjeg vijeka povezujući historijske događaje koji su uticali na razvoj tadašnje muzike."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Razlikuje određene muzičke termine (muzička tema, muzički oblik,  izvođački sastav, višestavačnost,  pratnja)."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Objašnjava osnovne karakteristike instrumentalnih oblika (koncert, sonata, simfonija, uvertira, balet) navodeći određene muzičke  termine (solo, orkestar, muzičko-scensko, višestavčno)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Prepoznaje određene vokalne i vokalno-instrumentalne oblike (opera, arija, duet, a cappella)."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Izražava svoj stav, nakon slušanja djela, na kreativan način u skladu sa svojim afinitetima."
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B1.1 Pjeva po sluhu i notnom tekstu razvijajući muzikalnost i muzičko pamćenje."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "B2.2 Primjenjuje notni zapis na instrumentariju kroz reprodukciju pri skupnom muziciranju (instrumentalni sastavi)."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "B3.1 Razvija muzičku  pismenost koristeći se muzičkom terminologijom pri analizi muzičkog djela."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Interpretira naučenu kompoziciju korigujući intonaciju, te poštujući dinamičke oznake i oznake tempa i metra."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Reprodukuje ritam na improviziranim instrumentima ili kroz body drumming (tijelo kao udarački instrument)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Improvizuje jednostavnu ritmičku pratnju nastavnim sadržajima u odgovarajućem metru."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Reprodukuje jednostavne melodije, prema notnom zapisu, na dostupnom instrumentariju."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Razlikuje osnovna obilježja durske i molske ljestvice / skale (C- dur / a-moll –sve tri vrste mola)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Imenuje nove termine (bas ključ i muzički  predznaci)."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Prati tok kretanja melodije u notnom zapisu i primjenjuje ga u praksi."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "U skladu sa svojim mogućnostima, učenici trebaju izvoditi jednostavne ritmičke aranžmane, na pravim ili improviziranim ritmičkim instrumentima ili putem body drumming. Pri tome paziti na muzički metar, kao i na preciznost ritmičkog izvođenja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Poticati učenike na samostalno analiziranje i izvođenje jednostavnih notnih zapisa na dostupnom instrumentariju ili ilustraciji klavijature."
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C1.1 Procjenjuje ulogu muzike u društvu i važnost njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "C2.1 Izvodi javne nastupe sa ciljem produkcije i reprodukcije muzike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Komentira različite muzičke sa akcentom na tekst i melodiju uz argumentaciju."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Istražuje ulogu i primjenu muzike u scenskoj umjetnosti,  te njenu vezu sa književnošću."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Spoznaje ulogu i primjenu muzike u narodnoj tradiciji."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Povezuje ulogu i primjenu muzike sa značajnim događajima."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Primjenjuje muziku  odgovarajućeg sadržaja u određenim prilikama."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "C RAZUMIJEVANJE MUZIKE U KONTEKSTU"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A1.1 Procjenjuje muzički  stil i oblik slušajući vokalna, vokalno-instrumentalna i instrumentalna djela."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "A2.1 Analizira slušana muzička djela pronalazeći elemente strukture iizvođačke sastave."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-4.1.2 UMP-4.2.1 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": ".1 Obrazlaže osnovna obilježja muzičkih epoha renesanse, baroka i klasicizma razumijevajući osnovne razlike između ovih stilova."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Upoređuje pojedine muzičke / glazbene oblike povezujući ih sa kompozitorima / skladateljima i muzičkim / glazbenim stilom."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Analizira izražajna sredstva muzike  u cilju stvaranja uslova za izgradnju kriterija za estetsko vrednovanje."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Upoređuje pojedine vokalno-instrumentalne i muzičko-scenske oblike (balet, opera, oratorij)."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Iznosi svoj stav nakon slušanja umjetničke / tradicijske muzike koristeći se odgovarajućim terminima."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Iznosi svoj stav nakon slušanja popularne muzike  s kritičkim osvrtom."
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B1.1 Pjeva po sluhu i notnom tekstu razvijajući muzikalnost i muzičko pamćenje."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "B2.1 Primjenjuje notni zapis na instrumentariju kroz reprodukciju pri skupnom muziciranju (instrumentalni sastavi)."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "B3.1 Razvija muzičku / glazbenu pismenost koristeći se muzičkom / glazbenom terminologijom pri analizi muzičkog  /glazbenog djela."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Interpretira naučenu kompoziciju prema notnom zapisu dosljedno poštujući oznake za dinamiku, tempo i muzički metar."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Upoređuje notne zapise prema mogućnostima izvođenja nadostupnim instrumentima (ritmičkim, melodijskim i body drumming)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "U skladu sa mogućnostima, izvodi jednostavne melodije na dostupnim melodijskim instrumentima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Razlikuje osnovna obilježja durske i molske ljestvice (G-dur  / e –moll - sve tri vrste mola)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Pronalazi povišene i snižene tonove na klavijaturi."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "U skladu sa svojim mogućnostima, učenici trebaju izvoditi jednostavne ritmičke aranžmane, na pravim ili improviziranim ritmičkim instrumentima ili putem body drumming. Pri tome paziti na muzički metar, kao i na preciznost ritmičkog izvođenja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Poticati učenike na samostalno analiziranje i izvođenje jednostavnih notnih zapisa na dostupnom instrumentariju ili ilustraciji klavijature, uz primjenu svih ranije stečenih znanja o muzici / glazbi."
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C1.1 Procjenjuje ulogu muzike u društvu i važnost njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "C2.1 Izvodi javne nastupe sa ciljem produkcije i reprodukcije muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Upoređuje tekstove i muziku različitih žanrova iznoseći svoj stav o njenom uticaju na društvo."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Povezuje značaj i primjenu muzike u različitim prilikama u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izvodi javne nastupe sa ciljem produkcije i reprodukcije muzike / glazbe."
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A.9.2"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "C RAZUMIJEVANJE MUZIKE U KONTEKSTU"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.2"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A1.1 Procjenjuje muzički stil i oblik slušajući vokalna, vokalno-instrumentalna i instrumentalna djela."
+    },
+    {
+      "oznaka": "A.9.2",
+      "opis": "A2.1 Analizira slušana muzička  djela pronalazeći elemente strukture iizvođačke sastave."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-4.1.2 UMP-4.2.1 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Obrazlaže obilježja muzičkih epoha romatizma, impresionizma, te muzike XX stoljeća, razumijevajući faktore koji su uticali na njen razvoj."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Procjenjuje slušana muzička djela na osnovu stila i oblika prema ključnim sadržajima."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Upoređuje razvoj umjetničke, popularne muzike  kreirajući i koristeći „Muzički  vremeplov“."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Stvara kriterije za vrednovanje muzike  analizirajući izražajna sredstva muzike / glazbe."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Iznosi doživljaj slušanog djela na osnovu vlastitog iskustva koristeći se muzičkim  jezikom i drugim izražajnim sredstvima."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B1.1 Pjeva po sluhu i notnom tekstu razvijajući muzikalnost imuzičko  pamćenje."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "B2.1 Primjenjuje notni zapis na instrumentariju kroz reprodukciju pri skupnom muziciranju (instrumentalni sastavi)."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "B3.1 Razvija muzičku / glazbenu pismenost koristeći se muzičkom / glazbenom terminologijom pri analizi muzičkog / glazbenog djela."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Pjeva po sluhu i notnom tekstu kompozicije različitih žanrova, razvijajući muzikalnost i muzičko  pamćenje."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Primjenjuje jednostavan notni zapis na dostupnim ritmičkim i melodijskim instrumentima, kroz reprodukciju pri skupnom muziciranju (orkestar), primjenjujući sva ranije stečena znanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Postavlja F-dur i d –moll ljestvicu koristeći se stečenim znanjem iz teorije muzike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "U skladu sa svojim mogućnostima, učenici trebaju izvoditi muzičke  aranžmane, na pravim ili improvizovanim instrumentima. Pri tome paziti i ukazivati na važnost preciznog i tačnog izvođenja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Poticati učenike na samostalno analiziranje i izvođenje jednostavnih notnih zapisa na dostupnom instrumentariju ili ilustraciji klavijature, uz primjenu svih ranije stečenih znanja o muzici/glazbi."
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C1.1 Procjenjuje ulogu muzike u društvu i važnost njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": "C2.1 Izvodi javne nastupe sa ciljem produkcije i reprodukcije muzike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": ".1 Procjenjuje ulogu muzike  u društvu i važnost njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": ".2 Razvija svijest o različitim umjetnicima, kulturama, narodima kroz umjetnička djela (posjete koncertima, predstavama, internetska pretraživanja)."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Upoređuje razvoj muzike  sa razvojem drugih umjetnosti (likovna i vizuelna umjetnost,  ples, književnost)."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "Istražuje ulogu i primjenu muzike  u sedmoj umjetnosti."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izvodi javne nastupe s ciljem produkcije i reprodukcije muzike kreirajući kraće muzičko-scensko djelo."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "/ C1.1.2 Slušajući i izvodeći različite kompozicije, pronalazi mogućnosti njihove primjene uz različite životne događaje, sa naročitim isticanjem važnosti tradicionalne muzike . Istražuje i analizira, ulogu, primjenu i uticaj zabavne / popularne muzike u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Pronalazi vezu između muzike  i drugih umjetnosti, kao i različite mogućnosti korištenja muzike u scenskoj umjetnosti."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "UMP-4.1.1 UMP-4.1.2 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Zaključuje na osnovu glavnih karakteristika o obliku muzičkog djela i epohi u kojoj je nastalo."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Upoređuje obilježja stilskih perioda i oblika u slušanim djelima na osnovu njihovih karakteristika."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Istražuje razliku između umjetničke i tradicijske vokalne i vokalno-instrumentalne muzike ."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Kritički promišlja kontekste muzičkih  stilova i žanrova."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Upoređuje analitički slušajući različite izvođačke sastave."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Diskutira kritičke osvrte o slušanim djelima."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Kreira muziku različite tonske građe koristeći stečena znanja iz muzičke teorije"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izvodi napjeve bosanskohercegovačke i svjetske baštine uvažavajući muzičke  izražajne elemente uz primjenu osnova vokalne tehnike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Kreira muziku eksperimentišući s različitim zvukovima."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Istražuje nove izražajne elemente pri interpretaciji muzike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Utvrđuje postojeća znanja iz teorije muzike ."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Kreira muzičke / glazbene aranžmane koristeći se dostupnim instrumentarijem (tradicionalni instrumenti, kompjuterski programi, vlastiti ili školski instrumetarij)."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Istražuje odnos današnjice prema muzičkoj  umjetnosti."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izvodi zaključak o ulozi muzike  u društvu i važnosti njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izvodi javne nastupe s ciljem produkcije i reprodukcije muzike / glazbe kreirajući kraće muzičko / glazbeno-scensko djelo (numere iz mjuzikla)."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "UMP-4.1.1 UMP-4.1.2 UMP-4.1.3 UMP-4.2.3 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Zaključuje na osnovu glavnih karakteristika o obliku muzičkog / glazbenog djela i epohi u kojoj je nastalo."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Upoređuje obilježja stilskih perioda i oblika u slušanim djelima na osnovu njihovih karakteristika."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Istražuje razliku između umjetničke i tradicijske vokalne i vokalno-instrumentalne muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Kritički promišlja kontekste muzičkih / glazbenih stilova i žanrova."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Upoređuje analitički slušajući različite izvođačke sastave."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Diskutira kritičke osvrte o slušanim djelima."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Kreira muziku / glazbu različite tonske građe koristeći stečena znanja iz muzičke/ glazbene teorije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izvodi napjeve bosanskohercegovačke i svjetske baštine uvažavajući muzičke / glazbene izražajne elemente uz primjenu osnova vokalne tehnike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Kreira muziku / glazbu eksperimentišući s različitim zvukovima."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Istražuje nove izražajne elemente pri interpretaciji muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Utvrđuje postojeća znanja iz teorije muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Kreira muzičke / glazbene aranžmane koristeći se dostupnim instrumentarijem (tradicionalni instrumenti, kompjuterski programi, vlastiti ili školski instrumetarij)."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-2.1.3 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Istražuje odnos današnjice prema muzičkoj / glazbenoj umjetnosti."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Izvodi zaključak o ulozi muzike / glazbe u društvu i važnosti njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izvodi javne nastupe s ciljem produkcije i reprodukcije muzike / glazbe kreirajući kraće muzičke / glazbene performanse."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "UMP-4.1.1 UMP-4.1.2 UMP-4.1.3 UMP-4.2.3 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Zaključuje na osnovu glavnih karakteristika o obliku muzičkog / glazbenog djela i epohi u kojoj je nastalo."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Upoređuje obilježja stilskih perioda i oblika u slušanim djelima na osnovu njihovih karakteristika."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Istražuje razliku između umjetničke i tradicijske vokalne i vokalno-instrumentalne muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kritički promišlja kontekste muzičkih / glazbenih stilova i žanrova."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Upoređuje analitički slušajući različite izvođačke sastave."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Diskutira kritičke osvrte o slušanim djelima."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kreira muziku / glazbu različite tonske građe koristeći stečena znanja iz muzičke/ glazbene teorije"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Izvodi napjeve bosansko-hercegovačke i svjetske baštine uvažavajući muzičke / glazbene izražajne elemente uz primjenu osnova vokalne tehnike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kreira muziku / glazbu eksperimentišući s različitim zvukovima."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Istražuje nove izražajne elemente pri interpretaciji muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Utvrđuje postojeća znanja iz teorije muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Kreira muzičke / glazbene aranžmane koristeći se dostupnim instrumentarijem (tradicionalni instrumenti, kompjuterski programi, vlastiti ili školski instrumetarij)."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Istražuje odnos današnjice prema muzičkoj / glazbenoj umjetnosti."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Izvodi zaključak o ulozi muzike / glazbe u društvu i važnosti njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Izvodi javne nastupe s ciljem produkcije i reprodukcije muzike / glazbe kreirajući kraće muzičko / glazbeno-scensko djelo (npr. numere iz mjuzikla)."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "UMP-4.1.1 UMP-4.1.2 UMP-4.1.3 UMP-4.2.3 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Zaključuje na osnovu glavnih karakteristika o obliku muzičkog / glazbenog djela i epohi u kojoj je nastalo."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Upoređuje obilježja stilskih perioda i oblika u slušanim djelima na osnovu njihovih karakteristika."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Istražuje razliku između umjetničke i tradicijske vokalne i vokalno-instrumentalne muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kritički promišlja kontekste muzičkih / glazbenih stilova i žanrova."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Upoređuje analitički slušajući različite izvođačke sastave."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Diskutira kritičke osvrte o slušanim djelima."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kreira muziku / glazbu različite tonske građe koristeći stečena znanja iz muzičke/ glazbene teorije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Izvodi napjeve bosansko-hercegovačke i svjetske baštine uvažavajući muzičke / glazbene izražajne elemente uz primjenu osnova vokalne tehnike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kreira muziku / glazbu eksperimentišući s različitim zvukovima."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Istražuje nove izražajne elemente pri interpretaciji muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Utvrđuje postojeća znanja iz teorije muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Kreira muzičke / glazbene aranžmane koristeći se dostupnim instrumentarijem (tradicionalni instrumenti, kompjuterski programi, vlastiti ili školski instrumetarij)."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.1.2 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Istražuje odnos današnjice prema muzičkoj / glazbenoj umjetnosti."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Izvodi zaključak o ulozi muzike / glazbe u društvu i važnosti njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kreira videozapise i reklame povezujući ih sa  produkcijom i reprodukcijom muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Izvodi muzičke / glazbene performanse."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "UMP-4.1.1 UMP-4.1.2 UMP-4.1.3 UMP-4.2.3 UMP-4.1.3 UMP-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Zaključuje na osnovu glavnih karakteristika o obliku muzičkog / glazbenog djela i epohi u kojoj je nastalo."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Upoređuje obilježja stilskih perioda i oblika u slušanim djelima na osnovu njihovih karakteristika."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Istražuje razliku između umjetničke i tradicijske vokalne i vokalno-instrumentalne muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kritički promišlja kontekste muzičkih / glazbenih stilova i žanrova."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Upoređuje analitički slušajući različite izvođačke sastave."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Diskutira kritičke osvrte o slušanim djelima."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "UMP-5.1.1 UMP-5.1.2 UMP-5.2.1 UMP-5.2.3 UMP-6.2.2 UMP-5.2.2 UMP-6.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kreira muziku / glazbu različite tonske građe koristeći stečena znanja iz muzičke/ glazbene teorije"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Izvodi napjeve bosansko-hercegovačke i svjetske baštine uvažavajući muzičke / glazbene izražajne elemente uz primjenu osnova vokalne tehnike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kreira muziku / glazbu eksperimentišući s različitim zvukovima."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Istražuje nove izražajne elemente pri interpretaciji muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Utvrđuje postojeća znanja iz teorije muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Kreira muzičke / glazbene aranžmane koristeći se dostupnim instrumentarijem (tradicionalni instrumenti, kompjuterski programi, vlastiti ili školski instrumetarij)."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-6.1.3 UMP-6.2.1 UMP-6.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Istražuje odnos današnjice prema muzičkoj / glazbenoj umjetnosti."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Izvodi zaključak o ulozi muzike / glazbe u društvu i važnosti njene primjene u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kreira videozapise i reklame povezujući ih sa  produkcijom i reprodukcijom muzike / glazbe."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Izvodi muzičke / glazbene performanse."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Kompozicije umjetničke",
+    "tradicijske",
+    "popularne i filmske muzike (cjelovite",
+    "stavovi",
+    "odlomci); himna Bosne i Hercegovine. KLJUČNI SADRŽAJI Vokalne",
+    "instrumentalne i vokalno-instrumentalne kompozicije (odlomci",
+    "stavovi ili cijele kompozicije - simfonijske",
+    "kamerne",
+    "solo). Kompozicije plesnog karaktera."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "U oblasti Stvaralaštvo i reprodukcija od učenika se očekuje da aktivno muzicira, koristeći stečena znanja iz muzičke teorije, vokalne tehnike i poznavanja instrumenata. Kod realizacije ishoda treba voditi računa o sklonostima i sposobnostima učenika te organizaciji procesa učenja i poučavanja.",
+      "Prilikom vrednovanja naučenog treba uzeti u obzir nejednako razvijene muzičke / glazbene sposobnosti učenika, te ocjenu temeljiti na učeničkom odnosu prema aktivnosti i uključenosti u aktivnost. Preporučljivo je odabirati sadržaje u skladu sa preferencijama učenika.",
+      "B.1 Kroz analizu i primjenu stečenog znanja u čitanju notnog zapisa pjesama, kod učenika će se razvijati sposobnost praćenja i izvođenja prema notnom zapisu, a pjevanje uz instrument ili u grupi će im dati osjećaj za preciznu intonaciju, melodiju, ritam, tempo i dinamiku.",
+      "B.2 U skladu sa svojim"
+    ],
+    "medjupredmetne_korelacije": [
+      "Oblast slušanje i upoznavanje muzike  ima dosta elemenata za korelaciju sa predmetima: Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (analiza tekstova za vokalnu i vokalno-instrumentalnu muziku, muzika u animiranim filmovima), Moja okolina (godišnja doba, meteorološke pojave), Likovna kultura (ilustracija doživljaja odslušanog djela), Tjelesni i zdravstveni odgoj (pokret u metru i ritmu, ples), Informatika (analiza prezentacija, elektronski izvori za slušanje muzike)."
+    ],
+    "kompetencijski_pristup": [
+      "Komunikacijsk"
+    ]
+  }
+}

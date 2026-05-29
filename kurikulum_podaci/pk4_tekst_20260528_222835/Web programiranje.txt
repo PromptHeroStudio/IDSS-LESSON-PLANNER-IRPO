@@ -1,0 +1,125 @@
+PREDMET: Web programiranje
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Web%20programiranje
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Web programiranje
+Web programiranje - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Srednje
+IV
+Godine učenja i podučavanja predmeta: 1
+A Informacione i komunikacione tehnologije
+A.IV.1
+A.IV.2
+B Rješavanje problema primjenom IT
+B.IV.1
+B.IV.2
+B.IV.3
+C Prezentacija i obrada podataka
+C.IV.1
+C.IV.2
+A
+Informacione i komunikacione tehnologije
+A.IV.1
+Istražuje aktuelne web tehnologije.
+A.IV.2
+Analizira aspekte i alate za razvoj web aplikacije.
+A.IV.1.1 Analizira dostupne web tehnologije.
+A.IV.1.2 Objašnjava način izvršavanja i prikaza web aplikacija.
+A.IV.1.3 Upoređuje domen primjene web aplikacije i drugih tipova aplikacija.
+A.IV.2.1 Objašnjava aspekte razvoja web aplikacije.
+A.IV.2.2 Određuje elemente arhitekture web aplikacije.
+A.IV.2.3 Odabire alate i programske pakete za rad.
+KLJUČNI SADRŽAJI
+ Web tehnologije, Web aplikacija, Arhitektura web aplikacije, HTML i CSS, Skriptni jezici, Tekst editor, Razvojne platforme, Integrisanje alata, programski paketi, Web server
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Na početku bi bilo dobro ponoviti ključne sadržaje koji se tiču mrežnih protokola, adresiranja računara, domena i DNS. Izučavanje oblasti može se započeti istraživanjem aktuelnih tehnologija kako bi se razumio kontekst i sistematično pristupilo pripremi za konkretno iskustvo kreiranja web aplikacija. 
+Diskusija/debata na temu odabira programskih jezika, tehnologija i platforme za rad dobar je pristup koji će osvijetliti sve aspekte dostupnih tehnologija i dovesti do argumentovanog zaključka. Kroz konkretne primjere učenici će uočiti prednosti i ograničenja upotrebe web aplikacija u odnosu na druge vrste aplikacija (prvenstveno desktop i mobilne). Demonstracija je jedan od načina na koji se može približiti princip rada web aplikacije i dinamičkog prikaza web sadržaja, opisati proces od slanja zahtjeva ka serveru, preko izvršavanja skripti i komunikacije sa bazom do integracije sadržaja i odgovora na zahtjev. Na studiji konkretnog slučaja se mogu razmotriti aspekti razvoja aplikacije. Učenici trebaju naučiti instalirati web server i komunicirati sa njim.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Aktuelne web tehnologije uporište imaju prvenstveno u potrebama društva i njemu se i prilagođavaju, te je ovdje neizostavna veza sa psihologijom i sociologijom (kroz proučavanje navika i potreba i ponudu rješenja) i ekonomijom (kroz težnju ka ostvarivanju profita i marketing). Pored toga, hijerarhije u dokumentaciji i izvršavanju prate stroge matematičke modele, pa ovdje uočavamo i snažnu vezu sa matematikom, programiranjem i bazama podataka.
+Aspekti razvoja oslanjaju se na hijerarhijsko upravljanje (veza sa sociologijom), te timski rad i raspodjelu uloga (sociologija i sport). Same faze razvoja prate matematičke modele koji formalizuju cikluse razvoja u prirodi, pa ovdje uočavamo vezu sa matematikom i biologijom. 
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Komuniciranje na maternjem i engleskom jeziku: sposobnost izražavanja i tumačenja koncepata i mišljenja usmenim i pisanim putem. Poznavanje tehničkih izraza na engleskom jeziku.
+Matematička i kompetencija u nauci i tehnologiji: sposobnost razumijevanja, modeliranja i primjene procesa, te argumentovan odabir specifične tehnologije. Razvijanje interesa za nauku, te naučnu i tehnološku karijeru.
+Digitalne kompetencije: kritičko korištenje informacijsko-komnikacijske tehnologije za prikupljanje podataka, vrednovanje i pohranjivanje informacija te odabir izvora znanja.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, analiza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje radoznalosti, omogućavanje izražavanja misli, ideja i emocija, razvijanje sposobnosti posmatranja, učestvovanja i integrisanja novih iskustava.
+B
+Rješavanje problema primjenom IT
+
+B.IV.1
+Izrađuje programe u skriptnom jeziku koji se izvršavaju u pregledniku.
+B.IV.2
+Implementira web aplikaciju u specijalizovanom okruženju za razvoj.
+B.IV.3
+Projektuje i dokumentuje web aplikaciju sa korisničkim nalozima.
+B.IV.1.1 Koristi objekte (varijable i nizove) i postupke (sekvencu, selekciju i iteraciju) skriptnog jezika.
+B.IV.1.2 Primjenjuje skriptni jezik za izradu interaktivne web stranice sa obradom podataka proslijeđenih preko HTML formulara.
+B.IV.1.3 Upravlja bazom podataka koja se nalazi na virtuelnom serveru putem skriptnog programa u tekst editoru.
+B.IV.2.1Kreira funkcionalnu strukturu i sadržaj korisničkog sučelja.
+B.IV.2.2Upotrebljava stilove i biblioteke za dinamički prikaz sadržaja.
+B.IV.2.3Implementira aplikacijsku logiku na strani servera.
+B.IV.2.4Integriše korisničko sučelje i aplikacijsku logiku pomoću specijalizovanog okruženja za razvoj.
+   B.IV.3.1 Predstavlja idejno rješenje projekta, specifikaciju potreba i plan izvedbe.
+B.IV.3.2 Projektuje web aplikaciju u specijalizovanom okruženju za razvoj kombinujući HTML, CSS, makar jedan skriptni jezik i rad sa bazama podataka.
+B.IV.3.3Dokumentuje sve faze, servise i alate korištene u izradi web aplikacije.
+B.IV.3.4 Evaluira projekat.
+KLJUČNI SADRŽAJI
+Skripta, Izvršavanje skripti, Kombinovanje jezika, Tekst editor, Virtuelni server, Formular, Specijalizovana razvojna okruženja, Korisničko sučelje, Biblioteke, Aplikacijska logika, Baza korisničkih naloga, Autentifikacija korisnika, Upravljanje greškama, Optimizacija, Idejno rješenje, Specifikacija potreba, Platforma za rad, Plan aktivnosti, Projektna dokumentacija
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+U ovoj oblasti učenici se bave integracijom korisničkog sučelja web aplikacije sa kodom na strani klijenta i na strani servera. Budući da su već imali iskustva sa struktuiranjem web stranice i skriptiranjem, nakon kraćeg uvoda može se preći na specijalizovano razvojno okruženje kao što su Laravel, Angular, Symphony, Django i sl. ponavljanja. Može se početi sa upotrebom biblioteka za dinamizaciju korisničkog sučelja. Učenici trebaju kreirati ugodno (user-friendly) okruženje sa funkcionalnim elementima i objektima koji reaguju na različite događaje i prilagođavaju se aktivnostima korisnika. Upravljanje događajima treba biti takvo da smanjuje mogućnost pogrešnog i zlonamjernog unosa podataka (kontrola unosa i validacija). Učenici se ovdje susreću sa programiranjem na strani servera. Na početku je neophodno upoznavanje sa sintaksom i osnovnim karakteristikama odabranog programskog jezika. Nakon toga učenici kreiraju programski kod za konkretnu upotrebu preferirajući objektno orijentisani/proceduralni pristup, koristeći postojeće i definišući nove klase i funkcije (npr. za rad sa bazom podataka). Programski kod treba da obrađuje podatke koje mu prosljeđuje klijent, priprema ih za komunikaciju sa bazom, drugim aplikacijama i servisima te integriše rezultate izvršavanja u sadržaj web stranice koja se šalje klijentu. Konkretni zadaci formulišu se tako da se njihova rješenja mogu iskorisititi u projektnom zadatku koji će predstavljati finalno iskustvo u ovoj oblasti ali i cijelom predmetnom kurikulumu (npr. registracijska ili login forma i sl.). Poseban značaj treba posvetiti testiranju, analizi koda i upravljanju greškama, koristiti aktuelne alate po izboru u okviru odabranog okruženja za rad. 
+Rad na konkretnom projektu je kruna sveukupnog rada i realizuje se uz mentorstvo jednog ili više nastavnika, u okviru jednog nastavnog predmeta ili kao međupredmetna tema. Idealno je za rad u timu jer učenici istražuju, prikupljaju podatke, analiziraju, kreiraju i prezentuju idejna rješenja. Odabiru platformu i okruženje za rad, utvrđuju plan aktivnosti, dijele zadatke, sarađuju, prate realizaciju i dokumentuju rad (paralelno sa realizacijom projekta). Nastavnici nadgledaju proces rada, koordinišu timski rad, pomažu po potrebi i motivišu učenike. Ukoliko se projekat radi kao međupredmetna tema nastavnici međusobno planiraju i prate dinamiku aktivnosti. Za saradnju unutar tima, sinhronizaciju koda ali i praćenje projekta poželjno bi bilo koristiti neki od aktuelnih alata.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Oblast Rješavanje problema primjenom IT sa Matematikom se povezuje kroz primjenu logičkih operatora, nizova, matrica, statistike i analize podataka pri izradi skripti i algoritama. U informatici i programiranju ostvaruje se kroz rad u HTML-u, CSS-u, JavaScriptu, Pythonu i PHP-u, te upravljanje bazama podataka i kontrolu verzija. Korelacija sa stranim i maternjim jezikom je prisutna u okviru upotrebe izvora znanja, istraživanja i prezentovanja u toku rada na projektnom zadatku. Projektni rad je dobra prilika za uspostavu korelacije sa nastavnim predmetom Softver inžinjering u svim segmentima razvoja projekta. Zavisno od projektne ideje i namjene web aplikacije može se uspostaviti korelacija sa svim nastavnim predmetima u okviru istraživanja, analize i kreiranja idejnog rješenja. 
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+U ovoj oblasti učenici razvijaju ključne kompetencije koje integrišu tehničke, kreativne i socijalne vještine. Kroz savladavanje programskih jezika poput HTML-a, CSS-a, JavaScript-a i Pythona, stiču sposobnost izrade funkcionalnih i estetski prilagođenih web rješenja. Paralelno usvajaju matematičko-logičke principe, primjenjujući algoritme, nizove i analizu podataka za efikasno rješavanje problema. Rad s bazama podataka i kontrolom verzija osnažuje tehničku pismenost i razumijevanje serverskih procesa.
+Kroz timske projekte i radionice, učenici razvijaju vještine planiranja, vođenja projekata i saradnje, pripremajući se za realne poslovne izazove. Osim tehničkih, u fokusu su i komunikacijske kompetencije kroz pisanje tehničke dokumentacije, lokalizaciju sučelja i usvajanje stručne terminologije. Kreativnost i estetski osjećaj razvijaju se kroz primjenu principa dizajna i likovne umjetnosti u oblikovanju korisničkih sučelja.
+C
+Prezentacija i obrada podataka
+C.IV.1
+Organizuje strukturu i razmjenu podataka.
+C.IV.2
+Integriše bazu podataka sa web aplikacijom u sigurnom okruženju.
+C.IV.1.1 Manipuliše direktorijima, datotekama i njihovim sadržajem.
+C.IV.1.2 Koristi odgovarajuće formate i tehnike za sigurno skladištenje i razmjenu podataka.
+C.IV.1.3 Programira kontrolu ispravnosti proslijeđenih podataka.
+C.IV.2.1 Povezuje bazu podataka u cilju upisa, izmjene i prezentacije preko web aplikacije.
+C.IV.2.2 Primjenjuje sigurnosne prakse pri rada sa podacima.
+C.IV.2.3 Kreira bazu korisničkih naloga i implementira autentifikaciju korisnika.
+  KLJUČNI SADRŽAJI
+Organizacija datoteka, Privremeni podaci, Skladištenje i razmjena podataka, Asinhrona komunikacija, Baza podataka, Manipulacija podacima, Filtriranje, Validacija, Sanitizacija, pripremljeni upiti, Enkripcija, Korisnički nalog, Pristupni podaci korisnika
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Organizacija podataka prilikom izrade web aplikacija slijedi standardizirane strukture, što se učenicima može demonstrirati na primjerima stvarnih projekata. Analizom strukture podataka konkretne aplikacije učenici uočavaju povezanost između načina organizacije i funkcionalnosti web rješenja. Tokom kreiranja vlastitih aplikacija, potrebno je naglasiti važnost pridržavanja standardizirane strukture radi kompatibilnosti, sigurnosti i održivosti koda.
+Važan segment rada predstavlja manipulacija datotekama – upload, download, čitanje, izmjena i brisanje sadržaja. Obrada treba uključivati demonstraciju najvažnijih ugrađenih funkcija, uz naglasak na sigurnosne aspekte. Kroz jednostavne zadatke učenici trebaju naučiti kreirati i koristiti podatke s ograničenim trajanjem (kolačići i sesije) radi unapređenja korisničkog iskustva i kontrole pristupa aplikaciji, te analizirati moguće sigurnosne probleme uslijed nepravilne primjene.
+Pri razmjeni podataka učenicima se nude konkretna iskustva rada s različitim formatima (JSON, XML, CSV) te jednostavni zadaci za generisanje, čitanje i manipulaciju podacima korištenjem ugrađenih metoda i funkcija. Preporučuje se demonstracija asinhrone razmjene podataka (AJAX, Fetch API) između klijenta i servera, primijenjena na odabrani dio sučelja povezanog s bazom podataka.
+Učenici trebaju ovladati kreiranjem baza korisničkih naloga i autentifikacijom, te integracijom s web servisima koji se mogu primijeniti u projektnim zadacima. Na demo bazi demonstrira se izvršavanje upita i prezentacija podataka, uz upozorenja na zloupotrebe (npr. SQL injekcije) i praktičan prikaz pripremljenih upita. Obavezno ih je upoznati sa standardnim postupcima provjere podataka na strani klijenta i servera (filtriranje, validacija, sanitizacija) te korištenjem sigurnih API-ja i enkripcije važnih podataka prije skladištenja.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Rad na struktuiranju i organizaciji podataka povezujemo sa matematičkim modelima pohrane podataka. Prilikom integrisanja baza podataka u web aplikaciju ostvaruje se neminovna veza sa nastavnim predmetom Baze podataka u vidu primjene ranije stečenih znanja o kreiranju i upravljanju konkretnom bazom podataka. Ovdje se ostvaruju sve korelacije koje se ostvaruju i u nastavnom predmetu Baze podataka. Sa Matematičkim osnovama kompjuterskih nauka međupredmetna korelacija se ostvaruje u dijelu teorije grafova i algoritama. 
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Kroz obradu i prezentaciju podataka učenici razvijaju niz tehničkih, kognitivnih, kreativnih i socijalnih kompetencija potrebnih za savremeno digitalno okruženje. Stiču sposobnost organizacije, obrade i razmjene podataka, koristeći standardizirane formate i tehnike, te ovladavaju integracijom baza podataka u web aplikacije u sigurnom okruženju. Razvijaju vještine rada s programskim jezicima i tehnologijama za manipulaciju podacima, uključujući validaciju, filtriranje, sanitizaciju i enkripciju, čime jačaju digitalnu i informatičku pismenost.
+Matematičko-logičke kompetencije se unapređuju kroz rješavanje problema, primjenu algoritama i analiziranje struktura podataka, dok kreativne kompetencije razvijaju kroz oblikovanje funkcionalnih i vizuelno privlačnih prezentacija podataka u korisničkom sučelju.
+Učenici usvajaju i komunikacijske kompetencije kroz pisanje tehničke dokumentacije, korištenje stručne terminologije i prezentaciju vlastitih rješenja. Projekti i timski rad omogućavaju razvoj socijalnih vještina, saradnje, organizacije posla i podjele odgovornosti, a istovremeno podstiču kritičko i analitičko mišljenje.
+Posebno se razvija i kompetencija za cjeloživotno učenje kroz istraživanje novih tehnologija, praćenje dokumentacije i samostalno pronalaženje rješenja, što učenike priprema za prilagodbu budućim profesionalnim izazovima i dinamičnim promjenama u IT sektoru.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

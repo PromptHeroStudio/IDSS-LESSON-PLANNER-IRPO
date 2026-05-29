@@ -1,0 +1,131 @@
+{
+  "predmet": "Web programiranje",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "I"
+  },
+  "tematske_cjeline": [
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IT",
+    "C Prezentacija i obrada podataka"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "V.1.1",
+      "opis": "Analizira dostupne web tehnologije."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "Objašnjava način izvršavanja i prikaza web aplikacija."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Upoređuje domen primjene web aplikacije i drugih tipova aplikacija."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "Objašnjava aspekte razvoja web aplikacije."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "Određuje elemente arhitekture web aplikacije."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "Odabire alate i programske pakete za rad."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "Koristi objekte (varijable i nizove) i postupke (sekvencu, selekciju i iteraciju) skriptnog jezika."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "Primjenjuje skriptni jezik za izradu interaktivne web stranice sa obradom podataka proslijeđenih preko HTML formulara."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Upravlja bazom podataka koja se nalazi na virtuelnom serveru putem skriptnog programa u tekst editoru."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "Kreira funkcionalnu strukturu i sadržaj korisničkog sučelja."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "Upotrebljava stilove i biblioteke za dinamički prikaz sadržaja."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "Implementira aplikacijsku logiku na strani servera."
+    },
+    {
+      "oznaka": "V.2.4",
+      "opis": "Integriše korisničko sučelje i aplikacijsku logiku pomoću specijalizovanog okruženja za razvoj."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "Predstavlja idejno rješenje projekta, specifikaciju potreba i plan izvedbe."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "Projektuje web aplikaciju u specijalizovanom okruženju za razvoj kombinujući HTML, CSS, makar jedan skriptni jezik i rad sa bazama podataka."
+    },
+    {
+      "oznaka": "V.3.3",
+      "opis": "Dokumentuje sve faze, servise i alate korištene u izradi web aplikacije."
+    },
+    {
+      "oznaka": "V.3.4",
+      "opis": "Evaluira projekat."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "Manipuliše direktorijima, datotekama i njihovim sadržajem."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "Koristi odgovarajuće formate i tehnike za sigurno skladištenje i razmjenu podataka."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Programira kontrolu ispravnosti proslijeđenih podataka."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "Povezuje bazu podataka u cilju upisa, izmjene i prezentacije preko web aplikacije."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "Primjenjuje sigurnosne prakse pri rada sa podacima."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "Kreira bazu korisničkih naloga i implementira autentifikaciju korisnika."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Web tehnologije",
+    "Web aplikacija",
+    "Arhitektura web aplikacije",
+    "HTML i CSS",
+    "Skriptni jezici",
+    "Tekst editor",
+    "Razvojne platforme",
+    "Integrisanje alata",
+    "programski paketi",
+    "Web server"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Na početku bi bilo dobro ponoviti ključne sadržaje koji se tiču mrežnih protokola, adresiranja računara, domena i DNS. Izučavanje oblasti može se započeti istraživanjem aktuelnih tehnologija kako bi se razumio kontekst i sistematično pristupilo pripremi za konkretno iskustvo kreiranja web aplikacija.",
+      "Diskusija/debata na temu odabira programskih jezika, tehnologija i platforme za rad dobar je pristup koji će osvijetliti sve aspekte dostupnih tehnologija i dovesti do argumentovanog zaključka. Kroz konkretne primjere učenici će uočiti prednosti i ograničenja upotrebe web aplikacija u odnosu na druge vrste aplikacija (prvenstveno desktop i mobilne). Demonstracija je jedan od načina na koji se može približiti princip rada web aplikacije i dinamičkog prikaza web sadržaja, opisati proces od slanja zahtjeva ka serveru, preko izvršavanja skripti i komunikacije sa bazom do integracije sadržaja i odgovora na zahtjev. Na studiji konkretnog slučaja se mogu razmotriti aspekti razvoja aplikacije. Učenici trebaju naučiti instalirati web server i komunicirati sa njim."
+    ],
+    "medjupredmetne_korelacije": [
+      "Aktuelne web tehnologije uporište imaju prvenstveno u potrebama društva i njemu se i prilagođavaju, te je ovdje neizostavna veza sa psihologijom i sociologijom (kroz proučavanje navika i potreba i ponudu rješenja) i ekonomijom (kroz težnju ka ostvarivanju profita i marketing). Pored toga, hijerarhije u dokumentaciji i izvršavanju prate stroge matematičke modele, pa ovdje uočavamo i snažnu vezu sa matematikom, programiranjem i bazama podataka.",
+      "Aspekti razvoja oslanjaju se na hijerarhijsko upravljanje (veza sa sociologijom), te timski rad i raspodjelu uloga (sociologija i sport). Same faze razvoja prate matematičke modele koji formalizuju cikluse razvoja u prirodi, pa ovdje uočavamo vezu sa matematikom i biologijom."
+    ],
+    "kompetencijski_pristup": [
+      "Komuniciranj"
+    ]
+  }
+}

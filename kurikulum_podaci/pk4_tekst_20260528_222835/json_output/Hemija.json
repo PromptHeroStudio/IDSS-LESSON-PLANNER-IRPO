@@ -1,0 +1,405 @@
+{
+  "predmet": "Hemija",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "8"
+  },
+  "tematske_cjeline": [
+    "A Tvari",
+    "A Tvari",
+    "A Tvari",
+    "A Tvari",
+    "B Struktura i funkcionalna povezanost procesa u prirodi",
+    "D Procesi i međudjelovanje živih i neživih sistema",
+    "D Procesi i međudjelovanje živih i neživih sistema",
+    "B Struktura i funkcionalna povezanost procesa u prirodi",
+    "A Tvari",
+    "A Tvari",
+    "A Tvari",
+    "A Tvari",
+    "C Struktura tvari i energija",
+    "C Struktura tvari i energija",
+    "B Struktura i funkcionalna povezanost procesa u prirodi",
+    "B Struktura i funkcionalna povezanost procesa u prirodi",
+    "D Procesi i međudjelovanje živih i neživih sistema",
+    "D Procesi i međudjelovanje živih i neživih sistema",
+    "A Tvari",
+    "A Tvari",
+    "C Struktura tvari i energija",
+    "A Tvari",
+    "B Struktura i funkcionalna povezanost procesa u prirodi",
+    "C Struktura tvari i energija",
+    "D Procesi i međudjelovanje živih i neživih sistema",
+    "D Procesi i međudjelovanje živih i neživih sistema",
+    "C Struktura tvari i energija",
+    "C Struktura tvari i energija",
+    "B Struktura i funkcionalna o+povezanost procesa u prirodi",
+    "A Tvari",
+    "D Procesi i međudjelovanje živih i neživih sistema",
+    "B Struktura tvari i funkcionalna povezanost procesa u prirodi",
+    "A Tvari",
+    "A Tvari",
+    "B Struktura tvari i funkcionalna povezanost procesa u prirodi",
+    "C Struktura tvari i energija",
+    "A Tvari",
+    "C STRUKTURA TVARI I ENERGIJA",
+    "B STRUKTURA I FUNKCIONALNA POVEZANOST PROCESA U PRIRODI",
+    "D PROCESI I MEĐUDJELOVANJE ŽIVIH I NEŽIVIH SISTEMA",
+    "A Tvari",
+    "B Struktura i funkcionalna povezanost procesa u prirodi",
+    "A Tvari",
+    "C STRUKTURA TVARI I ENERGIJA",
+    "B STRUKTURA I FUNKCIONALNA POVEZANOST PROCESA U PRIRODI",
+    "D PROCESI I MEĐUDJELOVANJE ŽIVIH I NEŽIVIH SISTEMA",
+    "D PROCESI I MEĐUDJELOVANJE ŽIVIH I NEŽIVIH SISTEMA",
+    "A Tvari",
+    "A Tvari",
+    "B STRUKTURA I FUNKCIONALNA POVEZANOST PROCESA U PRIRODI",
+    "C STRUKTURA TVARI I ENERGIJA",
+    "D PROCESI I MEĐUDJELOVANJA ŽIVIH I NEŽIVIH SISTEMA",
+    "A Tvari",
+    "B STRUKTURA I FUNKCIONALNA POVEZANOST PROCESA U PRIRODI",
+    "C STRUKTURA TVARI I ENERGIJA",
+    "D PROCESI I MEĐUDJELOVANJE ŽIVIH I NEŽIVIH SISTEMA",
+    "A PROCESI I MEĐUDJELOVANJE ŽIVIH I NEŽIVIH SISTEMA",
+    "C STRUKTURA TVARI I ENERGIJA"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "A.8.4"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "A.8.4"
+    },
+    {
+      "oznaka": "A.8.5",
+      "opis": "A Tvari"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "A.8.4"
+    },
+    {
+      "oznaka": "A.8.5",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Analizira važnost hemije u svakodnevnom životu."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Primjenjuje osnovna laboratorijska znanja i vještine."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Objašnjava vrste tvari."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Istražuje fizičke i hemijske osobine tvari."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "Analizira hemijske osobine tvari na primjerima oksida, kiselina, baza i soli."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "HEM-2.1.1 HEM-2.1.2"
+    },
+    {
+      "oznaka": "A.8.4",
+      "opis": "Primjenjuje matematičko znanje i vještine."
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "Izračunava maseni udio hemijskog elementa u spoju."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Analizira građu tvari."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Objašnjava tipove i karakteristike hemijskih veza."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "Koristi i tumači informacije sadržane u periodnom sistemu elemenata."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "HEM-3.1.1 HEM-1.1.3"
+    },
+    {
+      "oznaka": "A.8.4",
+      "opis": "Primjenjuje hemijsku nomenklaturu  i simboliku pri opisivanju sastava tvari."
+    },
+    {
+      "oznaka": "A.8.5",
+      "opis": "Primjenjuje matematičko znanje i vještine."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "HEM-1.4.2"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Istražuje hemijske i fizičke promjene tvari."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Primjenjuje Zakon o održanju mase."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "Koristi odgovarajuću terminologiju i simboliku za prikazivanje promjena tvari i stehiometrijska izračunavanja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "HEM-1.2.1 HEM-1.1.4 HEM-1.2.3"
+    },
+    {
+      "oznaka": "A.8.4",
+      "opis": "Primjenjuje matematičko znanje i vještine."
+    },
+    {
+      "oznaka": "A.8.5",
+      "opis": "Povezuje rezultate i zaključke istraživanja s konceptualnim spoznajama."
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "HEM-1.4.3"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "D Procesi i međudjelovanje živih i neživih sistema"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "D.9.4"
+    },
+    {
+      "oznaka": "D.9.5",
+      "opis": "D Procesi i međudjelovanje živih i neživih sistema"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "D.9.4"
+    },
+    {
+      "oznaka": "D.9.5",
+      "opis": "B Struktura i funkcionalna povezanost procesa u prirodi"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Utvrđuje osobine, sastav i vrstu tvari."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "Kritički razmatra upotrebu  anorganskih tvari te njihov uticaj na čovjekovo zdravlje i okolinu."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "Povezuje rezultate i zaključke istraživanja s konceptualnim spoznajama."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "HEM-1.3.3 HEM-2.4.1 HEM-2.4.2 HEM-2.4.3"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Objašnjava osobine, sastav i klase organskih spojeva."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Analizira hemijske reakcije organskih spojeva."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "Primjenjuje hemijsku terminologiju i simboliku te se koristi  matematičkim znanjima i vještinama."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "HEM-4.1.3 HEM-1.4.2"
+    },
+    {
+      "oznaka": "D.9.4",
+      "opis": "Kritički razmatra upotrebu organskih tvari te njihov uticaj na čovjekovo zdravlje i okolinu."
+    },
+    {
+      "oznaka": "D.9.5",
+      "opis": "Povezuje rezultate i zaključke istraživanja s konceptualnim spoznajama."
+    },
+    {
+      "oznaka": ".3.3",
+      "opis": "HEM-3.4.1 HEM-3.4.2 HEM-3.4.3"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Objašnjava osobine, sastav i klase odabranih biološki važnih organskih spojeva."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Objašnjava hemijske promjene biološki važnih organskih spojeva."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "Primjenjuje hemijsku simboliku i terminologiju."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "HEM-4.2.2 HEM-2.4.3"
+    },
+    {
+      "oznaka": "D.9.4",
+      "opis": "Analizira promjenu energije u biohemijskim sistemima."
+    },
+    {
+      "oznaka": "D.9.5",
+      "opis": "Povezuje rezultate i zaključke istraživanja s konceptualnim spoznajama."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "HEM-4.3.1 HEM-4.3.3"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Analizira uticaj hemijskih tvari na okolinu."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "Navodi primjere promjena u okolišu kao posljedicu hemijskih djelovanja."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "HEM-1.4.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "HEM-1.1.1 HEM-1.4.2"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "HEM-2.1.1"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "HEM-1.1.3 HEM-3.1.1 HEM-1.1.1"
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "Izračunava broj subatomskih čestica u zadanim atomima i ionima na osnovu ponuđenih podataka."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "HEM-3.2.3 HEM-1.2.1 HEM-1.2.2 HEM-1.2.3"
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "HEM-1.4.2 HEM-1.4.3"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "HEM-3.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "HEM-2.2.2 HEM-4.3.3 HEM-1.4.1 HEM-1.4.3"
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "Izračunava prosječne brzine promjene reaktanata i produkata kao i prosječne brzine reakcija."
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "Objašnjava izračunavanje u gravimetrijskoj i volumetrijskoj analizi i praktično ga primjenjuje."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "HEM-2.1.2 HEM-2.1.3"
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "HEM-2.4.1 HEM-2.4.2 HEM-2.4.3 HEM-2.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "HEM-4.1.3 HEM-4.1.2"
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "HEM-1.3.3 HEM-3.3.3"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "HEM-3.4.2 HEM-3.4.3"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "HEM-4.2.2 HEM-4.1.2"
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": "HEM-4.3.3 HEM-1.4.2"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "HEM-4.4.1 HEM-4.4.2 HEM-4.4.3"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Predmet izučavanja hemije:historija hemije;hemija i druge prirodne nauke; važnost hemije; osnovna pravila rada u hemijskom laboratoriju; znakovi opasnosti; laboratorijsko posuđe i pribor; mjerenja mase",
+    "zapremine i temperature."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Nastavu hemije treba započeti izvođenjem eksperimenata propraćenih snažnim vizuelnim efektima kako bi čas bio dovoljno uzbudljiv da se učenici/ce zainteresuju za hemiju. Nastavne sadržaje iz predmeta Hemija zasnivati na eksperimentu kao izvoru znanja; učenici/ce se ne smiju razočarati. Već sam uvod omogućava da se učenici/ce usmjere na istraživački pristup i na pretraživanje literature i drugih izvora informacija. Nastavnik/ca je moderator/ica koji/a potiče i usmjerava diskusiju.",
+      "Na uvodnim časovima učenici/ce trebaju sami uvidjeti važnost hemije u svakodnevnom životu. Učenike/ce treba upoznati s pravilima ponašanja u hemijskom laboratoriju i sa sigurnosnim mjerama. Preporučuje se dosljedna primjena sigurnosnih mjera pri izvođenju eksperimenata. Takvi uslovi rada, osim sigurnosti, doprinose i lakšem postizanju radne atmosfere, odnosno ozbiljnijem radu učenika/ca.",
+      "Imajući u vidu da je hemija prvenstveno eksperimentalna nauka, i nastava hemije podrazumijeva izvođenje eksperimenata prilagođenih psihofizičkom uzrastu učenika/ca. Izvođenje eksperimenata je znatno vrjednije i korisnije ako ih učenici/ce izvode sami. Radi što kvalitetnijeg samostalnog ili grupnog rada učenika/ca, preporučuju se aktivnosti koje uključuju rad s osnovnim hemijskim priborom i posuđem (epruvete, menzure, vaga, termometar i sl.), koristeći vodu, kuhinjsku so ili neke druge široko dostupne tvari. Pri tome ne treba trošiti previše vremena na uvježbavanje rada s određenim priborom, jer će učenici/ce to vremenom savladati.Treba razmotriti korištenje online alata u situacijama gdje je praktičan rad teško izvodljiv (npr. virtualni laboratorij koji se pokazao korisnom posebno kod eksperimenata sa skupim i po zdravlje potencijalno opasnim tvarima).",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      "Hemija kao nauka prošla je dug put od svojih početaka, kada se temeljila na praktičnim vještinama i idejama bez eksperimentalnih dokaza, do današnje moderne nauke utemeljene na eksperimentima i teorijskim objašnjenjima. Učenici/ce trebaju biti svjesni da taj put nije bio nimalo lagan. U ovom dijelu nastava hemije može se povezati s nastavom historije. Učenicima/cama se mogu dati i mali istraživački projekti u okviru kojih će saznati nešto više o naučnicima značajnim za hemiju (John Dalton, Antoine Lavoisier, Marie Curie).",
+      "Kroz aktivnosti mjerenja zapremine, mase i temperature, koji mogu biti dio malih istraživačkih projekata, hemija se može povezati s nastavom fizike (pravilno korištenje mjernih jedinica SI) i matematike (računanje zapremine nepravilnih tijela, pretvaranje mjernih jedinica iz manjih u veće i obratno, zaokruživanje decimala). Rezultati se mogu prikazati tabelarno i grafički. Ako se pritom koristi računar, u tom dijelu može se napraviti poveznica s nastavom informatike.",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Odgojn"
+    ]
+  }
+}

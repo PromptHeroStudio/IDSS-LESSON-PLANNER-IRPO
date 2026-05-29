@@ -1,0 +1,61 @@
+{
+  "predmet": "Sociologija",
+  "razred_info": null,
+  "tematske_cjeline": [
+    "A Sociološke teorije i metode istraživanja",
+    "B Kultura, identitet i socijalizacija",
+    "C Porodica",
+    "D Mediji i globalizacija"
+  ],
+  "ishodi": [],
+  "kljucni_sadrzaji": [
+    "Sociološke teorije i perspektive: pozitivizam",
+    "funkcionalizam",
+    "marksizam",
+    "feminizam (radikalni feminizam",
+    "liberalni feminizam",
+    "marksistički feminizam)",
+    "simbolički interakcionizam",
+    "etnometodologija",
+    "postomodernizam",
+    "neomarksizam",
+    "neofunkcionalizam; Osnovni sociološki pojmovi – društvo",
+    "društvene grupe",
+    "društveni procesi",
+    "društvene pojave",
+    "društvene institucije i organizacije i sl.; Osnove društvenih istraživanja – odnos između teorije i metode",
+    "metodologija; Metodološki koncepti: pouzdanost",
+    "reprezentativnost",
+    "valjanost i objektivnost; Sociološke metode – primarne kvantitativne metode: upitnik",
+    "strukturirani intervju",
+    "analiza sadržaja",
+    "laboratorijski eksperiment",
+    "longitudinalno istraživanje",
+    "sekundarne kvantitativne metode",
+    "primarne kvalitativne metode: nestrukturirani intervju",
+    "metode promatranja",
+    "studija slučaja",
+    "sekundarne kvalitativne metode; Faze u realizaciji istraživanja: problem istraživanja",
+    "istraživačko pitanje ili hipoteza",
+    "prikupljanje podataka",
+    "analiza podataka",
+    "prezentacija istraživanja."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Sadržaji iz oblasti osnovnih socioloških teorija i perspektiva izrazito su teorijske naravi i prilikom njihove realizacije neophodno je metodički pristupiti nastavi na način da se kombinuje frontalni, grupni i individualni oblik rada, pri čemu je akcenat na grupnom (projektnom) i individualnom učeničkom radu, dok je frontalni neophodan samo kao vodilja i korektiv u izvođenju nastave. Teorijske sadržaje treba realizirati kroz rad na tekstu (originalnom ili adaptiranom) te putem učeničkih prezentacija i drugih oblika samostalnog rada.",
+      "Sadržaje iz oblasti metodologije društvenih istraživanja treba realizirati putem konkretnog i samostalnog istraživačkog projekta učenika/ca u okviru kojih će učenici/ce usvojiti znanja o osnovama socioloških istraživanja te vještine i kompetencije potrebne za njihovo provođenje.",
+      "Prilikom kreiranja nastavnog plana i programa nužno jedan dio časova realizirati kroz posjete kulturnim i obrazovnim institucijama (muzeji, fakulteti, kino, izložbe, predstave, promocije knjiga, konferencije, predavanje, radionice, različite kulturne manifestacije i sl.)."
+    ],
+    "medjupredmetne_korelacije": [
+      ":",
+      "Međupredmetna korelacija u oblasti „Sociološke teorije i metodologija društvenih istraživanja“ vezana je za društveno-humanističke nauke, posebno filozofiju i psihologiju, te jednim dijelom korelaciju sa prirodnim naukama (science) - u dijelu u kojem se proučava veza između metodologije i korištenja naučnih metoda prirodnih nauka i njihove primjene u sociologiji.",
+      "Međupredmetna povezanost sa predmetom Filozofija iskazuje se posebno kroz objašnjenje filozofskih ishodišta socioloških perspektiva. Fenomenologija Edmunda Husserla i pozitivizam Augustea Comtea predstavljaju filozofske tradicije iz kojih izviru glavne perspektive u sociologiji. Također, marksizam kao sociološku perspektivu nemoguće je promatrati odvojeno od glavnih tokova filozofije 18. i prve polovice 19. stoljeća (Hegelovo poimanje historije, duha i dijalektike; Učenje Ludwiga Feurbacha, posebno njegov historijski materijalizam koji će utjecati na Marksa i ključne koncepte njegova učenja). Pored toga, uloga i mjesto postmodernizma u sociologiji može se promatrati kroz postmodernističku kritiku prosvjetiteljstva, posebno izraženu u djelima Lyotarda i Baumana.",
+      "Korelacija sa prirodnim naukama, posebno fizikom i hemijom, moguća je kroz razumijevanje važnosti naučnih dostignuća za razvoj sociološke misli. Uticaj naučnog stava o postojanju univerzalnih zakona prirodnog svijeta na strukturalističku metodologiju (mogućnost objektivnog istraživanja zakonitosti  društva i društvenih procesa). Pitanje naučnog metoda. Odnos sociologije i nauke. Međupredmetna povezanost s predmetima Matematika i Informatika očituje se kroz interpretaciju statističkih podataka u okviru izučavanja metoda društvenih istraživanja."
+    ],
+    "kompetencijski_pristup": [
+      ":",
+      "Radeć"
+    ]
+  }
+}

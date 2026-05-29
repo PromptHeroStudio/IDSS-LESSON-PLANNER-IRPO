@@ -1,0 +1,130 @@
+PREDMET: Napredna primijenjena informatika
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Napredna%20primijenjena%20informatika
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Napredna primijenjena informatika
+Napredna primjenjena informatika - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Srednje
+III
+Godine učenja i podučavanja predmeta: 1
+A Informacione i komunikacione tehnologije
+A.III.1
+A.III.2
+A.III.3
+B Rješavanje problema primjenom IKT-a
+B.III.1
+B.III.2
+B.III.3
+C Digitalno društvo
+C.III.1
+C.III.2
+A
+Informacione i komunikacione tehnologije
+
+A.III.1
+Upravlja savremenim operativnim sistemima.
+A.III.2
+Dizajnira digitalne audio i video sadržaje.
+A.III.3
+Proizvodi funkcionalan digitalni 3D model.
+A.III.1.a Objašnjava programsku strukturu i način rada modernih operativnih sistema.
+A.III.1.b Instalira i konfiguriše moderne operativne sisteme.
+A.III.1.c Upoređuje aktuelne operativne sisteme po strukturi, performansama, korisničkom sučelju, zastupljenosti i drugim karakteristikama.
+A.III.2.a Modifikuje gotove audio i video sadržaje.
+A.III.2.b Generiše autentične audio i video sadržaje.
+A.III.3.a Istražuje oblike i forme 2D prikaza.
+A.III.3.b Kreira 3D model izvlačenjem nacrta, te izvođenjem presjeka i unija više 3D modela.
+A.III.3.c Generiše dokument 3D modela sa pripremom za 3D štampu.
+KLJUČNI SADRŽAJI
+Operativni sistem, Digitalni zvuk, Digitalni video, 3D model, 3D štampa.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+U sklopu cjeline Operativni sistemi učenici treba da se upoznaju sa strukturom operativnih sistema na programerskom nivou, koji su slojevi jednog sistema i kako se vrši upravljanje instrukcijama. Nakon toga, treba proći kroz aktuelne operativne sisteme kako za računare, tako i za mobilne uređaje. Neophodno je sa učenicima proći proces instalacije i konfiguracije ovih sistema, te rada u njima. Također, treba povlačiti paralele između operativnih sistema, te navesti učenike da uočavaju prednosti jednog operativnog sistema nad drugim u specifičnim okolnostima.
+Nakon što upoznaju načine i formate zapisa audio i video sadržaja, učenicima treba pokazati kako u praksi primijeniti ova znanja kroz vježbe u okruženjima za obradu digitalnih audio, odnosno video sadržaja.
+Učenici u sklopu 3D modeliranja trebaju usvojiti vještine kreiranja skice u 2D prostoru koje je moguće transformacijama pretvoriti u 3D modele. Moguće je koristiti bilo koju aplikaciju namijenjenu za 3D modeliranje, kao što su Fusion 360, SketchUp, Blender, Tinkercad... U sklopu ove cjeline učenici bi trebali savladati tehnike obrade ivica, spajanje površina istog modela, uniju, presjek i razliku više modela. Upotrebom stečenih vještina učenici trebaju znati da naprave 3D model koji mogu koristiti kao objekt za 3D štampanje, u video igrama, u simulacijama, i sl. Ukoliko postoji mogućnost učenicima treba i praktično pokazati kako izgleda 3D štampa nekog modela kreiranog na času. Također, moguće je učenicima dati i projektne zadatke iz 3D modeliranja i štampanja.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Tematska cjelina Operativni sistemi u direktnoj je vezi s nastavnim predmetima matematika, fizika i programiranje, a u indirektnoj s jezicima i sportom (kroz pravila i hijerarhije izvođenja procesa).  Naredne dvije tematske cjeline neposrednu vezu ostvaruju s fizikom, te muzičkom kulturom (audio) i likovnom kulturom (video).
+3D modeliranje koristi  se za izradu prototipova objekata iz fizike, matematike, hemije, biologije, geografije ili bilo kojeg nastavnog predmeta gdje za tim postoji potreba, a na osnovu ulaznih informacija predmeta za koji se 3D model kreira.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: upotreba tehnologije u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, korištenje tehnologije za podršku kritičkog načina razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza, sposobnost i spremnost da se upotrijebe znanja i metodologije u svrhu objašnjavanja objekata iz stvarnog svijeta.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti; podrška radoznalosti kroz omogućavanje izražavanja misli, ideja i emocija, te razvijanje sposobnosti posmatranja, učestvovanja i integrisanja novih iskustava.
+B
+Rješavanje problema primjenom IKT-a
+
+B.III.1
+Konstruiše sisteme za virtualizaciju računarskih resursa.
+B.III.2
+Programira skripte sa interaktivnim sadržajima koje se pokreću na internet preglednicima.
+B.III.3
+Razvija jednostavan automatizovani sistem sa upravljanjem preko mikrokontrolera.
+B.III.1.a Objašnjava koncepte virtualizacije i virtualnih uređaja.
+B.III.1.b Koristi virtualne računarske resurse.
+B.III.1.c Stvara virtualna okruženja za rad.
+B.III.2.a Objašnjava gotove programske kodove napisane u skriptnom jeziku po izboru.
+B.III.2.b Kombinuje u tekst editoru skriptni jezik sa HTMLom i CSSom pri izradi interaktivnih skripti koje se pokreću na internet preglednicima.
+B.III.3.a  Upravlja različitim ulazima i izlazima mikrokontrolera.
+B.III.3.b Eksperimentiše s mogućnostima automatizacije domaćinstva pomoću mikrokontrolera.
+KLJUČNI SADRŽAJI
+Virtualizacija, Virtualni sistem, Skripta, Izvršavanje skripti, Mikrokontroler, Upravljanje mikrokontrolerom
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Kako bi mogli kvalitetno usvojiti koncept virtualizacije, sa učenicima treba praktično proći kroz proces izrade virtualnih sistema i njihovog korištenja.
+Oblast skriptno programiranje podrazumijeva kreiranje skripti koje se izvode u internet preglednicima za izradu interaktivnog sadržaja. Učenje ovog jezika treba vršiti utvrđivanjem paralela sa programskim jezikom koji učenici izučavaju na programiranju i već u dobroj mjeri poznaju. Skriptni jezik treba kombinovati sa HTMLom i kroz izradu programa omogućiti učenicima da savladaju izradu kvalitetnih interaktivnih sadržaja. Na kraju izučavanja ove oblasti učenicima je poželjno dati kraći projektni zadatak.
+Programiranje mikrokontrolera treba izučavati postepeno, počevši od lakših primjera, pa nastavljajući ka složenijim, koristeći pritom različite vrste senzora i izlaznih mogućnosti (diode, ekrani, motori, i sl.). Unutar cijelog procesa učenici trebaju raditi praktično sa uređajima u programskom jeziku koji već znaju. Na kraju izučavanja oblasti učenici trebaju samostalno kroz projektni zadatak kreirati jednostavan uređaj za automatizaciju u domaćinstvu ili industriji. Projektni zadatak treba posjedovati i prateću dokumentaciju. 
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Zbog apstraktnog mišljenja, koje upotrebljava virtualizacija, ova oblast je u neposrednoj vezi s matematikom, te zbog procesa koje obnaša i razloga zbog kojih je neophodna, s fizikom
+U druge dvije oblasti pored veze s matematikom, direktna je veza s jezicima, te zbog primjene izrađenih sadržaja u svakodnevnom životu s mnogim društvenim naukama, kao što su psihologija i sociologija. Konačno, zbog projektnih zadataka koje učenici izrađuju na kraju izučavanja ovih oblasti, moguće je ostvariti vezu i s bilo kojim drugim nastavnim predmetom kroz odabir teme.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja, specijalno generalizacije, i prikazivanja objekata stvarnog života u digitalnom obliku.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+C
+Digitalno društvo
+C.III.1
+Procjenjuje načine i formate pohrane audio i video digitalnih sadržaja i njihove digitalizacije.
+C.III.2
+Kritički procjenjuje mogućnosti automatizacije
+C.III.1.a Objašnjava načine pohrane digitalnih audio i video sadržaja, te proces njihove digitalizacije.
+C.III.1.b Analizira formate digitalnog zapisa audio i video sadržaja.
+C.III.2.a Utvrđuje mogućnosti automatizacije domaćinstva koje nudi IKT.
+C.III.2.b Analizira mogućnosti u stvaranju automatizovanih sistema.
+KLJUČNI SADRŽAJI
+Audio zapisi, Video zapisi, Automatizovani sistemi
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+U nastavku izučavanja multimedije učenike treba upoznati s načinima i formatima zapisivanja audio i video sadržaja, te procesu digitalizacije analognih sadržaja ovog tipa.
+Automatizacija radnji u današnjem društvu izašla je iz okvira industrije i ušla u domove. Učenicima ovdje treba približiti šta znači i šta sve nudi automatizacija procesa danas, šta su, koji postoje, i kako koristiti virtuelne asistente, te ih potaknuti na generisanje inovativnih ideja u stvaranju automatizovanih pametnih sistema, kako u domovima, tako i u ostatku svakodnevnog života i industriji.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Kao i u većini slučajeva kada pričamo o digitalizaciji analognih podataka, i ovdje uočavamo snažnu vezu s fizikom i matematikom. Kako proces digitalizacije sadržaja korijen vuče iz svakodnevnih potreba, to je neizostavna veza i s psihologijom i sociologijom.
+Automatizacija svakodnevnih radnji je trend u porastu, te je ovdje pored matematike i fizike neizostavna i veza s nastavnim predmetima koji izučavaju društvo i pojedinca u društvu – sociologijom, psihologijom i filozofijom. Nadalje, kreiranje pametnih sistema ima neposrednu vezu i s jezicima (programiranje i glasovne komande), tehničkim naukama (hardver), te prirodnim naukama (repliciranje radnji iz prirode).
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja (logičko i prostorno razmišljanje) i prikazivanja (formula, modela, konstrukcija, grafikona/dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: kritičko korištenje tehnologije za prikupljanje, vrednovanje i pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: razumijevanje odnosa između tehnologije i drugih područja: naučni napredak (npr. u medicini), društvu (vrijednosti, moralna pitanja), kulturi (npr. multimediji), ili okruženju (zagađenost, održivi razvoj).
+Samoinicijativa i poduzetnička kompetencija: upravljanje projektima, rad u timovima na kooperativan i fleksibilan način, konstruktivno sarađivanje u aktivnostima i upotreba vještina grupnog rada.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

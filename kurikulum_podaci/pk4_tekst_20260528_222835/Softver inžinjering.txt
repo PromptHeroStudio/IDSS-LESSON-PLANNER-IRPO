@@ -1,0 +1,172 @@
+PREDMET: Softver inžinjering
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Softver%20in%C5%BEinjering
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Softver inžinjering
+Softver inžinjering - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Srednje
+IV
+Godine učenja i podučavanja predmeta: 1
+A Aspekti razvoja softvera
+A.IV.1
+A.IV.2
+A.IV.3
+A.IV.4
+B Upravljanje softverom
+B.IV.1
+B.IV.2
+B.IV.3
+B.IV.4
+C Pouzdanost i sigurnost sistema
+C.IV.1
+C.IV.2
+A
+Aspekti razvoja softvera
+
+A.IV.1
+Analizira ideju softverskog procesa - koherentnog skupa aktivnosti za proizvodnju softvera.
+A.IV.2
+Razvija softversko rješenje primjenjujući agilne metode.
+A.IV.3
+Dizajnira sisteme procesa kreirajući softverske zahtjeve i modelirajući dijagrame sistema.
+A.IV.1.1 Primjenjuje etička i profesionalna pitanja za softverske inžinjere.
+A.IV.1.2 Koristi koncepte i modele softverskih procesa.
+A.IV.1.3 Raščlanjuje aktivnosti razvoja softverskih zahtjeva, implementacije, testiranja i evolucije.
+A.IV.1.4 Povezuje organizovanost procesa sa dizajnom i analizom softverskog rješenja.
+A.IV.1.5 Analizira faktore koji utiču na kvalitet i poboljšanje softverskog procesa.
+A.IV.2.1 Definiše agilne metode razvoja softvera i razlike u odnosu na planirani razvoj.
+A.IV.2.2 Koristi prakse agilnog razvoja kao što su refaktorisanje, programiranje u paru i razvoj prvog testa; 
+A.IV.2.3 Primjenjuje Scrum metodologiju u projektnim zadacima.
+A.IV.2.4 Kombinuje agilne i planirane metode razvoja kod većih softverskih sistema.
+A.IV.3.1 Razlikuje korisničke i sistemske zahtjeve u projektovanju softverskog rješenja.
+A.IV.3.2 Koristi grafičke modele za predstavljanje softverskih sistema.
+A.IV.3.3 Modelira dijagrame u UML-u (klase, sekvence, stanja, slučajevi upotrebe).
+
+A.IV.4
+Razvija koncepte arhitekture softvera i arhitektonskog projektovanja uvođenjem objektno orijentisanog softvera.
+A.IV.4.1 Primjenjuje arhitektonske obrasce u dizajnu softverskih sistema.
+A.IV.4.2 Primjenjuje objektno-orijentisani proces projektovanja i dizajna. 
+A.IV.4.3 Analizira ideje dizajnerskih obrazaca i načine ponovne upotrebe softverskog znanja.
+A.IV.4.4 Izdvaja ključna pitanja implementacije softvera, uključujući ponovno korištenje softvera i razvoj otvorenog koda.
+KLJUČNI SADRŽAJI
+Profesionalni razvoj softvera; Etika softverskog inžinjeringa; Studija slučaja; Modeli softverskih procesa; Agilne metode; Funkcionalni i nefunkcionalni zahtjevi; Kontekstni modeli; Modeli interakcije; Strukturni modeli; Modeli ponašanja; Inžinjering vođen modelom Odluke o arhitektonskom dizajnu; Objektno orijentisani dizajn koristeći UML; Dizajnerski obrasci; Pitanja implementacije; Razvoj otvorenog koda Evolucijski procesi; Naslijeđeni sistemi; Održavanje softvera 
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i podučavanja tematske cjeline- metodičke smjernice
+Prijedlog rada na projektu za ostvarivanje ishoda učenja i indikatora:
+1. Izabrati jednu od tradicionalnih metoda modelovanja koja će biti primijenjena u procesu razvoja konkretnog softvera. Preporučuju se kaskadni ili V model. U skladu sa izabranom metodom, predložiti detaljan plan projekta u kome treba:
+definisati kritične tačke (milestones) koje pokazuju šta treba da bude urađeno na projektu i do kada;
+navesti uloge svih članova projektog tima uz precizan opis šta ko od njih treba da uradi i do kada;
+navesti planirane rezultate za svaku kritičnu tačku; rezultati mogu biti softverski moduli, modeli, dokumentacija, kratka korisnička uputstva i sl.
+2. Izraditi specifikaciju softverskih zahtjeva. Posebnu pažnju posvetiti:
+funkcionalnim zahtjevima sistema;
+zahtjevima kojima se definišu veze sistema sa okruženjem zahtjevima po pitanju performansi koje sistem treba da ispuni.
+Specifikacija može, prema potrebi, da sadrži tekstualne opise zahtjeva, UML dijagrame, snimke ekrana, prijedloge izvještaja, tabela i dr.
+3. Isprojektovati sistem sa aspekta njegove arhitekture i programskog kôda.
+Predstaviti arhitekturu sistema u vidu modularne hijerarhije iz koje se jasno vidi koje komponente postoje u sistemu i kako su one međusobno povezane. Pri tome koristiti odgovarajući stil projektovanja.
+Izabrati programski jezik koji će biti korišten pri implementaciji i obrazložiti njegov izbor. Opisati strukture podataka i algoritme koji će biti primijenjeni.
+Napraviti strukturu programskih modula, tj. datoteka pomoću kojih će sistem biti implementiran. Navesti potrebne procedure i funkcije u okviru svakog programskog modula.
+Pri projektovanju intenzivno koristiti sve vrste UML dijagrama.
+4. Na izabranom programskom jeziku napisati programski kôd koji realizuje sistem. Datoteke sa izvornim kôdom dopuniti odgovarajućom unutrašnjom dokumentacijom, tj. komentarima. Na jednoj strani, priložiti primjer dobro dokumentovanog programskog kôda (početak datoteke sa zaglavljem).
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Međupredmetna povezanost nastavnog predmeta Softver inžinjering ostvaruje se kroz  integraciju sadržaja i vještina iz različitih obrazovnih područja, čime se učenicima omogućava holističko razumijevanje i primjena stečenih znanja u širem kontekstu. Gradivni elementi softverskog sistema direktno se nadovezuju na ranije usvojena znanja iz Matematičkih osnova računarskih nauka i Napredne primijenjene informatike, gdje učenici koriste mehanizme nadzora rada sistema, administracije i izvještavanja. Ova povezanost omogućava učenicima da razumiju kako matematičke i logičke strukture utiču na funkcionalnost i stabilnost softverskih rješenja. Kroz komponente baza podataka i programiranja, učenici primjenjuju znanja razvijajući sposobnost implementacije osnovne funkcionalnosti softverskog sistema i pravilnog upravljanja podacima. Kroz aktivnosti izrade projekata, razvijaju se komunikacijske vještine, posebno kroz obradu teksta i prezentaciju rezultata, što omogućava integraciju jezika, u kontekstu istraživanja literature i korištenja interneta kao pouzdanog izvora informacija. Numerička obrada podataka povezuje se s matematičkim sadržajem, dok kreativno računarstvo omogućava primjenu koncepta softverskog inžinjeringa kroz praktične zadatke u okviru Fizike, Psihologije, Sociologije i ostalih prirodnih nauka. Učenici razvijaju vještine grafičke obrade podataka, analize i prezentacije rezultata, što doprinosi i njihovoj sposobnosti timskog rada i organizacije projekata.
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija
+Razvoj nastavnog predmeta Softver inženjering u gimnazijskom okviru ne ograničava se samo na sticanje tehničkih znanja, već značajno doprinosi odgoju i razvoju ključnih kompetencija učenika. Kroz rad na projektima i praktičnim zadacima, učenici razvijaju jezičko-komunikacijsku kompetenciju, jer čitaju, analiziraju i interpretiraju informativne tekstove na maternjem i engleskom jeziku, prezentiraju rezultate svojih projekata i argumentovano komuniciraju ideje unutar tima. Ova kompetencija se dodatno osnažuje kroz pripremu dokumentacije, izražavanje misli u softverskim specifikacijama i vođenje tehničkih bilješki. Ovaj nastavni predmet također podržava matematičku pismenost, jer učenici primjenjuju matematičke modele i logičke strukture pri dizajnu algoritama, analizi podataka i modeliranju softverskih sistema. Ovaj proces razvija sposobnost univerzalnog prikazivanja i objašnjavanja složenih fenomena, što je ključ za razumijevanje struktura i funkcionalnosti softvera. Kroz implementaciju i testiranje softverskih rješenja razvija se kompetencija u nauci i tehnologiji: učenici razumiju principe i metodologije razvoja softvera, primjenjuju ih u praktičnom kontekstu, prepoznaju veze tehnologije s društvom, kulturom i okolišem, te razvijaju interes za naučna i tehnološka istraživanja. Doprinos informatičkoj pismenosti je u kritičkom korištenju informacijsko-komunikacijske tehnologije, prikupljaju i vrednovanju informacija, razvoju kreativnosti, inovativnosti i odgovornom učestvovanju u digitalnim mrežama. Socijalne i građanske kompetencije se razvijaju kroz timski rad, konstruktivnu komunikaciju i poštivanje različitih kulturnih i društvenih normi, dok samoinicijativa i poduzetnička kompetencija jačaju kroz upravljanje projektima, prepoznavanje vlastitih sposobnosti, preuzimanje odgovornosti i konstruktivnu saradnju u grupama.
+B
+Upravljanje softverom
+
+B.IV.1
+Upravlja softverskim projektima  kroz planiranje aktivnosti, identifikaciju rizika i vođenje timskih članova.
+B.IV.2
+Planira softverski projekt uz procjenu troškova, raspored aktivnosti i primjenu različitih metodologija.
+B.IV.3
+Koristi tehnike procjene troškova za analizu i planiranje budžeta u konkretnim softverskim projektima i simulacijama.
+B.IV.1.1 Identifikuje elemente organizacije softverskog projekta i podjele zadataka u skladu s kompetencijama projekta.
+B.IV.1.2 Procjenjuje rizike softverskog projekta i faktore koji utiču na motivaciju članova tima.
+B.IV.1.3 Predstavlja ključna pitanja koja utiču na timski rad, sastav tima, organizacija i komunikaciju unutar tima.
+B.IV.2.1 Klasifikuje osnove obračuna troškova softvera i faktore koji utiču na cijenu softverskog sistema.
+B.IV.2.2 Opisuje planiranje projekta i korištenje trakastih dijagrama za vizuelizaciju rasporeda aktivnosti.
+B.IV.2.3 Demonstriraagilno planiranje projekta kroz praktičnu aktivnost "Igra planiranja".
+B.IV.2.4 Koristi tehniku procjene troškova u konkretnim projektima i simulacijama.
+B.IV.3.1 Primjenjuje tehnike procjene troškova u planiranim softverskim projektima.
+B.IV.3.2 Analizira faktore koji utiču na troškove softverskog sistema i njihov uticcaj na budžet.
+B.IV.3.3 Primjenjuje mehanizme za osiguranje kvalitete softvera u praksi.
+B.IV.3.4  Objašnjava upravljanje kvalitetom u agilnim metodama kroz razvoj timske kulture.
+B.IV.3.5 Procjenjuje atribute kvalitete softvera, softverske analitike i ograničenja softverskog mjerenja.
+
+B.IV.4
+Analizira procese i alate za upravljanje konfiguracijom softvera.
+B.IV. 4.1 Analizira funkcionalnosti koje je potrebno osigurati u sistemu kontrole verzija. 
+B.IV.4.2 Objašnjava izazove pri izgradnji sistema i koristi prednosti kontinuirane integracije i automatizovane izgradnje sistema.
+B.IV.4.3 Primjenjuje metode upravljanja promjenama softvera u praktičnim situacijama.
+KLJUČNI SADRŽAJI
+Upravljanje projektima: rizikom i ljudima; Timski rad; Planiranje projekta: Cijena softvera; Razvoj zasnovan na planu, projektni planovi, proces planiranja; Agilno planiranje; Tehnike procjene; Upravljanje kvalitetom softvera; Softverski standardi; Pregled projekta, proces pregleda projekta; Upravljanje kvalitetom i agilni razvoj; Softversko mjerenje; Upravljanje konfiguracijom: Upravljanje verzijama; Izgradnja sistema; Upravljanje promjenama; Upravljanje izdanjima;
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i podučavanja tematske cjeline - metodičke smjernice
+Upravljanje projektima ima za cilj uvođenje upravljanja softverskim projektima kroz dvije važne upravljačke aktivnosti, upravljanje rizicima i upravljanje ljudima. Kroz prvi ishod učenja učenici će se upoznati sa glavnim zadacima voditelja projekta; pojmom upravljanja rizicima i nekim od rizika koji se mogu pojaviti u softverskim projektima; razumjet će faktore koji utiču na motivaciju i šta oni mogu da znače za voditelje softverskih projekata; razumjet će ključna pitanja koja utiču na timski rad, kao što su sastav tima, organizacija i komunikacija.
+Planiranje projekta ima za cilj uvesti planiranje projekta, raspored i procjenu troškova. Razumjet će šta je uključeno u planiranje projekta i koristit će trakaste dijagrame za predstavljanje rasporeda projekta; uvedeni su u agilno planiranje projekta na temelju “Igre planiranja”; razumjet će tehnike procjene troškova i kako se model COCOMO II može koristiti za procjenu troškova softvera.
+Upravljanje kvalitetom ima za cilj uvesti pojam upravljanja kvalitete softvera i softversko mjerenje. Učenici će se upoznati sa procesom upravljanja kvalitetom i znat će zašto je planiranje kvalitete važno; bit će svjesni važnosti standarda u procesu upravljanja kvalitetom i znat će kako se standardi koriste u osiguranju kvalitete; razumjet će kako se pregledi i inspekcije koriste kao mehanizam za osiguranje kvalitete softvera; razumjet će kako se upravljanje kvalitetom u agilnim metodama temelji na razvoju kvalitete timske kulture; razumjet će kako mjerenje može biti od pomoći u procjeni nekih atributa kvalitete softvera, pojam softverske analitike i ograničenja softverskog mjerenja.
+Kroz adekvatne primjere iz stvarnog života učenici će razumjeti izazove izgradnje sistema i prednost kontinuirane integracije i izgradnje sistema; razumjet će zašto je upravljanje promjenama softvera važno i osnovne aktivnosti u procesu upravljanja promjenama; razumjet će osnove upravljanja izdanjima softvera i kako se razlikuje od upravljanja verzijama.
+Upravljanje kvalitetom objašnjava osnove upravljanja kvalitetom softvera, kao što se praktikuje u velikim projektima. Upravljanje kvalitetom se bavi procesima i tehnikama za osiguranje i poboljšanje kvaliteta softvera. Govori se o važnosti standarda u upravljanju kvalitetom, tj. koristi preglede i inspekcije u procesu osiguranja kvalitete. Na kraju, govori se o mjerenju softvera i raspravlja se o prednostima i problemima u korištenju metrike i softverske analize podataka u upravljanju kvalitetom.
+Konačno, upravljanje konfiguracijom govori o upravljanju konfiguracijom, kritičnom pitanju za sve velike sisteme. Međutim, potreba za upravljanjem konfiguracijom nije uvijek očigledna učenicima koji će se baviti samo ličnim razvojem softvera, pa će se opisati različiti aspekti ove teme, uključujući upravljanje verzijama, izgradnji sistema, upravljanju promjenama i upravljanju izdanjima. Objašnjava se zašto je važna kontinuirana integracija ili svakodnevna izgradnja sistema. Važnost npr. Git-a koji se sve više koristi za podršku softver inžinjeringu od strane distribuiranih timova za upravljanje verzijama distribuiranih sistema.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije 
+Oblast Upravljanje softverskim projektima omogućava povezivanje sa različitim nastavnim predmetima kroz praktičnu primjenu znanja. Sa Matematičkim osnovama kompjuterskih nauka i Naprednom primijenjenom informatikom povezuje se kroz mehanizme nadzora rada i administracije sistema te izradu izvještaja. Sa Bazama podataka i Programiranjem ostvaruje se saradnja kroz razvoj baza podataka i implementaciju funkcionalnosti. Bosanski jezik i književnost, Hrvatski jezik i književnosti, Srpski jezik i književnost doprinosi razvoju komunikacijskih vještina i pisanju tehničke dokumentacije, dok Engleski jezik osnažuje korištenje stručne literature i online resursa. Matematika pruža alate za numeričku obradu podataka, a Fizika i druge prirodne nauke doprinose kreativnom računarstvu i modeliranju. Psihologija i Sociologija pomažu u razvoju timske saradnje, prezentacijskih vještina i grafičke obrade podataka. 
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija –kompetencijski pristup
+Učenici kroz ovu oblast razvijaju širok spektar ključnih kompetencija, počevši od jezičko-komunikacijske sposobnosti koja im omogućava da čitaju, razumiju i kritički analiziraju informativne tekstove, te jasno i precizno izražavaju vlastite ideje. Matematička pismenost potiče ih da koriste univerzalne matematičke obrasce mišljenja i prikazivanja radi objašnjavanja i modeliranja stvarnih situacija, dok kompetencija u nauci i tehnologiji obuhvata razumijevanje i primjenu različitih prikaza matematičkih elemenata i fenomena, odabir optimalnih rješenja i prepoznavanje veze tehnologije s naučnim, društvenim, kulturnim i ekološkim aspektima života.
+Informatička pismenost razvija se kroz kritičko korištenje digitalnih tehnologija u prikupljanju, obradi i razmjeni informacija, uz poštovanje etičkih načela i zaštitu privatnosti. Kroz timski rad i zajedničke projekte jačaju socijalne i građanske kompetencije, učeći kako konstruktivno komunicirati, poštovati kulturne razlike i doprinositi zajednici. Istovremeno, razvijaju samoinicijativu i poduzetnički duh kroz preuzimanje odgovornosti, upravljanje rizikom i prepoznavanje vlastitih potencijala. Posebna pažnja posvećuje se kreativno-produktivnim kompetencijama, gdje učenici uče analizirati i vrednovati informacije, razlikovati činjenice od mišljenja, povezivati ideje te razvijati kreativnost, estetsku osjetljivost i otvorenost prema novim iskustvima i perspektivama.
+C
+Pouzdanost i sigurnost sistema
+C.IV.1
+Analizira proces testiranja softvera primjenom odgovarajućih metoda, alata i faza testiranja radi osiguranja pouzdanosti i sigurnosti sistema.
+C.IV.2
+Planira isporuku i održavanje softverskog sistema radi očuvanja pouzdanosti i sigurnosti.
+C.IV.1.1 Primjenjuje faze testiranja softvera, od testiranja tokom razvoja do testiranja prihvatanja, u skladu s definisanim standardima kvaliteta.
+C.IV.1.2 Odabire izbor test slučajeva usmjerenih na identifikaciju i otklanjanje grešaka u programu.
+C.IV.1.3 Kreira planove i scenarije testiranja prije pisanja koda te implementira automatsko pokretanje testova.
+C.IV.1.4 Klasifikuje vrste testiranja (testiranje komponenti, sistema i izdanja) u kontekstu osiguranja pouzdanosti i sigurnosti softvera.
+C.IV.2.1 Izrađuje tehničku i korisničku dokumentaciju za isporuku softvera.
+C.IV.2.2 Organizuje obuku korisnika za upotrebu sistema. 
+C.IV.2.3 Povezuje proces održavanja softverskog sistema s fazama njegovog životnog ciklusa.
+KLJUČNI SADRŽAJI
+Testiranje softvera: Greške i otkazi, klasifikacija grešaka; Vrste testiranja, jedinično testiranje, integraciono testiranje, sistemsko testiranje; Proces testiranja, Isporuka i održavalje softvera: Isporuka sistema, obuka korisnika, dokumentacija; Održavanje sistema, vrste održavanja, problemi održavanja, troškovi održavanja;
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline– metodičke smjernice
+U ovoj oblasti učenici analiziraju proces testiranja softvera i planiraju isporuku i održavanje sistema radi očuvanja njegove pouzdanosti i sigurnosti. Testiranje softvera obuhvata faze od testiranja jedinica tokom razvoja sistema do testiranja izdanja softvera. Učenici prepoznaju i primjenjuju faze testiranja – od testiranja tokom razvoja do testiranja prihvatljivosti od strane korisnika sistema. Upoznaju se s tehnikama koje pomažu u odabiru test slučajeva usmjerenih na otkrivanje grešaka te razlikuju razvojno testiranje od korisničkog testiranja.
+Preporučuje se obrada kroz konkretne primjere:
+Jedinično testiranje: metod „crne kutije“ (podjela na klase ekvivalencije, analiza graničnih vrijednosti, uzročno-posljedični grafovi) i metod „bijele kutije“ (pokrivanje iskaza, pokrivanje odluka, pokrivanje uslova),
+Integraciono testiranje: integracija po principu „velikog praska“, integracija od dna ka vrhu, integracija od vrha ka dnu, „sendvič“ integracija.
+Nakon isporuke, životni vijek softvera se nastavlja sve dok je u upotrebi. Softver evoluira kroz otklanjanje grešaka, poboljšanja i modifikacije, što je predmet održavanja. Učenici izrađuju dokumentaciju, organizuju obuku korisnika te povezuju proces održavanja sa fazama životnog ciklusa softvera.
+Unutar projektnog zadatka učenici trebaju:
+Opisati sve sprovedene testove u okviru jediničnog testiranja po modulima,
+Navesti korišteni princip integracionog testiranja i dati hijerarhiju redoslijeda testiranja modula,
+Nacrtati dijagram zavisnosti broja pronađenih grešaka po sedmicama,
+Predložiti dio uputstva za korištenje koji se odnosi na jednu odabranu funkcionalnost sistema.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Oblast Pouzdanost i sigurnost softverskog sistema pruža široke mogućnosti za integraciju znanja i vještina iz drugih nastavnih područja. Sadržaji vezani za gradivne elemente softverskog sistema (mehanizmi nadzora rada sistema, administracija, izvještavanje, baze podataka, razvoj funkcionalnosti) omogućavaju povezivanje s nastavnim predmetima Matematičke osnove kompjuterskih nauka i Napredna primijenjena informatika, gdje učenici razvijaju razumijevanje tehničkih principa i arhitekture softverskih rješenja. Nastavni predmeti Baze podataka i Programiranje direktno se povezuju kroz izradu baza, implementaciju osnovnih funkcionalnosti i testiranje koda, čime se ostvaruje primjena teorijskih znanja u praktičnim projektima. U okviru Bosanskog jezika i književnosti, Hrvatskog jezika i književnosti, Srpskog jezika i književnosti te Engleskog jezika, učenici razvijaju komunikacijske vještine, vježbaju obradu teksta te uče kako koristiti stručnu literaturu i internet izvore. Matematika doprinosi razvoju sposobnosti za numeričku obradu podataka, dok se Fizika i druge prirodne nauke povezuju kroz kreativno računarstvo i simulacije.
+Psihologija i Sociologija daju okvir za razumijevanje korisničkog iskustva, timskog rada i prezentacijskih vještina, uz podršku kreativne i grafičke obrade podataka. 
+ 3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+U oblasti Pouzdanost i sigurnost softverskog sistema razvija se širok spektar kompetencija koje povezuju različita znanja i vještine. Učenici unapređuju jezičko-komunikacijsku kompetenciju kroz čitanje, razumijevanje i analizu informativnih i tehničkih tekstova, kao i kroz jasnu i preciznu usmenu i pisanu komunikaciju u profesionalnom kontekstu. Istovremeno, jačaju matematičku pismenost kroz korištenje matematičkih metoda i prikaza za tumačenje podataka i opisivanje stvarnih procesa u radu softverskih sistema.
+Razvija se i kompetencija u nauci i tehnologiji, jer učenici razumiju i primjenjuju principe rada tehnoloških sistema, povezuju ih s naučnim dostignućima, društvenim i kulturnim aspektima te razvijaju svijest o uticaju tehnologije na okoliš i održivi razvoj. Informatička pismenost se nadograđuje kroz kritičko korištenje IKT-a za pretraživanje, obradu, predstavljanje i razmjenu informacija, uz poštivanje etičkih standarda i privatnosti.
+Učenici također jačaju socijalne i građanske kompetencije kroz konstruktivnu saradnju, poštovanje komunikacijskih normi, međukulturno razumijevanje i kvalitetnu interakciju u timskom radu. Kroz zadatke se potiče samoinicijativnost i poduzetništvo, posebno u planiranju i vođenju projekata, procjeni rizika i prepoznavanju vlastitih snaga i slabosti.
+Na kraju, nastava podstiče kreativno-produktivne kompetencije, omogućavajući učenicima da analiziraju i sintetiziraju informacije, razvijaju originalna rješenja, izraze kreativne ideje i estetske vrijednosti te da otvoreno i kritički promišljaju različite perspektive, integrišu nova iskustva i oblikuju sopstvene stavove.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

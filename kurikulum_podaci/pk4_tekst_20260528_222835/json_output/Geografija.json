@@ -1,0 +1,769 @@
+{
+  "predmet": "Geografija",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "6"
+  },
+  "tematske_cjeline": [
+    "A GEOGRAFSKI PROSTOR",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "A GEOGRAFSKI PROSTOR",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "D REGIONALNA GEOGRAFIJA",
+    "A GEOGRAFSKI PROSTOR",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "D REGIONALNA GEOGRAFIJA",
+    "A GEOGRAFSKI PROSTOR",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "D REGIONALNA GEOGRAFIJA",
+    "A GEOGRAFSKI PROSTOR",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESI I PROMJENE",
+    "C ODRŽIVI RAZVOJ",
+    "D REGIONALNA GEOGRAFIJA",
+    "A GEOGRAFSKI PROSTOR",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "D REGIONALNA GEOGRAFIJA",
+    "A GEOGRAFSKI PROSTOR",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "D REGIONALNA GEOGRAFIJA",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "D REGIONALNA GEOGRAFIJA",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESI I PROMJENE",
+    "C ODRŽIVI RAZVOJ",
+    "D REGIONALNA GEOGRAFIJA",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "D REGIONALNA GEOGRAFIJA",
+    "A GEOGRAFSKI PROSTOR",
+    "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA",
+    "C ODRŽIVI RAZVOJ",
+    "D REGIONALNA GEOGRAFIJA"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "A.6.4"
+    },
+    {
+      "oznaka": "A.6.5",
+      "opis": "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B.6.2"
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "B.6.4"
+    },
+    {
+      "oznaka": "B.6.5",
+      "opis": "B.6.6"
+    },
+    {
+      "oznaka": "B.6.7",
+      "opis": "B.6.8"
+    },
+    {
+      "oznaka": "B.6.9",
+      "opis": "C ODRŽIVI RAZVOJ"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "Objašnjava važnost izučavanja geografije u razumijevanju pojava, procesa, promjena i odnosa u prostornoj stvarnosti."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "Navodi osnovne odlike kosmosa i klasifikuje kosmička tijela."
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "Opisuje oblik Zemlje i razlikuje njena kretanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.4 GEO-1.2.1 GEO-1.1.1 GEO-1.1.2 GEO-1.1.3 GEO-1.1.1 GEO-1.1.3 GEO-1.1.4"
+    },
+    {
+      "oznaka": "A.6.4",
+      "opis": "Primjenjuje osnovne načine orijentacije."
+    },
+    {
+      "oznaka": "A.6.5",
+      "opis": "Koristi elemente karte za razumijevanje različitih vrsta geografskih karata."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-1.3.2 GEO-1.3.3 GEO-1.3.1 GEO-1.3.2 GEO-1.3.3"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "Objašnjava uzročno-posljedične odnose (interakciju) pojava i procesa koristeći geografsku terminologiju, kritičko mišljenje, različite geografske metode i geografske vještine."
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": "Izdvaja procese i pojave i povezuje njihovo međudjelovanje."
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "Raščlanjuje oblike reljefa na Zemlji."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-1.2.1 GEO-1.2.2 GEO-1.2.4 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4"
+    },
+    {
+      "oznaka": "B.6.4",
+      "opis": "Utvrđuje uticaje klimatskih faktora na raspored tipova klima na Zemlji i objašnjava vremensku prognozu."
+    },
+    {
+      "oznaka": "B.6.5",
+      "opis": "Klasificira vode na Zemlji te razlikuje dinamičke procese u njima."
+    },
+    {
+      "oznaka": "B.6.6",
+      "opis": "Otkriva uzročno-posljedičnu vezu klime, tla, voda i razmještaja živoga svijeta na Zemlji."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-1.1.4 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4"
+    },
+    {
+      "oznaka": "B.6.7",
+      "opis": "Objašnjava demogeografske odlike na Zemlji."
+    },
+    {
+      "oznaka": "B.6.8",
+      "opis": "Upoređuje različite tipove naselja na Zemlji i otkriva njihov uticaj na okolinu."
+    },
+    {
+      "oznaka": "B.6.9",
+      "opis": "Raščlanjuje prirodno-geografske i društveno-geografske  faktore za razvoj privrednih djelatnosti i razlikuje privredne sektore."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-2.1.2 GEO-2.2.2 GEO-1.2.1 GEO-2.2.1 GEO-3.1.1 GEO-1.2.1 GEO-2.2.4 GEO-2.3.2"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "Ukazuje na neophodnost održivog upravljanja prostorom i korištenjem prirodnih resursa te preporučuje mjere i načine upravljanja prostorom, očuvanjem i racionalnim korištenjem prirodnih resursa."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "Argumentira važnost održivog razvoja kao polazišta prostornom planiranju i objašnjava značaj i ulogu GIS-a u svakodnevnom životu, radu i izgradnji geografskog prostora na temeljima održivosti."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-3.1.2 GEO-3.1.3 GEO-1.1.3 GEO-3.2.1 GEO-3.2.2"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "B.7.4"
+    },
+    {
+      "oznaka": "B.7.5",
+      "opis": "B.7.6"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "D REGIONALNA GEOGRAFIJA"
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": "D.7.2"
+    },
+    {
+      "oznaka": "D.7.3",
+      "opis": "D.7.4"
+    },
+    {
+      "oznaka": "D.7.5",
+      "opis": "D.7.6"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Analizira geografski položaj Evrope, njenih regija i država."
+    },
+    {
+      "oznaka": ".3.3",
+      "opis": "GEO-2.3.1 GEO-4.1.1"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Raščlanjuje uzročno-posljedične odnose (interakciju) pojava i procesa koristeći geografsku terminologiju, kritičko mišljenje, različite geografske metode i geografske vještine."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "Upoređuje prirodne procese i pojave i njihovo međudjelovanje koristeći geografsko mišljenje."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "Analizira prirodno-geografske odlike Evrope kroz njihovu međusobnu interakciju i uticaj na stanovništvo."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-1.2.1 GEO-1.2.2 GEO-1.2.4 GEO-1.1.2 GEO-1.2.1 GEO-4.1.2"
+    },
+    {
+      "oznaka": "B.7.4",
+      "opis": "Razlikuje demogeografske odlike Evrope."
+    },
+    {
+      "oznaka": "B.7.5",
+      "opis": "Klasificira osnovne odlike naselja Evrope."
+    },
+    {
+      "oznaka": "B.7.6",
+      "opis": "Kategorizira privredni razvoj Evrope i procjenjuje stepen razvijenosti privrednih djelatnosti kroz sektore djelatnosti."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-2.2.2 GEO-4.1.2 GEO-1.2.1 GEO-2.2.1 GEO-4.1.2 GEO-1.2.1 GEO-2.3.2 GEO-4.1.2"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "Upoređuje prirodne resurse, sirovine i izvore energije u državama Evrope sa aspekta njihovog održivog razvoja."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "Upoređuje ekološku opterećenost prostora,  prostornu organizaciju i funkcionalno korištenje prostora za život ljudi u državama regije i šire."
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "Komentira zakonske odredbe, aktivno djelovanje stanovništva, NVO na izgled i planiranje razvoja svog prostora življenja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "GEO-3.1.3 GEO-3.3.1 GEO-3.3.1 GEO-3.3.2 GEO-3.3.3 GEO-3.2.1 GEO-3.2.2 GEO-3.3.4"
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": "Izdvaja specifičnosti prirodno-geografskih i društveno-geografskih odlika regija Evrope."
+    },
+    {
+      "oznaka": "D.7.2",
+      "opis": "Upoređuje prirodno-geografske odlike država Evrope."
+    },
+    {
+      "oznaka": "D.7.3",
+      "opis": "Analizira demogeografske odlike država Evrope."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-2.2.1 GEO-4.1.3 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4 GEO-2.1.2 GEO-2.1.3 GEO-2.2.3"
+    },
+    {
+      "oznaka": "D.7.4",
+      "opis": "Otkriva sličnosti/razlike naselja država Evrope."
+    },
+    {
+      "oznaka": "D.7.5",
+      "opis": "Rangira privredni razvoj država Evrope sa aspekta njenog odnosa i uloge u EU i svijetu."
+    },
+    {
+      "oznaka": "D.7.6",
+      "opis": "Objašnjava nastanak, razvoj, institucije i nadležnosti EU, njenu ulogu u Evropi i svijetu te historijsko-političke prilike u Evropi i savremene globalizacijske procese."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-2.2.1 GEO-3.3.1 GEO-1.2.1 GEO-2.2.4 GEO-2.3.2 GEO-2.3.1 GEO-2.3.2 GEO-4.1.4"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "B.8.4"
+    },
+    {
+      "oznaka": "B.8.5",
+      "opis": "B.8.6"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "D REGIONALNA GEOGRAFIJA"
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "D.8.2"
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "D.8.4"
+    },
+    {
+      "oznaka": "D.8.5",
+      "opis": "D.8.6"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Analizira geografski položaj Azije, Afrike, Sjeverne Amerike, Južne Amerike, Australije i Antarktike."
+    },
+    {
+      "oznaka": ".3.3",
+      "opis": "GEO-2.3.1 GEO-4.2.1"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Raščlanjuje uzročno-posljedične odnose (interakcije) pojava i procesa koristeći geografsku terminologiju, kritičko mišljenje, različite geografske metode i geografske vještine."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Upoređuje prirodne procese i pojave i njihovo međudjelovanje koristeći geografsko mišljenje."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "Analizira prirodno-geografske odlike vanevropskih kontinenata kroz njihovu međusobnu interekciju."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-1.2.1 GEO-1.2.2 GEO-1.2.4 GEO-1.1.2 GEO-1.2.1 GEO-4.2.2"
+    },
+    {
+      "oznaka": "B.8.4",
+      "opis": "Upoređuje demogeografske odlike vanevropskih kontinenata."
+    },
+    {
+      "oznaka": "B.8.5",
+      "opis": "Upoređuje osnovne odlike naselja vanevropskih kontinenata."
+    },
+    {
+      "oznaka": "B.8.6",
+      "opis": "Utvrđuje privredni razvoj vanevropskih kontinenata i procjenjuje stepen razvijenosti privrednih djelatnosti kroz sektore djelatnosti."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-2.2.2 GEO-4.2.3 GEO-1.2.1 GEO-2.2.1 GEO-4.2.3 GEO-1.2.1 GEO-2.3.2 GEO-4.2.3"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "Reda po važnosti resurse, sirovine i izvore energije u državama vanevropskih kontinenata sa aspekta njihovog učešća u održivom razvoju prostora."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "Upoređuje ekološku opterećenost prostora,  prostornu organizaciju i funkcionalno korištenje prostora za život ljudi u državama regija, ali i šire."
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "Komentira zakonske odredbe, aktivno djelovanje stanovništva, NVO na izgled i planiranje razvoja vlastitog prostora življenja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "GEO-3.1.3 GEO-3.3.1 GEO-3.3.1 GEO-3.3.2 GEO-3.3.3 GEO-3.2.1 GEO-3.2.2 GEO-3.3.4"
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "Rangira specifičnosti prirodno-geografskih i društveno-geografskih odlika regija vanevropskih kontinenata."
+    },
+    {
+      "oznaka": "D.8.2",
+      "opis": "Upoređuje prirodno-geografske odlike država vanevropskih kontinenata."
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "Upoređuje demogeografske odlike država vanevropskih kontinenata."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.2.1 GEO-2.2.1 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4 GEO-2.1.2 GEO-2.1.3 GEO-2.2.3"
+    },
+    {
+      "oznaka": "D.8.4",
+      "opis": "Utvrđuje sličnosti/razlike naselja država vanevropskih kontinenata."
+    },
+    {
+      "oznaka": "D.8.5",
+      "opis": "Rangira privredni razvoj država van Evrope sa aspekta njenog odnosa i uloge u regiji i svijetu."
+    },
+    {
+      "oznaka": "D.8.6",
+      "opis": "Objašnjava savremene globalizacijske procese, međunarodne integracije i organizacije."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-2.2.1 GEO-3.3.1 GEO-1.2.1 GEO-2.2.4 GEO-2.3.2 GEO-2.3.1 GEO-2.3.2 GEO-4.2.4"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "B MEĐUSOBNO DJELOVANJE POJAVA, PROCESA I PROMJENA"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "B.9.4"
+    },
+    {
+      "oznaka": "B.9.5",
+      "opis": "B.9.6"
+    },
+    {
+      "oznaka": "B.9.7",
+      "opis": "B.9.8"
+    },
+    {
+      "oznaka": "B.9.9",
+      "opis": "C ODRŽIVI RAZVOJ"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.2"
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "C.9.4"
+    },
+    {
+      "oznaka": "C.9.5",
+      "opis": "C.9.6"
+    },
+    {
+      "oznaka": "C.9.7",
+      "opis": "D REGIONALNA GEOGRAFIJA"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "Analizira geografski položaj Bosne i Hercegovine i vrednuje njen značaj u regiji, Evropi i svijetu."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-2.3.1 GEO-4.3.1"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Analizira uzročno-posljedične odnose (interakciju) pojava i procesa koristeći geografsku terminologiju, kritičko mišljenje, različite geografske metode i geografske vještine."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "Analizira prirodne i društvene pojave i procese i njihovo međudjelovanje koristeći geografsko mišljenje."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "Analizira geološke i geotektonske karakteristike te kategorizira geomorfološke makroregije Bosne i Hercegovine."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-1.2.1 GEO-1.2.2 GEO-1.2.4 GEO-1.1.1 GEO-1.1.2 GEO-4.3.2"
+    },
+    {
+      "oznaka": "B.9.4",
+      "opis": "Procjenjuje tipove klime u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "B.9.5",
+      "opis": "Ispituje hidrološke karakteristike Bosne i Hercegovine te rangira njihov uticaj na geografski prostor."
+    },
+    {
+      "oznaka": "B.9.6",
+      "opis": "Utvrđuje uzročno-posljedičnu vezu geološke strukture, klime, hidrografije, tla i živoga svijeta te antropogenog uticaja na promjenu bioraznolikosti u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-4.3.2 GEO-1.1.1 GEO-1.1.2 GEO-4.3.2 GEO-1.1.1 GEO-1.1.2 GEO-4.3.2"
+    },
+    {
+      "oznaka": "B.9.7",
+      "opis": "Analizira demogeografske odlike u Bosni i Hercegovini kroz popise stanovništva."
+    },
+    {
+      "oznaka": "B.9.8",
+      "opis": "Kategorizira ruralna i urbana naselja u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "B.9.9",
+      "opis": "Procjenjuje privredni razvoj Bosne i Hercegovine sa aspekta njenog odnosa i uloge u regiji, EU i svijetu te historijsko-političkih prilika i savremenih globalizacijskih procesa."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "GEO-2.2.3 GEO-4.3.2 GEO-2.2.1 GEO-4.3.2 GEO-1.2.1 GEO-4.3.2"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "Rangira resurse, sirovine i izvore energije u Bosni i Hercegovini sa aspekta održivog razvoja Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": "Raščlanjuje uzroke i posljedice onečišćenja i degradaciju okoliša u Bosni i Hercegovini i pojašnjava njihov uticaj na ekološku opterećenost prostora,  prostornu organizaciju i funkcionalno korištenje prostora za život stanovništva u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "Procjenjuje zakonske odredbe, aktivno djelovanje stanovništva, NVO na izgled i planiranje održivog razvoja Bosne i Hercegovine."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-3.1.2 GEO-3.1.3 GEO-3.3.1 GEO-3.3.2 GEO-3.3.3 GEO-3.2.1 GEO-3.2.2 GEO-3.3.4"
+    },
+    {
+      "oznaka": "C.9.4",
+      "opis": "Razlikuje kategorije zaštite geobaštine (prirodna i kulturna), pravni i institucionalni okvir i izazove upravljanja zaštićenim područjima u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "C.9.5",
+      "opis": "Analizira stanje prostornih odnosa sa aspekta prostornog planiranja i njegov pravni i institucionalni okvir u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "C.9.6",
+      "opis": "Predviđa međudjelovanja procesa i promjena u Bosni i Hercegovini kroz korištenje rezultata GIS-a."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "GEO-3.3.1 GEO-3.3.4 GEO-3.3.2 GEO-3.3.3 GEO-3.3.4 GEO-1.3.3 GEO-3.2.1 GEO-3.2.2"
+    },
+    {
+      "oznaka": "C.9.7",
+      "opis": "Argumentira aplikativnost geografskih znanja i vještina u shvatanja, predstavljanje i predviđanje međudjelovanja procesa i promjena u geografskom prostoru na principima održivog razvoja i harmoničnog, kvalitenog i pravičnog življenja svih živih bića."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-1.2.2 GEO-3.2.2"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Kategorizira specifičnosti prirodno-geografskih i društveno-geografskih odlika regija Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Analizira ime, geografsko-historijski razvoj, društveno uređenje i administrativno-političku podjelu Bosne i Hercegovine i njen položaj u regiji, Evropi i svijetu."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-2.3.2 GEO-4.3.1 GEO-1.2.1 GEO-2.3.2 GEO-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.4 GEO-1.2.1 GEO-1.1.1 GEO-1.1.2 GEO-1.1.3 GEO-1.1.1 GEO-1.3.2 GEO-1.3.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.3 GEO-1.1.4 GEO-1.1.3 GEO-1.3.1 GEO-1.3.2 GEO-1.3.1 GEO-1.3.2 GEO-1.3.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-1.2.1 GEO-1.2.2 GEO-1.2.4 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-1.2.2 GEO-3.2.2 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-1.1.4 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-3.3.2 GEO-3.3.4 GEO-3.1.2 GEO-3.1.3 GEO-3.3.1 GEO-3.2.1 GEO-3.2.2 GEO-3.3.4"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-1.2.1 GEO-1.2.2 GEO-1.2.4 GEO-2.2.1 GEO-2.2.2 GEO-2.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-2.1.2 GEO-2.1.3 GEO-2.3.1 GEO-2.3.2 GEO-2.3.3 GEO-2.2.1 GEO-2.3.1 GEO-2.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-2.3.1 GEO-2.3.2 GEO-2.2.1 GEO-2.3.1 GEO-2.3.2"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-3.3.2 GEO-3.3.3 GEO-3.1.2 GEO-3.1.3 GEO-3.3.1 GEO-3.1.2 GEO-3.1.3 GEO-3.3.4"
+    },
+    {
+      "oznaka": ".3.3",
+      "opis": "GEO-3.2.1 GEO-3.2.2 GEO-1.2.2 GEO-3.2.1 GEO-3.2.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-1.2.1 GEO-1.2.2 GEO-1.2.4"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-3.3.2 GEO-3.3.3 GEO-3.1.2 GEO-3.1.3 GEO-3.3.4 GEO-3.1.2 GEO-3.1.3 GEO-3.2.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "GEO-3.2.1 GEO-3.2.2 GEO-1.2.2 GEO-3.2.1 GEO-3.2.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-2.3.1 GEO-2.3.2 GEO-2.2.1 GEO-2.3.1 GEO-2.3.2 GEO-2.2.1 GEO-2.3.1 GEO-2.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-2.3.1 GEO-2.3.2 GEO-2.2.1 GEO-2.3.1 GEO-2.3.2"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-2.3.1 GEO-4.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-1.2.1 GEO-1.2.2 GEO-1.2.4 GEO-1.1.1 GEO-1.1.2 GEO-4.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-4.3.2 GEO-1.1.1 GEO-1.1.2 GEO-4.3.2 GEO-1.1.2 GEO-1.2.4 GEO-4.3.2"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "GEO-2.2.3 GEO-4.3.2 GEO-2.1.2 GEO-2.2.3 GEO-4.3.2 GEO-1.2.1 GEO-3.3.1 GEO-4.3.2"
+    },
+    {
+      "oznaka": ".2.4",
+      "opis": "GEO-2.3.2 GEO-4.3.2"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-3.3.2 GEO-3.3.4 GEO-3.1.2 GEO-3.1.3 GEO-3.3.1 GEO-3.3.1 GEO-3.3.2 GEO-3.3.4"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "GEO-3.2.1 GEO-3.2.2 GEO-1.2.2 GEO-3.2.1 GEO-3.2.2 GEO-1.2.2 GEO-3.2.1 GEO-3.2.2"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-2.3.2 GEO-2.3.3 GEO-2.3.1 GEO-2.3.2 GEO-2.3.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.4 GEO-1.2.1 GEO-1.1.1 GEO-1.1.2 GEO-1.1.3 GEO-1.1.1 GEO-1.3.2 GEO-1.3.3"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "GEO-1.3.1 GEO-1.3.2 GEO-1.3.1 GEO-1.3.2 GEO-1.3.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-1.1.1 GEO-1.1.2 GEO-1.1.3 POO-1.2.1 GEO-1.1.1 GEO-1.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-1.1.4 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4 GEO-1.1.1 GEO-1.1.2 GEO-1.1.4"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-3.3.2 GEO-3.3.4 GEO-3.1.2 GEO-3.1.3 GEO-3.3.1"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-2.3.1 GEO-4.3.1 GEO-1.1.1 GEO-1.1.2 GEO-4.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-2.1.2 GEO-2.2.2 GEO-2.2.3 GEO-2.2.1 GEO-2.3.1 GEO-2.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GEO-2.3.1 GEO-2.3.2 GEO-1.1.1 GEO-1.2.1 GEO-1.2.2 GEO-1.1.1 GEO-2.3.2 GEO-3.3.3"
+    },
+    {
+      "oznaka": ".2.4",
+      "opis": "GEO-2.3.2 GEO-3.2.1 GEO-2.3.1 GEO-2.3.2 GEO-2.3.3"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-3.3.2 GEO-3.3.3 GEO-3.1.2 GEO-3.1.3 GEO-3.3.4 GEO-1.3.3 GEO-3.2.1 GEO-3.2.2"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "GEO-2.2.3 GEO-4.3.2 GEO-1.2.1 GEO-3.3.1 GEO-4.3.2 GEO-2.2.4 GEO-2.3.2 GEO-4.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.1.2 GEO-3.2.1 GEO-2.3.1 GEO-2.3.2 GEO-2.3.3"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-3.3.2 GEO-3.3.3 GEO-3.1.2 GEO-3.1.3 GEO-3.2.2 GEO-3.2.1 GEO-3.3.2 GEO-3.3.4"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "GEO-3.2.1 GEO-3.2.2 GEO-1.2.2 GEO-3.2.1 GEO-3.2.2"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GEO-2.3.2 GEO-2.3.3 GEO-2.2.1 GEO-2.3.1 GEO-2.3.2 GEO-2.3.1 GEO-2.3.2 GEO-2.3.3"
+    },
+    {
+      "oznaka": ".3.3",
+      "opis": "GEO-3.2.1 GEO-4.2.3 GEO-2.3.2 GEO-3.2.1 GEO-4.1.4"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Definiranje predmeta i objekta izučavanja geografije. Zadaci",
+    "podjela i svrha izučavanja geografije. KLJUČNI SADRŽAJI Kosmos i kosmička tijela. Osnovne predstave o kosmosu i kosmičkim tijelima i njihovim grupacijama – zvijezde",
+    "planete",
+    "prirodni sateliti (Mjesec i njegove mijene)",
+    "asteroidi",
+    "komete",
+    "meteori. Orbite. Svjetlosna godina. Sazviježđa. Galaksija (Mliječni put). Galaktička jata. Sunčev sistem. Pomračenje Sunca i Mjeseca. Zemlja u Sunčevom sistemu. KLJUČNI SADRŽAJI Zemlja – oblik (geoid) i dimenzije. Prividno dnevno kretanje Sunca. Rotacija Zemlje i njene posljedice. Lokalno i zonalno vrijeme. Revolucija Zemlje i njene posljedice. Kalendar – solarni i lunarni."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Kroz komponentu Uvod u geografiju učenik/ca se upoznaje sa predmetom Geografija. Vrlo je važno da razumije da je to i prirodna i društvena nauka i kao takva povezuje prirodne i društvene nauke. Geografija se bavi proučavanjem prostora, prostornih varijabilnosti, tj. pojava, procesa i promjena koje se razlikuju unutar i između mjesta (neke lokacije) zbog čega je geografsko obrazovanje neophodno za razumijevanje Svijeta u kojem živi.",
+      "Kroz adekvatne primjere ukazati na prisustvo stalnih uzročno–posljedičnih veza (interakcija) između prirodnih i društvenih pojava i procesa, kako na lokalnom tako i na globalnom nivou.",
+      "Pojasniti učeniku/ci koliko je važno da razvije geografski način razmišljanja, da se uvijek pita: Zašto?, Zbog čega?, Šta je uzrok nečemu, a šta njegova posljedica?",
+      "Koristiti interaktivnu metodu i različita nastavna sredstva koji će podići interesovanje učenika/ce za predmet. Važno je da shvati značaj geografskih istraživanja koja će uvijek zadovoljavati njegovu/njenu znatiželju.",
+      "2. Mogućnost ostvarivanja međupredmetne povezanosti – međupredmetna korelacija",
+      "Ostvariti međupredmetnu povezanost sa predmetima kroz koju je učenik/ca, na nižim nivoima obrazovanja, stekao/la početna geografska znanja o prostoru, a to su Moja okolina, Priroda i Društvo. Učenik/ca treba da razumije važnost kontinuiranog sticanja znanja i međupredmetnog povezivanja. Također, bitno je da zna da će se kroz predmet Geografija upoznati sa brojnim pojmovima čije dublje razumijevanje će postepeno usvajati, kako kroz Geografiju tako i druge predmete koje će imati u daljem školovanju.",
+      "3."
+    ],
+    "medjupredmetne_korelacije": [
+      "sa drugim predmetima. Tu se u prvom redu ističe sociologija, budući da se u okviru ovog predmeta proučavaju različiti društveni fenomeni, među kojima neki imaju i svoju prostornu dimenziju, te se u skladu sa tim mogu razmatrati i sa aspekta planiranja prostora, kao što je urbano planiranje, je ono podrazumijeva i pokušaj rješavanja mnogih socijalnih problema, koje su imamentne gradskim sredinama.",
+      "Terenska istraživanja iz nastave geografije je moguće povezati i sa fizičkom aktivnosti učenika, na koju je fokusiran predmet tjelesni i zdravstveni odgoj – sport.",
+      "Kroz prezentovanje stečenih znanja neophodna je korelaciju sa predmetom Bosanski jezik, Hrvatski jezik, Srpski jezik i književnost kako bi se učenik/ca izražavao/la jasno i smisleno (pismeno i usmeno) uz korištenje geografske terminologije.",
+      "Pored toga, analiziranje planske dokumentacije i provođenje istraživanja u realnom prostoru podrazumijeva i posjedovanje izvjesnog nivoa formalno-jezičke i matematičke pismenosti, te se maternji jezik i matematika podrazumijevaju kao predmeti sa kojima je također moguće ostvariti međupredmetnu korelaciju.",
+      "Upotreba GIS-a u predstavljanju geoprostorne stvarnosti,"
+    ],
+    "kompetencijski_pristup": [
+      "Geografsk"
+    ]
+  }
+}

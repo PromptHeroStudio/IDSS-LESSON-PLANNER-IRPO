@@ -1,0 +1,737 @@
+{
+  "predmet": "Likovna kultura",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "1"
+  },
+  "tematske_cjeline": [
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna umjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna mjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna mjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna umjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna umjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna umjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna umjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna umjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna umjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna umjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna umjetnost u kontekstu i vizuelna komunikacija",
+    "A Stvaralaštvo i produkcija",
+    "B Doživljaj, refleksija i kritički stav",
+    "C Likovna umjetnost u kontekstu i vizuelna komunikacija"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.1.1",
+      "opis": "A.1.2"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "B.1.2"
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": "C.1.2"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": "Identifikuje likovne elemente kao način vizuelnog izraza."
+    },
+    {
+      "oznaka": "A.1.2",
+      "opis": "Upotrebljava ponuđene likovne materijale i tehnike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-1.1.3 UMP-1.2.1 UMP-1.2.3"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "Prepoznaje lični doživljaj, likovni jezik i tematski sadržaj djela."
+    },
+    {
+      "oznaka": "B.1.2",
+      "opis": "Interpretira elemente kulturne baštine u BiH."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "UMP-2.3.4 UMP-2.3.5"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "se ostvaruje uz realizaciju svih ostalih ishoda u 1. razredu."
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": "Interpretira karakteristike prostora i predmeta u neposrednoj okolini."
+    },
+    {
+      "oznaka": "C.1.2",
+      "opis": "Opisuje likovne/vizuelne znakove iz neposredne okoline kao način komunikacije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Prepoznaje karakteristike prostora u neposrednoj okolini."
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": ")."
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "A.2.2"
+    },
+    {
+      "oznaka": "B.2.1",
+      "opis": "B.2.2"
+    },
+    {
+      "oznaka": "C.2.1",
+      "opis": "C.2.2"
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "Razlikuje likovne elemente kao način vizuelnog izraza."
+    },
+    {
+      "oznaka": "A.2.2",
+      "opis": "Upotrebljava ponuđene likovne materijale i tehnike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-1.1.3 UMP-1.2.1 UMP-1.2.3"
+    },
+    {
+      "oznaka": "B.2.1",
+      "opis": "Prepoznaje lični doživljaj, likovni jezik i tematski sadržaj djela."
+    },
+    {
+      "oznaka": "B.2.2",
+      "opis": "Opisuje elemente kulturne baštine u BiH."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "UMP-2.1.3 UMP-2.3.4 UMP-2.3.5 UMP-2.3.1"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "se ostvaruje uz realizaciju svih ostalih ishoda u 2. razredu."
+    },
+    {
+      "oznaka": "C.2.1",
+      "opis": "Razlikuje karakteristike prostora i predmeta u neposrednoj okolini."
+    },
+    {
+      "oznaka": "C.2.2",
+      "opis": "Objašnjava vizuelne znakove kao način komunikacije iz neposredne okoline."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-3.2.1"
+    },
+    {
+      "oznaka": "A.3.1",
+      "opis": "A.3.2"
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": "B.3.2"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": "C.3.2"
+    },
+    {
+      "oznaka": "A.3.1",
+      "opis": "Interpretira likovnim i vizuelnim izražavanjem različite sadržaje."
+    },
+    {
+      "oznaka": "A.3.2",
+      "opis": "Primjenjuje  likovne materijale i tehnike u vlastitom likovnom/vizuelnom izražavanju."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-1.1.3 UMP-1.2.1 UMP-1.2.3"
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": "Opisuje lični doživljaj, likovni jezik i tematski sadržaj djela."
+    },
+    {
+      "oznaka": "B.3.2",
+      "opis": "Opisuje elemente kulturne baštine u BiH."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "UMP-2.1.3 UMP-2.2.2"
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": "se ostvaruje uz realizaciju svih ostalih ishoda u 3. razredu."
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": "Interpretira karakteristike prostora i predmeta u neposrednoj okolini."
+    },
+    {
+      "oznaka": "C.3.2",
+      "opis": "Koristi likovne/vizuelne znakove iz neposredne okoline kao način komunikacije."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-3.1.3 UMP-3.2.1"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "A.4.2"
+    },
+    {
+      "oznaka": "A.4.3",
+      "opis": "B Doživljaj, refleksija i kritički stav"
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": "B.4.2"
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": "C.4.2"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "Prikazuje različite sadržaje likovnim i vizuelnim izražavanjem."
+    },
+    {
+      "oznaka": "A.4.2",
+      "opis": "Primjenjuje različite likovne materijale, tehnike i alate u vlastitom likovnom/vizuelnom izražavanju."
+    },
+    {
+      "oznaka": "A.4.3",
+      "opis": "Stvara kreacije na osnovu iskustva."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-1.1.3 UMP-1.2.1 UMP-1.2.3 UMP-1.3.1 UMP-1.3.2 UMP-1.3.3"
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": "Upoređuje svoj likovni / vizuelni rad te radove drugih učenika opisujući vlastiti doživljaj."
+    },
+    {
+      "oznaka": "B.4.2",
+      "opis": "Izražava lični doživljaj primjera kulturne baštine BiH."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "UMP-2.1.3 UMP-2.2.1 UMP-2.2.2"
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": "se ostvaruje uz realizaciju svih ostalih ishoda u 4. razredu."
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": "Interpretira odnose elemenata u prostoru kroz funkciju i estetiku na osnovu viđenog."
+    },
+    {
+      "oznaka": "C.4.2",
+      "opis": "Utvrđuje važnost likovnog/vizuelnog izraza kao oblika komunikacije u vlastitome i tuđemu stvaralaštvu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-3.1.3 UMP-3.2.1"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "A.5.2"
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "B Doživljaj, refleksija i kritički stav"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B.5.2"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.5.2"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "Analizira osnovna izražajna sredstva i principe u vlastitom stvaralaštvu."
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": "Istražuje različite likovne materijale, tehnike i alate u vlastitom likovnom/vizuelnom izražavanju."
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "Stvara kreacije na osnovu iskustva."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-1.1.2 UMP-1.1.3 UMP-1.2.1 UMP-1.2.3 UMP-1.3.1 UMP-1.3.2 UMP-1.3.3"
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": "kao i u oblasti B – doživljaj, refleksija i kritički stav."
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "Analizira  likovno / vizuelno djelo povezujući vlastiti doživljaj, likovni jezik i tematski sadržaj djela u cjelinu."
+    },
+    {
+      "oznaka": "B.5.2",
+      "opis": "Prikazuje lični doživljaj primjera kulturne baštine BiH."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "UMP-2.1.3 UMP-2.2.1 UMP-2.2.2"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "se ostvaruje uz realizaciju svih ostalih ishoda u 5. razredu."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "Interpretira odnose elemenata u prostoru kroz funkciju i estetiku na osnovu viđenog."
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": "Utvrđuje važnost likovnog/vizuelnog izraza kao oblika komunikacije u vlastitome i tuđemu stvaralaštvu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-3.1.2 UMP-3.1.3 UMP-3.2.1"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "B Doživljaj, refleksija i kritički stav"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B.6.2"
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "B.6.4"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "Analizira osnovna izražajna sredstva i principe u vlastitom stvaralaštvu."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "Istražuje različite likovne tehnike i osobine likovnih materijala u likovnom/vizuelnom izražavanju."
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "Stvara kreacije na osnovu iskustva."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-1.1.2 UMP-1.1.3 UMP-1.2.1 UMP-1.2.3 UMP-1.3.1 UMP-1.3.2 UMP-1.3.3"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "Koristi vizuelni jezik u vlastitom likovnom i verbalnom izražavanju."
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": "Analizira faze stvaralačkog procesa od ideje do realizacije."
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "Istražuje različite vrste likovnih i vizuelnih umjetnosti i njihovih djela."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-2.1.2 UMP-2.1.3 UMP-2.2.1 UMP-2.2.2 UMP-2.3.4 UMP-2.3.5 UMP-2.3.1"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "se ostvaruje uz realizaciju svih ostalih ishoda u 6. razredu."
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": "se ostvaruje uz realizaciju svih ostalih ishoda u 6. razredu."
+    },
+    {
+      "oznaka": "B.6.4",
+      "opis": "Analizira primjere kulturne baštine u BiH te kritički procjenjuje važnost njenog očuvanja."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": "Objašnjava važnost kulturne baštine Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "Procjenjuje odnose elemenata u prostoru kroz funkciju i estetiku na osnovu viđenog."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "Utvrđuje važnost likovnog/vizuelnog izraza kao oblika komunikacije u vlastitome i tuđemu stvaralaštvu."
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "Utvrđuje važnost i ulogu likovne umjetnosti i umjetnika u pojedinim društvima, kulturama, civilizacijama i vremenskim periodima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-3.1.2 UMP-3.1.3 UMP-3.2.1 UMP-3.2.2 UMP-3.3.1 UMP-3.3.3"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "A.7.4"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "B.7.4"
+    },
+    {
+      "oznaka": "B.7.5",
+      "opis": "C Likovna umjetnost u kontekstu i vizuelna komunikacija"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Analizira osnovna izražajna sredstva i principe u vlastitom stvaralaštvu, stvaralaštvu vršnjaka te umjetničkim djelima."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "Istražuje različite likovne medije, tehnike i alate u vlastitom likovnom/vizuelnom izražavanju i umjetničkim djelima."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "Analizira faze radnog (stvaralačkog i istraživačkog) procesa u vlastitom stvaralaštvu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-1.1.2 UMP-1.1.3 UMP-1.2.1 UMP-1.2.3 UMP-1.3.1 UMP-1.3.2 UMP-1.3.3"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "A.7.4",
+      "opis": "Koristi tehničke i izražajne mogućnosti digitalnih medija."
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Koristi vizuelni jezik u vlastitom likovnom i verbalnom izražavanju."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "Istražuje faze stvaralačkog procesa, vizuelnih umjetnosti od ideje do realizacije."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "Kreira vlastite likovne radove inspirisane kulturnom baštinom."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-2.1.2 UMP-2.1.3 UMP-2.2.3 UMP-2.2.1 UMP-2.2.2 UMP-2.3.4 UMP-2.3.5 UMP-2.3.1"
+    },
+    {
+      "oznaka": "B.7.4",
+      "opis": "Donosi kritički sud o kulturno-umjetničkim događajima."
+    },
+    {
+      "oznaka": "B.7.5",
+      "opis": "Analizira umjetnička djela/vlastiti i tuđi stvaralački/istraživački rad donoseći vlastiti kritički stav."
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "Analizira utjecaj vizuelne komunikacije na određene aspekte vlastitog života i života u zajednici."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "Utvrđuje važnost  prostornog oblikovanja okoline i upotrebnih predmeta primjenjujući znanje o primijenjenim umjetnostima i dizajnu."
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "Utvrđuje važnost i ulogu likovne umjetnosti i umjetnika u pojedinim društvima, kulturama, civilizacijama i vremenskim periodima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-3.1.2 UMP-3.1.3 UMP-3.2.1 UMP-3.2.2 UMP-3.2.3 UMP-3.3.1 UMP-3.3.2 UMP-3.3.3"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "A.8.4"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "C Likovna umjetnost u kontekstu i vizuelna komunikacija"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Analizira osnovna izražajna sredstva i principe u vlastitom i tuđem stvaralaštvu te umjetničkim djelima."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Istražuje različite likovne medije, tehnike i alate u vlastitom likovnom/vizuelnom izražavanju i umjetničkim djelima."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "Analizira faze radnog (stvaralačkog i istraživačkog) procesa u vlastitom stvaralaštvu i umjetničkim djelima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-1.1.2 UMP-1.1.3 UMP-1.2.1 UMP-1.2.3 UMP-1.3.1 UMP-1.3.2 UMP-1.3.3"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "A.8.4",
+      "opis": "Koristi tehničke i izražajne mogućnosti"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Procjenjuje likovne principe u svom okruženju."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Analizira faze stvaralačkog procesa i kako različiti konteksti utiču na likovnu umjetnost (stilske karakteristike)."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "Analizira primjere kulturne baštine u BiH te kritički procjenjuje važnost njenog očuvanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-2.1.2 UMP-2.1.3 UMP-2.2.3 UMP-2.2.1 UMP-2.2.2 UMP-2.3.4 UMP-2.3.5 UMP-2.3.1"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "Istražuje uticaj vizuelne komunikacija na neke aspekte vlastitoga života i života u zajednici."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "Utvrđuje važnost  prostornog oblikovanja okoline i upotrebnih predmeta primjenjujući znanje o primijenjenim umjetnostima i dizajnu."
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "Utvrđuje važnost i ulogu likovne umjetnosti i umjetnika u pojedinim društvima, kulturama, civilizacijama i vremenskim periodima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-3.1.2 UMP-3.1.3 UMP-3.2.1 UMP-3.2.2 UMP-3.2.3 UMP-3.3.1 UMP-3.3.2 UMP-3.3.3"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A.9.2"
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "A.9.4"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "B.9.4"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.2"
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "Istražuje osnovna izražajna sredstva i principe u vlastitom i tuđem stvaralaštvu te umjetničkim djelima."
+    },
+    {
+      "oznaka": "A.9.2",
+      "opis": "Istražuje različite likovne medije, tehnike i alate u vlastitom likovnom/vizuelnom izražavanju i umjetničkim djelima."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "Analizira faze radnog (stvaralačkog i istraživačkog) procesa u vlastitom stvaračaštvu i umjetničkim djelima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-1.1.2 UMP-1.1.3 UMP-1.2.1 UMP-1.2.3 UMP-1.3.1 UMP-1.3.2 UMP-1.3.3"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "."
+    },
+    {
+      "oznaka": "A.9.4",
+      "opis": "Koristi tehničke i izražajne mogućnosti digitalnih medija."
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "Funkcije programa za obradu fotografije: promjena kontrasta, formata, rekomponiranje, fotomontaža."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Koristi vizuelni jezik u vlastitom likovnom i verbalnom izražavanju."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "Analizira faze stvaralačkog procesa i kako različiti konteksti utiču na likovnu umjetnost (stilske karakteristike)."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "Analizira primjere kulturne baštine u BiH te kritički procjenjuje važnost njenog očuvanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-2.1.2 UMP-2.1.3 UMP-2.2.4 UMP-2.2.1 UMP-2.2.2 UMP-2.3.4 UMP-2.3.5 UMP-2.3.1"
+    },
+    {
+      "oznaka": "B.9.4",
+      "opis": "Analizira umjetnička djela/vlastiti i tuđi stvaralački/istraživački rad donoseći vlastiti kritički stav."
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "Analizira utjecaj vizuelne komunikacija na određene aspekte vlastitoga života i života u zajednici."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": "Utvrđuje važnost  prostornog oblikovanja okoline i upotrebnih predmeta primjenjujući znanje o primijenjenim umjetnostima i dizajnu."
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "Utvrđuje važnost i ulogu likovne umjetnosti i umjetnika u pojedinim društvima, kulturama, civilizacijama i vremenskim periodima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-3.1.2 UMP-3.1.3 UMP-3.2.1 UMP-3.2.2 UMP-3.2.3 UMP-3.3.1 UMP-3.3.2 UMP-3.3.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-1.1.2 UMP-1.1.3 UMP-1.2.1 UMP-1.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-2.1.2 UMP-2.1.3 UMP-2.2.4 UMP-2.2.1 UMP-2.2.2 UMP-2.3.4 UMP-2.3.5 UMP-2.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "UMP-3.1.2 UMP-3.1.3 UMP-3.2.1 UMP-3.2.2 UMP-3.2.3 UMP-3.3.1 UMP-3.3.2 UMP-3.3.3"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "- Tačka",
+    "linija - vrste linija",
+    "odnos linija - Boja - svijetle i tamne boje - Ploha- elementarna organizacija kompozicije",
+    "popunjavanje dizajn polja - organizovanja cijelog rada",
+    "ponavljanja oblika - primjene ritma",
+    "elementarne forme grafike - Površina - ravno",
+    "neravno",
+    "hrapavo",
+    "glatko - Masa i prostor - kompozicija oblika i prostora",
+    "odnosi veličina u prostoru",
+    "puna plastika Učenik upoznaje i druge likovne pojmove",
+    "ako nastavnik smatra da mu mogu pomoći u realizaciji ideje u određenome zadatku. KLJUČNI SADRŽAJI • crtački: olovka",
+    "olovke u boji",
+    "kreda",
+    "flomasteri u boji za manje formate radova • slikarski: akvarel",
+    "tempere",
+    "pastel",
+    "kolaž papir",
+    "kolaž iz časopisa • prostorno-plastički:plastelin/mase za oblikovnje",
+    "papir",
+    "plastika",
+    "folija",
+    "karton",
+    "ambalaža i drugi materijali • grafičke tehnike: frotaž"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Oblast stvaralaštvo i produkcija podrazumijeva da učenik kroz spontano i usmjereno likovno izražavanje usvaja osnovne likovne pojmove, te koristi likovne tehnike i materijale. Važno je sadržajno i tematsko međupredmetno usklađivanje te vođenje učenika da polazeći od sopstvenog iskustva iznalazi originalna vlastita, kreativna rješenja u prikazivanju: prostora, predmeta u prostoru, događaja i sl.",
+      "Učenik odgovara likovnim i vizuelnim izražavanjem na razne vrste poticaja: vlastiti sadržaji (osjećaji, misli, iskustva, stavovi i vrijednosti), sadržaji likovne i vizuelne umjetnosti, te sadržaji iz svakodnevnoga života i bliže okoline.",
+      "Za ostvarivanje ishoda učenja koristiti: tekstove dječije književnosti, narodne priče, basne, bajke, muzičke sadržaje (kompozicije, brojalice, muzičke igre), prirodu / enterijer, eksterijer, objekte, narodne običaje: praznike, značajne datume, kulturno nasljeđe; vizuelni poticaj: predstave situacija i ljudi, prirode i doživljaja…",
+      "Realizacija likovnih radova u različitim materijalima: izrada maski, čestitki za prigodne datume, pozivnica za školsku izložbu likovnih radove, te korištenjem asamblaž tehike - vajarske tehnike koja podrazumijeva kolažiranje različitih predmeta i stvaranje trodimenzionalne kompozicije od tih predmeta. U asamblažu se spajaju različiti predmeti svakodnevne upotrebe ili njihovi dijelovi. Učenik upoznaje grafičke tehnike kroz jednostavne tehnike kao što je frotaž (grafitnom olovkom/olovkama u boji se trlja po tankom papiru položenom preko reljefnog predmeta tako da se na papiru ističe njegova struktura).",
+      "Kroz ilustrovanje ili oblikovanje usvojiti pojmove prostor i masa, shavatiti da oblici u prostoru oblikuju prostor /raspored građevina oblikuje urbanističku cjelinu (izgled ulice, grada), drveće, klupe, staze u parku (izgled parka i sl.).",
+      "U prva tri razreda osnovne škole naglasak je na upoznavanju tehnika i postupaka kojima se razvijaju fine motoričke vještine (preciznost, usredotočenje, koordinacija prstiju i očiju, sitni pokreti). Nastavnik potiče učenika na korištenje što većeg broja tehnika i postupaka te na istraživanje njihovih"
+    ],
+    "medjupredmetne_korelacije": [
+      "su ostvarive sa: Mojom okolinom (svi programski sadržaji), Muzičkom/Glazbenom kulturom (ilustracije doživljaja slušanog djela - nevizuelni poticaj), Bosanskim jezikom i književnošću, Hrvatskim jezikom i književnošću, Srpskim jezikom i književnošću (ilustracija pročitanih djela: priča, pjesama, basni, rješavanje zagonetki, dovršavanje priča i sl. - nevizuelni poticaj), Matematikom (predmeti i odnosi među predmetima, geometrijska tijela i likovi), Tjelesnim i zdravstvenim odgojem (prostorni odnosi, likovi u pokretu), Informatikom (program za crtanje, fotografija)."
+    ],
+    "kompetencijski_pristup": [
+      "Matematičk"
+    ]
+  }
+}

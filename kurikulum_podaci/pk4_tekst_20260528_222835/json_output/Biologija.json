@@ -1,0 +1,817 @@
+{
+  "predmet": "Biologija",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "6"
+  },
+  "tematske_cjeline": [
+    "A Zemlja - prostor života (Uvod u biologiju)",
+    "A Zemlja - prostor života (Opća ekologija - nivoi ekološke integracije i ekološki faktori)",
+    "C Struktura i fiziologija organizama, pretvaranje materije i energije (Održivi razvoj)",
+    "D Čovjek, Biološko i društveno biće (Čovjek i zdravlje)",
+    "B Povezanost, struktura i funkcija živih bića (Citologija i histologija biljaka)",
+    "B Povezanost, struktura i funkcija živih bića (Građa i funkcija biljaka)",
+    "A Zemlja - prostor života. D Čovjek, biološko i društveno biće (Uvod u biosistematiku)",
+    "A Zemlja - prostor života. D Čovjek, biološko i društveno biće (Uvod u biosistematiku)",
+    "B Povezanost, struktura i funkcija živih bića (Citologija i histologija životinja)",
+    "A Zemlja - prostor života. C Struktura i fiziologija organizama, pretvaranje materije i energije (Biosistematika životinja sa općom evolucijom)",
+    "A Zemlja - prostor života (Životne zajednice)",
+    "A Zemlja - prostor života. C Struktura i fiziologija organizama, pretvaranje materije i energije (Biosistematika životinja sa općom evolucijom)",
+    "D Čovjek, biološko i kulturno biće (Citologija i histologija čovjeka)",
+    "D Čovjek, biološko i društveno biće (Genetika)",
+    "D Čovjek, biološko i društveno biće (Sastav čovječijeg tijela sa antropogenezom)",
+    "B Povezanost struktura i funkcija živih bića. C Struktura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Molekularna biologija)",
+    "B Povezanost struktura i funkcija živih bića. C Struktura i fiziologija organizama, pretvaranje materije i energije (Citologija)",
+    "D Čovjek, biološko i društveno biće (Genetika)",
+    "B Povezanost struktura i funkcija živih bića. C Struktura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Molekularna biologija)",
+    "B Povezanost struktura i funkcija živih bića. C Struktura i fiziologija organizama, pretvaranje materije i energije (Citologija)",
+    "B Povezanost struktura i funkcija živih bića. C Struktura i fiziologija organizama, pretvaranje materije i energije (Anatomija, morfologija, histologija i fiziologija biljaka)",
+    "A Zemlja - prostor života. D Čovjek, biološko i društveno biće (Biosistematika mikroorganizama, gljiva i biljaka)",
+    "B Povezanost struktura i funkcija živih bića. C Struktura i fiziologija organizama, pretvaranje materije i energije (Anatomija, morfologija, histologija i fiziologija biljaka)",
+    "A Zemlja - prostor života. D Čovjek, biološko i društveno biće (Biosistematika mikroorganizama, gljiva i biljaka)",
+    "B Povezanost struktura i funkcija živih bića. D Čovjek, biološko i društveno biće (Fiziologija, histologija, morfologija i anatomija životinja i čovjeka)",
+    "A Zemlja - prostor života. D Čovjek, biološko i društveno biće (Biosistematika životinja)",
+    "B Povezanost struktura i funkcija živih bića. D Čovjek, biološko i društveno biće (Fiziologija, histologija, morfologija i anatomija životinja i čovjeka)",
+    "A Zemlja - prostor života. D Čovjek, biološko i društveno biće (Biosistematika životinja)",
+    "A Zemlja - prostor života (Ekologija)",
+    "A Zemlja prostor života (Evolucija)",
+    "D Čovjek, biološko i društveno biće (Genetički inžinjering i biotehnologija)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Molekularna biologija i osnove citologije)",
+    "D Čovjek, biološko i društveno biće (Genetika)",
+    "A Zemlja prostor života (Evolucija)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Molekularna biologija i osnove citologije)",
+    "D Čovjek, biološko i društveno biće (Genetika)",
+    "A Zemlja prostor života (Evolucija)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije (Anatomija, morfologija, histologija i fiziologija biljaka)",
+    "B Povezanost struktura i funkcija živih bića. D Čovjek, biološko i društveno biće (Fiziologija, histologija, morfologija i anatomija životinja i čovjeka)",
+    "A Zemlja prostor života (Ekologija)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije (Anatomija, morfologija, histologija i fiziologija biljaka)",
+    "B Povezanost struktura i funkcija živih bića. D Čovjek, biološko i društveno biće (Fiziologija, histologija, morfologija i anatomija životinja i čovjeka)",
+    "A Zemlja prostor života (Ekologija)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Biosistematika mikroorganizama, gljiva i biljaka)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Biosistematika životinja)",
+    "D Čovjek, biološko i društveno biće (Genetičko inžinjerstvo i biotehnologija)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Biosistematika mikroorganizama, gljiva i biljaka)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Biosistematika životinja)",
+    "D Čovjek, biološko i društveno biće (Genetičko inžinjerstvo i biotehnologija)",
+    "B Povezanost struktura i funkcija živih bića. D Čovjek, biološko i društveno biće (Fiziologija, histologija, morfologija i anatomija čovjeka)",
+    "D Čovjek, biološko i društveno biće (Humana genetika)",
+    "B Povezanost struktura i funkcija živih bića. D Čovjek, biološko i društveno biće (Fiziologija, histologija, morfologija i anatomija čovjeka)",
+    "D Čovjek, biološko i društveno biće (Humana genetika)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Molekularna biologija i osnove citologije)",
+    "D Čovjek, biološko i društveno biće (Genetika)",
+    "B Povezanost struktura i funkcija živih bića. D Čovjek, biološko i društveno biće ()Fiziologija čovjeka",
+    "A Zemlja prostor života (Ekologija i zaštita životne sredine)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Molekularna biologija i osnove citologije)",
+    "D Čovjek, biološko i društveno biće (Genetika)",
+    "B Povezanost struktura i funkcija živih bića. D Čovjek, biološko i društveno biće ()Fiziologija čovjeka",
+    "A Zemlja prostor života (Ekologija i zaštita životne sredine)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Molekularna biologija i osnove citologije)",
+    "D Čovjek, biološko i društveno biće (Genetika)",
+    "A Zemlja prostor života (Evolucija)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Molekularna biologija i osnove citologije)",
+    "D Čovjek, biološko i društveno biće (Genetika)",
+    "A Zemlja prostor života (Evolucija)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije (Anatomija, morfologija, histologija i fiziologija biljaka)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Fiziologija, histologija, morfologija i anatomija životinja i čovjeka)",
+    "A Zemlja prostor života (Ekologija)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije (Anatomija, morfologija, histologija i fiziologija biljaka)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Fiziologija, histologija, morfologija i anatomija životinja i čovjeka)",
+    "A Zemlja prostor života (Ekologija)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Biosistematika mikroorganizama, gljiva i biljaka)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Biosistematika životinja)",
+    "D Čovjek, biološko i društveno biće (Genetičko inžinjerstvo i biotehnologija)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Biosistematika mikroorganizama, gljiva i biljaka)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Biosistematika životinja)",
+    "D Čovjek, biološko i društveno biće (Genetičko inžinjerstvo i biotehnologija)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Antropologija)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Antropologija)",
+    "A Zemlja prostor života (Ekologija i zaštita životne sredine)",
+    "B Povezanost struktura i funkcija živih bića. D Čovjek, biološko i društveno biće (Fiziologija rada)",
+    "A Zemlja prostor života (Ekologija i zaštita životne sredine)",
+    "B Povezanost struktura i funkcija živih bića. D Čovjek, biološko i društveno biće (Fiziologija rada)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Molekularna biologija i osnove citologije)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije (Anatomija, morfologija, histologija i fiziologija biljaka)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Biosistematika)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije. D Čovjek, biološko i društveno biće (Molekularna biologija i osnove citologije)",
+    "B Povezanost struktura i funkcija živih bića. C Strukura i fiziologija organizama, pretvaranje materije i energije (Anatomija, morfologija, histologija i fiziologija biljaka)",
+    "A Zemlja prostor života. D Čovjek, biološko i društveno biće (Biosistematika)"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "A Zemlja - prostor života (Opća ekologija - nivoi ekološke integracije i ekološki faktori)"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "A.6.4"
+    },
+    {
+      "oznaka": "A.6.5",
+      "opis": "C Struktura i fiziologija organizama, pretvaranje materije i energije (Održivi razvoj)"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "D Čovjek, Biološko i društveno biće (Čovjek i zdravlje)"
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": "D.6.2"
+    },
+    {
+      "oznaka": "D.6.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "Procjenjuje značaj biologije i naučnih metoda u svakodnevnom životu i njenu povezanost sa naukom, tehnologijom i društvom."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "Istražuje o značaju i dostignućima biologije."
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "Izvodi praktične vježbe o značaju i dostignućima biologije."
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "Razlikuje nivoe ekološke integracije i procjenjuje utjecaj prostora i faktora  prostora na organizam (klima, reljef, nadmorska visina…)."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "Objašnjava osobine zraka, vode i tla na temelju istraživanja u vlastitom okruženju."
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "Procjenjuje utjecaj čovjeka na životnu sredinu."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "BIO-1.2.2 BIO-1.3.3"
+    },
+    {
+      "oznaka": "A.6.4",
+      "opis": "Istražuje o uzrocima i posljedicama zagađenja zraka, vode i tla."
+    },
+    {
+      "oznaka": "A.6.5",
+      "opis": "Izvodi praktične vježbe o uzrocima i posljedicama zagađenja zraka, vode i tla."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "BIO-1.4.4"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "Objašnjava važnost obnovljivih i neobnovljivih izvora energije, analizirajući posljedice neracionalnog korištenja prirodnih energetskih resursa za održivi razvoj."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "Istražuje o održivom razvoju."
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "Izvodi praktične vježbe o održivom razvoju."
+    },
+    {
+      "oznaka": ".3.5",
+      "opis": "BIO-1.3.5 BIO-1.4.3"
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": "Razlikuje elemente zdravog i nezdravog načina života, procjenjujući vlastite životne navike."
+    },
+    {
+      "oznaka": "D.6.2",
+      "opis": "Istražuje o unapređivanju i očuvanju zdravlja čovjeka."
+    },
+    {
+      "oznaka": "D.6.3",
+      "opis": "Izvodi praktične vježbe za unapređenje i očuvanje ljudskog zdravlja."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "BIO-4.4.3 BIO-4.4.4"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "B Povezanost, struktura i funkcija živih bića (Građa i funkcija biljaka)"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "B.7.4"
+    },
+    {
+      "oznaka": ".7.1",
+      "opis": ".7.2"
+    },
+    {
+      "oznaka": ".7.3",
+      "opis": ".7.4"
+    },
+    {
+      "oznaka": ".7.5",
+      "opis": ".7.6"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Objašnjava da su biljke građene od ćelija koje obavljaju životne funkcije i razmnožavaju se."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "Provodi istraživanje o citologiji i histologiji biljaka."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "Izvodi praktične vježbe iz citologije i histologije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-2.4.1 BIO-2.4.4"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Procjenjuje organizaciju i nivoe organizacije građe biljnih organizama."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "Upoređuje proces fotosinteze s procesom disanja živih bića."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "Istražuje o građi i funkciji biljaka."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-2.1.2 BIO-2.4.1"
+    },
+    {
+      "oznaka": "B.7.4",
+      "opis": "Izvodi praktične vježbe o građi i funkciji biljaka."
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Istražuje građu biljnih ćelija i tkiva koristeći optički mikroskop, uz primjenu pravila mikroskopiranja."
+    },
+    {
+      "oznaka": ".7.1",
+      "opis": "Procjenjuje važnost biodiverziteta u svrhu njegovog očuvanja."
+    },
+    {
+      "oznaka": ".7.2",
+      "opis": "Razvrstava po biosistematskim  kategorijama predstavnike žive prirode."
+    },
+    {
+      "oznaka": ".7.3",
+      "opis": "Procjenjuje važnost ugroženih, endemičnih i rijetkih biljnih organizama u Bosni i Hercegovini u cilju njihove zaštite."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "BIO-1.1.3 BIO-1.3.4"
+    },
+    {
+      "oznaka": ".7.4",
+      "opis": "D. Provodi mjere prevencije u cilju očuvanja vlastitog zdravlja."
+    },
+    {
+      "oznaka": ".7.5",
+      "opis": "Istražuje o biosistematici."
+    },
+    {
+      "oznaka": ".7.6",
+      "opis": "Izvodi praktične vježbe iz biosistematike."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "BIO-1.1.3 BIO-1.4.4"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "B.8.4"
+    },
+    {
+      "oznaka": ".8.1",
+      "opis": ".8.2"
+    },
+    {
+      "oznaka": ".8.3",
+      "opis": ".8.4"
+    },
+    {
+      "oznaka": ".8.5",
+      "opis": ".8.6"
+    },
+    {
+      "oznaka": ".8.7",
+      "opis": "A Zemlja - prostor života (Životne zajednice)"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "A.8.4"
+    },
+    {
+      "oznaka": "A.8.5",
+      "opis": "B"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Procjenjuje organizaciju i nivoe organizacije životinjskog organizma."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Istražuje građu i funkciju životinjske ćelije i tkiva i razlikuje ćelijske diobe."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "Istražuje o citologiji i histologiji životinja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-2.1.2 BIO-2.4.2"
+    },
+    {
+      "oznaka": "B.8.4",
+      "opis": "Izvodi praktične vježbe iz citologije i histologije životinja."
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Izvodi praktične vježbe o strukturi životinjskih ćelija i tkiva koristeći optički mikroskop."
+    },
+    {
+      "oznaka": ".8.1",
+      "opis": "Razvrstava po kategorijama predstavnike životinjskih organizama."
+    },
+    {
+      "oznaka": ".8.2",
+      "opis": "Povezuje građu i funkciju organa i organskih sistema kod životinja."
+    },
+    {
+      "oznaka": ".8.3",
+      "opis": "Procjenjuje važnost ugroženih, endemičnih i rijetkih životinjskih organizama u BiH u cilju njihove zaštite."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "BIO-3.1.3"
+    },
+    {
+      "oznaka": ".8.4",
+      "opis": "Istražuje evolutivne procese u promjenjivim životnim uvjetima Zemlje, od njenog nastanka do danas."
+    },
+    {
+      "oznaka": ".8.5",
+      "opis": "Provodi mjere prevencije u cilju očuvanja vlastitog zdravlja."
+    },
+    {
+      "oznaka": ".8.6",
+      "opis": "Istražuje o biosistematici životinja i evoluciji."
+    },
+    {
+      "oznaka": ".2.4",
+      "opis": "BIO-4.3.1 BIO-1.4.3"
+    },
+    {
+      "oznaka": ".8.7",
+      "opis": "Izvodi praktične vježbe o biosistematici životinja i evoluciji."
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Izvodi praktične vježbe i eksperimente koje se odnose na biosistematiku životinja i evoluciju (npr. disekcija ribe) primjenjujući mjere opreza."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Istražuje tipične ekosisteme u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Istražuje funkcionalne promjene u životnoj zajednici."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "Procjenjuje važnost očuvanja prirode radi održivosti biodiverziteta."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "BIO-1.2.5 BIO-1.3.2"
+    },
+    {
+      "oznaka": "A.8.4",
+      "opis": "Istražuje  o životnim zajednicama."
+    },
+    {
+      "oznaka": "A.8.5",
+      "opis": "Izvodi praktične vježbe o životnim zajednicama."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "BIO-1.4.4"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "D Čovjek, biološko i društveno biće (Genetika)"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "D.9.4"
+    },
+    {
+      "oznaka": "D.9.5",
+      "opis": "D Čovjek, biološko i društveno biće (Sastav čovječijeg tijela sa antropogenezom)"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "D.9.4"
+    },
+    {
+      "oznaka": "D.9.5",
+      "opis": "D"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Istražuje građu i funkciju ljudskih ćelija i tkiva i razlikuje ćelijske diobe."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Istražuje o citologiji i histologiji čovjeka."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "Izvodi praktične vježbe iz citologije i histologije čovjeka."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-4.4.1 BIO-4.4.4"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Objašnjava građu i funkciju nasljednog materijala (DNK, RNK, hromozom, gen), objašnjavajući zakonitosti nasljeđivanja osobina."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Razlikuje mutacije od modifikacija, procjenjujući značaj genetike za ljudski život."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "Provodi mjere prevencije u cilju očuvanja vlastitog zdravlja."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "BIO-4.2.3 BIO-4.3.1"
+    },
+    {
+      "oznaka": "D.9.4",
+      "opis": "Istražuje o genetici, genetičkom inženjeringu i biotehnologiji."
+    },
+    {
+      "oznaka": "D.9.5",
+      "opis": "Izvodi praktične vježbe iz genetike i genetičkog inženjeringa i biotehnologije."
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "BIO-4.4.4"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Povezuje građu sa funkcijom organa i organskih sistema čovjeka."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Istražuje filogeniju razvoja čovjeka."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "Provodi mjere prevencije u cilju očuvanja vlastitog zdravlja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-4.2.5 BIO-4.3.2"
+    },
+    {
+      "oznaka": "D.9.4",
+      "opis": "Istražuje o sastavu ljudskog tijela i antropogenezi."
+    },
+    {
+      "oznaka": "D.9.5",
+      "opis": "Izvodi praktične vježbe o sastavu ljudskog tijela i antropogenezi."
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "BIO-4.4.4"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-3.1.1 BIO-3.1.1"
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "BIO-4.4.4"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-2.1.3 BIO-3.1.2"
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "BIO-2.4.4"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "BIO-4.2.1 BIO-4.4.2"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Koristi laboratorijsku opremu primjenjujući pravila korištenja opreme u laboratoriji u cilju istraživanja genetike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-3.1.2 BIO-3.2.2"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "BIO-2.4.4"
+    },
+    {
+      "oznaka": ".3.4",
+      "opis": "BIO-4.3.1 BIO-1.4.1"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Izrađuju tabelarni prikaz podataka dobijenih istraživanjem evolutivnog usložnjavanja plana građe biljaka."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-2.1.4 BIO-4.3.2"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "BIO-2.4.4"
+    },
+    {
+      "oznaka": ".3.4",
+      "opis": "BIO-4.3.1 BIO-1.4.1"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Izvodi eksperimente primjenjujući mjere opreza prilikom izvođenja praktičnih radova iz oblasti biosistematike životinja."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "BIO-1.3.5"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Koristi zakonom definirane mjere zaštite u svojoj okolini, u okviru multidisciplinarnih projekata zaštite okoliša."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "BIO-1.2.4 BIO-1.4.2"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Koristi IKT za istraživanje prirodne selekcije kako bi stekao predstavu o evoluciji."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-2.1.2 BIO-3.2.2"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "BIO-2.1.3 BIO-4.1.2 BIO-3.1.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "BIO-4.2.1"
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "BIO-1.2.4 BIO-3.4.1 BIO-4.4.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "BIO-1.4.4"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-3.1.2"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Koristi laboratorijsku opremu primjenjujući pravila korištenja opreme u laboratoriji u cilju istraživanja fiziologije, histologije, anatomije i morfologije biljaka."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-4.3.2"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Koristi laboratorijsku opremu primjenjujući pravila korištenja opreme u laboratoriji u cilju istraživanja fiziologije, histologije, anatomije i morfologije životinja."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "BIO-1.4.1 BIO-1.4.2"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "BIO-1.3.4 BIO-4.3.1"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "BIO-1.4.4"
+    },
+    {
+      "oznaka": ".3.4",
+      "opis": "BIO-4.3.1 BIO-1.4.1"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Postavlja hipotezu za istraživanja iz oblasti biosistematike životinja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-2.1.4 BIO-4.3.2"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "BIO-4.4.4"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "BIO-4.2.1 BIO-4.4.2"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "BIO-4.4.2"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-2.1.3"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "BIO-4.2.1"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-4.3.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "BIO-1.3.5"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Koristi laboratorijsku opremu i izvodi eksperimente u laboratoriju u cilju istraživanja biologije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-2.1.2 BIO-3.2.2"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "BIO-2.1.3 BIO-4.1.2 BIO-3.1.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "BIO-4.2.1"
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "BIO-1.2.4 BIO-1.4.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "BIO-1.4.4"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-3.1.2 BIO-2.4.4"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-2.1.1 BIO-2.1.2 BIO-2.1.4"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "BIO-2.4.4"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "BIO-1.3.5 BIO-1.4.4"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "BIO-1.4.2 BIO-1.4.3"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "BIO-1.3.4 BIO-4.3.1"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Izrađuju tabelarni prikaz podataka dobivenih istraživanjem evolutivnog usložnjavanja plana građe biljaka."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-1.2.1"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "BIO-1.3.3 BIO-1.2.4 BIO-4.4.4"
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "BIO-4.4.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "BIO-1.3.5"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-2.1.4 BIO-4.3.2"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Postavlja hipotezu u cilju istraživanja o biologiji."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "BIO-2.1.2 BIO-2.1.3"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Objašnjava nespolni način raznožavanja biljaka i životinja sa stanovišta nasljednog materijala."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-3.1.2 BIO-2.4.4"
+    },
+    {
+      "oznaka": ".3.4",
+      "opis": "BIO-4.3.1 BIO-1.4.4"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Uvod u biologiju",
+    "podjela biologije prema problemu i predmetu proučavanja",
+    "značaj biologije",
+    "metode istraživanja u biologiji."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Tematskom cjelinom, Uvod u biologiju, započinje izučavanje nastavnog predmeta Biologija. Nastavnik/ca na samom početku procjenjuje nivo ranije stečenih znanja kod učenika/ca i svoj rad prilagođava ostvarivanju postavljenih ishoda.",
+      "Prilikom izučavanja podjele biologije prema problemu istraživanja, iskustvo pokazuje da učenici najteže razumiju probleme istraživanja ekologije i antropologije. Da bismo učenicima približili ove grane biologije, potrebno im je navesti više jednostavnih primjera u kojima su predstavljeni problemi izučavanja ovih nauka. Ako u odjeljenju postoje učenici koji su posebno zainteresirani za ove teme, nastavnik/ca ih može uputiti da naprave prezentaciju, pano ili istraživanje o temi npr. velika antropološka otkrića, ekološka otkrića i sl. S obzirom na to da naučne metode imaju tačno određene korake, vrlo je važno da nastavnik/ca objasni svaki korak na više primjera. Ako učenici ne usvoje na pravilan način sve korake u naučnoj metodi, formiraju mišljenje da svaki naučni metod podrazumijeva eksperiment (miskoncepcija). Zato je potrebno navesti što više očiglednih primjera naučnih otkrića do kojih se došlo bez eksperimenta (otkrivanje novih vrsta organizama, praćenje brojnosti populacije…).",
+      "S obzirom na to da je biologija eksperimentalna nauka, podrazumijeva se izvođenje praktičnih vježbi i eksperimenata kada god je to moguće. Učenike treba upoznati s pravilima ponašanja u kabinetu biologije, sa sigurnosnim mjerama prilikom izvođenja eksperimenta i osnovnom namjenom laboratorijskog posuđa i pribora.",
+      "Poticati učenike na izradu učeničkih projekata, kao što su: istraživanje utjecaja prehrambenih navika na fizičko stanje ispitanika/ca; praćenje sezonskih promjena odabranih vrsta na određenim staništima; istraživanje utjecaja ekoloških faktora na različite vrste; istraživanje učinkovitosti sredstava za higijenu. Različita biološka dostignuća povezati sa razvojem tehnologije i njenom primjenom u svakodnevnom životu.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      "Na uvodnim časovima nastave Biologije, učenici se upoznaju i sa analizom podataka, koji su dobijeni jednostavnim istraživanjima učenika/ca, te diskusijom i načinima prezentacije dobijenih rezultata. Učenike treba upoznati s tim da određeni izvori informacija na internetu nisu pouzdani, te da trebaju koristiti relevantne internetske stranice. Analiziranjem i prikupljanjem podataka za jednostavna istraživanja učenici koriste znanja i vještine stečene nastavom iz Matematike i Informatike.",
+      "U ovom dijelu potaći učenike na kritičko razmišljanje, kroz rasprave i verbalno prezentiranje dobijenih rezultata. U okviru prikupljanja informacija o dostignućima iz oblasti biologije kao nauke sadržaje povezati sa gradivom iz Historije.",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Poštujuć"
+    ]
+  }
+}

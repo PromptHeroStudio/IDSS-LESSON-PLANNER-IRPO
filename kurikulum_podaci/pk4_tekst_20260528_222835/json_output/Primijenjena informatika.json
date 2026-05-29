@@ -1,0 +1,40 @@
+{
+  "predmet": "Primijenjena informatika",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "II"
+  },
+  "tematske_cjeline": [
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "C Digitalno društvo"
+  ],
+  "ishodi": [
+    {
+      "oznaka": ".4.1",
+      "opis": "TIT-3.4.3"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "TIT-5.2.2 TIT-5.2.4"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Referenciranje sadržaja",
+    "Tabelarni prikaz podataka",
+    "Obrada podataka",
+    "Grafikon KLJUČNI SADRŽAJI Ekspozicija",
+    "Histogram slike",
+    "Filter",
+    "Retuširanje",
+    "Sloj slike",
+    "Maska",
+    "Rekolorizacija",
+    "Restauracija"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [],
+    "medjupredmetne_korelacije": [],
+    "kompetencijski_pristup": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "predmet": "Nacrtna geometrija",
+  "razred_info": null,
+  "tematske_cjeline": [
+    "A STEREOMETRIJA",
+    "B GEOMETRIJSKE KONSTRUKCIJE",
+    "C PROJICIRANJE",
+    "D VIDLJIVOST"
+  ],
+  "ishodi": [
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.1.2"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "MTP-3.1.3 MTP-3.1.3"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Razlikuje vidljive od nevidljivih bočnih ivica geometrijskih tijela u različitim vrstama projekcija u zavisnosti od smjera i ugla projiciranja."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "Rotira tačku, duž, pravu i različite geometrijske figure oko fiksne tačke za dati orijentisani ugao i oko ose normalne na ravan projekcije."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Slobodna paralelna projekcija",
+    "Polke-Švarcova teorema",
+    "Primjeri crteža prostornih geometrijskih figura",
+    "Kosa projekcija geometrijskih figura",
+    "Geometrijska tijela u specijalnim položajima: Prizma i piramida",
+    "Valjak i kupa",
+    "Sfera."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Dosadašnja znanja o geometrijskim tijelima i elementima prostora se proširuju. Sve što se radi treba biti popraćeno odgovarajućim skicama i pravilnom upotrebom termina. Fokus se stavlja na svojstva geometrijskih tijela i međusobni odnos geometrijskih figura u prostoru. Zadaci ne zahtijevaju izračunavanje površina i volumena, ali traže znanja o odnosima i međusobnim ovisnostima elemenata geometrijskih tijela u prostoru.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      "Matematika – Nacrtna geometrija razmatra stereometrijske probleme konstruktivno-geometrijskom metodom, a stereometrijski problem je svakako matematički problem, tako da je povezanost neupitna. Takođe se može povezati sa zadacima minimuma i maksimuma u matematičkoj analizi.",
+      "Informatika – Stereometrijski problemi su veoma pogodni za primjenu IKT-a, jer se mogu vizalizirati u nekom programu dinamičke geometrije kao što je GeoGebra, Robocompass, Tinkercad i slično.",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Ko"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "predmet": "Osnovi sportske pripreme",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "II"
+  },
+  "tematske_cjeline": [
+    "A OSNOVE SPORTSKE PRIPREME",
+    "B TEORIJA SPORTSKOG TRENINGA",
+    "C TJELESNO VJEŽBANJE",
+    "A OSNOVE SPORTSKE PRIPREME",
+    "B TEORIJA SPORTSKOG TRENINGA",
+    "C TJELESNO VJEŽBANJE"
+  ],
+  "ishodi": [],
+  "kljucni_sadrzaji": [
+    "Morfološke karakteristike",
+    "funkcionalne sposobnosti",
+    "motoričke sposobnosti (snaga",
+    "brzina",
+    "izdržljivost",
+    "kooridnacija",
+    "ravnoteža",
+    "preciznost)",
+    "mjerenja (inicijalno",
+    "tranzitivno i finalno)."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Učenici koriste mjerne instrumente. Prate rezultate mjerenja i testiranja na početku i kraju školske godine koja se nalaze u ličnom kartonu učenika ili odgovarajućem softveru za pohranu podataka, a sve u svrhu praćenja vlastitog rasta i razvoja. Prepoznaju motoričke sposobnosti: snaga, brzina, izdržljivost, fleksibilnost, koordinacija te kroz rad u grupama primjenjuju tjelesne aktivnosti koje unapređuju razvoj navedenih motoričkih sposobnosti. Na osnovu demonstiranih vježbi za pravilno držanje tijela i prihvataju navike redovnog vježbanja. učenici se koriste različitim zadacima, pomagalima i rekvizitima kako bi došli do izvedbe određenih motoričkih znanja iz pojedinačnih i grupnih sportova."
+    ],
+    "medjupredmetne_korelacije": [
+      "Međupredmetna povezanost sa predmetom Informatika učenici prave prezentacije, planove i programe. Povezanost sa Higijenom sporta i Sportom kroz izradu planova ishrane itd. Povezanost s Matematikom očituje se ne samo u brojanju, već i u prepoznavanju i imenovanju jedinica za mjerenje (masa, visina). Povezanost sa Biologijomočigledna je u procesu širenja znanja o utjecaju hranljivih materija na funkcioniranje tijela prije, tokom i nakon vježbanja, određivanje dnevnih potreba za hranljivim materijama."
+    ],
+    "kompetencijski_pristup": [
+      "Tjelesn"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "predmet": "Programiranje",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "I"
+  },
+  "tematske_cjeline": [
+    "A Algoritmi",
+    "B Reprezentacija i obrada podataka",
+    "C Kontrola toka i komunikacija",
+    "A Algoritmi",
+    "B Reprezentacija i obrada podataka",
+    "C Kontrola toka i komunikacija",
+    "A Algoritmi",
+    "B Reprezentacija i obrada podataka",
+    "C Kontrola toka i komunikacija",
+    "A Algoritmi",
+    "B Reprezentacija i obrada podataka",
+    "C Kontrola toka i komunikacija"
+  ],
+  "ishodi": [
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-4.1.2 TIT-4.1.3 TIT-4.2.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "TIT-4.2.1 TIT-4.2.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "TIT-4.2.1 TIT-4.2.1 TIT-4.2.1 TIT-4.2.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "TIT-4.2.2"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Algoritam i algoritmizacija",
+    "Pseudokod",
+    "Dijagram toka KLJUČNI SADRŽAJI Brojač",
+    "Sumacioni obrazac",
+    "Iscrtavanje uzoraka",
+    "Animiranje sadržaja"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Kako bi mogli usvojiti koncepte objektno orijentisanog programiranja učenici prvo trebaju kroz obilan fond sati proći objektno zasnovano programiranje, te i jedan i drugi koncept obraditi kroz iscrpne primjere i uvježbavanje. Klase koje se obrađuju kao primjeri trebaju biti raznolike i postupno evoluirati od klasa sa atributima bazičnih tipova, preko klasa sa nizovima kao atributima, te na kraju do klasa sa pokazivačima kao atributima.",
+      "Generičko programiranje klasa nastavlja se na gradivo drugog razreda u kojem su učenici obradili generičke funkcije, pa se prije obrade novog gradiva, treba prisjetiti onog prethodnog, te iz njega graditi dalje."
+    ],
+    "medjupredmetne_korelacije": [
+      "Algoritmizacija rješenja učenicima je već od ranije poznat koncept, iako ne još uvijek uobličen, kroz matematiku i prirodne nauke (fizika, hemija, biologija), te se stoga kroz ove već poznate primjere učenicima najbolje mogu približiti formalne definicije i postupci ove oblasti."
+    ],
+    "kompetencijski_pristup": [
+      "Matematičk"
+    ]
+  }
+}

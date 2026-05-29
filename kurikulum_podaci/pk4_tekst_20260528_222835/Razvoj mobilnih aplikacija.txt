@@ -1,0 +1,134 @@
+PREDMET: Razvoj mobilnih aplikacija
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Razvoj%20mobilnih%20aplikacija
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Razvoj mobilnih aplikacija
+Razvoj mobilnih aplikacija - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Srednje
+IV
+Godine učenja i podučavanja predmeta: 1
+A Informacione i komunikacione tehnologije
+A.IV.1
+A.IV.2
+B Rješavanje problema primjenom informacione tehnologije
+B.IV.1
+B.IV.2
+B.IV.3
+C Upravljanje razvojem mobilnih aplikacija
+C.IV.1
+C.IV.2
+C.IV.3
+A
+Informacione i komunikacione tehnologije
+A.IV.1
+Analizirakomponente okruženja za rad na mobilnim uređajima.
+A.IV.2
+Primjenjuje principe i metodologije razvoja softverskih rješenja na projektima mobilnih aplikacija.
+A.IV.1.1 Objašnjava primjenu operativnih sistema alata u kreiranju mobilnih aplikacija.
+A.IV.1.2 Raščlanjuje strukturu mobilne aplikacije i strukturne fajlove koji su bitni za razvoj i ispravan rad aplikacije.
+A.IV.1.3 Procjenjuje uticaj ograničenja hardvera i softvera mobilnog uređaja na performanse aplikacije
+  A.IV.2.1 Izrađuje konceptualni model i specifikaciju mobilne aplikacije prema zadatim zahtjevima i standardima.
+A.IV.2.2 Koristi alate za praćenje grešaka i optimizaciju koda, analizirajući problematične dijelove aplikacije.
+KLJUČNI SADRŽAJI
+Operativni sistemi za mobilne uređaje, Okruženja za razvoj mobilnih aplikacija, Višeplatformski razvoj
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Nastava u ovoj oblasti treba biti organizovana tako da učenici kroz istraživački i praktični rad upoznaju komponente okruženja za rad na mobilnim uređajima te principe i metodologije razvoja softverskih rješenja. Kroz demonstracije nastavnika i vođene vježbe, učenici imaju priliku da upoznaju strukturu mobilnih aplikacija, razumiju ulogu i funkciju pojedinih strukturnih fajlova, te sagledaju kako oni međusobno utiču na stabilnost i funkcionalnost aplikacije. U radu na projektnim zadacima primjenjuju standarde i metodologije razvoja, kreiraju modele i specifikacije aplikacija prema unaprijed definisanim zahtjevima. Rad u laboratorijskim uslovima podrazumijeva i korištenje alata za praćenje grešaka i optimizaciju koda, pri čemu se učenici usmjeravaju na analizu i rješavanje uočenih problema. Ovakav pristup omogućava kombinaciju teorijskog znanja i praktične primjene, uz razvoj vještina neophodnih za samostalni i timski rad u realnim projektima.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Ova oblast je u direktnoj vezi sa nastavnim predmetima Matematika, Fizika i Programiranje, a u indirektnoj sa jezicima i sportom (kroz pravila i hijerarhije izvođenja procesa), te sa Psihologijom i Sociologijom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene (dekodiranje, tumačenje i razlikovanje) raznih vrsta prikazivanja matematičkih elemenata, fenomena i situacija; odabir i zamjena načina prikazivanja ako i kada je to potrebno.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti.
+B
+Rješavanje problema primjenom informacione tehnologije
+
+B.IV.1
+Programira koristeći jezik za aplikativni razvoj.
+B.IV.2
+Izrađuje mobilne aplikacije u specijalnom okruženju za razvoj.
+B.IV.3
+Konstruiše fleksibilno multifunkcionalno korisničko grafičko sučelje.
+B.IV.1.1 Objašnjava gotove programske kodove jezika za aplikativni razvoj. 
+B.IV.1.2 Primjenjuje tipove podataka, funkcije i objekte u izradi novih rješenja.
+B.IV.1.3 Implementira jednostavne korisničke komponente i interakcije u grafičkom sučelju.
+B.IV.2.1 Upotrebljava okruženje za razvoj mobilnih aplikacija.
+B.IV.2.2 Primjenjuje emulatore za prikaz aplikacije.
+B.IV.2.3 Implementira program u okruženju za razvoj mobilnih aplikacija za primjenu na mobilnim uređajima.
+B.IV.3.1 Koristi ugrađene objekte i predloške okruženja za razvoj.
+B.IV.3.2 Implementira ulazne kontorole i događaje koji omogućavaju interakciju korisnika s korisničkim sučeljem.
+B.IV.3.3 Odabire odgovarajući izgled prozora prilikom kreiranja mobilne aplikacije u skladu sa dobrim praksama razvoja fleksibilnog korisničkog sučelja.
+B.IV.3.4 Kombinuje raznovrsne predloške, kontrole i događaje pri izradi fleksibilnog korisničkog sučelja.
+KLJUČNI SADRŽAJI
+Programski jezik za aplikativni razvoj , Podatak, Funkcija, Objekat, Korisničko grafičko sučelje, Okruženje za razvoj mobilnih aplikacija, Izrada programskog projekta, Emulator, Sučelje, Objekat prozora, Predložak, Ulazne kontrole, Ulazni događaj, Izlazni događaj, Fleksibilni izgled prozora 
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+U ovoj oblasti, učenici trebaju ovladati korištenjem programskog jezika za aplikativni razvoj kao što su npr. Java, C# ili Kotlin. Ovdje je najoptimalnije povući paralelu sa pojmovima objektno orijentisanog programiranja, koje su učenici kroz ranije razrede usvojili na nastavnom predmetu Programiranje, te tako proći kroz tipove podataka, objekata i funkcionalnosti u odabranom programskom jeziku.
+Kako bi aplikativno programiranje podigli i na nivo mobilnih aplikacija učenici trebaju naučiti raditi u jednom od modernih okruženja za razvoj mobilnih aplikacija kao što su npr. Android Studio, Xamarin ili MIT App Inventor. Ovdje je neophodno sa učenicima proći komponente svake aplikacije, uvezivanje više prozora, povezivanje sa bazom podataka i drugim spoljnim servisima, te testiranje aplikacije na emulatoru mobilnog uređaja.
+Mobilne aplikacije zahtijevaju moderna korisnička sučelja, te je ovdje neophodno proći sa učenicima što više komponenti korisničkih grafičkih sučelja (dugmad, liste, polja za unos i kačenje, isl. I SL.) vođenih različitim događajima (na klik, na pritisak ili otpuštanje tastera, isl.). Dodatno, moderne aplikacije podrazumijevaju prozore prilagodljive monitorima na kojima se prikazuju, te učenici trebaju naučiti i kako razviti aplikacije sa fleksibilnim prikazima sadržaja ovisno o dimenzijama i položaju prozora.
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Nastavni predmet Razvoj mobilnih aplikacija ostvaruje snažnu povezanost s više nastavnih područja. Osim neposredne veze s programiranjem i matematikom, izražena je korelacija s jezicima, kao i s društvenim naukama, zahvaljujući primjeni razvijenih sadržaja u svakodnevnom životu. Kreiranje korisničkog sučelja ne zasniva se samo na tehničkim vještinama, već i na razumijevanju navika, potreba i očekivanja korisnika, što povezuje ovaj predmet s psihologijom, sociologijom i ekonomijom. Pored toga, oblikovanje sučelja zahtijeva osjećaj za estetsko i funkcionalno uređenje prostora, čime se ostvaruje veza s likovnom kulturom i estetikom. Razumijevanje ponašanja digitalnih površina za rad oslanja se na matematička znanja, posebno iz analitičke geometrije, te na informatičke koncepte poput pozicioniranja u koordinatnom sistemu ekrana i reprezentacije boja na digitalnim uređajima. Također, elementi fizike, posebno iz oblasti optike, doprinose shvatanju načina na koji se vizuelni sadržaji prikazuju i percipiraju.
+Ova međupredmetna povezanost omogućava integrisan pristup učenju, razvijajući kod učenika ne samo tehničke kompetencije, nego i širu kulturu promišljanja, estetsku osjetljivost i razumijevanje korisničkog iskustva u digitalnom okruženju.
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost podrazumijeva poznavanje i razumijevanje matematičkih pojmova i koncepata, uključujući ključne geometrijske i algebarske teoreme, te njihovu primjenu u rješavanju problema i analizi podataka.
+Informatička pismenost obuhvata kritičko i svrsishodno korištenje tehnologije za pohranu, obradu, predstavljanje i reprodukciju podataka, uz razumijevanje principa digitalne komunikacije i sigurnosti informacija.
+Kompetencija u nauci i tehnologiji ogleda se u sposobnosti razumijevanja i primjene različitih načina prikazivanja matematičkih, tehničkih i jezičkih elemenata, kao i u vještini odabira najprikladnijeg formata ili metode prikaza, uključujući mogućnost prilagodbe i zamjene načina predstavljanja informacija.
+Kreativno-produktivna kompetencija podrazumijeva razvijanje kompleksnog mišljenja kroz procese generalizacije, analize, sinteze i kritičkog promišljanja. Ona uključuje upotrebu logičkog struktuiranja, poticanje kreativnosti, generisanje novih ideja te povezivanje različitih pretpostavki i zaključaka radi iznalaženja inovativnih i funkcionalnih rješenja.
+C
+Upravljanje razvojem mobilnih aplikacija
+
+C.IV.1
+Utvrđuje postupke faza razvoja mobline aplikacije.
+C.IV.2
+Planira internacionalizaciju, lokalizaciju i organizaciju funkcionalnih dijelova mobilne aplikacije.
+C.IV.3
+Projektuje i dokumentuje mobilnu aplikaciju.
+C.IV.1.1 Analizira projektnu ideju za razvoj mobilne aplikacije.
+C.IV.1.2 Objašnjava faze razvoja mobilne aplikacije. 
+C.IV.1.3 Primijenjuje agilne metode upravljanja projektom, uključujući SCRUM.
+C.IV.1.4 Procjenjuje prototip odabranog rješenja mobilne aplikacijeu skladu sa zahtjevima i standardima.
+C.IV.2.1 Primjenjuje mogućnost internacionalizacije ili lokalizacije, zaviso od konkretne praktične primjene.
+C.IV.2.2 Objašnjava osobine i funkcionalnost pojedinačnih fragmenata aplikacije.
+C.IV.2.3 Kombinuje komponente internacionalizacije, lokalizacije i fragmentiranja pri izradi praktičnih zadataka.
+C.IV.3.1 Predlaže projektnu ideju kroz ispitivanje tržišta i specifikaciju potreba.
+C.IV.3.2 Implementira mobilnu aplikaciju sa grafičkim korisničkim sučeljem.
+C.IV.3.3 Prezentuje proces izrade i rezultate rada u usmenoj formi.
+C.IV.3.4 Evaluira projekat i izrađuje pisanu dokumentaciju o radu.
+KLJUČNI SADRŽAJI
+Pristupi razvoju, Metodike razvoja, Faze razvoja, Ispistivanje tržišta, Specifikacija potreba, Tehnološke oštrice, SCRUM, Tim i uloge u timu, Organizacija resursa, Internacionalizacija, Lokalizacija, Fragment, Projekat, Faze projekta, Razvoj mobilne aplikacije, Prezentacija, Dokumentacija 
+PREPORUKE ZA OSTVARENJE ISHODA
+1. Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Na početku izučavanja mobilnih aplikacija neophodno je sa učenicima proći pristupe, metodike i faze u razvoj jednog programskog proizvoda, te razviti kod učenika svijest o savjesnom i organizovanom pristupu izradi jednog programskog rješenja.
+Unutar ove cjeline kod učenika je najbitinije razviti svijest o potrebama razvoja kako za male regije (lokalno), tako i za široka područja (internacionalo), te prednosti i nedostatke i lokalizacije i internacionalizacije aplikacije.
+Po završetku svih ostalih tematskih cjelina, potrebno je učenicima dati projektni zadatak u kojem će kroz sve faze SCRUM razvoja predložiti, dizajnirati, implementirati i evaluirati jednu mobilnu aplikaciju. Za ovaj projektni zadatak pogodan je rad u timovima kako bi se SCRUM model što vjernije ispratio. Cilj projektnog zadatka je učenike poDučiti o koracima i fazama koje je potrebno sprovesti tokom izrade programskog proizvoda, te o ispravnom pristupu u vođenju njegove dokumentacije. 
+2. Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Proces razvoja programskog rješenja može koristiti različite pristupe i metodike u ovisnosti o tome šta se izrađuje i koji su vremenski okviri. Zbog toga, ovdje prvenstveno uočavamo vezu sa psihologijom i sociologijom (odabir pristupa i metodike, ispitivanje tržišta, hijerarhijski odnosi), matematikom (strogi matematski modeli), sportom (timski rad i uloge u timu) i ekonomijom (generisanje ideje i ispitivanje tržišta). Pored ovih veza, kroz izbor programskog rješenja i primjere moguće je ostvariti vezu sa mnogobrojnim nastavnim predmetima, kao npr. Geografija, Biologija, Fizika, Hemija, i sl.
+Prilikom izrade projekta neposredna veza ostvaruje se sa matematičkim modelima, te maternjim jezikom kroz pisanje dokumentacije i prezentovanje projekta.
+3. Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikaciona pismenost: Učenici razvijaju sposobnost jasnog izražavanja kroz pisanje tehničke dokumentacije i usmenu prezentaciju svojih projekata. Ove aktivnosti podstiču argumentovanu komunikaciju, strukturiranje misli i precizno prenošenje informacija, čime se ostvaruje veza sa indikatorima prezentacije i evaluacije projekta.
+Matematička pismenost: Primjena geometrijskih i algebarskih koncepata u dizajnu korisničkog sučelja i rasporedu elemenata omogućava učenicima da povežu apstraktna matematička znanja sa praktičnim zadacima, kao što su raspored komponenti na ekranu i optimizacija korisničkog interfejsa.
+Informatička pismenost: Učenici koriste tehnologije i razvojne alate kako bi realizovali kreativna i inovativna rješenja. Aktivnosti uključuju razvoj mobilnih aplikacija, generisanje ideja i testiranje rješenja, čime se podstiče kritičko mišljenje i svjesno uključivanje u digitalno društvo.
+Kompetencija u nauci i tehnologiji: Razvija se sposobnost primjene znanja o metodologiji razvoja softverskih rješenja i programiranja. Učenici digitalno modeluju prirodne i društvene pojave kroz aplikacije, povezujući teorijska znanja sa praktičnom primjenom u konkretnim projektima.
+Kreativno-produktivna kompetencija: Učenici usvajaju kompleksne misaone procese: analizu, sintezu, generalizaciju i kritičko mišljenje. Proces izrade aplikacija razvija kreativnost, sposobnost povezivanja različitih ideja i logičko strukturiranje rješenja, što omogućava generisanje novih koncepata i inovativnih projekata.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

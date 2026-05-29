@@ -1,0 +1,118 @@
+PREDMET: Primijenjena informatika
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Primijenjena%20informatika
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Primijenjena informatika
+Primjenjena informatika - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Srednje
+II
+Godine učenja i podučavanja predmeta: 1
+A Informacione i komunikacione tehnologije
+A.II.1
+A.II.2
+B Rješavanje problema primjenom IKT-a
+B.II.1
+B.II.2
+C Digitalno društvo
+C.II.1
+C.II.2
+C.II.3
+A
+Informacione i komunikacione tehnologije
+A.II.1
+Primjenjuje napredne alate editora za obradu teksta i tabelarnu obradu podataka.
+A.II.2
+Generiše autentične grafičke sadržaje.
+TIT-3.4.1 TIT-3.4.3
+A.II.1.a  Referencira objekte unutar tekstualnih dokumenata.
+A.II.1.b  Implementira sopstvene formule i obrasce za tabelarne proračune kroz više radnih stranica.
+A.II.2.a Koristi alate za označavanje, crtanje i bojenje slike.
+A.II.2.b Manipulira bojom i ekspozicijom slike pomoću filtera i drugih alata.
+A.II.2.c Manipulira objektima i slojevima slike.
+A.II.2.d Primjenjuje maske za manipulaciju sadržajem slike.
+KLJUČNI SADRŽAJI
+Referenciranje sadržaja, Tabelarni prikaz podataka, Obrada podataka, Grafikon
+KLJUČNI SADRŽAJI
+Ekspozicija, Histogram slike, Filter, Retuširanje, Sloj slike, Maska, Rekolorizacija, Restauracija
+PREPORUKE ZA OSTVARENJE ISHODA
+Poznavanje rada u editorima za obradu teksta unutar ove oblasti treba dovesti na jedan viši nivo. Ovdje se savjetuje obrada referenciranih objekata unutar dokumenta, te kreiranje formulara.
+Editori za tabelarnu obradu podataka neizostavan su dio današnjeg poslovanja u svim branšama, te rad u njima predstavlja elementarnu informatičku pismenost. Kroz ovu oblast bi se, prema tome, učenike trebalo osposobiti za napredniji rad u nekom od ovih editora, kao što su MS Excel ili Google Sheets, isl. Preporučeno je prvo ponoviti gradivo iz načina i vrsta zapisa podataka u tabelama i njihovog uređivanja, te ugrađene funkcije za osnovnu statističku obradu. Nakon toga, učenici bi trebali savladati kreiranje vlastitih uslovnih formula koje obrađuju sadržaje kroz više radnih stranica, kreiranje obrazaca za popunjavanje, te napraviti adekvatan i efikasan prikaz podataka pomoću grafikona različitog tipa.
+PREPORUKE ZA OSTVARENJE ISHODA
+Grafički sadržaji dio su naše svakodnevnice. Neprestano se generišu novi i vrši digitalizacija starih. Kroz oblast obrade grafičkih sadržaja učenicima treba približiti kako što bolje kreirati crteže, te ispravno manipulirati bojama i sadržajima na slici ili njenim dijelovima. Ovo se može raditi pomoću bilo kojeg editora za grafičku obradu vektorske slike, kao što su npr. Gimp ili Adobe Photoshop. U sklopu ove cjeline učenici bi također trebali savladati i osnovno korištenje slojeva slike i upotrebu maski. Kao posljednji zadatak koji objedinjuje sve vještine koje su stekli kroz ovu oblast, učenicima se može dati da izvrše kompletnu restauraciju sa rekolorizacijom stare skenirane slike sa fizičkim oštećenjima.
+B
+Rješavanje problema primjenom IKT-a
+B.II.1
+Dizajnira prikaz sadržaja na internet preglednicima.
+B.II.2
+Razvija sadržaj sa upravljanjem preko mikrokontrolera.
+B.II.1.a Objašnjava ulogu internet preglednika kao interpretatora HTML sadržaja.
+B.II.1.b Koristi HTML tagove za uređivanje sadržaja koji se prikazuju na pregledniku.
+B.II.1.c Primjenjuje linijski, unutrašnji i vanjski CSS za kreiranje stilova prikazivanja sadržaja.
+B.II.1.d Izrađuje statičku web stranicu sa autentičnim prikazom sadržaja.
+B.II.2.a  Upravlja diodama mikrokontrolera.
+B.II.2.b Eksperimentiše sa mogućnostima programiranja dioda i senzora  mikrokontrolera.
+B.II.2.c Projektuje aplikaciju za upravljanje ponašanjem jednostavnog mikrokontrolera.
+KLJUČNI SADRŽAJI
+Prikaz internet sadržaja, Tag, HTML, CSS (linijski, unutrašnji, vanjski)
+KLJUČNI SADRŽAJI
+Mikrokontroler, Upravljanje mikrokontrolerom
+PREPORUKE ZA OSTVARENJE ISHODA
+Uređivanje prikaza sadržaja na internet preglednicima prva je stepenica ka izučavanju kreiranja interaktivnih web sadržaja. Izučavanjem HTMLa učenici pored informatičkih vještina razvijaju i smisao za estetiku i organizaciju. Unutar ove tematske cjeline učenici bi trebali ovladati uređivanjem sadržaja u smislu odabira veličine i fonta slova, dodavanja boja, slika i linkova, te pozicioniranja sadržaja. Nakon toga, učenici bi trebali savladati i kreiranje sopstvenih, te importovanje gotovih stilova u dokument. Na kraju ove temaatske cjeline učenici bi trebali pristupiti kraćem projektnom zadatku izrade statičke web stranice.
+PREPORUKE ZA OSTVARENJE ISHODA
+Programiranje mikrokontrolera treba izučavati postepeno, počevši od primjera sa senzorima, pa nastavljajući ka ugrađenim senzorima, te završavajući sa povezivanjem dva ili više uređaja. Ovdje se preporučuje korištenje bazičnih mikrokontrolera kao što su npr. BBC:MicroBit ili Raspberry Pie. Unutar cijelog procesa učenici trebaju raditi praktično sa uređajima u programskom jeziku koji već znaju. Na kraju izučavanja oblasti učenici trebaju samostalno kroz projektni zadatak razviti jednostavnu aplikaciju za upravljanje mikrokontrolerom.
+C
+Digitalno društvo
+
+C.II.1
+Utvrđuje postupke i alate za pravilno, sigurno i etičko korištenje interneta.
+C.II.2
+Vrjednuje načine, formate pohrane i mogućnosti manipulacije grafičkim digitalnim sadržajima.
+C.II.3
+Prosuđuje o mogućnostima, prednostima i nedostacima primjene Interneta stvari.
+TIT-5.2.1 TIT-5.2.2 TIT-5.2.4
+C.II.1.a Objašnjava razliku između internet pretraživača i preglednika i opisuje osobine najzastupljenijih pretraživača i preglednika.
+C.II.1.b Objašnjava način rada internet preglednika (prevođenje sadržaja, sesije, kolačići).
+C.II.1.c Klasificira štetni softver i vrste zaštite od njega.
+C.II.1.d Analizira sigurnost, vjerodostojnost i etičnost internet sadržaja.
+C.II.2.a Objašnjava načine zapisa slike u računarskoj memoriji.
+C.II.2.b Upoređuje načine zapisa boja u računarskoj memoriji. 
+C.II.2.c Analizira formate digitalnog zapisa grafičkih sadržaja.
+C.II.2.d Klasificira šumove slike.
+C.II.2.e Procjenjuje mogućnosti i efikasnost geometrijskih transformacija slike.
+C.II.3.a Objašnjava pojam, arhitekturu i način rada interneta stvari.
+C.II.3.b Diskutuje o mogućnostima primjene interneta stvari u svakodnevnom životu.
+C.II.3.c Kritički razmatra prednosti i nedostatke primjene Interneta stvari.
+KLJUČNI SADRŽAJI
+Pretraživač, Preglednik, Štetni softver, Zaštitni softver
+KLJUČNI SADRŽAJI
+Rasterska i vektorska slika, Aditivni i substraktivni zapis boje, Skaliranje, Translacija, Rotacija
+KLJUČNI SADRŽAJI
+Uklopljeni računari, Sveprisutno računarstvo, Kompatibilnost uređaja
+PREPORUKE ZA OSTVARENJE ISHODA
+Oblast pretraživanje i pregledanje internet sadržaja fokusira se na ispravno korištenje pretraživača i preglednika u smislu ispravnog, etički korektnog i sigurnog rukovanja. Učenici ovdje trebaju upoznati načine (sesije, kolačići), i alate (privatni prozori, označavanje stranica, podešavanje preglednika,...) rada preglednika. Pored toga, na ovom mjestu učenici trebaju naučiti da identifikuju potencijalne opasnosti na internetu kao što su neprimjereni i nevjerodostojni sadržaji, te štetni softver (virusi, crvi) i phishing. Nakon što uspješno klasificiraju potencijalne opasnosti, učenike treba osposobiti da kreiraju sigurno okruženje za rad, te je neophodno obraditi vrste zaštitnog softvera (antivirusi i firewall) i proći sa njima korake sigurnog ponašanja prilikom korištenja kako interneta, tako i računara uopšte.
+PREPORUKE ZA OSTVARENJE ISHODA
+Prva oblast u izučavanju multimedijalnih zapisa je digitalna slika. Ovdje učenici trebaju savladati osnovne pojmove računarske grafike, kao što su osobine rasterskog i vektorskog zapisa, osobine crno-bijele, sive i slike u boji, mogućnosti zapisa boja: RGB i CMYK, broj boja na slici, ton i svjetlo, fizička i digitalna oštećenja (šumovi), te mogućnosti transformacija slike: filteri, skaliranje, translacija i rotacija.
+PREPORUKE ZA OSTVARENJE ISHODA
+Tehnologija je danas sveprisutna, pomaže nam i olakšava raznovrsne aktivnosti pomoću mnoštva uklopljenih računara koji međusobno komuniciraju i formiraju Internet stvari. Učenici su uglavnom već upoznati sa korisničkim aspektom ovih tehnologija, a ono što na ovom mjestu trebaju naučiti je kako sve ovo radi, šta su to uklopljeni računari i mikrokontroleri, kako i kroz koje slojeve komuniciraju, te koji su nedostatci rapidnog porasta ovakvih uređaja u smislu kompatibilnosti, brzine zastarjevanja i zaštite okoliša.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

@@ -1,0 +1,64 @@
+{
+  "predmet": "Psihologija",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "III"
+  },
+  "tematske_cjeline": [
+    "A Psihološki procesi, osobine i ponašanje",
+    "B Istraživanje u psihologiji"
+  ],
+  "ishodi": [
+    {
+      "oznaka": ".2.2",
+      "opis": "Koristi psihološku terminologiju u objašnjavanju psihičkih procesa i osobina."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Navodi glavne karakteristike osnovnih metoda i tehnika psiholoških istraživanja, njihove prednosti i ograničenja/mane."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "KLJUČNI SADRŽAJI     A.III.4 Objašnjava kako se ljudsko ponašanje mijenja pod uticajem grupe. Objašnjava kroz primjere iz svakodnevnog života različite oblike socijalnog uticaja (npr. poslušnost",
+    "konformizam). Objašnjava korisnost i efikasnost nekih oblika društvenih ponašanja (npr. agresivnost",
+    "altruizam). Navodi primjere iz svakodnevnice",
+    "kao i iz rezultata psiholoških istraživanja mogućnosti zloupotrebe moći i autoriteta. Navodi primjere faktora koji pomažu u razvoju rezilijentnosti prema socijalnom pritisku",
+    "direktno ili putem medija. KLJUČNI SADRŽAJI Bihejvioralna genetika",
+    "melatonin",
+    "dopamin",
+    "percepcija",
+    "pažnja",
+    "model pamćenja (Atkinson i Shiffrin",
+    "1968)",
+    "eksplicitno i implicitno pamćenje",
+    "Teorija dualnih procesa mišljenja (Kahnemann",
+    "2003)",
+    "greške u mišljenju i atribuciji",
+    "tolerancija na neizvjesnost",
+    "kognitivna disonanca",
+    "Teorija socijalnog identiteta (Tajfel i Turner",
+    "1979)",
+    "moderne predrasude",
+    "diskriminacija (rasna",
+    "spolna",
+    "nacionalna",
+    "religijska",
+    "prema LGBTIQ ...)",
+    "agresivnost",
+    "altruizam",
+    "empatija",
+    "konformizam",
+    "solidarnost."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Nastavnici mogu koristiti dostupne resurse u vidu objavljenih i dostupnih psiholoških istraživanja (open access) kroz koje mogu prolaziti zajedno sa učenicima kako bi razvili razumijevanje bioloških, kognitivnih i sociokulturalnih faktora kojima možemo objasniti psihički život i ponašanje. Postoje i publikacije koje su možda više razumljive ovoj uzrasnoj grupi (npr. Scientific American Mind, Psychology Today...). Za biološke faktore u objašnjenju psihičkog života i ponašanja, nastavnici mogu koristiti dostupne animacije (npr. Crash Course na You Tube kanalu), za prepoznavanje stvaranja i održavanja predrasuda, kao i posljedične diskriminacije posebno je korisno istraživanje Jane Elliot „Plave oči, smeđe oči“. Za prepoznavanje emocija je jako koristan animirani film „Izvrnuto/obrnuto“ („Upside down“)."
+    ],
+    "medjupredmetne_korelacije": [
+      "Prirodno proizilazi korelacija sa nastavnim predmetima iz grupe prirodnih nauka (Fizika, Biologija i Hemija), radi poveznice sa biološkom psihologijom (neurotransmiteri, hormoni, mozak, nervni sistem, geni), kao i sa grupom društvenih nauka, posebno Sociologijom (npr. socijalne grupe, socijalni i kulturalni faktori koji utiču na psihički život i ponašanje), Filozofijom s logikom (npr. greške u mišljenju i atribuciji), te Građanskim obrazovanjem/Demokratijom i ljudskim pravima (npr. tolerancija). Korelacija sa Historijom/Povijesti se može posebno iskoristiti sa primjerima negativnih efekata predrasuda spram nekog naroda/grupe (npr. primjeri nacionalizma ili rasizma iz Drugog svjetskog rata, iz rata u BiH 1992-1995.). Korelacija sa IKT se može ostvariti ako će nastavnici pokazivati kako da koriste razne aplikacije u traženju korisnih sadržaja ili pravljenju postera, informativnih brošura."
+    ],
+    "kompetencijski_pristup": [
+      "Oblas"
+    ]
+  }
+}

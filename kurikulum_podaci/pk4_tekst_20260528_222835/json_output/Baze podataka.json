@@ -1,0 +1,36 @@
+{
+  "predmet": "Baze podataka",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "III"
+  },
+  "tematske_cjeline": [
+    "A Prezentacija i obrada podataka",
+    "B Projektovanje baze podataka",
+    "C Upravljanje bazama podataka"
+  ],
+  "ishodi": [],
+  "kljucni_sadrzaji": [
+    "Mrežni",
+    "hijerarhijski i relacioni model",
+    "Entitet",
+    "Relacija",
+    "Logička veza",
+    "Funkcionalna veza",
+    "Relaciona šema",
+    "Vezna tabela",
+    "Normalizacija"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Osnove teorije podataka učenicima pružaju uvid u moguće načine pohrane podataka (mrežni, hijerarhijski i relacioni model). Pored toga, sa učenicima treba detaljno preći potpun proces izrade baze podataka, od ispistivanja tržišta, preko prijedloga i specifikacija projekta, projektovanja šematskog prikaza i implementacije, do testiranja  i ažuriranja.",
+      "Prilikom modeliranja baza podataka veoma je bitno sa učenicima obraditi mnoštvo primjera, te osposobiti učenike da jasno razgraniče šta su i kako se biraju atributi tabele, a šta su podaci unutar tabele, šta su primarni, alternativni i spoljni ključ i kako se uspostavljaju, te kako se elementi baze kaskadno povezuju."
+    ],
+    "medjupredmetne_korelacije": [
+      "Teorija podataka bavi se načinima pohrane i obrade podataka, te je stoga u direktnoj vezi s primjenama u svakodnevnom životu. Na temelju ovoga, možemo uspostaviti direktnu vezu sa sociologijom i ekonomijom, te jezicima koji su njegov sastavni dio. Načini zapisivanja podataka koriste stroge matematičke modele, te je stoga veza s matematikom neizostavna."
+    ],
+    "kompetencijski_pristup": [
+      "Matematičk"
+    ]
+  }
+}

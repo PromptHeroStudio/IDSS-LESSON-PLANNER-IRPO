@@ -1,0 +1,56 @@
+{
+  "predmet": "Filozofija s logikom",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "III"
+  },
+  "tematske_cjeline": [
+    "A Oblici misli / kritičko mišljenje i argumentacija",
+    "B Velika filozofska pitanja i problemi",
+    "C Čovjek i svijet",
+    "D Spoznaja, znanje, nauka, tehnologija"
+  ],
+  "ishodi": [],
+  "kljucni_sadrzaji": [
+    "Formalna logika - Aristotel (Organon - Kategorije)",
+    "dedukcija",
+    "indukcija",
+    "analogija",
+    "pojam",
+    "sud",
+    "zaključak",
+    "silogizam",
+    "valjanost i istinitost zaključka",
+    "figure i modusi silogizma",
+    "argumentiranje",
+    "logičke pogreške. Indikatori logičkih odnosa u običnom jeziku – premisa i konkluzije",
+    "logički odnosi",
+    "logička svojstva. Definicija",
+    "dokaz",
+    "objašnjenje",
+    "predikcija. Neformalna logika - kritičko mišljenje i argumentiranje - model kritičkog mišljenja",
+    "faze kritičkog mišljenja",
+    "razumijevanje",
+    "strukturiranje",
+    "evaluiranje argumentacije. Logičke pogreške u neformalnoj logici."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Nastavnici mogu kroz kratke isječke izvornih filozofskih tekstova, učenicima pružiti uvid u velika filozofska pitanja i različite odgovore na ista pitanja.",
+      "Preporuka za ovu oblast bi bila dati učenicima Malog princa kao filozofsku lektiru, zadatak bi bio odgovoriti na pitanje: “Zašto je Mali princ filozofsko djelo?”.",
+      "Temeljna metoda je dijaloška, gdje se učenici kroz upotrebu sokratovskih pitanja potiču na kritičko, kreativno i suradničko mišljenje.",
+      "Nastavnicima se preporučuje da već sa završetkom ove oblasti započnu sa učenicima raditi na uvježbavanju pisanja filozofskog eseja - učenici će imati zadatak napisati sokratovski esej baziran na isječku iz Odbrane Sokratove. Učenici se stavljaju u poziciju suvremenog Sokrata, odabiru razlog/ideju zbog kojeg su optuženi na sudu i u dijaloškoj formi pišu esej iznoseći uvjerljivu argumentaciju i pobijajući argumentaciju protivnika. Esej započinju kratkim uvodom iznoseći razlog optužbe i završavaju zaključkom u kojem sumiraju argumente, kao i svoju odanost idealima.",
+      "Također se kod učenika/ca može kroz upotrebu pažljivo odabranih i didaktičko-metodičkih nefilozofskih sadržaja potaknuti filozofski način promišljanja.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      "BHS jezik i književnost – filozofska analiza književnog djela. U ovoj je oblasti ostvariva međupredmetna povezanost sa BHS jezikom i književnosti kroz filozofsku analizu isječaka književnih djela, interpretaciju i razumijevanje istih, kao i kroz proces pisanja eseja.",
+      "Fizika – korelacija sa ovim predmetom proizlazi iz prvih velikih filozofskih pitanja o nastanku kosmosa, uzrocima svega postojećeg i sl.",
+      "Kultura religija – korelacija sa ovim predmetom nalazi se u pitanjima o razumijevanju svijeta, njegovom nastanku i sl.",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Učenic"
+    ]
+  }
+}

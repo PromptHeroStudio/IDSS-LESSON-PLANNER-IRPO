@@ -1,0 +1,39 @@
+{
+  "predmet": "Medicinska antropologija",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "I"
+  },
+  "tematske_cjeline": [
+    "A Antropologija ljudskog tijela i zdravlja",
+    "B Kineziologija i fizičko zdravlje",
+    "C Kineziometrijska mjerenja",
+    "D Mentalno zdravlje"
+  ],
+  "ishodi": [],
+  "kljucni_sadrzaji": [
+    "Antropologija",
+    "čovjek",
+    "kultura",
+    "kulturne vrijednosti i norme",
+    "društvo",
+    "tradicija i običaj",
+    "različitosti među ljudima",
+    "tolerancija",
+    "inteligencija",
+    "determinante zdravlja."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Pri obradi nastavnih sadržaja u okviru ishoda učenja, preporučuje se polaziti od onoga što učenici već znaju, onoga što žele znati, te podsticati i usmjeravati njihovo razmišljanje do novih saznanja nakon procesa učenja, tj. onoga što su naučili. Antropologija omogućava učenicima sticanje znanja o kulturnim i biološkim različitostima čovjeka u društvu.Nastava se organizuje tako da učenici kroz primjere iz stvarnog života i studije slučaja uočavaju specifične kulturne obrasce, običaje i vjerovanja. Nastavnik podstiče usporedno razmatranje različitih kultura, kako bi učenici razvili sposobnost uočavanja sličnosti i razlika, te razumjeli kako kulturna pozadina oblikuje ponašanje i identitet pojedinca. U nastavi se koriste multimedijalni izvori, dokumentarni filmovi i online izložbe koji približavaju raznolikost kulturnih praksi, a učenici učestvuju u interaktivnim radionicama interkulturalnog dijaloga. Grupni projekti potiču zajedničko osmišljavanje prijedloga za unapređenje zdravlja, čime učenici razvijaju i istraživačke i organizacijske vještine, ali i osjećaj društvene odgovornosti.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      "Antropologija ima za cilj da učenik primjenom prethodno stečenih znanja iz Biologije, Sporta i Osnova sportske pripreme usvoji znanja o faktorima koji mogu uticati na čovjeka, njegov položaj u društvu, kulturne različitosti svakog pojedinca i aktivnosti u svakodnevnom životu.",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Zdravstven"
+    ]
+  }
+}

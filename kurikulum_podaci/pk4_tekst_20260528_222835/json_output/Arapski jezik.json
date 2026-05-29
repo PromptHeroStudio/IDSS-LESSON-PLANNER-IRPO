@@ -1,0 +1,1949 @@
+{
+  "predmet": "Arapski jezik",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "5"
+  },
+  "tematske_cjeline": [
+    "A SLUŠANJE I RAZUMIJEVANJE SLUŠANOG SADRŽAJA",
+    "B ČITANJE I RAZUMIJEVANJE PROČITANOG SADRŽAJA",
+    "C GOVOR I USMENA KOMUNIKACIJA",
+    "D PISANJE I PISMENO SPORAZUMIJEVANJE",
+    "A SLUŠANJE I RAZUMIJEVANJE SLUŠANOG SADRŽAJA (ZJNPP)",
+    "B ČITANJE I RAZUMIJEVANJE PROČITANOG SADRŽAJA (ZJNPP)",
+    "C GOVOR I USMENA KOMUNIKACIJA (ZJNPP)",
+    "D PISANJE I PISMENO SPORAZUMIJEVANJE (ZJNPP)",
+    "A SLUŠANJE I RAZUMIJEVANJE SLUŠANOG SADRŽAJA (ZJNPP)",
+    "B ČITANJE I RAZUMIJEVANJE PROČITANOG SADRŽAJA (ZJNPP)",
+    "C GOVOR I USMENA KOMUNIKACIJA (ZJNPP)",
+    "D PISANJE I PISMENO SPORAZUMIJEVANJE (ZJNPP)",
+    "A SLUŠANJE I RAZUMIJEVANJE SLUŠANOG SADRŽAJA",
+    "B ČITANJE I RAZUMIJEVANJE PROČITANOG SADRŽAJA",
+    "C GOVOR I USMENA KOMUNIKACIJA",
+    "D PISANJE I PISMENO SPORAZUMIJEVANJE",
+    "A SLUŠANJE I RAZUMIJEVANJE SLUŠANOG SADRŽAJA",
+    "B ČITANJE I RAZUMIJEVANJE PROČITANOG SADRŽAJA",
+    "C GOVOR I USMENA KOMUNIKACIJA",
+    "D PISANJE I PISMENO SPORAZUMIJEVANJE",
+    "A SLUŠANJE I RAZUMIJEVANJE SLUŠANOG SADRŽAJA (ZJNPP)",
+    "B ČITANJE I RAZUMIJEVANJE PROČITANOG SADRŽAJA (ZJNPP)",
+    "C GOVOR I USMENA KOMUNIKACIJA (ZJNPP)",
+    "D PISANJE I PISMENO SPORAZUMIJEVANJE (ZJNPP)",
+    "A SLUŠANJE I RAZUMIJEVANJE SLUŠANOG SADRŽAJA (ZJNPP)",
+    "B ČITANJE I RAZUMIJEVANJE PROČITANOG SADRŽAJA (ZJNPP)",
+    "C GOVOR I USMENA KOMUNIKACIJA (ZJNPP)",
+    "D PISANJE I PISMENO SPORAZUMIJEVANJE (ZJNPP)",
+    "A SLUŠANJE I RAZUMIJEVANJE SLUŠANOG SADRŽAJA",
+    "B ČITANJE I RAZUMIJEVANJE PROČITANOG SADRŽAJA",
+    "C GOVOR I USMENA KOMUNIKACIJA",
+    "D PISANJE I PISMENO SPORAZUMIJEVANJE",
+    "C 3.1.3. Razgovara o poznatim društvenim temama uz poštivanje demokratkih vrijednosti.",
+    "A SLUŠANJE I RAZUMIJEVANJE SLUŠANOG SADRŽAJA",
+    "B ČITANJE I RAZUMIJEVANJE PROČITANOG SADRŽAJA",
+    "C GOVOR I USMENA KOMUNIKACIJA",
+    "D PISANJE I PISMENO SPORAZUMIJEVANJE"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.5.1",
+      "opis": "A.5.2"
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "A.5.4"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B.5.2"
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "B.5.4"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.5.2"
+    },
+    {
+      "oznaka": "C.5.3",
+      "opis": "C.5.4"
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": "D.5.2"
+    },
+    {
+      "oznaka": "D.5.3",
+      "opis": "D.5.4"
+    },
+    {
+      "oznaka": "D.5.5",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "Tumači slušani sadržaj koristeći strategije slušanja razvijajući pozitivan stav prema aktivnom slušanju."
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": "Koristi vokabular, jezičke strukture i zakonitosti, te analizira specifičnosti izgovora slušanog sadržaja."
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "Promišlja o obrascima sporazumijevanja u svakodnevnim interkulturalnim kontekstima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.1 SJZ-1.3.1"
+    },
+    {
+      "oznaka": "A.5.4",
+      "opis": "Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u okviru interkulturalnosti"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "Koristi informatičke alate u online nastavi"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B.1.1. Čita s razumijevanjem različite vrste tekstova i digitalnih sadržaja, koristeći strategije čitanja i informacijsko-komunikacijske tehnologije."
+    },
+    {
+      "oznaka": "B.5.2",
+      "opis": "Koristi različite strategije čitanja prilikom usvajanja i analize nepoznatih riječi, jezičkih struktura i fonetskih zakonitosti."
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "Istražuje jezik, kulturu i demokratske vrijednosti zemalja arapskog govornog područja i vlastite kulture."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.3.1"
+    },
+    {
+      "oznaka": "B.5.4",
+      "opis": "Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u okviru interkulturalnosti."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "Koristi kratke informatičke pojmove I osnovne alate u online nastavi pri čitanju uputa I jednostavnih sadržaja."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "Učestvuje u različitim oblicima govorne produkcije koristeći obilježja formalnog i neformalnog standardnog jezika."
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": "Koristi različite komunikacijske strategije u govoru na arapskom jeziku."
+    },
+    {
+      "oznaka": "C.5.3",
+      "opis": "Primjenjuje govor promišljajući o obrascima sporazumijevanja u različitim interkulturalnim kontekstima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": "C.5.4",
+      "opis": "Analizira ulogu medija i informacijsko- komunikacijskih tehnologija u kontekstu i  interkulturalnosti"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "Koristi kratke informatičke pojmove i osnovne alate u online nastavi."
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": "Piše različite vrste tekstova uz upotrebu usvojenog vokabulara, poštujući pravopisna pravila i jezičke zakonitosti."
+    },
+    {
+      "oznaka": "D.5.2",
+      "opis": "Koristi različite strategije pisanja kreativnih i funkcionalnih tekstova u svrhu efikasne komunikacije i izražavanja mišljenja u stvarnom i digitalnom okruženju."
+    },
+    {
+      "oznaka": "D.5.3",
+      "opis": "Piše različite vrste tekstova na osnovu interkulturalnih iskustava, promišljajući o činjenicama i obilježjima vlastite i drugih kultura."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.3.1 SJZ-4.2.3"
+    },
+    {
+      "oznaka": "D.5.4",
+      "opis": "Razvija proces pisanja i kreativno pisanje"
+    },
+    {
+      "oznaka": "D.5.5",
+      "opis": "Obogaćuje vokabular, koristi rječnik i informacijsko  komunikacijske tehnologije"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "SJZ-4.3.2"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "B ČITANJE I RAZUMIJEVANJE PROČITANOG SADRŽAJA (ZJNPP)"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B.6.2"
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "B.6.4"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "C.6.4"
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": "D.6.2"
+    },
+    {
+      "oznaka": "D.6.3",
+      "opis": "D.6.4"
+    },
+    {
+      "oznaka": "D.6.5",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A1.1. Tumači slušani sadržaj koristeći strategije slušanja razvijajući pozitivan stav prema aktivnom slušanju."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "A2.1. Koristi vokabular, jezičke strukture i zakonitosti, te analizira specifičnosti izgovora slušanog sadržaja."
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "A3.1. Promišlja o obrascima sporazumijevanja u svakodnevnim interkulturalnim kontekstima."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-1.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Identifikuje proste rečenice pri slušanju reagujući verbalno i neverbalno."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Povezuje osnovne informacije iz jednostavnog i kratkog slušanog sadržaja poznate tematike iz svakodnevnog života."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Odgovara prostom rečenicom na jednostavna pitanja otvorenog tipa na osnovu slušanog sadržaja (kraći komunikacijski dijalog)."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Prepoznaje poznate riječi bogateći vokabular."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi novi vokabular i jednostavne jezičke strukture pri slušanju kraćeg audio i/ili multimedijalnog teksta poznate tematike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Identifikuje osnovne činjenice i obilježja kulture zemalja arapskog govornog područja i vlastite kulture pri slušanju kratkog teksta."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi osnovne obrasce uljudnog ophođenja tokom i/ili nakon slušanja."
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B.1.1. Čita s razumijevanjem različite vrste tekstova i digitalnih sadržaja, koristeći strategije čitanja i informacijsko-komunikacijske tehnologije."
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": "B2.1. Koristi različite strategije čitanja prilikom usvajanja i analize nepoznatih riječi, jezičkih struktura i fonetskih zakonitosti."
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "B3.1. Istražuje jezik, kulturu i demokratske vrijednosti zemalja arapskog govornog područja i vlastite kulture."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "B1.1.1. Čita jednostavne rečenice poznate tematike, koristeći osnovne strategije čitanja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ".Prepoznaje ključne informacije iz pročitanih rečenica, odgovarajući na pitanja."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi različite izvore za čitanje kao što su školska biblioteka i informacijsko-komunikacijske tehnologije, razvijajući pozitivan stav prema čitanju."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Čita pravilno jednostavne rečenice uz odgovarajuću intonaciju, prateći znakove interpunkcije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Prepoznaje značenje novih jezičkih struktura u  pročitanim rečenicama poznate tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Obogaćuje vokabular novim riječima iz jednostavnih rečenica poznate tematike, koristeći dvojezični rječnik."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Upoznaje činjenice o obilježjima, običajima i kulturnim znamenitostima vlastite zemlje i zemalja arapskog govornog područja na osnovu pročitanog kratkog teksta."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Upoznaje osnovne činjenice o državnim i vjerskim praznicima na osnovu pročitanog kratkog sadržaja."
+    },
+    {
+      "oznaka": "B.6.4",
+      "opis": "B3.2. Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u okviru interkulturalnosti."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "B.3.2.1. Koristi informatičke alate u online nastavi pri čitanju (kraći tekstovi, kvizovi)."
+    },
+    {
+      "oznaka": "B.3.2",
+      "opis": ".Prepoznaje  ključne poruke u različitim medijskim formatima kroz pročitani kraći sadržaj."
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C1.1. Učestvuje u različitim oblicima govorne produkcije koristeći obilježja formalnog i neformalnog standardnog jezika."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "C2.1. Koristi različite komunikacijske strategije u govoru na arapskom jeziku."
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "C3.1. Primjenjuje govor promišljajući o obrascima sporazumijevanja u različitim interkulturalnim kontekstima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Govori jednostavne i kratke rečenice odgovarajućom intonacijom."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi novi vokabular i proste rečenice poznate tematike na osnovu modela u realnom ili digitalnom okruženju."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Učestvuje u kraćem razgovoru prema smjernicama uz poticaj nastavnika."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi kratke obrasce komunikacije poznate tematike povezujući kraće cjeline sa prethodno naučenim."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Oponaša osnovne obrasce uljudnog ophođenja prihvatajući različitosti između sebe i drugih/drugačijih."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Prepoznaje ključne činjenice i obilježja kulture zemalja arapskog govornog područja u realnom ili digitalnom okruženju."
+    },
+    {
+      "oznaka": "C.6.4",
+      "opis": "C3.2. Analizira ulogu medija i informacijsko- komunikacijskih tehnologija u kontekstu i         interkulturalnosti"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Koristi informatičke alate u online nastavi (link, kvizovi)."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Identifikuje ključne poruke u različitim medijskim formatima."
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": "D1.1. Piše različite vrste tekstova uz upotrebu rječnika i usvojenog vokabulara, poštujući pravopisna pravila i jezičke zakonitosti."
+    },
+    {
+      "oznaka": "D.6.2",
+      "opis": "D2.1. Koristi različite strategije pisanja kreativnih i funkcionalnih tekstova u svrhu efikasne komunikacije i izražavanja mišljenja u stvarnom i digitalnom okruženju."
+    },
+    {
+      "oznaka": "D.6.3",
+      "opis": "D3.1. Piše različite vrste tekstova na osnovu interkulturalnih iskustava, promišljajući o činjenicama i obilježjima vlastite i drugih kultura."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "SJZ-4.2.1 SJZ-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše jednostavne tekstove poštujući znakove interpunkcije, pravopisna pravila i jezičke zakonitosti i koristi dvojezični riječnik."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše jednostavne tekstove/sadržaje poznate tematike koristeći jednostavne forme (e-mail, projekti)."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše jednostavne sadržaje/tekstove koristeći osnovne činjenice i obilježja vlastite kulture i kulture zemalja arapskog govornog područja na osnovu smjernica nastavnika."
+    },
+    {
+      "oznaka": "D.6.4",
+      "opis": "D3.2. Razvija proces pisanja I kreativno pisanje"
+    },
+    {
+      "oznaka": "D.6.5",
+      "opis": "D3.3. Obogaćuje vokabular, koristi rječnik i informacijsko-komunikacijske tehnologije"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "SJZ-4.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Prepoznaje glavne likove u pročitanom kratkom tekstu i odgovara je jednostavna pitanja"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": ". Koristi osnovne informatičke alate u online nastavi pri pisanju i uređivanju kraćih sadržaja."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "A.7.4"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "B.7.4"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "C.7.4"
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": "D.7.2"
+    },
+    {
+      "oznaka": "D.7.3",
+      "opis": "D.7.4"
+    },
+    {
+      "oznaka": "D.7.5",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A1.1. Tumači slušani sadržaj koristeći strategije slušanja razvijajući pozitivan stav prema aktivnom slušanju."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "A2.1. Koristi vokabular, jezičke strukture i zakonitosti, te analizira specifičnosti izgovora slušanog sadržaja."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "A3.1. Promišlja o obrascima sporazumijevanja u svakodnevnim interkulturalnim kontekstima."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "SJZ-1.2.1 SJZ-1.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Prepoznaje osnovne informacije iz kratkog i jednostavnog teksta poznate tematike."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Povezuje osnovne informacije iz kratkog teksta poznate tematike iz svakodnevnog života."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Odgovara jednostavnom rečenicom na pitanja otvorenog tipa na osnovu slušanog sadržaja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Prepoznaje  jezičke strukture."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Prepoznaje osnovne gramatičke strukture tokom ili nakon slušanja kratkog audio i/ili multimedijalnog teksta iz svakodnevnog života."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi pravilan izgovor novih riječi i jezičkih struktura kratkog slušanog audio i/ili multimedijalnog sadržaja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Pronalazi osnovne činjenice i obilježja kulture zemalja arapskog govornog područja i vlastite kulture pri slušanju kratkog teksta."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi osnovne obrasce sporazumijevanja u simuliranim interkulturalnim susretima tokom ili nakon slušanja prepoznajući povezanost jezika i kulture."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Razumjeva pojašnjenja nastavnika, otvoreno i radoznalo reagujući na strane i nerazumljive sadržaje tokom slušanja."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Prepoznaje konkretne primjere pozitivnih načina ophođenja prema pripadnicima drugih kultura u različitim kontekstima slušanja u svakodnevnom životu."
+    },
+    {
+      "oznaka": "A.7.4",
+      "opis": "A3.2. Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u okviru interkulturalnosti."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "A3.2.1.Koristi informatičke alate u online nastavi (link, kratki tekstovi)."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Izražava ključne poruke u različitim medijskim formatima kroz slušani sadržaj."
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.1.1. Čita s razumijevanjem različite vrste tekstova i digitalnih sadržaja, koristeći strategije čitanja i informacijsko-komunikacijske tehnologije."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "B2.1. Koristi različite strategije čitanja prilikom usvajanja i  analize nepoznatih riječi, jezičkih struktura i fonetskih zakonitosti."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "B3.1. Istražuje jezik, kulturu i demokratske vrijednosti zemalja arapskog govornog područja i vlastite kulture."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Čita jednostavne i kratke dijaloge poznate tematike, koristeći osnovne strategije čitanja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Prepoznaje ključne informacije iz pročitanog kratkog teksta poznate tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi različite izvore za čitanje kao što su informacijsko-komunikacijske tehnologije i školsku biblioteku, razvijajući pozitivan stav prema čitanju."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Čita pravilno kratke tekstove uz odgovarajuću intonaciju, prateći znakove interpunkcije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Prepoznaje značenje novih jezičkih struktura u kratkim pročitanim tekstovima poznate tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Proširuje vokabular novim riječima iz kratkih tekstova poznate tematike, koristeći dvojezični rječnik."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Prepoznaje osnovne  gramatičke strukture nakon pročitanog kratkog teksta poznate tematike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Upotrebljava činjenice o obilježjima, običajima i kulturnim znamenitostima vlastite zemlje i zemalja arapskog govornog područja na osnovu pročitanog kratkog teksta."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Identifikuje o značajnim saznanjima o arapskim zemljama i kulturama."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ".Otkrivaosnovne činjenice o državnim i vjerskim praznicima na osnovu pročitanog kratkog sadržaja i vizuelnog i/ili multimedijalnog poticaja."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Upoznaje primjere poštivanja vlastite i drugih kultura, razvijajući pozitivan stav prema humanističkim vrijednostima."
+    },
+    {
+      "oznaka": "B.7.4",
+      "opis": "B3.2. Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u okviru interkulturalnosti."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Koristi informatičke alate u online nastavi pri čitanju kratkog teksta (kvizovi, prezentacije)."
+    },
+    {
+      "oznaka": "B.3.2",
+      "opis": ".2. Otkrivaključne poruke u različitim medijskim formatima na osnovu pročitanih kratkih tekstova(reklamni poster, strip, animirani film ili"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C1.1. Učestvuje u različitim oblicima govorne produkcije koristeći obilježja formalnog i neformalnog standardnog jezika."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "C2.1. Koristi različite komunikacijske strategije u govoru na arapskom jeziku."
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "C3.1. Primjenjuje govor promišljajući o obrascima sporazumijevanja u različitim interkulturalnim kontekstima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Prepričava jednostavne tekstove odgovarajućom intonacijom."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Odgovara jenstavnom i kratkom rečenicom na pitanja poznate tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Odgovara pravilno i  kratko  na pitanja otvorenog tipa."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Učestvuje u kratkim i jednostavnim razgovorima  o poznatoj tematici prema utvrđenim smjernicama uz poticaj nastavnika."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi osnovne obrasce komunikacije povezujući kraće cjeline sa prethodno naučenim."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Održava kontakt očima u interakciji postavljajući sagovorniku više podpitanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Oponaša ključne obrasce uljudnog ophođenja prihvatajući različitosti između sebe i drugih/drugačijih."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Identifikuje ključne činjenice i obilježja kulture zemalja arapskog govornog područja u realnom ili digitalnom okruženju."
+    },
+    {
+      "oznaka": "C.7.4",
+      "opis": "C3.2. Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u kontekstu i interkulturalnosti."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "C3.2.1.Koristi informatičke alate u online nastavi (link, kvizovi, prezentacije)."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Identifikuje ključne poruke u različitim medijskim formatima."
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": "D1.1. Piše različite vrste tekstova uz upotrebu rječnika i usvojenog vokabulara, poštujući pravopisna pravila i jezičke zakonitosti."
+    },
+    {
+      "oznaka": "D.7.2",
+      "opis": "D2.1. Koristi različite strategije pisanja kreativnih i funkcionalnih tekstova u svrhu efikasne komunikacije i izražavanja mišljenja u stvarnom i digitalnom okruženju."
+    },
+    {
+      "oznaka": "D.7.3",
+      "opis": "D3.1.Piše različite vrste tekstova na osnovu interkulturalnih iskustava, promišljajući o činjenicama i obilježjima vlastite i drugih kultura."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.2.1 SJZ-4.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše kratke tekstove poznate tematike poštujući znakove interpunkcije, pravopisna pravila i jezičke zakonitosti."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi dvojezični rječnik u svrhu obogaćivanja vokabulara."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše kratke tekstove poznate tematike koristeći jednostavne forme (e-mail, projekti)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi jednostavne strategije kreativnog i vođenog pisanja opisujući ljude, sadašnje i prošle događaje."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše kratke sadržaje/tekstove prema smjernicama nastavnika, koristeći osnovne činjenice i obilježja vlastite kulture i kulture zemalja arapskog govornog područja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi jednostavne obrasce uljudnog ophođenja pri pisanju kratkog sastava o svakodnevnom životu, prošlim događajima i digitalnom okruženju."
+    },
+    {
+      "oznaka": "D.7.4",
+      "opis": "D3.2. Razvija proces pisanja I kreativno pisanje"
+    },
+    {
+      "oznaka": "D.7.5",
+      "opis": "D3.3. Obogaćuje vokabular, koristi rječnik i informacijsko-komunikacijske tehnologije"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "SJZ-4.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Prepoznake glavne i sporedne likove u pročitanom kratkom tekstu."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Odgovara na pitanja o pročitanom tekstu."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Piše hronološki redoslijed događaja u pročitanoj tekstu na osnovu ponuđenog slikovnog poticaja."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": ". Primjenjuje osnovne informatičke alate u online nastavi pri pisanju, uređivanju kratkih sadržaja (e-mail, prezentacije)."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "A.8.4"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "B.8.4"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "C.8.4"
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "D.8.2"
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "D.8.4"
+    },
+    {
+      "oznaka": "D.8.5",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A1.1. Tumači slušani sadržaj koristeći strategije slušanja razvijajući pozitivan stav prema aktivnom slušanju."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "A2.1. Koristi vokabular, jezičke strukture i zakonitosti, te analizira specifičnosti izgovora slušanog sadržaja."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "A3.1. Promišlja o obrascima sporazumijevanja u svakodnevnim interkulturalnim kontekstima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Povezuje osnovne informacije iz kratkog i jednostavnog teksta poznate tematike."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi osnovne informacije iz kratkog slušanog sadržaja poznate tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Odgovara kratkom rečenicom na složenija pitanja otvorenog tipa na osnovu slušanog sadržaja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Prepoznaje jezičke strukture."
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": ".2. Koristi osnovne leksičke i gramatičke strukture tokom ili nakon slušanja kratkog audioi/ili multimedijalnog teksta iz svakodnevnog života."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi pravilan izgovor novih riječi i jezičkih struktura kratkog slušanog audio i/ili multimedijalnog sadržaja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Prepoznaje osnovne činjenice i obilježja kulture zemalja arapskog govornog područja/drugih kultura i vlastite kulture pri slušanju kratkog teksta."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi obrasce sporazumijevanja u simuliranim interkulturalnim susretima tokom ili nakon slušanja prepoznajući povezanost jezika i kulture."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Upotrebljava pojašnjenja nastavnika, reagujući na strane i nerazumljive sadržaje tokom slušanja."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ".Upotrebljava konkretne primjere pozitivnih načina ophođenja prema pripadnicima drugih kultura u različitim kontekstima slušanja u svakodnevnom životu."
+    },
+    {
+      "oznaka": "A.8.4",
+      "opis": "A3.2. Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u okviru interkulturalnosti."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "A3.2.1. Prezentuje kratke sadržaje poznate tematike koristeći informatičke alate u online nastavi tokom i nakon slušanja."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Koristi ključne pojmove u različitim medijskim formatima kroz slušani sadržaj."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Navodi prednosti/nedostatke informacijsko-komunikacijske tehnologije o odnosima među vršnjacima tokom i nakon slušanog sadržaja."
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.1.1. Čita s razumijevanjem različite vrste tekstova i digitalnih sadržaja, koristeći strategije čitanja i informacijsko-komunikacijske tehnologije."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "B2.1. Koristi različite strategije čitanja prilikom usvajanja i  analize nepoznatih riječi, jezičkih struktura i fonetskih zakonitosti."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "B3.1. Istražuje jezik, kulturu i demokratske vrijednosti zemalja arapskog govornog područja i vlastite kulture."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Čita jednostavne i kratke tekstove , koristeći osnovne strategije čitanja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ".Prepoznaje ključne informacije iz pročitanog sadržaja."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi različite izvore za čitanje kao što su"
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Odgovara na kratka pitanja preispitujući vlastito razumijevanje pročitanog teksta."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Čita pravilno tekstove srednje dužine uz odgovarajuću intonaciju i naglasak, prateći znakove interpunkcije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Prepoznaje značenje novih jezičkih struktura u pročitanim tekstovima srednje dužine poznate tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Obogaćuje vokabular novim riječima iz tekstova srednje dužine poznate tematike, koristeći dvojezični rječnik."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Prepoznaje osnovne gramatičke strukture nakon pročitanog kratkog teksta poznate tematike"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Upoređuje sličnosti i različitosti o obilježjima, običajima i kulturnim znamenitostima vlastite zemlje i zemalja arapskog govornog područja na osnovu pročitanog teksta srednje dužine."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Identifikuje o različitim saznanjima o arapskim zemljama i kulturama."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi osnovne činjenice o državnim i vjerskim praznicima na osnovu pročitanog teksta srednje dužine i vizuelnog i/ili multimedijalnog poticaja."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Prepoznaje primjere poštivanja vlastite i drugih kultura, razvijajući pozitivan stav prema humanističkim i društvenim vrijednostima."
+    },
+    {
+      "oznaka": "B.8.4",
+      "opis": "B3.2. Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u okviru interkulturalnosti."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "B3.2.1. Prezentuje kratke sadržaje poznate tematike koristeći informatičke alate u online nastavi na osnovu pročitanog teksta srednje dužine."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Prepoznaje ključne pojmove u različitim medijskim formatima na osnovu pročitanog kratkog sadržaja."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Prepoznaje prednosti/nedostatke informacijsko-komunikacijske tehnologije o odnosima među vršnjacima tokom i nakon čitanja."
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C1.1. Učestvuje u različitim oblicima govorne produkcije koristeći obilježja formalnog i neformalnog standardnog jezika."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "C2.1. Koristi različite komunikacijske strategije u govoru na arapskom jeziku."
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "C3.1. Primjenjuje govor promišljajući o obrascima sporazumijevanja u različitim interkulturalnim kontekstima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.1.2 SJZ-3.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Prepričava kratke tekstove odgovarajućom intonacijom."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Učestvuje u kratkom i jednostavnom razgovoru poznate tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Odgovara pravilno kratkom rečenicom na pitanja otvorenog tipa."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Kreira razgovor srednje dužine prema utvrđenim smjernicama uz poticaj nastavnika."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi obrasce komunikacije poznate tematike povezujući cjeline srednje dužine sa prethodno naučenim."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Demonstrira ključne obrasce uljudnog ophođenja prihvatajući različitosti između sebe i drugih/drugačijih."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Povezuje ključne činjenice i obilježja kulture zemalja arapskog govornog područja u realnom ili digitalnom okruženju."
+    },
+    {
+      "oznaka": "C.8.4",
+      "opis": "C3.2. Analizira ulogu medija i informacijsko- komunikacijskih tehnologija u kontekstu i         interkulturalnosti."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "C3.2.1. Prezentuje kratke sadržaje poznate tematike koristeći informatičke alate u online nastavi."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Koristi ključne pojmove u različitim medijskim formatima."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Navodi prednosti/nedostatke informacijsko-komunikacijske tehnologije o odnosima među vršnjacima."
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "D1.1. Piše različite vrste tekstova uz upotrebu rječnika i usvojenog vokabulara, poštujući pravopisna pravila i jezičke zakonitosti."
+    },
+    {
+      "oznaka": "D.8.2",
+      "opis": "D2.1. Koristi različite strategije pisanja kreativnih i funkcionalnih tekstova u svrhu efikasne komunikacije i izražavanja mišljenja u stvarnom i digitalnom okruženju."
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "D3.1.Piše različite vrste tekstova na osnovu interkulturalnih iskustava, promišljajući o činjenicama i obilježjima vlastite i drugih kultura."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.1.2 SJZ-4.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše tekstove srednje dužine poštujući znakove interpunkcije, pravopisna pravila i jezičke zakonitosti."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi dvojezični rječnik u svrhu obogaćivanja vokabulara."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše tekstove poznate tematike koristeći različite forme pri pisanju (formalni/neformalni e-mail,projekti,dnevnik,blogovi)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi različite strategije i tehnike kreativnog i vođenog pisanja opisujući ljude, događaje, doživljaje."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše sadržaje/tekstove srednje dužine koristeći osnovne činjenice i obilježja vlastite kulture i kulture zemalja arapskog govornog područja na osnovu smjernica nastavnika."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi obrasce uljudnog ophođenja u pisanju sastava srednje dužine o sadašnjim, prošlim i budućim događajima i digitalnom okruženju."
+    },
+    {
+      "oznaka": "D.8.4",
+      "opis": "D3.2. Razvija proces pisanja I kreativno pisanje"
+    },
+    {
+      "oznaka": "D.8.5",
+      "opis": "D3.3. Obogaćuje vokabular, koristi rječnik i informacijsko-"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "SJZ-4.2.3"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Identifikuje glavne, sporedne likove, mjesto i vrijeme dešavanja u pročitanom tekstu srednje dužine."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Tumači sadržaje iz teksta srednje dužine odgovarajući na pitanja."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Piše hronološki redoslijed događaja u pročitanom tekstu srednje dužine."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": ". Primjenjuje osnovne informatičke alate u online nastavi pri pisanju, uređivanju i kreiranju kratkih sadržaja (e-mail, prezentacije)."
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A.9.2"
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "A.9.4"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "B.9.4"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.2"
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "C.9.4"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "D.9.4"
+    },
+    {
+      "oznaka": "D.9.5",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A1.1. Tumači slušani sadržaj koristeći strategije slušanja razvijajući pozitivan stav prema aktivnom slušanju."
+    },
+    {
+      "oznaka": "A.9.2",
+      "opis": "A2.1. Koristi vokabular, jezičke strukture i zakonitosti, te analizira specifičnosti izgovora slušanog sadržaja."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "A3.1. Promišlja o obrascima sporazumijevanja u svakodnevnim interkulturalnim kontekstima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Objašnjava informacije jednostavnog i kratkog teksta razlikujući bitne od nebitnih informacija."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Bira ključne informacije iz slušanog sadržaja poznate tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ".Odgovara prosto-proširenom rečenicom na pitanja slušanog sadržaja."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ".Prepoznaje glavne poruke slušanog sadržaja te ih povezuje sa vlastitim iskustvom."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Prepoznaje jezičke strukture i zaključuje o pravilima njihove tvorbe i upotrebe."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi jednostavnije leksičke i gramatičke strukture tokom ili nakon slušanja ili istovremenog čitanja i slušanja teksta audio i/ili multimedijalnog teksta iz svakodnevnog života."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi jezičke strukture u kontekstu i smišlja njihove vlastite primjere."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Upotrebljava osnovne činjenice i obilježja kulture zemalja arapskog govornog područja/drugih kultura i vlastite kulture pri slušanju kratkog teksta ."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Ocjenjuje svoje viđenje razlika između arapske i svoje kulture."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Rješava samostalno strane i nerazumljive sadržaje tokom slušanja pronalazeći ispravna i konstruktivna rješenja na osnovu konteksta."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Upoređuje kulturne sličnosti i razlike i razvija svijest o vlastitoj kulturi."
+    },
+    {
+      "oznaka": "A.9.4",
+      "opis": "A3.2. Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u okviru interkulturalnosti."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "A3.2.1. Prezentuje sadržaje srednje dužine poznate tematike koristeći informatičke alate u online nastavi tokom i nakon slušanja."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ".Objašnjava  pojmove u jednostavnim medijskim formatima kroz slušani sadržaj."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Navodi prednosti/nedostatke informacijsko-komunikacijske tehnologije o odnosima među vršnjacima tokom i nakon slušanja."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.1.1. Čita s razumijevanjem različite vrste tekstova i digitalnih sadržaja, koristeći strategije čitanja i informacijsko - komunikacijske tehnologije."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "B2.1. Koristi različite strategije čitanja prilikom usvajanja i  analize nepoznatih riječi, jezičkih struktura i fonetskih zakonitosti."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "B3.1.  Istražuje jezik, kulturu i demokratske vrijednosti zemalja arapskog govornog područja i vlastite kulture."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Čita različite tekstove uz pravilan izgovor, akcenat i intonaciju."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Pronalazi ključne informacije iz pročitanog sadržaja."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi različite izvore za čitanje kao što su informacijsko-komunikacijske tehnologije i školsku/gradsku biblioteku, pokazujući pozitivan stav prema čitanju."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ".Odgovara na pitanja srednje dužine preispitujući vlastito razumjevanje teksta."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Čita pravilno različite tekstove poznate tematike uz odgovarajuću intonaciju i naglasak, poštujući znakove interpunkcije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ".Objašnjava značenja novih jezičkih struktura u pročitanim tekstovima srednje dužine poznate tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Proširuje vokabular novim riječima iz različitih tekstova srednje dužine poznate tematike."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ".Upotrebljava osnovne  gramatičke strukture i zakonitosti nakon pročitanog kratkog teksta poznate tematike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Raspravlja o sličnostima i različitostima obilježja, običaja i kulturnih znamenitosti vlastite zemlje i zemalja arapskog govornog područja na osnovu pročitanog teksta srednje dužine."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Prikuplja informacije o arapskim zemljama i kulturama."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Tumači međukulturne sličnosti i razlike u komunikaciji."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ".Iznosi vlastiti stav prema vlastitoj i drugim kulturama na osnovu pročitanog teksta srednje dužine."
+    },
+    {
+      "oznaka": "B.9.4",
+      "opis": "B3.2. Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u okviru interkulturalnosti."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "B3.2.1. Prezentuje sadržaje srednje dužine poznate tematike koristeći informatičke alate u online nastavi na osnovu pročitanog teksta."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Objašnjava pojmove u različitim medijskim formatima kroz pročitani sadržaj srednje dužine."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Navodi prednosti/nedostatke informacijsko-"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C1.1. Učestvuje u različitim oblicima govorne produkcije koristeći obilježja formalnog i neformalnog standardnog jezika."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": "C2.1. Koristi različite komunikacijske strategije u govoru na arapskom  jeziku."
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "C3.1. Primjenjuje govor kritički promišljajući o obrascima sporazumijevanja u različitim interkulturalnim kontekstima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.1.2 SJZ-3.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Prepričava tekstove srednje dužine odgovarajućom intonacijom."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Učestvuje u kratkom i jednostavnom razgovoru poznate tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Odgovara pravilno prosto-proširenom rečenicom na pitanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ".Razmjenjuje informacije o bliskim temama, navikama i aktivnostima upotrebljavajući jednostavne izraze."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Kreira  jednostavan i kratak razgovor."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ".Primjenljuje norme kulturnog obraćanja u vlastitoj sredini prihvatajući različitosti između sebe i drugih/drugačijih."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Povezuje ključne činjenice i obilježja kulture zemalja arapskog govornog područja u realnom ili digitalnom okruženju."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Primjenjuje u relevantnom kontekstu osnovne kulturne sličnosti/različitosti u kratkom razgovoru."
+    },
+    {
+      "oznaka": "C.9.4",
+      "opis": "C3.2. Analizira ulogu medija i informacijsko-komunikacijskih tehnologija u kontekstu i         interkulturalnosti"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "C3.2.1. Prezentuje sadržaje srednje dužine poznate tematike koristeći informatičke alate u online nastavi."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Tumači pojmove u različitim medijskim formatima."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Navodi prednosti/nedostatke informacijsko-komunikacijske tehnologije o odnosima među vršnjacima."
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D1.1. Piše različite vrste tekstova uz upotrebu rječnika i usvojenog vokabulara, poštujući pravopisna pravila i jezičke zakonitosti"
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "D2.1. Koristi različite strategije pisanja kreativnih i funkcionalnih tekstova u svrhu efikasne komunikacije i izražavanja mišljenja u stvarnom i digitalnom okruženju."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "D3.1.Piše različite vrste tekstova na osnovu interkulturalnih iskustava, promišljajući o činjenicama i obilježjima vlastite i drugih kultura."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.1.2 SJZ-4.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše različite tekstove poznate tematike poštujući znakove interpunkcije, pravopisna pravila i jezičke zakonitosti."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ".Opisuje događaj iz ličnog iskustva i vlastite situacije svoje svakodnevnice koristeći se jednojezičnim i dvojezičnim rječnikom."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše različite vrste tekstova poznate tematike koristeći različite forme pri pisanju (formalni/neformalni e-mail, projekti, blogovi,osnovna forma eseja)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi različite strategije i tehnike kreativnog i vođenog pisanja opisujući događaje i likove iz prošlosti."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše različite sadržaje/tekstove koristeći osnovne činjenice i obilježja vlastite kulture i kulture zemalja arapskog govornog područja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Primjenjuje obrasce uljudnog ophođenja pri pisanju sastava srednje dužine o sadašnjim, prošlim i budućim događajima i digitalnom okruženju."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Opisuje događaje iz različitih perspektiva."
+    },
+    {
+      "oznaka": "D.9.4",
+      "opis": "D3.2. Razvija proces pisanja I kreativno pisanje"
+    },
+    {
+      "oznaka": "D.9.5",
+      "opis": "D3.3. Obogaćuje vokabular, koristi rječnik i informacijsko-"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "SJZ-4.2.3"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Tumači sadržaje iz priča srednje dužine kritički promišljajući i povezujući ih sa svakodnevnim životom."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Piše kratak opis glavnih likova i kratak osvrt na važne događaje u pročitanom djelu na osnovu ponuđenog modela i uz poticaj nastavnika."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": ". Kreira sadržaje srednje dužine poznate tematike koristeći informatičke alate u online nastavi (web stranica, blog)."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.1 SJZ-1.3.1"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "Prepoznaje poruku slušanog teksta o drugome i drugačijem u medijima, koristećiinformacijsko- komunikacijsku tehnologiju."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.1.2 SJZ-2.3.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "Koristi medije i informacijsko-komunikacijske tehnologije u svrhu prepoznavanja specifičnosti kulture I običaja zemalja arapskog govornog područja, poredeći ih sa vlastitim."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.2.1 SJZ-3.3.1 SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Pronalazi informacije o nastavnim sadržajima u sigurnom digitalnom okruženju."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.1.2 SJZ-4.2.1 SJZ-4.2.3"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "SJZ-4.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.2.1 SJZ-1.2.2 SJZ-1.3.1"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "Istražuje ulogu medija, navodeći prednosti/ nedostatke informacijsko-komunikacijske tehnologije u kontekstu slušanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.1.2 SJZ-2.1.2 SJZ-2.2.1 SJZ-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Uočava primjere stereotipa I predrasuda o stanovnicima arapskih zemalja I BiH"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.1.2 SJZ-3.2.1 SJZ-3.3.1"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "SJZ-3.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.1.2 SJZ-4.2.1 SJZ-4.2.1 SJZ-4.2.3"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "SJZ-4.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Analizira ključne informacije srednje složenog prilagođenog teksta standardnog govora o različitim konkretnim temama iz svih sfera života."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Koristi strategije slušanja pri samostalnoj analizi različitih stavova i mišljenja u slušanom tekstu standardnog govora."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Predviđa dalju radnju i sažima sadržaj teksta prilikom slušanja i čitanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Primjenjuje novi vokabular, srednje složene jezičke strukture i zakonitosti tokom i nakon slušanja ili istovremenog čitanja i slušanja  teksta."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Analizira formalni i neformalni govor pri slušanju teksta konkretne tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Uočava  uticaj intonacije i naglaska na poruku govornika u standardnom jeziku."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Primjenjuje fonetske zakonitosti arapskog jezika tokom ili nakon slušanja teksta konkretne tematike."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Interpretira uticaj interkulturalnih iskustava u slušanom tekstu na oblikovanje vlastitih uvjerenja i stavova."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Objašnjava složenost vlastite kulture i drugih kultura i njihove sastavne dijelove tokom i nakon slušanja."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Istražuje predrasude i stereotipe prema drugim / drugačijima u vlastitoj i drugim kulturama u kontekstu slušanja."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Upoređuje arapski jezik i kulturu u muzici i filmu u odnosu na standardni arapski jezik."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "A3.2.1. Istražuje ulogu medija, navodeći prednosti / nedostatke informacijsko-komunikacijske tehnologije u kontekstu slušanja."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Objašnjava ulogu interkulturalnosti I višejezičnosti u digitalnom okruženju"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": ". Čita s razumijevanjem različite vrste tekstova i digitalnih sadržaja, koristeći strategije čitanja i informacijsko - komunikacijske tehnologije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "SJZ-2.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Razlikuje ključne i specifične informacije u različitim prilagođenim i izvornim tekstovima konkretne tematike (tekstovi, novinskičlanci, brošure i sl.)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Kreira vlastite zaključke na osnovu analize teksta konkretne tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Odgovara na različite vrste pitanja nakon pročitanog teksta."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Koristi informacijsko-komunikacijske tehnologije i vizuelna pomagala u svrhu razumijevanja i tumačenja pročitanog teksta."
+    },
+    {
+      "oznaka": ".1.5",
+      "opis": ". Čita priče iz arapske književnosti primjerene uzrastu I nivou znanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Koristi rječnik u svrhu prevođenja I razlikovanja novih riječi i izraza."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Analizira značenje složenijih jezičkih struktura na osnovu konteksta u tekstovima konkretne tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Čita uz odgovarajuću intonaciju i naglasak, poštujući znakove interpunkcije."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Primjenjuje srednje složene leksičke i gramatičke strukture i zakonitosti u vježbama čitanja primjerenim uzrastu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Istražuje društvene teme u poznatom kontekstu I donosi zaključke o važnosti učešća u društvenim aktivnostima"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Izražava kulturološku osvještenost kroz čitanje tekstova o vlastitoj zemlji i zemljama arapskog govornog područja."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Navodi primjere poštivanja vlastite i drugih kultura i demokratskih vrijednosti."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Donosi zaključke na osnovu pročitanog teksta u medijima (isječci iz novina ili časopisa i sl.)."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "B3.2.1. Navodi primjere stereotipa I predrasuda o stanovnicima arapskih zemalja I BiH"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Navodi poruke reklamnih sadržaja u kontekstu medija i informacijsko-komunikacijskih tehnologija."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Istražuje relevatna izvore informacija  s ciljem samostalnog  prepoznavanja pouzdanih od nepouzdanih izvora i sadržaja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.1.2 SJZ-3.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Primjenjuje naglasak i intonaciju standardnog jezika u govoru."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Diskutuje o konkretnim   temama koristeći srednje složene jezičke strukture i vokabular."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Razlikuje formalni I neformalni govor u konkretnim temama."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Povezuje različite elemente teksta u logičku cjelinu u planiranom (prepričavanje, prezentiranje, izvještavanje) i neplaniranom govoru."
+    },
+    {
+      "oznaka": ".1.5",
+      "opis": ". Odgovara na različita pitanja koristeći srednje složene leksičke i gramatičke strukture shodno nivou znanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Koristi srednje složene strategije govora u interakciji sa drugima u svakodnevnom i digitalnom okruženju shodno nivou znanja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Postavlja pitanja za dodatna pojašnjenja prevladavajući nesporazume i nejasnoće."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Uočava međukulturalne razlike u razgovoru sa pripadnicima drugih kultura u različitim svakodnevnim kontekstima i digitalnom okruženju."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Navodi različita obilježja i tradiciju drugih kultura u interakciji sa drugima, izbjegavajući stereotipe."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Razgovara o poznatim društvenim temama uz poštivanje demokratkih vrijednosti."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "C3.2.1. Prepoznaje ulogu masovnih medija i informacijsko-komunikacijske tehnologije u kreiranju ili otklanjanju stereotipa i predrasuda u društvu prezentirajući primjere iz stvarnog života."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Objašnjava poruke reklamnih sadržaja i njihov uticaj u  kontekstu medija i informacijsko-komunikacijskih tehnologija."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Istražuje relevantne izvore informacija s ciljem samostalnog prepoznavanja pouzdanih od nepouzdanih sadržaja i razvijanja prezentacijskih i govornih vještina."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.1.2 SJZ-4.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše srednje složene vrste vezanog teksta poštujući pravopisna pravila i znakove interpunkcije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Piše različite vrste vezanog teksta konkretne tematike koristeći poznate leksičke i gramatičke strukture i zakonitosti."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi rječnik u svrhu boljeg pismenog izražavanja i tumačenja nepoznatih riječi i izraza."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Koriguje samosatalno napisani tekst uz asistenciju profesora/ice."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše jednostavne forme funkcionalnih tekstova (CV, neformalno / formalno pismo/e-mail, izvještaj) koristeći informacijsko –komunikacijsketehnologije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Primjenjuje jednostavne strategije i tehnike kreativnog i argumentativnog načina pisanja eseja."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi informacijsko-komunikacijske tehnologije u svrhu tumačenja i pisanja nepoznatih riječi i izraza."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Pismeno prevodi srednje složen tekst s arapskog na bosanski jezik i obrnuto, shodno nivou znanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Analizira povezanost jezika i kulture koristeći složenije obrasce sporazumijevanja u pisanju srednje složenog teksta."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Analizira konkretne primjere pozitivnih načina ophođenja prema pripadnicima drugih kultura u različitim svakodnevnim kontekstima i digitalnom okruženju uvažavajući drugog i drugačijeg."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "SJZ-4.3.1"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Piše sažetak pročitanog ili slušanog teksta u okviru različitih konkretnih tema"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Piše sažetak o važnim događajima i opisuje osobine likova u pročitanom djelu."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Istražuje vokabular i jezičke strukture navodeći stavove autora i glavnu poruku djela shodno nivou znanja."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": ". Piše vlastite tekstove i društveno-odgovorne sadržaje uz upotrebu rječnika."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": ". Kreira prezentacije o različitim sadržajima, koristeći se informacijama prikupljenim iz različitih izvora uz upotrebu informacijsko-komunikacijskih tehnologija shodno nivou znanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-1.1.2 SJZ-1.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Analizira ključne informacije srednje složenog teksta standardnog govora o različitim, konkretnim i apstraktnim temama"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": ".2. Koristi strategije slušanja pri samostalnoj analizi različitih stavova i mišljenja u slušanom tekstu standardnog govora."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi kontekst i iskustvo iz svakodnevnog života radi samostalnog planiranja novih sadržaja na osnovu slušanog teksta."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Primjenjuje novi vokabular, složene jezičke strukture i zakonitosti tokom i nakon slušanja ili istovremenog čitanja i slušanja teksta."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ".Analizira formalni i neformalni standardni govor slušanog teksta iz svih sfera života."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Poredi uticaj intonacije i naglaska na poruku govornika u standardnom jeziku."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Primjenjuje fonetske zakonitosti arapskog jezika tokom ili nakon slušanja teksta"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Objašnjava uticaj interkulturalnih iskustava u slušanom tekstu na oblikovanje vlastitih uvjerenja i stavova."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Prispituje komunikacijske obrasce uljudnog ponašanja u fizičkom i digitalnom okruženju tokom i nakon slušanja."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Analizira predrasude, stereotipe i diskriminaciju drugih / drugačijih u vlastitoj i drugim kulturama u kontekstu slušanja."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Upoređuje arapski jezik i kulturu u muzici i filmu u odnosu na standardni arapski jezik."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "A3.2.1. Istražuje ulogu medija, analizirajući prednosti / nedostatke informacijsko-komunikacijske tehnologije u kontekstu slušanja."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Objašnjava ulogu interkulturalnosti I višejezičnosti u digitalnom okruženju"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": ". Čita s razumijevanjem različite vrste tekstova i digitalnih sadržaja, koristeći strategije čitanja i informacijsko - komunikacijske tehnologije."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-2.2.1 SJZ-2.2.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Razlikuje ključne i specifične informacije u različitim prilagođenim i izvornim tekstovima konkretne i apstraktne tematike (tekstovi, novinski članci, brošure i sl.)."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Kreira vlastite zaključke na osnovu analize teksta konkretne  tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Odgovara na različita složena pitanja  nakon pročitanog teksta."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Koristi informacijsko-komunikacijske tehnologije i vizuelna pomagala u svrhu razumijevanja i tumačenja pročitanog teksta."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ".5. Čita djela iz arapske književnosti primjerene uzrastu"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Koristi rječnik u svrhu prevođenja i razlikovanja novih riječi i izraza."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Analizira značenje složenih jezičkih struktura na osnovu konteksta u tekstovima konkretne i apstraktne tematike."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Čita uz odgovarajuću intonaciju i naglasak, poštujući znakove interpunkcije."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Primjenjuje složenije leksičke i gramatičke strukture i zakonitosti u vježbama čitanja primjerenim uzrastu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Istražuje društvene teme u poznatom kontekstu idonosi zaključke o važnosti učešća u društvenim aktivnostima"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Izražava kulturološku osviještenost  čitanjem tekstova o vlastitoj  zemlji i zemljama arapskog govornog područja."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Navodi primjere poštivanja vlastite i drugih kultura i demokratskih vrijednosti."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Donosi zaključke na osnovu pročitanog teksta u medijima (isječci iz novina iličasopisa i sl.)."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": "B3.2.1. Navodi primjere strereotipa I predrasuda o stanovnicima arapskih zemalja I BiH. Istražuje porijeklo I postaje svjestan svojih stereotipa."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Analizira poruke reklamnih sadržaja i njihov uticaj u  kontekstu medija i informacijsko – komunikacijskih tehnologija."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Istražuje relevantne izvore informacija s ciljem samostalnog prepoznavanja pouzdanih od nepouzdanih izvora i sadržaja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-3.1.2 SJZ-3.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Primjenjuje naglasak i intonaciju standardnog jezika u govoru."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Diskutuje o konkretnim i apstraktnim temama koristeći srednje složene jezičke strukture i vokabular."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Razlikuje formalni i neformalni govor u konkretnim i apstraktnim temama."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Povezuje različite elemente teksta u logičku cjelinu  u planiranom (prepričavanje, izvještavanje i prezentiranje) i neplaniranom govoru."
+    },
+    {
+      "oznaka": ".1.5",
+      "opis": ". Odgovara na različita pitanja koristeći srednje složene leksičke i gramatičke strukture."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Koristi srednje složene strategije govora u interakciji sa drugima u svakodnevnom i digitalnom okruženju."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Postavlja pitanja za dodatna pojašnjenja prevladavajući nesporazume."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Uočava međukulturalne razlike u razgovoru sa pripadnicima drugih kultura u različitim svakodnevnim kontekstima i digitalnom okruženju."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Analizira različita obilježja drugih kultura i tradicija u interakciji sa drugima izbjegavajući stereotipe."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Razgovara o različitim društvenim temama uz poštivanje demokratskih vrijednosti."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "C3.2.1. Istražuje ulogu masovnih medija i informacijsko-komunikacijske tehnologije u kreiranju ili otklanjanju stereotipa i predrasuda u društvu prezentujući primjere iz stvarnog života."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Analizira poruke reklamnih sadržaja i njihov uticaj u  kontekstu medija i informacijsko-komunikacijskih tehnologija."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Istražuje relevantne izvore informacija s ciljem samostalnog prepoznavanja pouzdanih od nepouzdanih izvora i sadržaja i razvijanja prezentacijskih i govornih vještina."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "SJZ-4.1.2 SJZ-4.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše srednje složene vrste vezanog teksta poštujući pravopisna pravila i znakove interpunkcije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Piše različite vrste vezanog teksta konkretne i apstraktne tematike koristeći poznate leksičke i gramatičke strukture i zakonitosti."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi rječnik u svrhu boljeg pismenog izražavanja i tumačenja nepoznatih riječi i izraza."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Koriguje samostalno napisani tekst."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Piše jedostavne forme funkcionalnih tekstova (CV, formalno -neformalno pismo/e-mail, izvještaj, brošure) koristeći informacijsko-komunikacijske tehnologije."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Primjenjuje jednostavne strategije i tehnike kreativnog i argumentativnog načina pisanja eseja."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": ". Koristi informacijsko –komunikacijske tehnologije u svrhu tumačenja i pisanja nepoznatih riječi i izraza."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": ". Pismeno prevodi srednje složen tekst s arapskog na bosanski jezik i obrnuto."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ". Analizira povezanost jezika i kulture, koristeći jednostavne obrasce sporazumijevanja u pisanju srednje složenog teksta."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": ". Analizira konkretne primjere pozitivnih načina ophođenja prema pripadnicima drugih kultura u različitim svakodnevnim kontekstima i digitalnom okruženju, uvažavajući drugog i drugačijeg."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "SJZ-4.2.3"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ". Piše sažetak pročitanog ili slušanog teksta u okviru različitih konkretnih I apstraktnih tema"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": ". Piše sažetak o važnim događajima i opisuje osobine likova u pročitanom djelu."
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": ". Istražuje vokabular i jezičke strukture navodeći stavove autora i glavnu poruku djela."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": ". Piše vlastite tekstove i društveno-odgovorne sadržaje uz upotrebu rječnika."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": ". Kreira prezentacije o različitim sadržajima, koristeći se informacijama prikupljenim iz različitih izvora uz upotrebu informacijsko-komunikacijskih tehnologija."
+    }
+  ],
+  "kljucni_sadrzaji": [],
+  "preporuke": {
+    "metodicke_smjernice": [
+      ":",
+      "Preporuke za realizaciju tema:",
+      "Preporučene teme na ovom nivou se postepeno proširuju, primjerene su uzrastu, jezičkom razvoju i interesovanjima učenika. Teme se mogu izučavati zasebno ili u kombinaciji.",
+      "Preporuke za realizaciju leksičkih i gramatičkih struktura:",
+      "Prošireni vokabular na ovom nivou je u skladu sa temama koje se obrađuju s ciljem funkcionalnije upotrebe. Prilikom uvježbavanja leksičkih i gramatičkih sadržaja, treba kreirati pozitivnu klimu u učionici (fotografije, panoi, posteri) i ponuditi širok spektar aktivnosti  koje  će odgovarati različitim stilovima učenja učenika. Pri realizaciji datih tema od velike važnosti  je postepeno i sistematično  proširivanje broja riječi i izraza. Gramatičke i leksičke strukture se i dalje biraju primjereno razvojnoj dobi učenika i u uskoj su vezi sa funkcijama i temama uz sistematično usvajanje i ponavljanje.Učenici koriste leksičke i jezičke strukture u govoru i pisanju na osnovu slušanog, kraćeg pročitanog i pisanog sadržaja."
+    ],
+    "medjupredmetne_korelacije": [
+      ":",
+      "Horizontalno umrežavanje podrazumijeva audio, printane i pisane sadržaje formom povezane sa predmetima Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (imenice, zamjenice, pridjevi, veliko slovo, ključni znakovi interpunkcije) i Drugi strani jezik (funkcionalna upotreba jezika), a tematski povezanih sa predmetima Priroda  (ljudsko tijelo, bolesti i zdravlje, biljni svijet), Društvo (tradicija, narodi i kulturno nasljeđe BiH), Matematika (brojevi do 100 i računanje, oblici, vrijeme, jedinice za mjeru), Informatika (internet, digitalni sadržaji, aplikacije, društvene mreže, slikovni e-rječnik, Word tekst), Kultura življenja (svakodnevni život), Muzička kultura (pjesmice, brojalice i muzički instrumenti), Likovna kultura (ilustriranje slušanog ili pročitanog sadržaja,crtež kao stimulus), Tjelesni i zdravstveni odgoj(sport i rekreacija – klizanje, rolanje, biciklizam; moja domovina - tradicionalne igre; sezonske zdrave namirnice)."
+    ],
+    "kompetencijski_pristup": [
+      "omogućav"
+    ]
+  }
+}

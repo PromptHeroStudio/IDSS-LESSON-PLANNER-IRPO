@@ -1,0 +1,125 @@
+PREDMET: Priroda
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Priroda
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Priroda
+Priroda - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Osnovno
+5
+Godine učenja i podučavanja predmeta: 1
+A A. Zemlja prostor života: strukturna i funkcionalna povezanost žive i nežive prirode
+A.5.1
+A.5.2
+A.5.3
+A.5.4
+A.5.5
+A.5.6
+A.5.7
+A.5.8
+A.5.9
+A
+A. Zemlja prostor života: strukturna i funkcionalna povezanost žive i nežive prirode
+
+A.5.1
+Objašnjava osobine živog i neživog.
+A.5.2
+Istražuje organizaciju i nivoe organizacije prirode.
+A.5.3
+Zaključuje o utjecaju prostora i faktora prostora na organizam (npr. svjetlost, toplota, vlažnost, zemljište...) i životnu zajednicu.
+PNP-2.1.1 BIO-1.2.1
+Opisuje prirodu razlikujući živo od neživog.
+Prepoznaje vezu između žive i nežive prirode na jednostavnim primjerima iz okruženja.
+Objašnjava osobine organizama kao živih bića.
+Prepoznaje da su živa bića građena od ćelija.
+Prepoznaje nivoe organizacije prirode istražujući svijet oko sebe.
+Opisuje nivoe organizacije biljaka i životinja.
+Objašnjava organizaciju biljaka i životinja na primjeru životne zajednice.
+Objašnjava utjecaj prostora i faktora prostora na organizme.
+Opisuje načine prilagodbe organizama prostoru  njihovog življenja.
+
+
+
+A.5.4
+Istražuje strukturnu i funkcionalnu povezanost organizama i organizama i sredine.
+A.5.5
+Izvodi praktične vježbe o povezanosti žive i nežive prirode.
+A.5.6
+Utvrđuje uzroke poremećaja  i važnost očuvanja prirodnog sklada.
+BIO-1.2.2 BIO-1.4.4 BIO-1.3.1
+Opisuje morfološke i ključne anatomske osobine biljaka i životinja.
+Upoređuje proces fotosinteze i disanja na primjeru stvaranja energije.
+Opisuje proces kruženja tvari u prirodi na jednostavnim primjerima.
+Povezuje živa bića u životnoj zajednici, praveći jednostavne lance i mreže ishrane na primjeru životne zajednice iz vlastitog okruženja.
+Provodi jednostavno istraživanje o povezanosti žive i nežive prirode po unaprijed dogovorenim kriterijima, primjenjujući mjere opreza.
+ Izvodi praktične radove o povezanosti žive i nežive prirode prateći pisane upute (npr. pravi jednostavne zbirke sjemenki, listova, plodova…).
+Prezentira rezultate istraživanja o povezanosti žive i nežive prirode u vidu izvještaja u pisanom i verbalnom obliku koristeći tabelarne, shematske i grafičke prikaze u cilju pojašnjenja.
+Prepoznaje glavne uzročnike nesklada prirode u svome okruženju.
+Identifikuje zagađivače vode, tla i zraka.
+Istražuje i objašnjava povezanost  žive i nežive prirode u vezi sa očuvanjem njenog sklada.
+KLJUČNI SADRŽAJI
+Priroda (živa i neživa). Osobine živih bića (ćelijska građa, rađanje, rast, razmnožavanje, disanje, umiranje). Nivoi ekološke organizacije (jedinka, populacija, životna zajednica, ekosistem). Životne zajednice (oranica, livada, šuma, rijeka, bara, jezero). Biljke (biljni organi, fotosinteza, disanje). Životinje (organi i organski sistemi životinja).
+PREPORUKE ZA OSTVARENJE ISHODA
+Preporuke za realizaciju ishoda učenja:
+Mogućnosti efikasnog učenja i podučavanja – metodičke smjernice
+Radi što boljeg i kvalitetnijeg usvajanja gradiva iz tematske cjeline povezanost žive i nežive prirode preporučuju se aktivnosti pažljivog proučavanja, posmatranja i upoređivanja pojava i procesa sadržanih u ovoj cjelini. Važno je učenicima pružati priliku da uočavaju sličnosti i razlike između pojedinih pojava i procesa i da na osnovu toga mogu izvoditi odgovarajuće zaključke. Kada je u pitanju poučavanje o organizaciji živih bića, naglasak treba staviti na posmatranje nežive i žive materije koristeći se lupom i mikroskopom. Fokus upoznavanja ćelije nije građa ćelije nego prepoznavanje ćelije kao gradivne jedinice svih živih bića (npr.kokošje jaje, narandža – lupa, pokožica luka – mikroskop, video prikazi, IKT), poštujući koncept sve je od nečega građeno.
+Biološku raznolikost ekosistema obraditi na primjerima u bližoj okolini, zavičaju, npr. rijeka, potok, šuma, livada itd. Poređenje biorazličitosti u dvije zajednice koje se razlikuju s obzirom na antropogeno djelovanje moguće je prikazati kroz primjer oranice i livade.
+Biljne organe (korijen, stablo, list, cvijet, cvat, plod) obraditi sa posebnim naglaskom na funkcije biljnih organa kako bi se mogli objasniti procesi fotosinteze i disanja. Disanje i fotosintezu objasniti kao procese u kojima dolazi do pretvaranja energije u živim sistemima s posebnim osvrtom na koncept da energija ne nastaje ili ne nestaje, nego da se energija pretvara iz jednog oblika u drugi.  Istaći hranu kao osnovni izvor energije za sva živa bića, te načine skladištenja hrane(gomolj, plod, sjemenka). Biljke proizvode hranu, a tu hranu koriste životinje za procese disanja, varenja, kretanja.
+Građa životinjskog organizma: sistem organa za kretanje, disanje i varenje, a u funkciji razumijevanja važnosti za snabdijevanje tijela kisikom i hranljivim tvarima. Jako je važno da nastavnik/ca prilagodi terminologiju uzrastu učenika, npr. nije važno imenovati dijelove sistema organa, nego razumjeti ulogu u pribavljanju energije za funkcionisanje organizama.
+Kroz izvođenje jednostavnih eksperimenata potaći učenike na posmatranje i zaključivanje o utjecaju faktora sredine na životne funkcije živih bića. Strukturnu povezanost organizama i sredine objasniti kroz odnose ishrane navođenjem primjera hranidbenih lanaca, te primjera suživota različitih organizama i parazitskog načina života što se može povezati s mjerama higijene.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije:
+Specifičnost međupredmetne povezanosti ogleda se u korelaciji s nastavnim predmetima Bosanski/Srpski/Hrvatski jezik i  književnost, Društvo, Matematika, Informatika, Likovna kultura, Tjelesni i zdravstveni odgoj i Kultura življenja. Učenici će kroz usvajanje sadržaja ove teme imati značajne mogućnosti u smislenom bogaćenju rječnika. U sklopu obrade nastavnih sadržaja životne zajednice neophodno je povezati gradivo iz nastavnog predmeta Društvo (npr. poljoprivreda, privreda, poduzetništvo). Korelacija s nastavom matematike se ostvaruje korištenjem mjernih instrumenata i mjernih jedinica (npr. termometar, litar, centimetar). Primjenom različitih likovnih tehnika u rješavanju likovnih problema kroz korištenje motiva iz prirode omogućavaju percepciju oblika tijela i prostora i djeluju na razvoj učeničke kreativnosti. Nastavni sadržaji ove tematske cjeline omogućavaju razvijanje navika potrebnih za zdrav život i zdravlje. Moguće ih je povezati sa nastavnim sadržajima s nastavom Tjelesnog i zdravstvenog odgoja i Kulture življenja.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Interaktivno okruženje koje potiče saradnju i mulitidisciplinarnost, u kojem se učenicimogu uključiti u praktične zadatke je glavni preporučeni pristup za razvijanje ključnih kompetencija. Projektna nastava, samostalni istraživački rad, izvanučionička nastava predstavljaju pogodne načine za razvoj kompetencija učenika jer se istovremeno može raditi na usvajanju više ključnih kompetencija i povezati više nastavnih predmeta. 
+Jezičko-komunikacijsku kompetenciju je izuzetno važno razvijati već od rane dobi jer je neophodna za stjecanje znanja, učenja i vještina kao što su kreativnost, kritičko mišljenje, timski rad.
+Rad na jednostavnim projektima, učenike potiče na korištenje informacijsko-komunikacijske tehnologije i služi kao podstrek  za kritičko razmišljanje i kreativnost. Projektne teme trebaju biti zanimljive, aktuelne i podrazumijevaju aktivno uključivanje učenika u što više aktivnosti koje su neophodne za realizaciju samog projekta.
+Za razvoj društvene i građanske kompetencije kod učenika neophodno je razvijanje vještina svrsishodne interakcije s lokalnom zajednicom, usmjereno na ličnu, društvenu korist i odgovornost.
+
+
+
+A.5.7
+Procjenjuje antropogeni uticaj na životnu sredinu i važnost odgovornog odnosa prema prirodi.
+A.5.8
+Argumentuje važnost očuvanja prirode radi održivosti biodiverziteta.
+A.5.9
+Istražuje o ekologiji čovjeka.
+BIO-1.3.3 BIO-1.3.2 BIO-1.4.3
+Pronalazi primjere pozitivnog i negativnog antropogenog utjecaja na živu i neživu prirodu u neposrednom okruženju.
+Procjenjuje posljedice čovjekovih aktivnosti  na živi svijet.
+Predlaže i provodi mjere zaštite i unapređenja životne sredine.
+Objašnjava biodiverzitet  kao jedan od ključnih pojmova za očuvanje prirode.
+Prepoznaje endemske, rijetke, ugrožene i zaštićene vrste biljaka i životinja u Bosni i Hercegovini uz argumentaciju važnosti njihovog očuvanja.
+Upoređuje različite kategorije zaštite prirode (nacionalni park, park prirode, spomenik prirode) u Bosni i Hercegovini.
+Provodi jednostavno istraživanje o ekologiji čovjeka po unaprijed dogovorenim kriterijima.
+Prezentira rezultate istraživanja iz ekologije čovjeka u vidu izvještaja u pisanom i verbalnom obliku koristeći tabelarne, shematske i grafičke prikaze u cilju pojašnjenja.
+KLJUČNI SADRŽAJI
+Biodiverzitet. Prirodni i antropogeni uzroci degradacije i zagađenja prirode. Pozitivan i negativan utjecaj čovjeka na prirodu. Određivanje ekološkog otiska (Istraživački pristup u kontekstu održivog razvoja).
+PREPORUKE ZA OSTVARENJE ISHODA
+Preporuke za realizaciju ishoda učenja:
+Mogućnosti efikasnog učenja i podučavanja – metodičke smjernice
+ Kako bi ova tematska cjelina bila što kvalitetnije usvojena od strane učenika potrebno bi bilo da se prema mogućnostima i specifičnostima okoline odaberu odgovarajuća ispitivanja zagađenja koja će se provesti s učenicima. Dio sadržaja povezan sa zaštitom prirode moguće je provesti terenskom nastavom, prema mogućnostima u nekom od zaštićenih područja.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije:
+ Savremeno obrazovanje podrazumijeva međupredmetnu povezanost nastavnih sadržaja. Nastavni predmet Priroda je multidisciplinaran predmet, pa su poveznice moguće s nastavnim predmetima Društvo, Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost, Matematika, Informatika, Likovna kultura, Muzička kultura i Tjelesni i zdravstveni odgoj. U procesu rješavanja problemskih situacija učenik/ca koristi jezičko-komunikacijske, matematičke i tehničko-informatičke vještine.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+ Ova tematska cjelina ima jako važan odgojni značaj jer potiče učenike/ce da upoznaju bioraznolikost svoje domovine. Naročito je važno razvijati pozitivni stav prema zaštiti i očuvanju endemskih, rijetkih i ugroženih vrsta organizama u Bosni i Hercegovini. Izučavanjem ove nastavne cjeline, započinje cjeloživotni proces učenja o ulozi pojedinca kao i cjelokupnog društva prema pojavama i procesima koji se dešavaju u  prirodnom okruženju. Važno je da u ovom periodu učenici počnu razmišljati o pozitivnom i negativnom utjecaju čovjeka na okoliš kao i predlaganju, te provođenju mjera zaštite životne sredine.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

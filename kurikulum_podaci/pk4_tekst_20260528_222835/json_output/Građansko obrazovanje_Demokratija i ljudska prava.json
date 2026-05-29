@@ -1,0 +1,312 @@
+{
+  "predmet": "Građansko obrazovanje/Demokratija i ljudska prava",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "7"
+  },
+  "tematske_cjeline": [
+    "A Pojedinac, društvo, građanin",
+    "B Uređenje demokratskog društva",
+    "C Globalizacija i međuzavisnost",
+    "A Pojedinac, društvo, građanin",
+    "B Uređenje demokratskog društva",
+    "C Globalizacija i međuzavisnost"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "A.7.4"
+    },
+    {
+      "oznaka": "A.7.5",
+      "opis": "A.7.6"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "B.7.4"
+    },
+    {
+      "oznaka": "B.7.5",
+      "opis": "B.7.6"
+    },
+    {
+      "oznaka": "B.7.7",
+      "opis": "B.7.8"
+    },
+    {
+      "oznaka": "B.7.9",
+      "opis": "C Globalizacija i međuzavisnost"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "C.7.4"
+    },
+    {
+      "oznaka": "C.7.5",
+      "opis": "C.7.6"
+    },
+    {
+      "oznaka": "C.7.7",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Analizira  slobode, prava, odgovornosti i dužnosti pojedinca u društvu i pokazuje društvenu odgovornost i posvećenost zajedničkom dobru."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "Objašnjava važnost općevažećih  pravila za osiguranje društvene jednakosti utvrđujući njihovu povezanost sa statusom građanina."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "Analizira vezu između kulturnog i građanskog identiteta navodeći  situacije u kojima se ne poštuju kulturni i građanski identiteti drugih."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GRO-1.1.3 GRO-1.1.2 GRO-1.2.1 GRO-1.2.3"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": ".1. Objašnjava  prava i odgovornosti  građana ističući njihovu značajnu povezanost."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": ".2. Objašnjava sličnosti i razlike u pravima i odgovornostima koje učenici imaju u školi i lokalnoj zajednici."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": ".3. Istražuje primjere odgovornosti putem medija, literature i iz svog okruženja, izdvajajući odgovornosti preuzete radi dostizanja zajedničkog dobra."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": ".1. Objašnjava  važnost donošenja pravila  za sve  članove zajednice radi postizanja  društvene jednakosti."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": ".2.  Razlikuje pravila kojima se osigurava jednakost od pravila kojima se privilegiraju pojedine skupine u zajednici."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": ".3. Objašnjava posljedice neizvršavanja odgovornosti pomoću primjera."
+    },
+    {
+      "oznaka": "A.7.4",
+      "opis": "Ukazuje na poštivanje različitih kulturnih i građanskih identiteta za dobrobit pojedinca i društva opisujući  kulturnu različitost kao društveno bogastvo."
+    },
+    {
+      "oznaka": "A.7.5",
+      "opis": "Poredi  pasivno i aktivno građanstvo identificirajući  oblike građanskog aktivizma za osiguranje dobrobiti građana."
+    },
+    {
+      "oznaka": "A.7.6",
+      "opis": "Analizira važnost društvene solidarnosti u zajednici."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "GRO-1.3.3 GRO-1.3.1 GRO-1.3.3 GRO-1.3.2 GRO-1.3.3"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Zaključuje o prednostima života u demokratiji i demokratskim vrijednostima i načelima."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "Analizira prepreke punom ostvarenju demokratskih vrijednosti u savremenom društvu."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "Objašnjava glavna obilježja demokratije i ulogu demokratskih institucija  u društvu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GRO-2.1.2 GRO-2.1.3 GRO-2.2.1"
+    },
+    {
+      "oznaka": "B.7.4",
+      "opis": "Objašnjava ulogu ustava u zaštiti prava građana i dovodi u vezu zaštitu prava, pravdu i pravednost u društvu s funkcioniranjem demokratskih institucija."
+    },
+    {
+      "oznaka": "B.7.5",
+      "opis": "Objašnjava oblike društvene moći, autoriteta i demokratske vlasti."
+    },
+    {
+      "oznaka": "B.7.6",
+      "opis": "Određuje nivoe i grane vlasti u BiH, opisuje njihove nadležnosti, povezanost i međuzavisnost."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "GRO-2.3.1 GRO-2.3.2"
+    },
+    {
+      "oznaka": "B.7.7",
+      "opis": "Objašnjava važnost participacije građana i načine na koje mogu kontrolirati djelovanje vlasti u demokratskom društvu."
+    },
+    {
+      "oznaka": "B.7.8",
+      "opis": "Analizira odgovornost vlasti i javnih institucija u provođenju mjera javne politike."
+    },
+    {
+      "oznaka": "B.7.9",
+      "opis": "Predlaže mjeru javne politike i planira aktivnosti u cilju usvajanja i provođenja predložene mjere."
+    },
+    {
+      "oznaka": ".3.5",
+      "opis": "GRO-2.4.1"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "Analizira globalizacijske procese, međunarodne odnose i aktere kao i ulogu međunarodnih organizacija u ovim procesima."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "Objašnjava pozitivne i negativne učinke koji vode stvaranju globalnog tržišta na pojedinca, lokalnu zajednicu i državu, s posebnim osvrtom na BiH."
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "Objašnjava značaj primjene Međunarodnog humanitarnog prava  i analizira značaj Ženevskih konvencija u sprječavanju i humaniziranju oružanih sukoba."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GRO-3.1.3"
+    },
+    {
+      "oznaka": "C.7.4",
+      "opis": "Opisuje historiju evropskih integracija, ustrojstvo EU, njene glavne vrijednosti i ciljeve i ulogu građana u evropskim integracijama."
+    },
+    {
+      "oznaka": "C.7.5",
+      "opis": "Analizira političke, ekonomske i kulturne vrijednosti evropskog ujedinjenja i prednosti i nedostatke ulaska BiH u EU."
+    },
+    {
+      "oznaka": "C.7.6",
+      "opis": "Istražuje globalne probleme i zagovara odgovornost sadašnjih generacija za dobrobit budućih."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GRO-3.2.3 GRO-3.3.1"
+    },
+    {
+      "oznaka": "C.7.7",
+      "opis": "Tumači važnost razvoja globalne građanske svijesti i povezanog djelovanja na lokalnoj, nacionalnoj, evropskoj i globalnoj razini kao preduvjeta održivog ekonomskog i okolišnog razvoja."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "C. 7. 7. 1. Objašnjava značaj razvoja globalne građanske svijesti i građanskog učešća u rješavanju globalnih problema."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GRO-1.1.3 GRO-1.2.2 GRO-1.2.3"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GRO-1.2.4 GEO-1.3.1"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "GRO-2.1.2 GRO-2.1.3"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GRO-2.2.2 GRO-2.2.3 GRO-2.3.1"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "GRO-2.3.3 GRO-2.3.4 GRO-2.4.2 GRO-2.4.1"
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "B. 10. 1. Utvrđuje  važne probleme u zajednici i postojeće mjere javne politike."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "GRO-3.1.1 GRO-3.1.3"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "GRO-3.2.2 GRO-3.2.2 GRO-3.2.3 GRO-3.3.1"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Odgovornost",
+    "Prava i obaveze/odgovornosti",
+    "Izvori odgovornosti (obećanje",
+    "zadatak",
+    "imenovanje/postavljenje",
+    "zanimanje",
+    "zakon",
+    "običaji",
+    "državljanstvo",
+    "moralni principi)",
+    "Posljedice preuzimanja odgovornosti",
+    "Izbor između odgovornosti koje su suprotstavljene jedna drugoj."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Od velikog značaja je odgajati i obrazovati učenike na način da znaju identifikovati, preuzimati  i izvršavati odgovornosti kroz različite faze njihovog razvoja. Važno je i navoditi učenike da samostalno mogu predvidjeti posljedice neispunjavanja odgovornosti i procijeniti kako se takve situacije mogu odraziti na određenu zajednicu. Kroz nastavni predmet Građansko obrazovanje učenike podučavamo ne samo pravima i slobodama nego i obavezama/odgovornostima koje je potrebno izvršavati i podsticati i druge na isto. Stoga je veoma bitno sa učenicima razgovarati i kreirati liste odgovornosti u odnosu na različite izvore odgovornosti. Preporuka je da nastavnici ponude učenicima različite resurse pomoću kojih će ostvariti planirane ishode, te omoguće da sasvim slobodno i kreativno, na različite načine pokažu usvojeno.  To mogu biti isječci iz medijskih članaka koji prikazuju situacije (ne)ispunjavanja odgovornosti i eventualne posljedice, mogu se koristiti različiti Zakoni (npr. Zakon o saobraćaju), odlomci iz lektira koje učenici trenutno čitaju gdje će učenici tokom čitanja lektire identifikovati odgovornosti glavnih likova. Učenici za domaći zadatak mogu intervjuisati člana porodice ili zajednice i razgovarati o odgovornostima koje preuzimaju na radnom mjestu a kada se vrate u školu podijeliti informacije sa drugarima.  Nastavnici mogu prikazati  dnevne vijesti na času i  zatražiti od učenika da kreiraju listu uočenih odgovornosti te pokrenuti  razgovor  o istim, ili dokumentarni film koji prikazuje određena zanimanja i odgovornosti koje su značajne za ta zanimanja, što im svakako u budućnosti može pomoći i pri izboru srednje škole i profesionalne orjentacije. Moguće je organizovati debatu tokom koje će se učenici zalagati za ispunjenje jedne odgovornosti (od dvije koje se u datom trenutku suprotstavljaju). Poželjno je da učenici vode „dnevnik odgovornosti“ za određeni  period, u dogovoru sa nastavnikom, u koji bi unosili odgovornosti koje su uspješno realizovali ali i one koje nisu. Kao odjeljenje mogu planirati niz aktivnosti koje će ostvariti tokom planiranog i sa nastavnikom dogovorenog perioda (mjesec dana ili više mjeseci), a koje će biti društveno korisne (sadnja sadnica, čišćenje dvorišta škole, selekcija otpada, humanitarne akcije i sl.). Ova aktivnost može biti i takmičarskog karaktera, između svih odjeljenja sedmih razreda, a motivirajuće bi bilo  da se za najbolje odjeljenje obezbjedi simbolična nagrada za doprinos. Za rad na času, ali i izradu domaćih zadataka, preporuka je da se koriste vježbe kritičkog promišljanja koje se nalaze u udžbeniku, kao  i zadaci za učenike koji žele znati više.",
+      "Mogućnost ostvarivanja međupredmetne povezanosti – međupredmetne korelacije",
+      "Oblast je moguće povezati sa nastavnim predmetom Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost, kroz upotrebu različite literature i tekstova, prepoznavanje i analizu  odgovornosti glavnog lika u lektiri koju trenutno čitaju. Može se koristiti film i/ili vijesti – razgovarati o uočenim odgovornostima. Intervjuisanje osoba također osigurava međupredmetnu povezanost, kao i prezentacijske vještine. Ostvaruje  se međupredmetna povezanost sa nastavnim predmetom Zdravi životni stilovi prilikom  povezivanja  odgovornosti sa brigom o zdravlju, tjelesnoj težini, zdravoj ishrani, odnosu prema zajednici itd. Sadržaji iz nastavnog predmeta Historija/Povijest koji se tiču preuzimanja odgovornosti  od strane vladara, osvajača, vojske, naroda, vjerskih vođa u određenom historijskom periodu  mogu  osigurati međupredmetnu povezanost. Može se osigurati međupredmetna povezanost sa predmetom Društvo/Kultura/Religija  kroz sadržaje o zajednici, prijateljstvu, zdravlju, ovisnostima. Kreiranje prezentacija  na temu, sadržaja za web stranicu škole, kratkih filmova osigurava povezanost sa nastavnim predmetom Informatika.",
+      "A.7.4",
+      "Ukazuje na poštivanje različitih kulturnih i građanskih identiteta za dobrobit pojedinca i društva opisujući  kulturnu različitost kao društveno bogastvo.",
+      "A.7.5",
+      "Poredi  pasivno i aktivno građanstvo identificirajući  oblike građanskog aktivizma za osiguranje dobrobiti građana.",
+      "A.7.6",
+      "Analizira važnost društvene solidarnosti u zajednici.",
+      "GRO-1.3.1 GRO-1.3.3 GRO-1.3.1 GRO-1.3.3 GRO-1.3.2 GRO-1.3.3",
+      "A.7. 4. 1. Poredi obilježja svoje kulture sa obilježjima drugih kultura iznoseći zaključke  o važnosti očuvanja kulturnog naslijeđa u zajednici.",
+      "A.7. 4. 2. Opisuje  situacije u kojima je zastupljeno  nepoštivanje drugih kultura i posljedice takvog ponašanja.",
+      "A.7. 4. 3. Kreira sadržaje o različitim kulturama zastupljenim u BiH  povodom obilježavanja  značajnih datuma različitih kultura u zajednici.",
+      "A.7. 4. 4. Objašnjava utjecaj  različitih  kultura  u BiH  na  razvoj bosanskohercegovačke kulturne baštine na relevantnim primjerima.",
+      "A.7. 5. 1. Razlikuje pasivne od aktivnih reakcija građana prilikom rješavanja problema u zajednici navodeći konkretne primjere.",
+      "A.7. 5. 2. Objašnjava načine  na koje građani mogu utjecati na vlast koristeći primjere.",
+      "A. 7. 5. 3. Predlaže aktivnosti  učenika u cilju unapređenja zajednice uz identifikovanje subjekata koji  u okviru svojih nadležnosti mogu uzeti učešće.",
+      "A.7. 6. 1. Objašnjava važnost zajedničkog djelovanja i   pružanja   pomoći osobama u stanju potrebe.",
+      "A.7. 6. 2. Diskutuje  o značaju  djelovanja mladih volontera u lokalnoj i široj zajednici navodeći pozitivne primjere.",
+      "A.7. 6. 3. Planira društveno korisne aktivnosti  na nivou odjeljenja/škole  uz informisanje i motiviranje ostalih članova zajednice da uzmu učešće.",
+      "KLJUČNI SADRŽAJI",
+      "Kulturni i građanski identitet, Individualni i kolektivni identitet, Kultura, Višestruki identiteti, Digitalni identitet,  Privatnost,  Pravo na privatnost, Vrste privatnosti, Zaštita privatnosti, Razlike  u ponašanju ljudi  kada se radi o privatnosti, Diskriminacija, Posljedice privatnosti, Koristi ili prednosti privatnosti, Cijene ili nedostaci privatnosti, Obim i granice privatnosti.",
+      "KLJUČNI SADRŽAJI",
+      "Kako građani mogu učestvovati? Građanin, Stranac, Politička akcija, Društvena akcija, Vlast, Koje odluke ćeš donositi kao građanka? Građanske vrline, Zajedničko (opće) dobro, Zakon.",
+      "PREPORUKE ZA OSTVARENJE ISHODA"
+    ],
+    "medjupredmetne_korelacije": [
+      "Oblast je moguće povezati sa nastavnim predmetom Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost, kroz upotrebu različite literature i tekstova, prepoznavanje i analizu  odgovornosti glavnog lika u lektiri koju trenutno čitaju. Može se koristiti film i/ili vijesti – razgovarati o uočenim odgovornostima. Intervjuisanje osoba također osigurava međupredmetnu povezanost, kao i prezentacijske vještine. Ostvaruje  se međupredmetna povezanost sa nastavnim predmetom Zdravi životni stilovi prilikom  povezivanja  odgovornosti sa brigom o zdravlju, tjelesnoj težini, zdravoj ishrani, odnosu prema zajednici itd. Sadržaji iz nastavnog predmeta Historija/Povijest koji se tiču preuzimanja odgovornosti  od strane vladara, osvajača, vojske, naroda, vjerskih vođa u određenom historijskom periodu  mogu  osigurati međupredmetnu povezanost. Može se osigurati međupredmetna povezanost sa predmetom Društvo/Kultura/Religija  kroz sadržaje o zajednici, prijateljstvu, zdravlju, ovisnostima. Kreiranje prezentacija  na temu, sadržaja za web stranicu škole, kratkih filmova osigurava povezanost sa nastavnim predmetom Informatika.",
+      "A.7.4",
+      "Ukazuje na poštivanje različitih kulturnih i građanskih identiteta za dobrobit pojedinca i društva opisujući  kulturnu različitost kao društveno bogastvo.",
+      "A.7.5",
+      "Poredi  pasivno i aktivno građanstvo identificirajući  oblike građanskog aktivizma za osiguranje dobrobiti građana.",
+      "A.7.6",
+      "Analizira važnost društvene solidarnosti u zajednici.",
+      "GRO-1.3.1 GRO-1.3.3 GRO-1.3.1 GRO-1.3.3 GRO-1.3.2 GRO-1.3.3",
+      "A.7. 4. 1. Poredi obilježja svoje kulture sa obilježjima drugih kultura iznoseći zaključke  o važnosti očuvanja kulturnog naslijeđa u zajednici.",
+      "A.7. 4. 2. Opisuje  situacije u kojima je zastupljeno  nepoštivanje drugih kultura i posljedice takvog ponašanja.",
+      "A.7. 4. 3. Kreira sadržaje o različitim kulturama zastupljenim u BiH  povodom obilježavanja  značajnih datuma različitih kultura u zajednici.",
+      "A.7. 4. 4. Objašnjava utjecaj  različitih  kultura  u BiH  na  razvoj bosanskohercegovačke kulturne baštine na relevantnim primjerima.",
+      "A.7. 5. 1. Razlikuje pasivne od aktivnih reakcija građana prilikom rješavanja problema u zajednici navodeći konkretne primjere.",
+      "A.7. 5. 2. Objašnjava načine  na koje građani mogu utjecati na vlast koristeći primjere.",
+      "A. 7. 5. 3. Predlaže aktivnosti  učenika u cilju unapređenja zajednice uz identifikovanje subjekata koji  u okviru svojih nadležnosti mogu uzeti učešće.",
+      "A.7. 6. 1. Objašnjava važnost zajedničkog djelovanja i   pružanja   pomoći osobama u stanju potrebe.",
+      "A.7. 6. 2. Diskutuje  o značaju  djelovanja mladih volontera u lokalnoj i široj zajednici navodeći pozitivne primjere.",
+      "A.7. 6. 3. Planira društveno korisne aktivnosti  na nivou odjeljenja/škole  uz informisanje i motiviranje ostalih članova zajednice da uzmu učešće.",
+      "KLJUČNI SADRŽAJI",
+      "Kulturni i građanski identitet, Individualni i kolektivni identitet, Kultura, Višestruki identiteti, Digitalni identitet,  Privatnost,  Pravo na privatnost, Vrste privatnosti, Zaštita privatnosti, Razlike  u ponašanju ljudi  kada se radi o privatnosti, Diskriminacija, Posljedice privatnosti, Koristi ili prednosti privatnosti, Cijene ili nedostaci privatnosti, Obim i granice privatnosti.",
+      "KLJUČNI SADRŽAJI",
+      "Kako građani mogu učestvovati? Građanin, Stranac, Politička akcija, Društvena akcija, Vlast, Koje odluke ćeš donositi kao građanka? Građanske vrline, Zajedničko (opće) dobro, Zakon.",
+      "PREPORUKE ZA OSTVARENJE ISHODA"
+    ],
+    "kompetencijski_pristup": [
+      "Učenic"
+    ]
+  }
+}

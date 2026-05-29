@@ -1,0 +1,37 @@
+{
+  "predmet": "Higijena sporta",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "I"
+  },
+  "tematske_cjeline": [
+    "A Higijena tijela",
+    "B Ishrana",
+    "C Zdravlje",
+    "D Ekologija"
+  ],
+  "ishodi": [],
+  "kljucni_sadrzaji": [
+    "Higijena tijela (higijena ruku",
+    "nogu",
+    "tijela",
+    "nosa",
+    "kašljanja i kihanja",
+    "higijena usta i zubi)",
+    "higijena odjeće i obuće primjereno okolnostima",
+    "higijena odmora i rekreacije"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Pri obradi nastavnih sadržaja u okviru ishoda učenja, preporučuje se polaziti od onoga što učenici/ce već znaju, onoga što žele znati, te podsticati i usmjeravati njihovo razmišljanje do novih saznanja nakon procesa učenja, tj. onoga što su naučili. Higijenske navike omogućuju učenicima sticanje znanja o higijeni tijela prije, za vrijeme i nakon aktivnosti, kako u sali, tako prirodi i svakodnevnom životu.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      "Higijena ima za cilj da učenik primjenom prethodno stečenih znanja iz biologije i sporta usvoji znanja o faktorima koji mogu uticati na zdravlje, tj. pojavu bolesti i metodama za unapređenje, promociju zdravlja i sprečavanje bolesti, dajući kvalitetnu osnovu za nastavak školovanja na studiju zdravstvenog usmjerenja.",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Zdravstven"
+    ]
+  }
+}

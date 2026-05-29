@@ -1,0 +1,675 @@
+{
+  "predmet": "Historija",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "6"
+  },
+  "tematske_cjeline": [
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Kontinuitet i promjene",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuiteti promjene",
+    "D Uzročno-posljedični odnosi",
+    "A Historijski izvori i proučavanje historije",
+    "B Historijsko vrijeme i hronologija",
+    "C Kontinuitet i promjene",
+    "D Uzročno-posljedični odnosi"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B.6.2"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "Provodi školska istraživanja kako bi ispitao/la prošlost i sadašnjost prikupljajući podatke iz didaktički oblikovanih historijskih izvora."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "Primjenjuje pojedine korake u istraživanju prošlosti i prezentira svoje znanje na različite načine"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.1"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "Objašnjava historjsko vrijeme."
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": "Objašnjava protok vremena pomoću mjerenja i računanja vremena"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-2.0.1"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "Objašnjava povezanost glavnih događaja u vremenu kroz različite aspekte i svakodnevni život društva."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "Razlikuje promjene nastale u različitim historijskim razdobljima."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "Opisuje obilježja prethistorije i starog vijeka i ključne događaje u njima."
+    },
+    {
+      "oznaka": "D.6.1",
+      "opis": "Razlikuje uzroke i posljedice određenih historijskih događaja i pojava."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "Povezuje uslove života i obilježja društva, kao i nastale društvene odnose u prethistoriji i starom vijeku."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "B Historijsko vrijeme i hronologija"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "C Kontinuitet i promjene"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "D Uzročno-posljedični odnosi"
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": "D.7.2"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Koristi komponente i odrednice istraživačkog procesa u ispitivanju prošlosti."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "Prezentira rezultate istraživačkog procesa izrađujući struktuirane radove utemeljene na historijskim izvorima."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "Prepoznaje različita historijska gledišta na historijske događaje, pojave i procese."
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-1.0.3"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Koristi različite načine prikazivanja historijskog vremena poštujući hronologiju događaja."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "Objašnjava glavne pravce, procese i probleme u prošlosti, smještajući ljude i događaje u vremenski i prostorni okvir."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "Analizira historijska razdoblja i promjenu stajališta u zavisnosti od vremena i prostora."
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "Razvrstava po kategorijama historijsko vrijeme (godina, decenija,vijek i milenij, prije naše ere i poslije naše ere), objašnjavajući značenje, prevodeći jednu kategoriju vremena u drugu."
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "Objašnjava glavne događaje u vremenu i njihovu međusobnu povezanost."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "Objašnjava uticaj ideja, pojava i stavova pojedinaca ili grupa na promjene u društvu."
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "Analizira uzroke nastalih promjena u različitim historijskim razdobljima."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-2.0.3"
+    },
+    {
+      "oznaka": "D.7.1",
+      "opis": "Objašnjava uzroke i posljedice historijskih događaja, pojava i procesa u srednjem vijeku."
+    },
+    {
+      "oznaka": "D.7.2",
+      "opis": "Procjenjuje povezanost između određenih historijskih događaja i širih društvenih, ekonomskih i političkih pravaca i razvoja."
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "Navodi primjere uzroka, povoda i posljedica za odabrane historijske događaje iz srednjeg vijeka."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "B Historijsko vrijeme i hronologija"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "B.8.4"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "D Uzročno-posljedični odnosi"
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "D.8.2"
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Istražuje značaj historijskih izvora u izučavanju prošlosti."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Izražava znanje i razumijevanje prošlosti stečeno radom na historijskom izvoru."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "Otkriva različita stajališta na historijske događaje u kontekstu vremena u kojem su nastala."
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Koristi različite načine prikazivanja historijskog vremena i hronologije."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Analizira historijska razdoblja i povezanost događaja u njima."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "Objašnjava glavne pravce, procese i probleme iz prošlosti, smještajući ljude i događaje u vremenski okvir."
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-2.0.3 HIS-2.0.3"
+    },
+    {
+      "oznaka": "B.8.4",
+      "opis": "Objašnjava promjene stajališta u odnosu na vrijeme i prostor."
+    },
+    {
+      "oznaka": ".0.4",
+      "opis": "Upoređuje društvene, ekonomske, kulturne, religijske, političke karakteristike ljudskog djelovanja, te svakodnevni život u starom, srednjem i novom vijeku."
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "Objašnjava povezanost događaja u vremenu i određenih aspekata ljudskog djelovanja (društveni, ekonomski,kulturni, religijski i politički) i svakodnevni život u različitim kontekstima kroz vrijeme i historijska razdoblja."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "Pokazuje načine promjena kroz različita historijska razdoblja i njihov uticaj na društvo."
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "Procjenjuje kako se neke društvene pojave mijenjaju kroz vrijeme dok druge ostaju iste."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-3.0.3"
+    },
+    {
+      "oznaka": "D.8.1",
+      "opis": "Razlikuje uzroke i posljedice historijskih događaja u određenom razdoblju."
+    },
+    {
+      "oznaka": "D.8.2",
+      "opis": "Argumentira važnost povezanosti određenih historijskih događaja i širih društvenih , ekonomskih i političkih pravaca razvoja."
+    },
+    {
+      "oznaka": "D.8.3",
+      "opis": "Objašnjava složenost historijskih uzroka i posljedica."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-4.0.2"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A.9.2"
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "B Historijsko vrijeme i hronologija"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "C Kontinuitet i promjene"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.2"
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "D Uzročno-posljedični odnosi"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "Demonstrira znanje i razumijevanje stečeno radom na historijskom izvoru."
+    },
+    {
+      "oznaka": "A.9.2",
+      "opis": "A.2 Analizira različite pristupe pisanja o prošlosti na osnovu didaktički oblikovanih izvora."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "Upoređuje različita historijska stajališta na historijske događaje smještajući ih u kontekst u kojem su nastala."
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Koristi različite načine prikazivanja historijskog vremena i hronologije."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "Analizira historijska razdoblja i povezanost događaja u njima."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "Analizira promjene stajališta historijskih događaja u odnosu na vrijeme i prostor."
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-2.0.3 HIS-2.0.3"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "Procjenjuje povezanost glavnih historijskih događaja kroz vrijeme tumačeći određene aspekte ljudske prošlosti (društvene, ekonomske, kulturne, religijske, političke, te svakodnevni život."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": "Prosuđuje trajanje različitih ideja u vremenu i njihovu povezanost u stvaranju novih historijskih obrazaca."
+    },
+    {
+      "oznaka": "C.9.3",
+      "opis": "Utvrđuje složenost promjena u različitim historijskim razdobljima i njihove dugoročne posljedice."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-3.0.2 HIS-3.0.3"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Procjenjuje uzrok i posljedicu određenih historijskih pojava."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Procjenjuje povezanost između određenih historijskih događaja i širih društvenih, ekonomskih i političkih pravaca i razvoja."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "Procjenjuje povezanost događaja u historijskom periodu objašnjavajući glavne pravce, procese i probleme iz prošlosti."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-4.0.2 HIS-4.0.3"
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-2.0.3 HIS-2.0.4"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-3.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-4.0.2 HIS-4.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.2 HIS-1.0.3"
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-2.0.3"
+    },
+    {
+      "oznaka": ".0.3",
+      "opis": "HIS-3.0.2 HIS-3.0.2"
+    },
+    {
+      "oznaka": ".0.3",
+      "opis": "HIS-4.0.2"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.2 HIS-1.0.3"
+    },
+    {
+      "oznaka": ".0.3",
+      "opis": "HIS-2.0.3"
+    },
+    {
+      "oznaka": ".0.3",
+      "opis": "Procjenjuje važnost i značenje historijskih ličnosti, simbola, događaja, pojava i procesa iz različite perspektive."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-3.0.2"
+    },
+    {
+      "oznaka": ".0.3",
+      "opis": "HIS-4.0.2"
+    },
+    {
+      "oznaka": "D.1.3",
+      "opis": "Upoređuje uzročno-posljedične veze sinhronih i dijahronih pojava u novom vijeku."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.2 HIS-1.0.3"
+    },
+    {
+      "oznaka": ".0.3",
+      "opis": "Proučava ekonomske, političke i vjerske podjele u Evropi u 20. stoljeću i njihov uticaj na nacionalnu historiju."
+    },
+    {
+      "oznaka": ".0.4",
+      "opis": "Analizira obilježja 20. stoljeća (društvene, privredne, religijske i političke )."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-3.0.2 HIS-3.0.3"
+    },
+    {
+      "oznaka": ".0.3",
+      "opis": "Raspravlja o uzrocima nastanka masovne kulture u 20. stoljeću."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.2 HIS-1.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-2.0.2 HIS-2.0.3"
+    },
+    {
+      "oznaka": ".0.4",
+      "opis": "Analizira različita tumačenja prošlosti i njihove posljedice na  sadašnjost."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-3.0.2 HIS-3.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-4.0.2"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.2 HIS-1.0.2"
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-2.0.1 HIS-2.0.3"
+    },
+    {
+      "oznaka": ".0.4",
+      "opis": "Objašnjava kako se historija može koristiti u različitim kontekstima i u različite svrhe"
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-3.0.1 HIS-3.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-4.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.2 HIS-1.0.3"
+    },
+    {
+      "oznaka": ".0.3",
+      "opis": "HIS-2.0.2 HIS-2.0.3"
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "Analizira različita tumačenja prošlosti i njihove posljedice na sadašnjost."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-3.0.2 HIS-3.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-4.0.2"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.2 HIS-1.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-2.0.2 HIS-2.0.3"
+    },
+    {
+      "oznaka": ".0.4",
+      "opis": "Objašnjava kako se historija može koristiti u različitim kontekstima i u različite svrhe."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-3.0.2 HIS-3.0.2"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-4.0.2"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.2 HIS-1.0.2"
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "Objašnjava vezu čovjeka i prirode (povezanost prirodnih ciklusa sa nastankom prvih kalendara i potrebom računanja vremena u prvobitnim ljudskim zajednicama)."
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-2.0.3 HIS-2.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-3.0.3 HIS-3.0.2"
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-4.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.3 HIS-1.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-2.0.2 HIS-2.0.3"
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-3.0.1"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-4.0.2"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-1.0.1 HIS-1.0.2"
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-2.0.2 HIS-2.0.4"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "HIS-3.0.3"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "Istražuje zašto su neke posljedice historijskih događaja dugotrajnije od drugih"
+    },
+    {
+      "oznaka": ".0.1",
+      "opis": "Razvrstava ponuđene historijske izvore."
+    },
+    {
+      "oznaka": ".0.2",
+      "opis": "HIS-2.0.1"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Ključni sadržaji: Uvod u historijsku nauku: zašto učimo historiju",
+    "zadaci historijske nauke",
+    "pomoćne historijske nauke",
+    "historijski izvori",
+    "računanje vremena",
+    "podjela prošlosti; Prethistorija: postanak čovjeka",
+    "život ljudi u starijem kamenom dobu: nalazišta na prostoru Bosne i Hercegovine",
+    "život ljudi u mlađem kamenom dobu: nalazišta na prostoru Bosne i Hercegovine",
+    "život ljudi u metalnom dobu: nalazišta na prostoru Bosne i Hercegovine. Rane civilizacije: civilizacija: stari Egipat",
+    "civilizacija: Mezopotamija",
+    "civilizacije posrednici između Istoka i Zapada. Antičke civilizacije: Grčka i njen položaj",
+    "religija",
+    "mitologija",
+    "kultura",
+    "Olimpijske igre",
+    "svakodnevni život",
+    "polisi Atena i Sparta",
+    "Grčko-perzijski ratovi; Aleksandar Veliki i helenizam. Apeninsko poluostrvo i njegov položaj",
+    "nastanak grada Rima",
+    "Rimska kraljevina",
+    "Rimska Republika",
+    "Rimsko Carstvo",
+    "podjela Rimskog Carstva",
+    "rimsko ropstvo",
+    "religija",
+    "kultura",
+    "svakodnevni život; Iliri i prostor BiH u antičko doba",
+    "arheloški lokaliteti i kulturno-historijsko naslijeđe."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Zadatak nastavnika u prvoj godini učenja predmeta Historija je upoznati ga sa osnovnim pojmovima i konceptima historijske nauke na način primjeren uzrastu učenika. Najveći potencijal za upoznavanje sa temom historijskih izvora ogleda se u primjeni metode demonstracije i korištenje primjera iz svakodnevnog života kao izvora saznanja te metode razgovora. Potenciranje interaktivne nastave gdje će učenici mlađeg uzrasta kroz igru imati priliku otkrivati i učiti o tematskoj oblasti na osnovu vlastitih spoznaja i njima bliskih primjera iz života. Metoda rada sa historijskim izvorima treba najvećim dijelom biti primjenjivana uz korištenje u najvećoj mjeri slikovnih izvora, kao i jednostavnih i didaktički oblikovanih tekstualnih historijskih izvora.",
+      "Primjeri:",
+      "Analizirati različite predmete kao izvore saznanja o prošlosti: fotografija, pismo, knjiga, novine, povelja, dokument, novac i sl.",
+      "Kao dio školskog istraživanja izraditi interaktivnu lentu vremena sa najvažnijim događajima iz prošlosti škole – koristiti različite vrstama izvora – fotografije, školske novine, dokumente, sjećanja nastavnika, predmete"
+    ],
+    "medjupredmetne_korelacije": [
+      "Navedenu oblast moguće je tematski povezati sa sadržajima iz predmeta BHS jezik koristeći književne tekstove svjetske i domaće književnosti kao historijske izvore, kao i metodama analize i obrade književnog - historijskog teksta. Otvoren je prostor za korištenje i analizu izvornog materijala na stranim jezicima čime se može postići međupredmetna korelacija sa predmetom stranog jezika. Sadržaji likovne i muzičke kulture također mogu biti iskorišteni u povezivanju zbog korištenja slikovnih i auditivnih izvora u analizama, ali i likovnog predstavljanja pojedinih historijskih sadržaja. Korištenjem informacionih tehnologija od strane učenika postiže se povezanost sa predmetom Informatika."
+    ],
+    "kompetencijski_pristup": [
+      "Naveden"
+    ]
+  }
+}

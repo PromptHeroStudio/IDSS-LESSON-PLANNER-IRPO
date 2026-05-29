@@ -1,0 +1,539 @@
+{
+  "predmet": "Tehnička kultura i Osnove tehnike",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "5"
+  },
+  "tematske_cjeline": [
+    "A TEHNIČKA DOKUMENTACIJA I MODELIRANJE",
+    "B TEHNIČKO-TEHNOLOŠKO ZNANJE I STVARALAŠTVO",
+    "C TEHNIKA I ŽIVOTNA OKOLINA",
+    "A TEHNIČKA DOKUMENTACIJA I MODELIRANJE",
+    "B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO",
+    "C TEHNIKA I ŽIVOTNA OKOLINA",
+    "A TEHNIČKA DOKUMENTACIJA I MODELIRANJE",
+    "B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO",
+    "C TEHNIKA I ŽIVOTNA OKOLINA",
+    "A TEHNIČKA DOKUMENTACIJA I MODELIRANJE",
+    "B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO",
+    "C TEHNIKA I ŽIVOTNA OKOLINA",
+    "A TEHNIČKA DOKUMENTACIJA I MODELIRANJE",
+    "B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO",
+    "C TEHNIKA I ŽIVOTNA OKOLINA"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.5.1",
+      "opis": "A.5.2"
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "A.5.4"
+    },
+    {
+      "oznaka": "A.5.5",
+      "opis": "B TEHNIČKO-TEHNOLOŠKO ZNANJE I STVARALAŠTVO"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B.5.2"
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "C TEHNIKA I ŽIVOTNA OKOLINA"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.5.2"
+    },
+    {
+      "oznaka": "C.5.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "Razlikuje tehniku i tehnologiju."
+    },
+    {
+      "oznaka": "A.5.2",
+      "opis": "Izrađuje tehnički crtež koristeći osnovna pravila tehničkog crtanja, tehničko pismo i kotiranje."
+    },
+    {
+      "oznaka": "A.5.3",
+      "opis": "Primjenjuje osnovna pravila kotiranja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-1.3.1 TIT-1.3.2"
+    },
+    {
+      "oznaka": "A.5.4",
+      "opis": "Primjenjuje osnovna pravila mjerila ili razmjere na jednostavnim tehničkim crtežima."
+    },
+    {
+      "oznaka": "A.5.5",
+      "opis": "Koristi osnovne oblike tehnologije izrade praktičnog rada."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "TIT-1.3.1"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "Izrađuje predmete od različitih vrsta materijala vodeći računa o osobinama tog materijala."
+    },
+    {
+      "oznaka": "B.5.2",
+      "opis": "Izrađuje predmete od upotrebne vrijednosti koristeći alate i mašine, vodeći računa o mjerama zaštite na radu."
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "Koristi programe za crtanje jednostavnih oblika i tehničkih crteža."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "TIT-1.2.1 TIT-2.2.3"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "Procjenjuje važnost tehnike i tehnologije u zaštiti životne sredine."
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": "Analizira mogućnosti poduzimanja različitih mjera u zaštiti životne sredine."
+    },
+    {
+      "oznaka": "C.5.3",
+      "opis": "Opisuje značaj bicikla kao prijevoznog sredstva."
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "TIT-2.4.1 TIT-1.5.2"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "A.6.2"
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "B.6.2"
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "B.6.4"
+    },
+    {
+      "oznaka": "B.6.5",
+      "opis": "C TEHNIKA I ŽIVOTNA OKOLINA"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "C.6.2"
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "C.6.4"
+    },
+    {
+      "oznaka": "A.6.1",
+      "opis": "Izrađuje građevinski tehnički crtež i priprema tehničku dokumentaciju."
+    },
+    {
+      "oznaka": "A.6.2",
+      "opis": "Kreira građevinski tehnički crtež koristeći pravila tehničkog crtanja, kotiranja i mjerila ili razmjere."
+    },
+    {
+      "oznaka": "A.6.3",
+      "opis": "Koristi softverske pakete za izradu jednostavnih tehničkih crteža."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "TIT-1.3.1 TIT-1.3.2"
+    },
+    {
+      "oznaka": "B.6.1",
+      "opis": "Interpretira ulogu savremene tehnologije u društvu."
+    },
+    {
+      "oznaka": "B.6.2",
+      "opis": "Utvrđuje karakteristike materijala i klasificira materijale prema namjeni."
+    },
+    {
+      "oznaka": "B.6.3",
+      "opis": "Kreira vlastite proizvode kroz praktičnu primjenu alata i pribora."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-1.2.1 TIT-1.1.1"
+    },
+    {
+      "oznaka": "B.6.4",
+      "opis": "Razlikuje alate i mašine koje se koriste u građevinarstvu u različitim fazama izgradnje građevinskih objekata."
+    },
+    {
+      "oznaka": "B.6.5",
+      "opis": "Izrađuje maketu ili model građevinskih objekata i savremenog naselja prema tehničkoj dokumentaciji ili prema vlastitoj ideji vodeći računa o mjerama zaštite na radu."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "TIT-1.4.2"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "Utvrđuje pojmove u arhitekturi i građevinarstvu i različite stilove arhitekture."
+    },
+    {
+      "oznaka": "C.6.2",
+      "opis": "Izrađuje projekat savremenog naselja."
+    },
+    {
+      "oznaka": "C.6.3",
+      "opis": "Procjenjuje uticaj tehničkog i tehnološkog razvoja na okoliš i zdravlje ljudi i nudi praktično rješenje zaštite okoline u datoj situaciji."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "TIT-1.2.2 TIT-1.5.2"
+    },
+    {
+      "oznaka": "C.6.4",
+      "opis": "Razlikuje graditeljsku i kulturnu baštinu u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "Opisuje stare zanate."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "A.7.4"
+    },
+    {
+      "oznaka": "A.7.5",
+      "opis": "B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "B.7.4"
+    },
+    {
+      "oznaka": "B.7.5",
+      "opis": "B.7.6"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "C.7.2"
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "C.7.4"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Izrađuje mašinski tehnički crtež i priprema tehničku dokumentaciju."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "Koristi kotiranje mašinskog crteža."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "Interpretira i crta različite vrste tehničkih crteža."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "TIT-1.3.2 TIT-1.3.2"
+    },
+    {
+      "oznaka": "A.7.4",
+      "opis": "Koristi mjerilo za crtanje tehničkog crteža."
+    },
+    {
+      "oznaka": "A.7.5",
+      "opis": "Procjenjuje vrijednost proizvoda."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "TIT-1.3.3"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Analizira materijale po svojstvima i namjeni."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "Organizuje radno mjesto primjenjujući mjere zaštite na radu."
+    },
+    {
+      "oznaka": "B.7.3",
+      "opis": "Planira radne operacije za izradu praktičnog rada."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "TIT-1.4.1 TIT-1.4.2"
+    },
+    {
+      "oznaka": "B.7.4",
+      "opis": "Koristi se priborom, alatima i mašinama u proizvodnji i svakodnevnom životu."
+    },
+    {
+      "oznaka": "B.7.5",
+      "opis": "Primjenjuje postupke obrade metala."
+    },
+    {
+      "oznaka": "B.7.6",
+      "opis": "Analizira osnove robotike."
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "TIT-1.2.2 TIT-1.2.2"
+    },
+    {
+      "oznaka": "C.7.1",
+      "opis": "Donosi odluke o izboru materijala za svoj rad na osnovu osobina datih materijala."
+    },
+    {
+      "oznaka": "C.7.2",
+      "opis": "Kritički razmatra uticaj saobraćaja na tehnički i društveni napredak."
+    },
+    {
+      "oznaka": "C.7.3",
+      "opis": "Analizira osnove motoristike."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "TIT-1.4.3 TIT-1.4.2 TIT-1.5.1"
+    },
+    {
+      "oznaka": "C.7.4",
+      "opis": "Analizira mogućnosti zaštite životne sredine i kreira odgovarajuća praktična rješenja."
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "Prepoznaje prirodne resurse i njihovu ograničenost."
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "B.8.4"
+    },
+    {
+      "oznaka": "B.8.5",
+      "opis": "B.8.6"
+    },
+    {
+      "oznaka": "B.8.7",
+      "opis": "B.8.8"
+    },
+    {
+      "oznaka": "B.8.9",
+      "opis": "C TEHNIKA I ŽIVOTNA OKOLINA"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Primjenjuje osnove tehničkog crtanja."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Crta sheme u oblasti elektrotehnike i elektronike koristeći simbole električnih elemenata i normirane grafičke znakove."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "Procjenjuje funkcionalnu i upotrebnu vrijednost električnih i elektroničkih uređaja/sklopova."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "TIT-1.3.2 TIT-1.4.2"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Organizuje radno mjesto vodeći računa o mjerama zaštite na radu."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Razlikuje izvore energije, prenos i transformacija energije."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "Analizira proces proizvodnje i distribucije električne energije."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "TIT-2.3.1 TIT-2.3.1"
+    },
+    {
+      "oznaka": "B.8.4",
+      "opis": "Analizira energetske potrebe u svim poljima ljudske djelatnosti."
+    },
+    {
+      "oznaka": "B.8.5",
+      "opis": "Utvrđuje razlike između elektromehaničkih, elektrotoplotnih i kombinovanih kućanskih aparata."
+    },
+    {
+      "oznaka": "B.8.6",
+      "opis": "Objašnjava ulogu elektroinstalacionih materijala i elemente električnih instalacija."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "TIT-2.3.1 TIT-2.3.2"
+    },
+    {
+      "oznaka": "B.8.7",
+      "opis": "Sklapa/sastavlja elektronske uređaje/sklopove koristeći različite vrste elektronskih elementa."
+    },
+    {
+      "oznaka": "B.8.8",
+      "opis": "Izrađuje i spaja električnu instalaciju prema električnoj shemi (jednopolnoj, dvopolnoj)."
+    },
+    {
+      "oznaka": "B.8.9",
+      "opis": "Objašnjava osnovne pojmove telekomunikacijskih sistema."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "TIT-1.4.2 TIT-2.2.3"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "Analizira energetske potrebe u svim poljima ljudske djelatnosti."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "Analizira uticaj proizvodnje električnih uređaja/sklopova na okolinu i čovjeka."
+    },
+    {
+      "oznaka": ".3.3",
+      "opis": "TIT-2.4.1"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A.9.2"
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "B TEHNIČKO -TEHNOLOŠKO ZNANJE I STVARALAŠTVO"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "B.9.4"
+    },
+    {
+      "oznaka": "B.9.5",
+      "opis": "C TEHNIKA I ŽIVOTNA OKOLINA"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.2"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "Kreira shematske crteže za predstavljanje hidrauličkih, pneumatskih i elektroničkih uređaja i sistema."
+    },
+    {
+      "oznaka": "A.9.2",
+      "opis": "Primjenjuje osnovna znanja o modeliranju i izradi tehničke dokumentacije upotrebom IKT-a."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "Koristi 3D printer za izradu jednostavnih 3D modela."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "TIT-2.2.3 TIT-2.2.3"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Utvrđuje ulogu mehanike kao bitnog faktora u naučnom, društvenom i ekonomskom razvoju."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "Prosuđuje o zastupljenosti mehanike, pneumatike i elektronike u mehatroničkom proizvodu i doprinos funkcionalnosti mehatroničkog sklopa."
+    },
+    {
+      "oznaka": "B.9.3",
+      "opis": "Povezuje karakteristike o hidraulici, pneumatici i elektronici kao sastavnom dijelu mehatronike."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "TIT-1.3.3 TIT-2.2.2"
+    },
+    {
+      "oznaka": "B.9.4",
+      "opis": "Istražuje svojstva signalnih uređaja (senzora)  i njihovu važnost i zastupljenost u mehatronici i drugim oblastima tehnike i tehnologije."
+    },
+    {
+      "oznaka": "B.9.5",
+      "opis": "Analizira primjenu automatike i sistema upravljanja s tehnološkog, ekonomskog i društvenog stajališta."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "TIT-2.2.2"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "Demonstrira pozitivne radne navike te primjenjuje mjere zaštite na radu i zaštite okoline."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": "Istražuje specifičnosti tehničkih zanimanja i njihovu ulogu u tehnici i tehnologiji."
+    },
+    {
+      "oznaka": ".6.1",
+      "opis": "TIT-2.4.1"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Tehnika",
+    "tehnologija",
+    "tehničko crtanje",
+    "vrste linija",
+    "kotiranje",
+    "mjerilo",
+    "tehničko pismo",
+    "materijali",
+    "praktičan rad."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Prilikom realizacije tematske cjeline upotrijebiti princip sistematičnosti i postupnosti. U okviru svake tematske cjeline, postupno i korak po korak, obraditi određenu nastavnu građu. Svaki od tih koraka treba da znači liniju kretanja prema sve složenijem, težem i daljem u otkrivanju manje poznatog ili potpuno nepoznatog. U smislu shvatljivosti materije koja se izučava, kao primjer primjene ovog principa, mogu se realizovati osnovna pravila kotiranja na jednostavnim tehničkim crtežima, osnovna pravila mjerila ili razmjere na jednostavnim tehničkim crtežima, a potom na složenijim.",
+      "U cilju što kvalitetnije i afirmativnije prezentacije gradiva nastavnik treba primijeniti različite metode rada: usmeno izlaganje, razgovor, demonstracija, samostalne vježbe, kombinacija frontalnog i individualnog oblika rada te po potrebi individualno prilagođenog. U cilju osavremenjavanja nastavnog procesa nastavnik uključuje i upotrebu multimedijalnih sadržaja iz oblasti tehničkog crtanja.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      "Zavisno od interesa učenika i predviđenih nastavnih sadržaja predlaže se korelacija nastavnih sadržaja iz matematike. Nastava matematike razvija kod učenika: osjećaj za preciznost, urednost i sistematičnost, a sve je to potrebno za što uspješniju realizaciju nastave Osnova tehnike. Također je neophodno uspostaviti povezanost  nastavnih sadržaja iz  nastavnog predmeta Informatika, jer se nastavni sadržaji u okviru ovog predmeta realizuju i u ranije navedenim oblastima u sklopu predmeta Osnove tehnike. Učenici uz pribor za crtanje se koriste informacijskom i komunikacijskom tehnologijom.",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Nako"
+    ]
+  }
+}

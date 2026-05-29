@@ -1,0 +1,1457 @@
+PREDMET: Informatika
+URL: https://kurikulum.ks.gov.ba/bs/elementi?jezik=bs&element=pk4_ishodi_ucenja&predmet=Informatika
+================================================================================
+
+Skoči na glavni sadržaj
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Odaberite jezik bosanskihrvatskisrpski Search
+ONLINE PLATFORMA ZA KURIKULUM
+Odjavi se
+Elementi kurikuluma
+PK1 - Opis predmeta
+PK2 - Ciljevi učenja i podučavanja predmeta
+PK3 - Oblasna struktura predmetnog kurikuluma
+PK4 - Odgojno-obrazovni ishodi
+PK5 - Učenje i podučavanje
+PK6 - Vrednovanje u predmetnom kurikulumu
+Informatika
+Informatika - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Osnovno
+1
+Godine učenja i podučavanja predmeta: 1
+A Informacione i komunikacione tehnologije
+A.1.1
+A.1.2
+A Informacione i komunikacione tehnologije
+A.1.1
+B Rješavanje problema primjenom IKT-a
+B.1.1
+A Informacione i komunikacione tehnologije
+A.1.1
+A
+Informacione i komunikacione tehnologije
+A.1.1
+Primjenjuje određene vrste IKT usluga, uređaja i medija.
+A.1.2
+Upotrebljava mjere zaštite prilikom korištenja IKT-a.
+TIT-3.1.1 TIT-5.2.2
+Imenuje osnovne vanjske dijelove kompjutera.
+Prepoznaje različite oblike komunikacije na kompjuteru (govorni, pisani i slikovni) uz pomoć učitelja.
+Primjenjuje IKT uređaje i medije koji se koriste u svakodnevnom životu za ostvarivanje korelacije sa drugim predmetima.
+Primjenjuje ergonomske smjernice u radu s kompjuterom.
+Poštuje preporuke o dužini provedenog vremena primjenjujući IKT uređaje.
+KLJUČNI SADRŽAJI
+Računar. Dijelovi računara. IKT uređaji i mediji. Ergonomske smjernice.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Pred učenicima ovog uzrasta svakako stoji izazov adaptaciranja na novo životno razdoblje, na školu kao novi životni prostor i na sva pravila koje školski život neminovno donosi. Novo vrijeme nam donosi i novi virtualni prostor, koji je potpuno prirodna sredina za naše učenike. Učitelji će imati zadatak prilagođavanja toj situaciji. Informatiku, tj. tehnologiju, u tom smislu, ne bismo trebali koristiti nužno kao odvojen predmet, već je mnogo lakše i korisnije koristiti je prožimajući je kroz sadržaje drugih predmeta. Time tehnologiju koristimo kao sredstvo za motiviranje učenika, ali i kao direktno sredstvo za učenje.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Kroz sadržaje vezane za radno okruženje možemo ostvariti korelaciju sa sadržajima iz predmeta Moja okolina koji se bave školom i školskim prostorijama.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+U ovom razvojnom periodu, svaki trenutak je potrebno koristiti za razvijanje jezičkih kompetencija i to istovremeno i u smislu razvoja govora, bogaćenja rječnika i u smislu komunikacije sa okolinom. U današnje doba digitalne komunikacije tome posebno treba posvetiti pažnju. Zdravlje i zdrav život je još jedna bitna stvar na kojoj treba insistirati kroz ergonomske smjernice.
+Napomena: Ishodi se prožimaju kroz oblast A i C.
+A
+Informacione i komunikacione tehnologije A.1.1
+Upotrebljava program za crtanje sa osnovnim alatima za izradu jednostavnijeg rada.
+TIT-3.4.3
+Prepoznaje program za crtanje i njegovu namjenu.
+Koristi osnovne alate programa za crtanje uz pomoć učitelja.
+KLJUČNI SADRŽAJI
+Program za crtanje. Osnovni alati za crtanje.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Program za crtanje biće dobra osnova za zadovoljavanje učeničke kreativne potrebe i potrebe za igrom, ali i dobar alat za nastavnika za razvijanje motorike, za upoznavanje sa geometrijskim likovima, razgovor o bojama, oblicima, skupovima, brojnosti skupova.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Dijapazon međupredmetne povezanosti koju je moguće ostvariti unutar ove teme je zaista jako širok i pruža nastavniku/ci i učeniku/ci odličnu podlogu za ostvarivanje dobrih rezultata učenja.
+Koristeći program za crtanje učitelji ga mogu iskoristiti za vježbe početnog čitanja i pisanja u kojem će učenici crtati i bojiti glasove i slova koja analiziraju i usvajaju. Program za crtanje može dobro doći i za vježbu pozicije glasa u riječima, a kasnije i za vježbu čitanja i pisanja.
+Što se tiče Matematike kroz crtanje u Paintu učenici usvajaju oblike i razvrstavaju ih prema boji, obliku, veličini savladavajući tako i relacije i odnose među predmetima.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Djelovanje na razvoj
+matematičkih kompetencija kroz sposobnost uočavanja relacija i odnosa između predmeta, uočavanja imenovanih oblika u vlastitom okruženu okruženju.
+jezičke kompetencije (kroz vježbe početnog čitanja i pisanja razvijaćemo govor i komunikaciju učenika).
+B
+Rješavanje problema primjenom IKT-a B.1.1
+Primjenjuje digitalne tehnologije pri učenju kroz igru.
+TIT-5.1.4
+Koristi edukativne igre primjerene uzrastu u svrhu učenja.
+Primjenjuje digitalne uređaje za fotografisanje uz pomoć učitelja.
+Pregledava slikovne, audio i video zapise na kompjuteru.
+KLJUČNI SADRŽAJI
+Edukativne igre. Fotografije. Audio i video zapisi.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Ovo je tema koja će zasigurno najviše interesovati učenike jer će zadovoljavati najviše njihovih potreba i interesovanja. Pruža i širok spektar načina i prilika za njihovo izražavanje, kreacije, zadovoljavanje takmičarskog duha i dječije prirodne radoznalosti. Pravim odabirom edukativne igrice može se obogatiti bilo koji čas i naći se u funkciji podučavanja, istraživanja i učenja.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+U ovom slučaju međupredmetna povezanost se može ostvariti na svakom nivou. Postoje različite edukativne igre koje učenicima mogu pomoći prilikom usvajanja znanja iz o računanju do 10, sastavljanju riječi i rečenica, kao i veliki broj sportskih igara u kojima učenici moraju pokazati sposobnost koordinacije, brzine, okretnosti ali i timskog rada.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+U ovom dijelu bilo bi posebno važno razvijati socijalne vještine i kompetencije koje se u današnjem digitalnom svijetu često gube, te dolazi do otuđenja i do poremećenih vršnjačkih odnosa. Posebno je važno obratiti pažnju na sigurnost na internetu.
+Napomena: Ishodi se prožimaju kroz oblast A., B. i C.
+A
+Informacione i komunikacione tehnologije A.1.1
+Upotrebljava program za pisanje.
+TIT-3.4.1
+Prepoznaje program za pisanje i njegovu namjenu.
+Koristi osnovne alate programa za pisanje uz pomoć učitelja.
+KLJUČNI SADRŽAJI
+Program za pisanje. Osnovni alati programa za pisanje.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Rad u programu za obradu teksta iskoristiti za usvajanje i uvježbavanje početnog čitanja i pisanja. Učenici mogu prepisivati zadani tekst, pisati po diktatu, čitati zadani tekst. Istovremeno, kroz navedene aktivnosti, uče se pravilima i zakonitostima pisanja i obrade teksta u kompjuterskom programu. Kroz usvajanje znanja o rečenicama, znakovima interpunkcije uvježbavaju alfanumerički dio tastature.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost - u trenutku kada učenici uče slova i usvajaju čitanje i pisanje program za obradu teksta postaje izuzetno koristan alat za usvajanje i uvježbavanje kroz diktate, prepisivanje i na kraju za samostalno pisanje riječi, rečenica, kratkih sastava, povezivanje riječi i pripadajućih slika, dopunjavanje riječi, dopunjavanje rečenica, rečenična interpunkcija, postavljanje pitanja i odgovaranje na pitanja, stvaranje nizova riječi, čitanje.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Prostor za razvijanje i jačanje jezičkih i komunikacijskih vještina, te digitalnih kompetencija.
+Učenici koriste usvojena digitalna znanja za razvijanje vlastite pismenosti, fonematskog sluha i kapaciteta. Tipkajući na tastaturi razvijaju motoriku, koordinaciju i koncentraciju.
+Osnovno
+2
+Godine učenja i podučavanja predmeta: 2
+A Informacione i komunikacione tehnologije
+A.2.1
+C Digitalno društvo
+C.2.1
+A Informacione i komunikacione tehnologije
+A.2.1
+A
+Informacione i komunikacione tehnologije A.2.1
+Upotrebljava program za crtanje koristeći osnovne alate uz primjenu ergonomskih smjernica u radu sa kompjuterom.
+TIT-3.4.3
+Primjenjuje ergonomske smjernice u radu na kompjuteru.
+Izrađuje crtež primjenom osnovnih alata za crtanje.
+KLJUČNI SADRŽAJI
+Ergonomske smjernice. Program za crtanje. Alati za crtanje. Crtež.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Učenici su već u prethodnom razredu savladali osnovne alate programa za crtanje tako da ih je u ovom dijelu potrebno ponoviti, a zatim proširili. Učenici Paint treba da koriste kao podršku u radu na drugim predmetima. Da ga koriste kao rješenje kojim će prikazati i prezentovati neke od sadržaja koje uče u okviru drugih predmeta.
+Učenici treba da nauče kako i gdje će spašavati sadržaje koje kreiraju kako bi ih kasnije lakše pronalazili. Treba tačno utvrditi i postaviti pravila za isto.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Metoda ilustracije je pogodna za povezivanje sa bilo kojim predmetom i oblasti. Moguće je ilustrovati književni tekst koji je obrađen. Na časovima Likovne kulture moguće je koristiti Paint kao jednu od tehnika rada i izrade crteža uz povezivanje sa sadržajima predmeta Moja okolina. Povezati oblike i praznike iz predmeta Matematika i Moja okolina i crtati novogodišnju čestitku.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Podstičemo i razvijamo kreativnost, preciznost, digitalne kompetencije, sposobnost identifikovanja i rješavanja problema, organizacijske sposobnosti, uspostavljanje i pridržavanje pravila.
+C
+Digitalno društvo C.2.1
+Primjenjuje digitalne tehnologije pri učenju kroz igru.
+  TIT-3.4.3
+Razlikuje ikone programa za pregledanje audio i video zapisa.
+Koristi edukativne igre i aplikacije u svrhu učenja.
+Kreira samostalno fotografije po zadatku.
+Uočava elemente kvalitetne fotografije.
+Izdvaja fotografije koje odgovaraju zadatku.
+KLJUČNI SADRŽAJI
+Edukativne igre. Fotografije. Audio i video zapisi. Aplikacije.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Odabrati odgovarajuće uređaje i programe za snimanje i reproduciranje audio i video zapisa. Korištenje edukativnih igrica potpomognutih tehnologijom unutar sadržaja različitih nastavnih predmeta. Učenici mogu igrati igrice, takmičiti se  ili se na pojednim platformama učiti kreirati ih. U tom smislu, potrebno je isticati važnost sigurnosti na internetu i zaštite ličnih podataka.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Moguće je napraviti projekte u okviru predmeta Moja okolina na skoro svaku temu. Učenici mogu praviti svoje priče i primjere rješavanja određenih problema i situacija i fotografirati ih. Iz Likovne kulture mogu praviti elektronsku mapu svojih likovnih radova.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Iskoristiti ovu oblast za razvijanje saradničkih vršnjačkih odnosa, usvajanje i primjenu pravila bontona,  poštivanje postavljenih pravila, a sve kroz jačanje digitalnih kompetencija. Poticati primjereno ponašanje i konvencije uljudnoga ophođenja za vrijeme saradničkih i komunikacijskih aktivnosti, uvažavanje različitosti, razvijanje tolerancije i međukulturnog razumijevanja.
+Napomena: Ishodi se prožimaju kroz oblast A i C.
+A
+Informacione i komunikacione tehnologije A.2.1
+Upotrebljava program za pisanje uz primjenu ergonomskih smjernica u radu sa kompjuterom.
+TIT-3.4.1
+Prepoznaje program za pisanje i njegovu namjenu.
+Koristi osnovne alate programa za pisanje.
+Upotrebljava tastaturu u postupku prepisivanja tekstova ili kroz samostalno pisano izražavanje u skladu sa pravilima.
+KLJUČNI SADRŽAJI
+Program za pisanje. Osnovni alati za uređivanje teksta. Polazni tekstovi.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline– metodičke smjernice
+Kroz sadržaje vježbanja čitanja, pisanja slova i brojeva te računanje, učenici/ce će uvježbavati rad u programu za pisanje koristeći osnovne alate. Uvježbavat će upotrebu miša, tastature, ekrana. Usvajanjem znanja o rečenicama, znakovima interpunkcije, učenici uvježbavaju korištenje alfanumeričkog dijela tastature. Razgovarat će o količini vremena provedenoga za kompjuterom te o potrebi tjelesnog vježbanja i zdrave prehrane. Prepoznat će zdrave navike ponašanja. Izvodit će vježbe razgibavanja. Primijeniti kratke vježbe na početku i/ili na kraju sata kako bi učenici razgibali i opustili tijelo.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Predmetna korelacija moguća je u predmetima Tjelesni i zdravstveni odgoj kroz primjenu ergonomskih vježbi, Moja okolina i Bosanski jezik i književnost, Hrvatski jezik i književnost,Srpski jezik i književnost (sastavljanje rečenica s pomoću zadanih riječi, rastavljanje rečenica na riječi, zapisivanje slova abecednim redom, dopunjavanje rečenica).
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Razvijanje digitalnih kompetencija, uviđanje i usvajanje navika zdravog života i odgovornog odnosa prema vlastitom zdravlju. Razvijanje jezičkih kompetencija kroz bogaćenje rječnika, samostalno pisanje radova. Učenici čitaju radove i prezentiraju ostalim učenicima, prilikom čega razvijaju samopouzdanje, prezentacijske i komunikacijske vještine.
+Osnovno
+3
+Godine učenja i podučavanja predmeta: 3
+A Informacione i komunikacione tehnologije
+A.3.1
+A Informacione i komunikacione tehnologije
+A.3.1
+B Rješavanje problema primjenom IKT-a
+B.3.1
+B.3.2
+C Digitalno društvo
+C.3.1
+C.3.2
+A
+Informacione i komunikacione tehnologije A.3.1
+Upotrebljava program za pisanje, uz primjenu ergonomskih smjernica u radu sa kompjuterom.
+TIT-3.4.1
+Primjenjuje osnove formatiranja za uređivanje naslova, teksta unutar odlomka, teksta uz korištenje znakova interpunkcije.
+Primjenjuje alfanumeričku i numeričku tastaturu uvježbavajući brzinu rada na tastaturi.
+Stvara dokument kombiniranjem slike i teksta ostvarujući interakciju sa drugim nastavnim predmetima
+Koristi komponente kompjuterskog programa za pisanje, uz osvrt  na ergonomske smjernice.
+KLJUČNI SADRŽAJI
+Program za pisanje. Formatiranje teksta. Upotreba znakova interpunkcije. Kombinovanje slike i teksta. Ergonomske smjernice.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Učenici će proširiti opseg alata koje koriste u programu za pisanje, uređivat će tekst i kombinovati ga sa slikom. Uočavat će načine na koje dokument, na kojem radi, može iskoristiti u nastavi drugih predmeta.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Sa sazrijevanjem i odrastanjem učenika/ce te jačanjem njegovih/njenih digitalnih kompetencija postoji sve veći prostor za međupredmetnu povezanost informatike sa svim nastavnim predmetima. Kroz usvajanje znanja o rečenicama i znakovima interpunkcije, uvježbava alfanumerički dio tastature. Numerički dio tastature koriste za rad na matematičkim zadacima. U mogućnosti je koristiti ga za kreativno literarno i likovno izražavanje u smislu kombinovanja teksta i slike. Tu je i mogućnost kratkih referata ili izvještaja o projektu na kojem je radio u okviru tema iz Moje okoline. Učenik/ca, koji su privremeno oslobođen/a aktivnosti na času tjelesnog i zdravstvenog odgoja, može pripremiti određene sadržaje na ovaj način.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Razvijanje digitalnih, matematičkih te jezičko-komunikacijskih kompetencija. Razvijat će upornost i dosljednost u radu. Naučit će da stiče znanja putem pokušaja i pogreški. Pronalaziće načine za rješavanje problema. Razvijat će tačnost i preciznost u  radu i razvijati algoritamsko razmišljanje.
+A
+Informacione i komunikacione tehnologije A.3.1
+Primjenjuje program za crtanje za kreiranje vlastitih radova.
+TIT-3.4.3
+Primjenjuje gotove oblike u crtanju (veličina, boja, vrste linija...).
+Kreira crteže pomoću osnovnih geometrijskih oblika.
+Koristi alate programa za crtanje za samostalno umjetničko izražavanje.
+KLJUČNI SADRŽAJI
+Program za crtanje. Crtež.Umjetničko izražavanje.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline– metodičke smjernice
+Istraživanje mogućnosti primjene različitih alata unutar programa za izvršavanje raznovrsnih školskih zadataka. Naglasak nije na vještini korištenja uređaja ili programa, nego na prepoznavanju njihove uloge i povezivanju rezultata koji želimo dobiti.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+U ovom stadiju poznavanja rada na programu, moguće je inkorporirati ga u sve nastavne predmete.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Pored digitalnih kompetencija treba razvijati i sposobnost umjetničkog izražavanja, razvijanja osjećaja odgovornosti prema obavezama i radu.
+B
+Rješavanje problema primjenom IKT-a
+B.3.1
+Primjenjuje multimedijalne sadržaje u svrhu učenja.
+B.3.2
+Kreira različite predmete od e-otpada.
+TIT-3.4.3 TIT-2.4.2
+Primjenjuje edukativne igre i aplikacije u svrhu učenja prema nastavnikovom, ali i po vlastitom izboru.
+Koristi programe za kreiranje fotografija, zvuka i video materijala uz primjenu vlastitih rješenja.
+Pronalazi predmete u svom okruženju koje kao e-otpad može koristiti za recikliranje i ponovnu upotrebu.
+Izrađuje različite ukrasne i druge predmete od dijelova e-otpada.
+KLJUČNI SADRŽAJI
+Edukativne igre. Aplikacije. Fotografija.  Audio i video materijal. E-otpad.
+PREPORUKE ZA OSTVARENJE ISHODA
+Preporuke za realizaciju tematske cjeline
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Učitelj bira programe koji odgovaraju potrebama njegovih učenika i tehničkim mogućnostima škole, uz adekvatne smjernice o primjeni programa. Istražuje mogućnosti modernih multimedijskih online programa, koji se mogu upotrebljavati u obrazovne svrhe, te kombiniranje različitih oblika digitalnih sadržaja u nove. Kroz igre učitelj postepeno uvoditi blokovsko programiranje i algoritamsko razmišljanje kod učenika/ce (npr. slaganje blokova u code.org, Scratch junior app i sl.). Učenik će biti u mogućnosti da izradi kviz, prezentaciju, multimedijski plakat, kolaž, kalendar, grafički prikaz podataka, animaciju, strip, digitalnu priču prema uputama o dogovorenoj temi. (npr. Padlet, StoryJumper, Pixton, MovieMaker). Moći će da odabere oblik digitalnog rada i temu u dogovoru s učenicima. Pohranjivanje sadržaja za budući rad i pronalaženje prethodno spremljenih sadržaja. U zavisnosti od odabranog programa, učitelj bira nivo složenosti digitalnog sadržaja kojeg učenik/ca izrađuje jer je u nekim programima jednostavnije napraviti audio zapis, video zapis ili animaciju, dok je u drugim jednostavnije napraviti strip, kombinaciju teksta i slike ili interaktivan sadržaj.
+ Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Na časovima i Bosanski jezik i književnost,Hrvatski jezik i književnost, Srpski jezik i književnost obradu književnih/informativnih tekstova o ekologiji, možemo povezati sa aktivnostima na času Likovne kulture koji se odnose na prikupljanja i ponovnu upotrebu e-otpada. Sadržaje planirati na način da se navedena obrada teksta uklapa i sa sadržajima Moja okolina u dijelu koji govori o čovjeku kao prirodnom i društvenom biću. Matematički zadaci također mogu biti vezani za ekološke teme, a sadržaji iz matematike mogu se ponavljati i uvježbavati kroz različite matematičke edukativne igre.
+S obzirom na intenzivne promjene koje donosi razvoj tehnologije, neizostavna je korelacija sa Engleskim jezikom. Engleski jezik se u okviru predmeta Informatika mnogo primjenjujemo jer sva kvalitetna literatura, tutorijali, primjeri projekata, zadaci i prezentaciji u dostupnom izdanju, obično su na engleskom jeziku.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jačanje samopouzdanja zbog kojeg će učenici biti otvoreniji za iznošenje i prezentiranje vlastitih ideja i rješenja, razvijanje saradičkih vršnjačkih odnosa, tolerancije, kritičkog mišljenja i rješavanja problema.
+Napomena: Ishodi se prožimaju kroz oblast A, B i C.
+C
+Digitalno društvo
+C.3.1
+Upoređuje informacije prikupljene putem  interneta.
+C.3.2
+Upotrebljava internet u svrhu predstavljanja sebe ili drugih.
+TIT-5.1.1 TIT-5.1.2
+Pretražuju sadržaje na datu temu na internetskim stranicama pod roditeljskim ili učiteljskim nadzorom (tekst, slike, audio i video zapisi).
+Prikuplja informacije putem  interneta primjerenih svom uzrastu uz smjernice učitelja u svrhu učenja i razvijanja vlastitih kompetencija.
+Primjenjuje pravila korištenja interneta štiteći se od opasnosti i neugodnosti digitalnog okruženja.
+Prepoznaje različite načine komuniciranja u savremenom društvu.
+Prepoznaje važnost zaštite ličnih podataka uz podršku učitelja/roditelja.
+KLJUČNI SADRŽAJI
+Internet. Pretraživanje. Digitalno okruženje. Lični podaci. Zaštita.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Učeniku/ci treba istaknuti da svakim svojim boravkom na internetu ostavlja digitalne tragove koje je jednostavno pratiti. Potrebno je da izbjegavaju komunikaciju sa nepoznatim osobama. Podučiti učenika/cu kako mogu da se zaštite u virtualnom svijetu  i potraže pomoć odrasle osobe, ako je to potrebno. Učenik/ca treba da zna koje lične podatke smije i koje ne smije podijeliti online. Posebno treba istaknuti da svoje lične podatke, korisničke račune i šifre ne trebaju dijeliti ni sa prijateljima, kao ni razgovor o digitalnim tragovima koje sami ostavljamo i koje drugi objavljuju o nama. Treba se koristiti se konkretnim primjerima digitalnih tragova o nekoj osobi, a koji su stari nekoliko godina.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Teme iz ove oblasti se vežu za sadržaje Moje okoline. Moguće je povezati ga sa sadržajima o porodici, kućnom redu škole i kuće, te sadržajima o zdravlju.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Razvijanje organizacijskih sposobnosti i odgovornosti prema radu, prema svome zdravlju i sebi samome u svakom smislu.Učenike moramo upoznati sa opasnostima koje im prijete na internetu i povezati ih s opasnostima iz stvarnoga svijeta. Treba razgovarati o pozitivnim obrascima ponašanja i kako ih primijeniti. Učenici moraju razviti odgovorno ponašanje tokom boravka na internetu kako bi zaštitili sebe, ali i druge. Povezati pravila pristojnoga ponašanja u kući, školi i na internetu. Razvijati pozitivnu klimu u odjeljenju i osnaživanje učenike tako da znaju da se mogu obratiti učiteljima ako im zatreba pomoć.
+Osnovno
+4
+Godine učenja i podučavanja predmeta: 4
+A Informacione i komunikacione tehnologije
+A.4.1
+A Informacione i komunikacione tehnologije
+A.4.1
+A Informacione i komunikacione tehnologije
+A.4.1
+A.4.2
+C Digitalno društvo
+C.4.1
+C.4.2
+B Rješavanje problema primjenom IKT-a
+B.4.1
+A
+Informacione i komunikacione tehnologije A.4.1
+Objašnjava značaj upotrebe IKT-a za društvo.
+TIT-3.1.4
+Koristi stečeno znanje za definiranje pojma informatike kao nauke.
+Navodi primjere primjene kompjutera u raznim djelatnostima.
+Opisuje kratki historijski razvoj kompjutera. 
+Navodi primjere upotrebe savremene tehnologije u kući, školi i svakodnevnici.
+KLJUČNI SADRŽAJI
+Podatak, informacija, znanje. Informatika. Komunikacija. Savremena tehnologija. Primjena IKT
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Da bi učenik/ca što kvalitetnije usvojio pomenute pojmove i oblast primjene IKT u svakodnevnici, preporučuje se komunikacija u kojoj bi bilo potrebno potaknuti učenike na njihovo razmišljanje o tome kako komuniciramo, šta razmjenjujemo tokom komunikacije, od čega se sastoje informacije koje razmjenjujemo, kakve mogu biti informacije… Sve pomenute aktivnosti povezati sa komunikacijom na kompjuteru, historijskim razvojem računara i razvojem IKT pismenosti. Važno je napomenuti da se kompjuteri nalaze i u drugim mašinama kao što su automobili, televizori, mašine za suđe i drugo.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Dobar primjer ostvarivanja međupredmetne povezanosti je da se kroz nastavu prožimaju pojmovi koji učenike povezuju sa svakodnevnicom i primjenom IKT u različitim oblastima ljudskog djelovanja odnosno zanimanja ljudi: npr. medicina, arhitektura, mašinstvo, muzika, kinematografija, bibliotekarstvo i sl.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Razvoj ključnih kompetencija: komunikacijska kompetencija kroz pričanje i slušanje u različitim situacijama i u različite svrhe u konstruktivnom i kritičkom dijalogu, razvijanje kompleksnog mišljenja, razvijanje potrebe za izražavanjem, izražavanje vlastitih misli i povezivanje sa svakodnevnicom o upotrebi IKT.
+A
+Informacione i komunikacione tehnologije A.4.1
+Koristi komponente kompjuterskog sistema.
+TIT-3.2.1
+Opisuje funkciju kompjutera, kompjuterskog sistema uz osvrt  na ergonomske smjernice.
+Objašnjava pojam hardvera, softvera i razliku između njih.
+Nabraja osnovne dijelove kompjutera objašnjavajući njihove uloge.
+Koristi radno okruženje operativnog sistema za izvršavanje osnovnih opcija sa aplikacijama (podešava radno okruženje, snima, premješta i kopira file ili folder na određenu lokaciju).
+Kreira direktorij/folder sa određenim imenom.
+KLJUČNI SADRŽAJI
+Hardver, softver, računarski sistem. Radna površina, dijelovi radne površine, uvodni ekran, prozor, pokazivač miša, ikone...
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Nastavnik/ca navodi učenike kako IKT oprema obuhvata širi pojam po pitanju vrsta kompjutera: desktop kompjutera, laptop, tablet, smartphone. Kroz grafičke prikaze pojasniti podjelu kompjuterskog sistema, hardver i softver. Ponoviti i proširiti znanje o kompjuterskoj ergonomiji, ergonomskom hardveru i softveru, te njihovoj ulozi. Istaknuti elementarne karakteristike operativnog sistema. Kreirane foldere i aplikacije otvara, zatvara, premješta, preimenuje i briše.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Moja okolina: Moja škola - radni prostor i IKT oprema.
+Tjelesni i zdravstveni odgoj: Pravilan stav prema kompjuterskoj tehnologiji i organizovanje radnog prostora.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Tjelesno-zdravstvena kompetencija: Podrazumijevaju prihvatanje i promoviranje ergonomskih smjernica prilikom primjene kompjutera.
+Kompetencija u tehnologiji kroz primjenu znanja za preuređenje okruženja u skladu sa ljudskim potrebama. Kreativno-produktivna kompetencija kroz podršku radoznalosti i želje za novim znanjem.
+A
+Informacione i komunikacione tehnologije
+A.4.1
+Upotrebljava program za obradu teksta.
+A.4.2
+Kreira radove koristeći program za crtanje i obradu fotografija.
+TIT-3.4.1 TIT-3.4.3
+Primjenjuje osnove unosa, izmjene (uređivanja) i brisanja teksta u dokumentu. 
+Formatira tekst (vrsta fonta, veličina, boja,  stilovi, podebljano, podvučeno...) i paragraf (poravnanje).
+Snima dokument na određenu lokaciju radi lakšeg pronalaženja i dodatnog uređivanja.
+Kreira jednostavne tabele.
+Prepoznaje softver i pripadajuće datoteke za obradu teksta i datoteke za crtanje.
+Primjenjuje alate programa za crtanje na zadanu temu.
+Kreira jednostavne grafičke organizere (Venov dijagram, umne mape, grozdove).
+Kombinira crteže iz različitih datoteka kako bi kreirali novi rad.
+KLJUČNI SADRŽAJI
+Program za obradu teksta. Formatiranje teksta. Programi za crtanje. Rad sa datotekama (tekstualni i slike).
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Učenik/ca kreira jednostavne digitalne radove kombinirajući više elemenata između aplikacija, npr. kreirani rad u programu za crtanje uvezuje sa tekstom koji je pisao/la na prethodnom času, te radio/la na uređivanju digitalnog sadržaja. Kroz kreiranje i popunjavanje jednostavnih tabela sa učenicima ponoviti i utvrditi odnose ćelije, reda i kolone.  Program za crtanje koristiti za korigiranje već postojećih fotografija, slika, crteža, a zatim kreirani rad kombinirati unutar druge datoteke. Kreiranje jednostavnih grafičkih organizera u programu za crtanje.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Upotreba programa za obradu teksta i programa za crtanje daje široku primjenu kroz sve predmete izučavanja. Program za crtanje se može koristiti na časovima Likovne kulture ali i za ilustriraanje teksta na časovima književnosti. Kreiranje Venovog dijagrama, umnih mapa, grozdova koji mogu učenicima pomoći u savladavanju gradiva i učenja, uočavanje bitnog od nebitnog, povezivanje, upoređivanje i kritičko mišljenje.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikacijska kompetencija se ostvaruje kroz čitanje i pisanje raznih vrsta tekstova.
+Informatička pismenost se ostvaruje kroz upotrebu tehnologije u svrhu razvoja kreativnosti, inovativnosti, likovnog izražavanja, izražavanja vlastitih emocija i sl.
+C
+Digitalno društvo
+C.4.1
+Prikuplja informacije putem interneta.
+C.4.2
+Primjenjuje osnove sigurnosti i zaštite u virtualnom okruženju.
+TIT-5.1.1 TIT-5.2.2
+Prepoznaje i koristi web preglednike.
+Pretražuje informacije (tekst, slike...) na datu temu.
+Koristi  edukativne sadržaje sa interneta uz nastavnikove/nastavnicine smjernice.
+Izdvaja pronađene sadržaje te ih snima na određenu lokaciju.
+Prepoznaje neprimjerene oblike ponašanja u digitalnom društvu.
+Primjenjuje načine zaštite u virtualnom okruženju uz nastavnikove/nastavnicine smjernice.
+Prepoznaje važnost primjene pravila ponašanja u virtualnom okruženju.
+Procjenjuje validnost podataka predstavljanja pojedinca i grupe na internetu.
+KLJUČNI SADRŽAJI
+Internet. Web preglednici. Virtualno okruženje. Sigurnost i zaštita.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Kroz razgovor sa učenicima, ilistracije ili video sadržaje, potaknuti učenike na razmišljenje o sigurnosti djece na internetu. Uputiti i ohrabriti učenike da uz prisustvo roditelja ili nastavnika/ce mogu prijaviti svaku komunikaciju ili kontakt koji nije primjeren ili se zbog toga ne osjećaju dobro. Razgovarati o internet bontonu.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Upotreba edukativnih  sadržaja sa interneta primjerena uzrastu učenika, koji se prožimaju kroz izučavanje drugih nastavnih predmeta i projektne nastave, a kroz časove odjeljenjskih zajednica je važno obraditi sigurnost i zaštitu u virtualnom okruženju.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Informatička pismenost: Svijest o razlikama između realnog i virtualnog svijeta, kritičko korištenje IKT za razmjenu informacija i učešće u virtualnom okruženju.
+Socijalna i građanska kompetencija: Primjenjuje pravila lijepog ponašanja (kako izraziti zahvalnost, naklonost, kako podijeliti brigu, radost itd.).
+B
+Rješavanje problema primjenom IKT-a B.4.1
+Procjenjuje značaj algoritma u rješavanju problema iz svakodnevnice.
+TIT-4.1.1
+Primjenjuje algoritamske korake kroz rješavanje problema u svakodnevnom životu.
+Navodi postupak za rješavanje nekog problema iz svakodnevnog života metodom korak po korak.
+Povezuje elementarne tipove podataka (znakovni/tekstualni i numerički) i algoritme.
+Koristi algoritamsko razmišljanje za rješavanje različitih problema iz drugih predmeta.
+KLJUČNI SADRŽAJI
+Algoritmi. Znakovni i numerički podaci. Algoritamsko rješavanje problema.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Primjenom kreativnog i kritičkog mišljenja, učenici rješavaju probleme iz različitih oblasti izučavanja, npr. postupak pranja zuba, opisivanje postupka dolaska u školu, postupak raspremanja sobe, izvođenje tjelesne vježbe, pripremanje voćne salate i sl. Učenik opisuje korake rješavanja zadanog problema. Razvija preciznost i jednostavnost u opisivanju algoritma. Prijedlog za rad u paru gdje učenici smišljaju jednostavnije probleme ili priče (scenarij) koji se rješavaju nizom koraka. Jedan drugom zadaju određene uslove ili prijedloge dopunjavajući algoritam, nakon čega zajedno analiziraju cijeli postupak do testiranja rješenja.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Svi nastavni predmeti koji zahtjevaju postupnost u radu, u izradi vježbi, u izradi eksperimenata imaju postupnost izrade prema algoritmu - korak po korak.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: Razvoj matematičke pismenosti kroz logičko i prostorno razmišljanje koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti, npr. u raznim didaktičkim igricama (slagalice, mozgalice, zagonetke i sl.), što doprinosi razvoju algoritamskog razmišljanja i razvoju vještina potrebnih za programiranje. Sticanje posvećenosti detaljima, razbijanje problema na manje dijelove i uvezivanje u jedan niz aktivnosti korak po korak do kompletiranja zadatka.
+Jezičko-komunikacijaske kompetencije: Razumjevanje, analiziranje i opisivanje algoritamskih koraka se prožima kroz jezičko-komunikacijske kompetencije.
+Kreativna kompetencija u razvijanju mišljenja kroz upotrebu logičnog strukturiranja i nizanja argumenata, te izražavanje vlastitih misli, ideja, emocija.
+Osnovno
+5
+Godine učenja i podučavanja predmeta: 5
+A Informacione i komunikacione tehnologije
+A.5.1
+A Informacione i komunikacione tehnologije
+A.5.1
+A Informacione i komunikacione tehnologije
+A.5.1
+C Digitalno društvo
+C.5.1
+B Rješavanje problema primjenom IKT-a
+B.5.1
+A
+Informacione i komunikacione tehnologije A.5.1
+Primjenjuje različite vrste IKT-a u svakodnevnom životu.
+TIT-3.1.3
+Koristi IKT uređaje i medije za rješavanja problema i izazova u svakodnevnom životu. 
+Navodi prednosti korištenja IKT- a u savremenom komuniciranju.
+Razlikuje vrste podataka (tekstualni, slikovni, numerički...).
+KLJUČNI SADRŽAJI
+IKT uređaji, tableti, mobiteli. Vrste podataka, tekstualni podaci, numerički podaci, slikovni podaci.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Za rješavanje određenih zadataka i problema danas je neizostavna primjena tehnologije. Kao preporuka za realizaciju ove teme mogu poslužiti npr. tehnike izrade grafikona, tabela i slično. Npr. za navedene poslove iz svakodnevnice (komuniciranje, crtanje, pisanje, računanje, slušanje muzike, gledanje filma...) učenici navode šta će koristiti (koji hardver i koji softver) za ralizaciju zadatka. Uz to navode o kojoj vrsti podataka se radi. Neophodno je i analiziranje poslova koji zahtjevaju primjenu IKT-a, te uz pomoć nastavnika/ca će istražiti kako su se ti poslovi prije obavljali bez primjene IKT-a.
+Prema mogućnosti i opremljenosti kabineta realizirati videopoziv sa stručnjacima kod kojih je neizostavna primjena IKT-a u poslu koji obavljaju.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Korelacija sa drugim predmetima se ostvaruje kroz navedene primjere primjene IKT-a. Naglasak staviti na važnost komunikacije koja se ostvaruje razmjenom podataka: tekstulani, numerički i znakovni.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Informatička pismenost: Ispravan stav prema primjeni IKT-a u svakodnevnoj upotrebi. Razvoj IKT-a podrazumjeva spremnost i prihvatanje  primjene novih sredstva koji se stalno prilagođavaju novim uslovima i načinima rada. 
+Razvoj ključnih kompetencija: komunikacijska kompetencija, razvijanje kompleksnog mišljenja, razvijanje potrebe za izražavanjem, izražavanje vlastitih misli i povezivanje sa svakodnevnicom o upotrebi IKT.
+Napomena: Ishodi se prožimaju kroz oblast A i C.
+A
+Informacione i komunikacione tehnologije A.5.1
+Raspoznaje karakteristike hardvera i softvera, te njihovu ulogu u računarskom sistemu.
+TIT-3.2.1
+Navodi ulogu hardvera i softvera.
+Objašnjava ulogu hardverskih dijelova (radna memorija, procesor, ulazni i izlazni uređaji…).
+Razlikuje sistemski i aplikativni softver navodeći primjere za programe.
+Instalira aplikacije na kompjuter uz pomoć nastavnika/ca.
+  KLJUČNI SADRŽAJI
+Hardver, softver, sistemski softver, aplikativni softver Ulazni, i izlazni dijelovi računara, processor, memorija, matična ploča.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Približiti učenicima ulogu i podjelu kompjuterskog sistema kroz primjere primjene i uloge hardverskih/softverskih komponenti, navoditi učenike na razmišljanje o ulozi svakog od pojedinačnih dijelova. Nakon opisivanja primjene hardvera/softvera, ponuditi učenicima neki hijerarhijski grafikon u koji bi trebalo da poslože kompjuterske komponente (nastavnik/ca po potrebi usmjerava učenike). Uočiti sličnosti i razlike operativnih sistema (MS Windows, Linux, Mac OS, Android i drugi). Opisati način organizacije foldera i fajlova te zadati učenicima da već kreirani hijerarhijski grafikon prikažu kroz foldere i podfoldere imenujući ih nazivima hardverskih komponenti. Pokazati učenicima kroz konkretan primjer tok instalacije na kompjuteru nekog od aplikativnih softvera.
+ Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Prilikom podjele aplikativnog softvera, razgovarati sa učenicima o vrstama softvera koji su primjenjivali ili poznaju primjenu u drugim nastavnim predmetima, npr. softveri za crtanje, obradu fotografija, audio i video sadržaja, pisanje i obradu teksta, i druge aplikacije. Korelaciju je moguće ostvariti sa svim predmetima.
+ Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Informatička pismenost: Sposobnost i spremnost kreiranja i prikazivanja grafičkih prikaza koji imaju univerzalnu primjenu kod opisivanja podjele kompjuterskog sistema.
+A
+Informacione i komunikacione tehnologije A.5.1
+Kreira multimedijalne prezentacije.
+TIT-3.4.1
+Raspoznaje razliku između aplikacija za obradu teksta i za kreiranje prezentacija.
+Upotrebljava multimedijalne elemente (tekst, slike, tabele, video, animacije, tranzicije...) za kreiranje slajdova unutar prezentacije.
+Manipulira elementima na slajdovima unutar prezentacije.
+Koristi multimedijalne sadržaje sa interneta za kreiranje prezentacije na zadanu temu.
+Koristi online program za obradu i stvaranje multimedijalnog sadržaja – prezentacije.
+KLJUČNI SADRŽAJI
+Računarske prezentacije. Multimedijalni sadržaji. Online programi za prezentacije.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline– metodičke smjernice
+Pri kreiranju prezentacija, učenici trebaju voditi računa o izboru templata, potrebno je uskladiti kontrast između pozadine i podataka radi čitljivosti, ograničiti se na broj detalja, shvatiti važnost koncepta planiranja i dizajna informacija koje prenose prezentacijom. Voditi računa o pravilima prezentacije i prezentiranja.
+Izrada multimedijalnog sadržaja uz primjenu interneta na zadanu temu, npr. za izradu stvarnih zadataka učenja iz drugih predmeta ili u projektnoj nastavi, kreiranje kvizova, igre asocijacija, ukrštenice i slično. Prilikom odabira online servisa, povesti računa o zaštiti ličnih podataka. Poželjno je da se za registraciju kreira račun samo za svrhu online aplikacija i to bez upotrebe ličnih podataka nego koristiti nadimke i slično.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Korelacija po pitanju primjene multimedijalnih sadržaja (kvizovi, asocijacije, ukrštenice, prezentacije) ima široku primjenu kroz sve nastavne predmete, a od izuzetnog značaja je i primjena u izradi projekata. Korelacija s Likovnom kulturom primjenjujući multimedijalne tehnologije iz domena kreativnosti. Neizostavna je korelacija sa bosanskim jezikom u korištenju maternjeg jezika prilikom izrade prezentacija.
+ Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Kritičko korištenje informaciono komunikacione tehnologije za prikupljanje, vrednovanje i pohranjivanje informacija za produkciju, predstavljanje i razmjenu informacija.
+Kreativno-produktivna kompetencija u razvijanju kreativnosti i potrebe za izraživanjem, te osjećaj za estetske vrijednosti.
+Samoinicijativa i poduzetnička kompetencija se razvija prilikom izrade i upravljanja projektima uz konstruktivnu saradnju u aktivnostima i upotrebu vještina grupnog rada.
+Napomena: Ishodi se prožimaju kroz oblast A i C.
+C
+Digitalno društvo C.5.1
+Procjenjuje informacije prikupljene putem interneta.
+TIT-5.1.1
+Organizira prikupljene informacije s internetskih stranica na principu važnosti za zadanu temu.
+Koristi digitalne tehnologije za učenje, primjerene uzrastu učenika/ca.
+Prepoznaje mogućnost pojavljivanja neprimjerenog sadržaja među rezultatima pretrage te uz pomoć nastavnika/ca preformulira pretraživanje kako bi izbjegli takve sadržaje.
+Kritički vrednuje organizirane prikupljene informacije.
+KLJUČNI SADRŽAJI
+Internet. Pretraživanje informacija. Prednosti i nedostaci digitalnih tehnologija.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Ovu tematsku cjelinu započeti prvo sa uočavanjem razlika između pojmova web pretraživač i web preglednik. Kao primjer, mogu se koristiti online igre. Zadatak može biti da učenici vode računa sa kojih stranica preuzimaju sadržaje, prepoznaju validnost informacija uz analiziranje i kritičko razmišljane. U zadacima zadati pretraživanje različitih vrsta podataka (tekstualni, slikovni, audio i video), kao i pretraživanje koristeći različite web pretraživače. Potaknuti učenike da raspravlaju o sličnostima i razlikama u rezultatima koji se mogu pojaviti  pri korištenju različitih pretraživača i pri različito formulinarim pretragama za isti pojam/informaciju. Razgovarati o mogućem pojavljivanju neprimjerenog sadržaja među rezultatima pretrage, te usmjeriti učenike kako da formuliraju pretraživanje.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Kroz pretraživanje podataka/informacija, učenicima zadati zadatke koji se prožimaju i u  drugim natavnim predmetima. Npr. za pretraživanje tekstualnih i slikovnih podataka, moguće je zadati učenicima zadatak da pronađu iz Kulture življenja recept i fotografije za pripremanje nekog tradicionalnog jela. Audio podatke povezati sa nastavnim oblastima Muzičke kulture. Traženje mapa povezati sa nastavnom temom iz Geogrfije/Društva. Moguće je pronaći video podatke pronaći o pravilnom izvođenju nekih vježbi iz sporta. Slične primjere primjene pretraživanja se mogu koristiti i za sve druge nastavne predmete. Od posebne važnosti je znanje i korištenje stranih jezika u ovoj tematskoj cjelini.
+S obzirom na intenzivne promjene, koje donosi razvoj tehnologije, neizostavna je korelacija sa Engleskim jezikom. Engleski jezik jako mnogo primjenjujemo jer sva kvalitetna literatura, tutorijali, primjeri projekata, zadataka i prezentacija u dostupnom izdanju obično su na engleskom jeziku.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikacijaska kompetencija u pretraživanju informacija se prožima kroz analiziranje, raspravljanje, kritičko procjenjivanje i razumijevanje pronađenih informacija, uz važnost poznavanja i korištenja stranih jezika.
+Informatička pismenost: Kritičko korištenje IKT u svrhu prikupljanja, vrednovanja i pohranjivanja informacija.
+Socijalna i građanska kompetencija: Razvijanje svjesnosti i razumijevanja sociokulturnih i međukulturnih pravila i normi upotrebe stranog jezika i razvijanje odgovarajućih strategija za komunikaciju, interpretaciju i korištenje poruka u skladu sa ovim pravilima i normama (sociolingvistička kompetencija).
+Samoinicijativa i poduzetnička kompetencija: Rad u parovima ili grupama na koperativan i fleksibilan način, uz konstruktivno sarađivanje u aktivnostima.
+B
+Rješavanje problema primjenom IKT-a B.5.1
+Rješava zadate probleme upotrebom jednostavnih programskih jezika.
+TIT-4.2.2
+Prepoznaje značaj programiranja sa aspekta rješavanja određenih problema.
+Primjenjuje radno okruženje (online) aplikacije za kreiranje jednostavnih programa.
+Manipuliše osnovnim alatima (blokovima) u rješavanju zadataka.
+Upotrebljava naredbe (blokove) u rješavanju jednostavnijih zadataka, prilagođene uzrastu učenika/ca.
+Primjenjuje online aplikacije za kreiranje kodova kojim pravi vlastitu igru ili priču, uz pomoć nastavnika/ca.
+KLJUČNI SADRŽAJI
+Osnove programiranja. Radno okruženje apliakacija za pisanje blokova. Rad sa programskim blokovima
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Za realiziranje tematske cjeline, poželjno je koristiti grafičke programe i aplikacije koji su prilagođeni najmlađima (npr. hourofcode.com, code.org, runmarco.allcancode.com, www.kodable.com,  www.tynker.com). Moguće je raditi rješavanje problema slaganje niza akcija kroz programske strukture. U zavisnosti od opremljenosti škole, nastavnik/ca pokazuje učenicima upravljanje micro:bit uređajima ili nekim drugim robotom, unošenjem različitih zadataka. Posvetiti dovoljno vremena za razgovor sa učenicima o kreiranim postupcima za rješavanje nekog problema. Analiziranje kreiranih kodova i upoređivanje sa drugim učenicima, sagledavanje cijelog postupka pri rješavanju problema i to sve na nivou primjerenom uzrastu učenika/ce.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+U zavisnosti od odabranih aplikacija i odabranih uređaja, ostvaruje se korelacija sa drugim predmetima (npr. plesna zabava, sportske igre, crtanje i dizajn, kodiranje s mapama, kreiranje termometra, pedometra, računanje algebarskih izraza i slično).
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: Razvijanje logičkog razmišljanja i zaključivanja kroz problemske zadatke, kao i razvijanje preciznosti u opisivanju postupaka za rješavanje problema, poznavanje matematičkih pojmova i koncepata u kreiranju matematčkih programa.
+Kreativna kompetencija u razvijanju mišljenja kroz upotrebu logičkog strukturiranja i nizanja argumenata, te izražavanje vlastitih misli, ideja, emocija.
+Napomena: Ishodi se prožimaju kroz oblast A i B.
+Osnovno
+6
+Godine učenja i podučavanja predmeta: 6
+A Informacione i komunikacione tehnologije
+A.6.1
+C Digitalno društvo
+C.6.1
+C.6.2
+C Digitalno društvo
+C.6.1
+A Informacione i komunikacione tehnologije
+A.6.1
+A.6.2
+B Rješavanje problema primjenom IKT-a
+B.6.1
+A
+Informacione i komunikacione tehnologije A.6.1
+Klasificira memoriju u kompjuteru.
+TIT-3.1.1
+Objašnjava važnost i ulogu memorije, veličinu datoteka u odnosu na raspoloživi prostor.
+Opisuje pojam i veličinu bita, bajta i ostalih mjernih jedinica za kapacitet memorije.
+Upoređuje mjerne jedinice za kapacitet memorije.
+Procjenjuje odnos između pojmova: podatak, bit, vrijednost bita, bajta i kapacitet memorije. 
+KLJUČNI SADRŽAJI
+Memorija, bit, bajt i ostale mjerne jedinice za kapacitet memorije. Radna memorija.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Kroz praktične primjere pojasniti učenicima ulogu memorije, kapacitet i mjerne jedinice. Izraditi vježbe prenosa podataka putem medijskih uređaja ili putem mreže u kojima učenici analiziraju kapacitet određenog fajla ili foldera koji prenose u odnosu na raspoloživi prostor. Objasniti učenicima, kroz primjere, mjerne jedinice za kapacitet memorije (npr. 8 bit - a =1; bajt =1 znak sa tastature, te na taj način da izračunaju kapacitet nekih riječi, naziva i slično).
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Kroz izučavanje mjernih jedinica za memoriju, ostvaruje se povezanost sa Matematikom.
+ Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Informatička pismenost: Kritički koristi informaciono-komunikacione tehnologije za pohranjivanje informacija i za produkciju.
+Matematička pismenost: Koristi matematičke oblike mišljenja (logičko i prostorno razmišljanje) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja kapaciteta memorije.
+C
+Digitalno društvo
+C.6.1
+Analizira i povezuje elemente kompjuterskih mreža i njihove karakteristike.
+C.6.2
+Upotrebljava internet servise (usluge) za preteživanje, komunikaciju i razmjenu informacija i materijala.
+TIT-3.2.3 TIT-5.1.4
+Navodi primjere primjene kompjuterskih mreža u raznim sferama ljudskog života i rada.
+Objašnjava  prednosti umrežavanja kompjutera uz osnovna znanja o kompjuterskim mrežama.
+Identificira nedostatke umrežavanja kompjutera.
+Prepoznaje komponente mrežnog hardvera potrebne za povezivanje uređaja na internet.
+Razlikuje pojmove i strukturu URL, simboličke (web) i e-mail adrese.
+Pretražuje različite sadržaje (grafički, tekstualni ili video sadržaji) na zadatu temu.
+Samostalno pronalazi podatke na internetu za keiranje rada iz drugih nastavnih oblasti vodeći računa o autorstvu.
+KLJUČNI SADRŽAJI
+Kompjuterske mreže. Povezivanje računara. Internet. Internet servisi. Pretraživanje.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Potaknuti učenike na razmišljanje i razgovor o primjeni kompjuterskih mreža (Gdje se primjenjuju kompjuterske mreže? Koja im je funkcija? Šta je neophodno da bi se kompjuteri povezali u mrežu? Koje vrste mrežnog povezivanja imaju? Šta se sve može proslijediti i na koji način? Koji su nedostaci povezivanja uređaja u mrežu?). Kroz primjere pojasniti učenicima strukturu URL adrese i e-mail adrese uz navođenje domene i servisa. Osmisliti grupni rad/rad u paru/individualni rad na temu pretraživanja različitih sadržaja, a nakon toga analizirati pronađene sadržaje uz navođenje izvora i hijerrhijske strukture URL adrese.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Korelacija se ostvaruje sa drugim nastavnim predmetima u zavisnosti od teme koju učenicima treba zadati prilikom pretraživanja informacija. Od posebne važnosti je znanje i korištenje stranih jezika kada učenici treba ta pretražuju informacije na internetu.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Informatička pismenost: Kritički koristi informaciono-komunikacione tehnologije za pridobivanje i razmjenu informacija kroz kompjuterske mreže. Poštuje etička načela, prepoznaje pouzdanost i valjanost prikupljenih informacija, koristi mreže za širenje vidika.
+Samoinicijativa ipoduzetničkakompetencija: Konstruktivno sarađuje u aktivnostima primjenjujući vještine grupnog rada.
+Socijalna i građanska kompetencija: Razvijanje svjesnosti i razumijevanja sociokulturnih i međukulturnih pravila i normi upotrebe stranog jezika i razvijanje odgovarajućih strategija za komunikaciju, interpretaciju i korištenje poruka, u skladu sa ovim pravilima i normama (sociolingvistička kompetencija).
+Napomena: Ishodi se prožimaju kroz oblast A i C.
+C
+Digitalno društvo C.6.1
+Analizira pravila ponašanja u digitalnom društvu.
+TIT-5.2.4
+Povezuje pravila ponašanja iz stvarnog svijeta s pravilima ponašanja u virtuelnom svijetu.
+Izražava svojim riječima pravila internetskog bontona.
+Kritički prosuđuje poštivanje autorskih prava, privatnosti i ličnih podataka, predviđajući moguće posljedice nepoštivanja.
+Prepoznaje neprimjerene oblike ponašanja u digitalnom društvu i načine zaštite.
+Razlikuje načine kršenja autorskih prava.
+Uočava posljedice izazvane kršenjem autorskih prava.
+KLJUČNI SADRŽAJI
+Zaštita ličnih podataka. Privatnost i autorska prava. Internet bonton. Sigurnost na internetu. Neprimjereno ponašanje.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Povezati bonton i komunikaciju u stvarnom svijetu s osnovnim pravilima komunikacije u virtualnom okruženju. Naglasiti razlike u komunikaciji s poznatim i nepoznatim osobama, te rizike komunikacije s nepoznatim osobama. Pokazati primjer lažnog predstavljanja, ismijavanja, upotrebe tuđih podataka i fotografija bez dopuštenja, kroz adekvatne video ili ilustracije i potaknuti učenike/ce na kritičko mišljenje i analiziranje. Staviti naglasak na poštivanje autorskih prava.  Razgovarati i zapisati pravila pristojne komunikacije i istaknuti ih na vidljivo mjesto ili kreirati poster.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Jezičko izražavanje, slušanje i konverzacija se vezuju za  Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost. Pravilan izgovor i  pisanje riječi na engleskom jeziku. Pravila ponašanja u stvarnom i virtualnom okruženju su u vezi sa časovima odjeljenjske zajednice.
+S obzirom na intenzivne promjene koje donosi razvoj tehnologije neizostavna je korelacija sa Engleskim jezikom. Engleski jezik jako mnogo primjenjujemo jer sva kvalitetna literatura, tutorijali, primjeri projekata, zadataka i prezentacija u dostupnom izdanju, obično su na engleskom jeziku.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Socijalna i građanska kompetencija: Razvija primjerene komunikacijske strategije za interpretaciju i korištenje poruka u skladu sa sociokulturnim i međukulturnim pravilima i normama (sociolingvistička kompetencija), primjenjuje pravila lijepog ponašanja (kako izraziti zahvalnost, naklonost, kako podijeliti brigu, radost, itd.), konstruktivno komunicira i iskazuje poštivanje u društvenim situacijama (kvalitetna međusobna komunikacija), stiče ponašanje koje uvažava kreativno izražavanje ideja, iskustava i emocija, s pažnjom na uvažavanje različitosti po mnogim aspektima.
+Jezičko-komunikacijskakompetencija namaternjem jeziku: Izražava pozitivne stavove i pokazuje vještine za efikasnu međukulturalnukomunikaciju.
+Informatička pismenost: Poštuje privatnost pri korištenju virtualnog okruženja, poštuje etička načela, prepoznaje pouzdanost i valjanost prikupljenih informacija poštujući autorska prava.
+A
+Informacione i komunikacione tehnologije
+A.6.1
+Koristi softver za tabelarne proračune.
+A.6.2
+Izrađuje zadatke sa proračunima i grafičkim prikazom.
+TIT-3.4.1 TIT-3.4.1
+Raspoznaje razlike između aplikacija (za obradu teksta, prezentacije, proračunske tablice) prema ikonama i radnim okruženjem.
+Koristi aplikaciju za tabelarne proračune za unos i obradu podataka u radnoj knjizi.
+Uređuje ćelije, kolone, redove, radne listove, radne knjige prema potrebama datog zadatka.
+Formatira tabele proizvoljno i prema datom zadatku.
+Grafički prikazuje podatke iz tabele prema zadanim uslovima.
+Upoređuje podatke iz grafičkog prikaza dajući svoje mišljenje.
+Primjenjuje stečeno znanje za kreiranje tabelarnog i grafičkog izvještaja.
+Uspješno koristi tabele na konkretnim primjerima primjene iz života.
+KLJUČNI SADRŽAJI
+Proračunske tabele. Grafikoni. Uređivanje tabele. Uređivanje grafikona. Red, kolona, ćelija.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Za izradu proračunskih tablica koristiti neki problem iz svakodnevnog života (ocjene po predmetima i računanje prosječne ocjene; temperatura u gradovima i računanje minimalne, maksimalne i prosječne temperature; obim i površine nekih objekata, terena i slično). Primjenjivanje matematičkih formula i funkcija u programu za proračunske tablice pojasniti kroz adekvatne primjere. Kreiranje grafičkih prikaza, analiziranje, upoređivanje uz razvijanje kritičkog razmišljanja i posmatranja.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Korelacija sa drugim nastavnim predmetima gdje se koriste proračuni i grafički prikazi.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Kompetencija u nauci itehnologiji: Uloga i primjena tehnologije u naučnom napretku (u medicini), u društvenim odnosima (u ekonomiji), u okruženju (zagađenost,održivi razvoj) kroz proračune i grafičke prikaze.
+Matematičkapismenost: Koristi matematičke oblike mišljenja, formule i funkcije; poznaje matematičke pojmove i koncepte.
+Informatička pismenost: Kritički koristi informaciono-komunikacione tehnologije za pridobivanje,
+vrednovanje i pohranjivanje informacija za produkciju.
+B
+Rješavanje problema primjenom IKT-a B.6.1
+Rješava problemske zadatke u programskom jeziku.
+TIT-4.2.2
+Razlikuje korake i pravila za kreiranje algoritama.
+Opisuje problem pomoću algoritma navodeći koji su ulazni podaci i koji su rezultati na izlazu.
+Konstruira algoritam i dijagram (dijagram toka) za jednostavnije zadatke.
+Primjenjuje osnovne naredbe programskog jezika kreirajući jednostavnije programe.
+Provjerava izvršavanjem kreirani program uz kritičko vrednovanje i testiranje datog programa.
+KLJUČNI SADRŽAJI
+Algoritam. Program. Programiranje. Programski jezik. Osnovne naredbe programa. Dijagram toka. Rješavanje problema.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podcučavanja tematske cjeline – metodičke smjernice
+Nastavnik/ca koristi svoje primjere ili online video sadržaje ili primjere vizualizacije za praćenje algoritamskog toka kod jednostavnijih primjera. Učenici opisuju algoritamski tok navodeći ulazne i izlazne podatke. Zadane primjere grafički prikazuju kroz simbole dijagrama toka.
+Prijedlog sadržaja za realizaciju ove teme može se pronaći na stranicama Code week, Hour of code i slično.
+Preporuka za programski jezik: Scratch, Python, C#, C, C++, Java/Java Script...
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Međupredmetnu korelaciju moguće je ostvariti kroz sve nastavne predmete koji zahtjevaju postupnost u radu posebno u predmetu Matematika. U izradi vježbi, u izradi i opisu eksperimenata, gdje je važna postupnost izrade prema algoritmu - korak po korak. Pravilno pisanje riječi/naredbi na engleskom jeziku.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: Razvijanje logičkog mišljenja i zaključivanja kroz problemske zadatke, kao i razvijanje preciznosti u opisivanju postupaka za rješavanje problema.
+Informatička pismenost: Koristi tehnologije za potporu kritičkog načina razmišljanja.
+Kompetencija u nauci i tehnologiji: Razumije i primjenjuje (dekodira, tumači i razlikuje) razne vrste prikazivanjamatematičkih elemenata; odabire i zamjenjuje načine prikazivanja.
+Kreativno-produktivna kompetencija: Podupire radoznalost i želju za novim znanjima, izražava svoje misli, ideje i emocije.
+Osnovno
+7
+Godine učenja i podučavanja predmeta: 7
+A Informacione i komunikacione tehnologije
+A.7.1
+B Rješavanje problema primjenom IKT-a
+B.7.1
+B.7.2
+A Informacione i komunikacione tehnologije
+A.7.1
+C Digitalno društvo
+C.7.1
+C.7.2
+A
+Informacione i komunikacione tehnologije A.7.1
+Koristi osnovne naredbe i mogućnosti aplikativnog softvera za obradu teksta.
+TIT-3.4.1
+Upotrebljava različite efekte za tekst.
+Oblikuje odlomak sa konkretnim zahtjevima.
+Primjenjuje gotove stilove za tekst.
+Modificira stilove u tekstu po određenom zahtjevu.
+Kreira dokument uz upotrebu tabela, organizacijskih dijagrama, tekstualnih okvira i drugih oblika.
+KLJUČNI SADRŽAJI
+Paragraf. Uređivanje stranice. Uređivanje teksta.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Samostalan rad učenika/ca koristeći desktop i online verziju aplikacije za obradu teksta. Nakon demonstracije nastavnika/ce i konkretnog primjera, omogućiti da učenik/ca svoje zadatke rade praktično, a svoje vježbe da snima na disk kompjutera ili cloud prostor. Planirati aktivnosti kroz koje će učenici samostalno realizirati konkretan zadatak.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Moguća je međupredmetna povezanost sa svim predmetima.
+ Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikacijska kompetencija: Piše razne vrste tekstova za različitu namjenu i publiku.
+Informatička pismenost: Upotreba tehnologije u svrhu razvoja kreativnosti, inovativnosti, likovnog izražavanja, izražavanje vlastitih emocija i sl.
+Kreativno-produktivna kompetencija: Razvija kreativnost i potrebu za istraživanjem te osjećaj za estetske vrijednosti, iznosi i povezuje različite ideje, podupire radoznalost i želju za novim znanjima, izražava svoje misli, ideje i emocije.
+B
+Rješavanje problema primjenom IKT-a
+B.7.1
+Analizira i povezuje elemente programiranja.
+B.7.2
+Rješava probleme primjenjujući naredbe grananja u nekom od programskih jezika.
+TIT-4.2.1 TIT-4.2.1
+Razlikuje strukture algoritma (linijska, razgranata, ciklična).
+Riječima opisuje algoritam za rješavanje određenog problema.
+Koristi dijagram toka za prikaz razgranatog algoritma.
+Primjenjuje postavljanje uslova za grananje.
+Prepoznaje strukture sa grananjem u zavisnosti od uslova.
+Razlikuje vrste grananja (jednostruko, dvostruko i višestruko).
+Opisuje način izvršavanja programa koristeći uvjet za grananje.
+Rješava problemske zadatke iz drugih predmetnih oblasti primjenjujući naredbe grananja.
+KLJUČNI SADRŽAJI
+Algoritam. Pisanje programa. Grananje. Vrste grananja.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Objasniti pojam algoritma, naučiti razliku između vrsta algoritma (navesti primjere iz života). Za učenje programiranja i shvatanje algoritama i načina kompjuterskog razmišljanja može se koristiti stranica www.code.org  ili www.petlja.org  koje sadrže interaktivne vježbe za učenje u programiranju. Također, nastavnici mogu kombinovati i micro:bit kako bi učenici na konkretnim primjerima vidjeli kako funkcinira proizvod koji su sami programirali. Kroz interaktivne primjere se mogu pokazati linijska i razgranata strutkura. Učenici svoje linije koda trebaju napisati u jednom od programskih jezika (Python, C++ i sl.)
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Matematika, Fizika, Engleski jezik
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: Razvijanje logičkog mišljenja i zaključivanja kroz problemske zadatke, kao i razvijanje preciznosti u opisivanju postupaka za rješavanje problema.
+Informatička pismenost: Koristi tehnologije za potporu kritičkog načina mišljenja.
+Kompetencija u nauci i tehnologiji: Razumije i primjenjuje (dekodira, tumači i razlikuje) različite vrste prikazivanjamatematičkih elemenata; odabire i zamjenjuje načineprikazivanja.
+Kreativno-produktivna kompetencija: Podupire radoznalost i želju za novim znanjima, izražava svoje misli, ideje i emocije.
+A
+Informacione i komunikacione tehnologije A.7.1
+Upotrebljava softver za uređivanje fotografija i stolno izdavaštvo.
+TIT-3.4.3
+Prepoznaje važnost primjene kompjuterske grafike u svakodnevnom životu.
+Definira osnovne elemente kompjuterske grafike i podjelu grafike.
+Dizajnira fotografije prema vlastitoj želji koristeći alate za izdvajanje dijelova slike i filtere.
+Kreira fotoalbum, plakate, letke, mini brošure i novinske članke sa obrađenim fotografijama.
+KLJUČNI SADRŽAJI
+Računarska grafika. Vrste računarske grafike. Element slike. Programi za obradu fotografije.  Stolno izdavaštvo.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Nakon upoznavanja sa osnovnim elementima fotografije i nekih od programa za obradu fotografije, učenici koriste programe za uređivanje fotografije (npr. Paint i Paint 3D). Određuju dimenzije nove fotografije u centimetrima i pikselima. Učenici znaju koje softvere koriste za rastersku a koje za vektorsku fotografiju. Koriste alate za selektiranje dijelova slika i kombiniraju sa dijelovima druge slike. Obrađenu fotografiju snimaju u odgovarajućem formatu (npr. JPG, JPEG, PNG, PDF, GIF, TIFF)
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+U projektima koji učenici rade u okviru drugih nastavnih predmeta, mogu fotografirati faze projekta, kreirati i uređivati fotografije u prilog projektu. Članovi novinarske sekcije mogu pratiti i fotografirati aktivnosti u školi te pripremiti i uređivati školski časopis.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Informatička pismenost (informacijska, medijska): Kritički koristi IKT za prikupljanje, produkciju i obradu informacija; koristi tehnologiju radi razvoja kreativnosti, inovativnosti i za potporu kritičkog načina razmišljanja.
+Kreativno-produktivna kompetencija: Podupire radoznalost i želju za novim znanjima; izražava svoje misli, ideje i emocije kroz grafiku; razvija sposobnost promatranja, učestvovanja i integriranja novih iskustava.
+C
+Digitalno društvo
+C.7.1
+Istražuje i analizira informacije prikupljene putem interneta.
+C.7.2
+Primjenjuje Cloud tehnologije u svakodnevnom životu.
+TIT-5.1.1 TIT-5.1.3
+Opisuje svrhu najpoznatijih internet servisa.
+Određuje kriterije po kojima su određeni izvori pouzdani prilikom pretraživanja informacija.
+Izrađuje referate na zadanu temu uz pomoć informacija prikupljenih na internetu.
+Upoređuje aktualne društvene mreže sa njihovim prednostima i nedostacima.
+Objašnjava osnovne pojmove cloud tehnologije.
+Koristi se cloud aplikacijama i cloud diskovima za pohranu podataka.
+Organizira radni prostor na cloud-u.
+Prepoznaje prednosti i opasnosti korištenja cloud servisa.
+KLJUČNI SADRŽAJI
+Internet servisi. Praktična primjena intenet servisa. Korištenje različitih web preglednika. Korištenje različitih pretraživača. Prenos podataka sa računara na Cloud i download sadržaja sa interneta na računar.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline– metodičke smjernice
+Primjenjuje dosadašnje znanje na konkretnim zadacima. Učenik/ca se koristi različitim web preglednicima, kao i njihovim mogućnostima. Učenik/ca koristi anonimni (privatni) način rada. Pristupa svom školskom/privatnom cloud prostoru za pohranu podataka. Koristi web temeljene aplikacije.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Internet servisi i primjena cloud tehnologije su neizostavni servisi nastavnog procesa bilo kog nastavnog predmeta. Komunikacija, dijeljenje nastavnih materijala, arhiviranje i kolaboracija neki su od korisnih načina moguće upotrebe primjenom navedenih servisa.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikacijska kompetencija na maternjem jeziku: Piše složene tekstove; kritički ocjenjuje različite oblike komunikacije; izražava pozitivne stavove i pokazuje vještine za efikasnu međukulturalnu komunikaciju.
+Informatička pismenost: Koristi tehnologije radi razvoja kreativnosti, inovativnosti i uključivanja u društvo i virtualno okruženje; koristi tehnologije za potporu kritičkog načina mišljenja; poštuje privatnost pri korištenju društvenih mreža, poštuje etička načela, prepoznaje pouzdanost i valjanost prikupljenih informacija, koristi mreže za širenje vidika.
+Kreativno-produktivna kompetencija: Razvija kreativnost i potrebu za istraživanjem te osjećaj za estetske vrijednosti; iznosi i povezuje različite ideje.
+Osnovno
+8
+Godine učenja i podučavanja predmeta: 8
+A Informacione i komunikacione tehnologije
+A.8.1
+C Digitalno društvo
+C.8.1
+C.8.2
+A Informacione i komunikacione tehnologije
+A.8.1
+B Rješavanje problema primjenom IKT-a
+B.8.1
+A
+Informacione i komunikacione tehnologije A.8.1
+Primjenjuje aplikativni softver za proračunske tabele na višem nivou.
+TIT-3.4.1
+Prepoznaje svrhu korištenja aplikativnog softvera za proračunske tabele na konkretnim primjerima.
+Manipulira elementima tabele (ćelija, red, kolona, adresa ćelije).
+Uređuje tabelu koristeći alate i gotove predloške koji se nalaze na trakama sa alatima.
+Izrađuje grafikone za predstavljanje podatak iz tabele koristeći sastavljene i odvojene kolone (različita mjesta podataka).
+Primjenjuje formule i osnovne ugrađene funkcije u zadacima pri rješavanju datih problema.
+KLJUČNI SADRŽAJI
+Uređivanje ćelije. Označavanje redova i kolona. Uređivanje tabele. Korištenje gotovih predložaka za tabele, grafikone i formule.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Učenik/ca koristi desktop i web aplikaciju za tabelarne proračune. Uređuje svojstva ćelije koristeći Format Cells. Dodaje i briše redove i kolone. Koristi se već gotovim templejtima koji postoje u samoj aplikaciji. Koristi različite tipove grafikona za predstavljanje podataka. Na konkretnim primjerima koristi se osnovnim formulama u funkcijama (SUM, AVERAGE, COUNT, COUNTIF i sl.)
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Matematika, Fizika, Hemija, Biologija i drugi predmeti kojima je potrebna bilo koja vrsta tabelarnog grafičkog prikaza.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Kompetencija u nauci itehnologiji: Uloga i primjena tehnologije u naučnom napretku (u medicini), u društvenim odnosima (u ekonomiji), u okruženju (zagađenost,održiv razvoj) kroz proračune i grafičke prikaze.
+Matematičkapismenost: Koristi matematičke oblike mišljenja, formule i funkcije; poznaje matematičke pojmove i koncepte.
+Informatička pismenost: Kritički koristi informaciono-komunikacione tehnologije za pridobivanje,
+vrjednovanje i pohranjivanje informacija za produkciju.
+C
+Digitalno društvo
+C.8.1
+Analizira i povezuje elemente kompjuterskih mreža i njihove karakteristike.
+C.8.2
+Upotrebljava internet servise u svakodnevnom životu.
+TIT-3.2.3 TIT-5.1.1
+Objašnjava pojam kompjuterske mreže.
+Pojašnjava pojmove: dijeljeni folder i dijeljeni štampač.
+Upoređuje različite mreže prema arhitekturi i principu rada.
+Analizira odnos komponenti mrežnog hardvera i softvera.
+Objašnjava namjenu i ulogu IP adrese.
+Pretvara web sadržaje u druge oblike (sprema web stranice na disk, izdvaja dijelove stranica, priprema stranice za štampu).
+Samostalno registrira/kreira e-mail nalog, koristeći web mail.
+Koristi program za slanje i primanje elektronske pošte sa/bez priloga.
+Komunicira u i izvan škole primjenjivanjem različitih srevisa (razmjena pomoću dijeljenog foldera, e-maila, web-a, videokonferencije, bloga).
+KLJUČNI SADRŽAJI
+Kompjuterske mreže. Povezivanje računara. Internet. Internet servisi. Pretraživanje.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Navesti konkretne primjere kompjuterskih mreža, koji tipovi postoje i koja je npr. mreža u kabinetu informatike ili u cijeloj školi. Pokazati učenicima shemu jedne lokalne kompjuterske mreže i objasniti koji su njeni elementi. Na praktičnom primjeru u kabinetu infromatike pokazuje vezu između dva ili više kompjutera i praktično pokazuje princip dijeljenja foldera i štampača. Svaki od elemenata kompjuterske mreže opisuje i pokazuje aktualne tehnologije koje se koriste (npr. wi-fi router, switch, mrežna kartica, utp kabal).
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Veoma je važna korelacija sa nastavom predmeta Engleski jezik radi razumijevanja pojmova koji se uvode prilikom korištenja e-mail servisa, u oblasti umrežavanja kompjutera i kroz komunikaciju putem videokonferencija na platformama.
+ Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Informatička pismenost (informacijska, medijska, tehnološka): Kritički koristi informaciono-komunikacione tehnologije za pridobivanje, vrednovanje i pohranjivanje informacija, za produkciju, predstavljanje i razmjenu informacija te pri učestvovanju u virtualnim društvenim mrežama.
+Jezičko-komunikacijska kompetencija na maternjem jeziku: Piše razne vrste tekstova za različitu namjenu i publiku; kritički ocjenjuje različite oblike komunikacije.
+Socijalna i građanska kompetencija: Razvija svjesnost o razumijevanju sociokulturnih i međukulturnih pravila i normi upotrebe stranog jezika; razvija primjerene komunikacijske strategije za interpretaciju i korištenje poruka u skladu sa sociokulturnim i međukulturnim pravilima i normama (sociolingvistička kompetencija).
+Napomena: Ishodi se prožimaju kroz oblasti A i C.
+  A
+Informacione i komunikacione tehnologije A.8.1
+Koristi audio-vizualne sadržaje i softvere.
+TIT-3.4.3
+Koristi softver i uređaje za snimanje zvuka i videa.
+Prenosi na kompjuter multimedijalni sadržaj snimljen mobitelom, diktafonom ili drugim IKT uređajima radi dalje obrade.
+Montira audio/video sadržaj koristeći osnovne alate u odabranom softveru za digitalnu obradu.
+Finalizirani materijal po potrebi konvertuje i eksportuje u određeni folder.
+Objavljuje gotov projekat na nekom od video servisa/kanala i dijeli ih sa drugima.
+KLJUČNI SADRŽAJI
+Audio i video sadržaji. Snimanje zvuka. Snimanje videa. Obrada i montaža audio/video sadržaja.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Predstaviti učenicima najpoznatije softvere za obradu audia i videa, predstaviti besplatne, ali i komercijalne programe. Pokazati sa YouTube-a ili nekog drugog servisa video primjer izvornog materijala i montiranog materijala. Učenik/ca koristi besplatne softvere za obradu zvuka i videa, kombinuje zvuk i video sa slikama i tekstom. Učenik/ca snima finalni projekt na kompjuter i na cloud prostor.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Snimanje eksperimentalnih vježbi u nastavi Fizike, Biologije i Hemije radi zadovoljavanja principa očiglednosti u nastavi i analiziranja snimljenih primjera. Snimanje audio zapisa književnih tekstova u svrhu analize izražajnog čitanja, ali i kao resursa koji može biti od koristi za slabovidne učenike/ce.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Informatička pismenost (informacijska, medijska, tehnološka): Koristi tehnologije radi razvoja kreativnosti, inovativnosti i uključivanja u društvo; koristi tehnologije za potporu kritičkog načina razmišljanja.
+Kreativno-produktivna kompetencija: Razvijanje kreativnosti i potrebe za izraživanjem, te osjećaj za estetske vrijednosti; proizvodnja i povezivanje različitih ideja, proizvodnja pretpostavki i različitih proizvoda.
+B
+Rješavanje problema primjenom IKT-a B.8.1
+Rješava probleme primjenjujući naredbe ponavljanja u nekom od programskih jezika.
+TIT-4.2.2
+Opisuje problem pomoću algoritma navodeći koji su ulazni podaci i koji su rezultati na izlazu.
+Konstruira algoritam i dijagram (dijagram toka) za jednostavnije zadatke koristeći naredbu za ponavljanje.
+Primjenjuje osnovne naredbe programskog jezika kreirajući jednostavnije programe.
+Provjerava izvršavanjem kreirani program uz kritičko vrednovanje i testiranje datog programa.
+KLJUČNI SADRŽAJI
+Upotreba algoritma za vikličnu strukturu. Primjena algoritma na konkretnim primjerima.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Navodi konkretne primjere za razgranatu strukturu i strukturu ponavljanja. Prolazi najmanje jedan kurs na online platformi za učenje programiranja www.code.org. Konkretne zadatke rješava  u jednom od programskih jezika (npr. Python, C++ i sl.). Učenik/ca testira svoj program i pronalazi greške.
+ Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Korelacija je moguća sa svim predmetima gdje postoji potreba za rješavanjem neke vrste problema i pronalaženje rješenja koristeći napravljeni program.
+Primjena strukture ponavljanja za npr. kroz izvođenje eksperimenata kako bi se odredila prosječna vrijednost ili primjena u sportu kod mjerenja broja pogodaka i promašaja u toku utakmice, mjerenja prosječne brzine učenika/ce, visine i sl.
+ Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: Razvijanje logičkog razmišljanja i zaključivanja kroz problemske zadatke, kao i razvijanje preciznosti u opisivanju postupaka za rješavanje problema.
+Informatička pismenost: Koristi tehnologije za potporu kritičkog načina razmišljanja, za pridobivanje, vrednovanje i pohranjivanje informacija.
+Kompetencija u nauci i tehnologiji: Razumije i primjenjuje (dekodira, tumači i razlikuje) razne vrste prikazivanjamatematičkih elemenata; odabire i zamjenjuje načineprikazivanja.
+Kreativno-produktivna kompetencija: Podupire radoznalost i želju za novim znanjima, izražava svoje misli, ideje i emocije.
+Osnovno
+9
+Godine učenja i podučavanja predmeta: 9
+B Rješavanje problema primjenom IKT-a
+B.9.1
+B Rješavanje problema primjenom IKT-a
+B.9.1
+A Informacione i komunikacione tehnologije
+A.9.1
+C Digitalno društvo
+C.9.1
+B
+Rješavanje problema primjenom IKT-a B.9.1
+Rješava probleme upotrebom programskog jezika.
+TIT-4.2.2
+Raspoznaje programske strukture primjenjujući ih za rješavanje nekog problema.
+Primjenjuje različite varijable i tipove podataka za rješavanje zadataka različitih programskih struktura.
+Manipulira sa jednodimenzionalnim programskim strukturama uz pomoć nastavnika/ce.
+Koristi osnovne standardne funkcije u programiranju.
+Utvrđuje nastalu grešku nakon izvršavanja programa u pisanju programskog koda u programskom jeziku.
+KLJUČNI SADRŽAJI
+Imenovanje varijabli različitih tipova. Imenovanje niza. Unos i ispis podataka u nizu.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline– metodičke smjernice
+Ponavlja gradivo koristeći konkretne primjere i stranice za učenje (www.code.org i/ili www.petlja.org). Koristi različite tipove podataka (cijeli broj, realni broj, znak, riječ). Učenik/ca upotrebljava osnovne naredbe ulaza i izlaza, primjenjuje linijsku, razgranatu i cikličnu strukuturu programskom kodu u jednom od objektno orijentiranih programskih jezika (npr. Python, C++ i sl.).
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Korelacija je moguća sa svim predmetima gdje postoji potreba za rješavanjem neke vrste problema i pronalaženje rješenja koristeći napravljeni program.
+ Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Kompetencija u nauci i tehnologiji: Razumije i primjenjuje (dekodira, tumači i razlikuje) različite vrste prikazivanjamatematičkih elemenata; odabire i zamjenjuje načineprikazivanja.
+Matematička pismenost: Razvijanje logičkog mišljenja i zaključivanja kroz problemske zadatke, kao i razvijanje preciznosti u opisivanju postupaka za rješavanje problema.
+Informatička pismenost: Koristi tehnologije za potporu kritičkog načina mišljenja, za pridobivanje, vrednovanje i pohranjivanje informacija.
+Kreativno-produktivna kompetencija: Podupire radoznalost i želju za novim znanjima, izražava svoje misli, ideje i emocije; razvija kompleksno mišljenje: sažimanje, generaliziranje, podrška upotrebi viših kognitivnih sposobnosti, kao što su analiza, sinteza, vrednovanje; upotreba logičnog strukturiranja i nizanja argumenata.
+B
+Rješavanje problema primjenom IKT-a B.9.1
+Kreira jednostavnu web stranicu primjenjujući HTML jezik.
+TIT-4.2.2
+Prepoznanje osnovnu strukturu HTML dokumenta.
+Koristi osnovne tagove za uređivanje teksta, boje teksta, poravnanja teksta, kreiranja listi.
+Koristi tagove za linkove (vanjske stranice, e-mail) i za kreiranje forme (polja, kontrolno dugme, checkbox).
+Povezuje više stranica na jednu s linkovima.
+KLJUČNI SADRŽAJI
+HTML document. Osnovni tagovi HTML dokumenta. Upotreba tagova za kreiranje finalnog HTML dokumenta.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline– metodičke smjernice
+Poznaje osnovnu strukturu HTML-a, koristi se programima za pisanje HTML koda (npr. Notepad, Notepad++, Sublime Text i sl.). Nastavnik/ca demonstrira osnovne tagove u HTML-u, a učenici praktično rade vježbu i ponavljaju korake. Svoj osnovni HTML dokument nadograđuju sa novim tagovima. Učenici mogu koristiti i online editor koji se nalazi na navedenoj stranici.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Korelacija je moguća sa svim predmetima gdje postoji potreba za predstavljanjem informacija u obliku web stranice.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Informatička pismenost: Koristi tehnologije za potporu kritičkog načina mišljenja, za pridobivanje, vrednovanje i pohranjivanje informacija.
+Kompetencija u nauci i tehnologiji: Razumije i primjenjuje (dekodira, tumači i razlikuje) razne vrste prikazivanjamatematičkih elemenata; odabire i zamjenjuje načineprikazivanja.
+Kreativno-produktivna kompetencija: Podupire radoznalost i želju za novim znanjima, izražava svoje misli, ideje i emocije.
+A
+Informacione i komunikacione tehnologije A.9.1
+Objašnjava osnovne osobine brojnih sistema i primjenjuje osnove prevođenja iz jednog u drugi brojni sistem.
+TIT-3.3.3
+Opisuje brojne sisteme sa osnovnim karakteristikama (binarni, oktalni, dekadni, heksadecimalni).
+Pretvara broj iz jednog brojnog sistema u drugi i obrnuto.
+Provjerava prevođenje brojeva primjenjujući kalkulator.
+  KLJUČNI SADRŽAJI
+Brojni sistemi. Baze i cifre brojnih sistema. Pretvaranje iz jednog u drugi brojni sistem.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline – metodičke smjernice
+Učenici navode brojne sisteme, njihove baze i cifre. Pretvaraju brojeve iz jednog u drugi brojni sistem na način koji im nastavnik/ca demonstrira. Učenici se koriste programerskim kalkulatorom za provjeru rada, kao i za sabiranje, oduzimanje, množenje i dijeljenje.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Korelacija se ostvaruje sa predmetom Matematikom kroz rješavanje zadataka, kada je u pitanju prevođenje brojeva iz jednog u drugi brojni sistem koristeći osnovne računske operacije.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: Razvijanje logičkog mišljenja i zaključivanja kroz problemske zadatke, kao i razvijanje preciznosti u opisivanju postupaka za rješavanje problema, poznaje matematičke pojmove i koncepte kroz primjenu brojnih sistema.
+Informatička pismenost: Koristi tehnologije za potporu kritičkog načina razmišljanja, za pridobivanje, vrednovanje i pohranjivanje informacija.
+C
+Digitalno društvo C.9.1
+Razvija projekt primjenjujući stečena znanja iz informatike.
+Odabire temu uz određivanje cilja i postavljanje problema.
+Konstruira plan rada na projektu.
+Utvrđuje potrebne resurse za realizaciranje projekta.
+Demonstrira projekt kroz prezentaciju.
+Vrši evaluaciju i refleksiju projekta uz analizu funkcionalnosti projekta.
+KLJUČNI SADRŽAJI
+Rad na projektu. Određivanje cilja. Postavljanje problema. Planiranje projekta. Prezentacija i evaluacija projekta.
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i podučavanja tematske cjeline– metodičke smjernice
+Na kraju osnovnog obrazovanja, učenici koriste do tada stečeno znanje za izradu projekta. Na temelju predloženih tema učenici biraju konkretnu temu za projekt. Učenici se upoznaju s elementima projekta, raspoređuju poslove i rade na svojim zadacima. U toku rada na projektu, vodi se evidencija i sve se dokumentuje, koriste desktop i web aplikacije, kreiraju prezenetaciju i prezentiraju svoj projekt.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Projekt se može raditi kroz sve predmete u zavisnosti od izbora teme.
+S obzirom na intenzivne promjene, koje donosi razvoj tehnologije, neizostavna je korelacija s predmetom Engleskim jezikom. Engleski jezik se često primjenjuje jer sva kvalitetna literatura, tutorijali, primjeri projekata, zadataka i prezentacija u dostupnom izdanju, obično su na engleskom jeziku.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Jezičko-komunikacijskakompetencija namaternjem jeziku: Čita, razumije i analizira književne i informativne tekstove; piše razne vrste tekstova za različitu namjenu i publiku; izražava pozitivne stavove i pokazuje vještine za efikasnu međukulturalnu komunikaciju.
+Kompetencija u nauci i tehnologiji: Učenik/ca je spreman sticati znanja iz prirodnih nauka i zanima se za nauku te naučnu i tehnološku karijeru.
+Informatička pismenost: Učenik/ca kritički koristi informaciono-komunikacione tehnologije za pridobivanje, vrednovanje i pohranjivanje informacija, za produkciju, predstavljanje i razmjenu informacija te pri učestvovanju u virtualnim društvenim mrežama.
+Tjelesno-zdravstvena kompetencija: Učenik/ca podrazumijeva prihvatanje i promoviranje zdravih stilova ponašanja, adekvatnih prehrambenih navika i tjelesnih aktivnosti koje omogućavaju pojedincu kvalitetan i zdrav život. U krajnjem cilju se odnose na formiranje pozitivne slike o sebi, sposobnost da sebi omogući zdrav život.
+Samoinicijativa i poduzetnička kompetencija: Upravlja projektima; prepoznaje svoje jake i slabe strane; radi u timovima prema načelu kooperativnosti i fleksibilnosti; konstruktivno sarađuje u aktivnostima primjenjujući vještine grupnog rada; upravlja rizikom i razvija svijest o odgovornosti.
+Kreativno-produktivna kompetencija: Podupire radoznalost i želju za novim znanjima; izražava svoje misli, ideje i emocije; razvija sposobnost promatranja, učestvovanja i integriranja novih iskustava.
+Socijalna kompetencija: Razvijanje svjesnosti razumijevanja sociokulturnih i međukulturnih pravila i normi upotrebe stranog jezika i razvijanje odgovarajućih strategija za komunikaciju, interpretaciju i korištenje poruka, u skladu sa ovim pravilima i normama (sociolingvistička kompetencija); uvažavanje karakterističkih crta društvenih odnosa; uvažavanje razlika u jezičkim registrima (nivoi formalizma);
+sposobnost prepoznavanja dijalekta i akcenta (naglaska) kroz leksičke, gramatičke, fonološke, glasovne, paralingvističke elemente; konstruktivno komuniciranje i poštivanje u društvenim situacijama; kvalitetna međusobna komunikacija.
+Napomena: Ishodi se prožimaju kroz oblasti A, B i C.
+Informatika
+Informatika srednje škole - Ishodi učenja
+Jezik
+Bosanski
+Odgojno-obrazovni nivo i razred
+Srednje
+I
+Godine učenja i podučavanja predmeta: 10
+A Informacione i komunikacione tehnologije
+A.I.1
+A.I.2
+A.I.3
+A.I.4
+B Rješavanje problema primjenom IKT-a
+B.I.1
+C Digitalno društvo
+C.I.1
+A
+Informacione i komunikacione tehnologije
+
+A.I.1
+Procjenjuje vrste podataka koje se koriste u radu i komunikaciji. (OG, UG, MI, IT, S-T, Z)
+A.I.2
+Vrednuje komponente računarskog sistema. (OG, UG, MI, IT, S-T, Z)
+A.I.3
+Procjenjuje uloge i načine rada hardvera i softvera lokalnih i globalnih mreža. (OG, UG, MI, S-T, Z, IT)
+TIT-3.1.1 TIT-3.2.1 TIT-3.2.2 TIT-3.2.3 TIT-3.3.1
+A.I.1.a (OG, UG, MI, IT, S-T, Z)
+Manipulira s različitim računskim operacijama u brojnim sistemima.
+A.I.1.b (OG, UG, MI, IT, S-T, Z)
+Procjenjuje utjecaj komponenti informacionog sistema na komunikacioni proces (Shannonov model).
+A.I.1.c (OG, UG, MI, IT, S-T, Z)
+Konstruiše logičke sklopove na osnovu logičke formule.
+A.I.1.d(OG, UG, MI, IT, S-T)
+Eksperimentiše sa kontruisanjem logičkih sklopova i procjenjuje njihovu funkcionalnost.
+A.I.2.a Analizira uticaj pojedinih hardverskih komponenti na performanse sistema i softver prema  njegovim karakteristikama.
+A.I.2.b Odabire hardver i softver za konkretnu namjenu.
+A.I.3.a (OG, UG, MI, IT, S-T, Z) Primjenjuje komponente računarskih mreža u različitim situacijama.
+A.I.3.b(OG, UG, MI, IT, S-T, Z) Analizira značaj mrežnih protokola u računarskoj mreži.
+A.I.3.c (IT) Upoređuje različite mrežne protokole i njihov odnos sa hardverom i softverom.
+
+A.I.4
+Struktuira prikaz digitalnih sadržaja primjenjujući softver za obradu teksta, tabelarni proračun i prezentacije. (OG, UG, MI, IT, S-T, Z)
+  TIT-3.4.1
+A.I.4.a Uređuje tekstualni dokument povezujući tekst, slike, tablice, formule, fusnote, reference i sl.
+A.I.4.b Izvršava proračune unutar pametnih tabela koristeći struktuirani prikaz podataka i ugrađene funkcije editora.
+A.I.4.c Prezentuje sadržaje izrađene u editoru za izradu prezentacija povezujući tekst, sliku, zvuk, hipertekst, video, animacije i sl.
+A.I.4.d Demonstrira rezultate svog rada iz softvera za obradu teksta, tabelarni proračun i prezentacije.
+KLJUČNI SADRŽAJI
+Logičko kolo, Logički sklop, Brojevni sistem, Procesor, Meomorija, Eksterni uređaji, Vezni sklopovi,
+Računarska mreža, Hardver računarskih mreža, Softver računarskih mreža, Protokoli,
+Uređivanje teksta, Uređivanje pasusa, Uređivanje stranica, Uređivanje objekata,
+Tabelarni prikaz podataka, Tabelarna obrada podataka, Grafikon, Prezentacija
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Kroz pojmove baze i težinskih faktora sistema razvijati razumijevanje potrebe za korištenjem alternativnih brojnih sistema u računarstvu. Skrenuti posebnu pažnju na činjenicu da se u računarstvu koriste baze stepena broja 2, te raditi na uočavanju veza između ovih brojnih sistema i razloga i situacija u kojima se koriste, kao što je uspostavljanje veze sa ASCII kodnom tablicom. Rad sa alternativnim brojnim sistemima moguće je obrađivati i aplikativno kroz programe kao što su MS Excel, Calc, isl. Sa učenicima proći osnove Boolove algebre i formiranje tablica istine, te koristiti ova znanja u primjeni na čitanje, a potom i sastavljanje logičkih sklopova. Svi učenici trebaju savladati rad sa osnovnim logičkim kolima, dok u razredima matematičko-informatičkog i usmjerenja informacionih tehnologija treba proći i izvedena logička kola. Projektovanje logičkih sklopova moguće je obrađivati i aplikativno kroz programe (npr. Logsim, MS Excel, isl.).
+Na osnovu konkretnog primjera na računaru učenik treba biti u mogućnosti razvrstati dijelove računara u osnovne funkcionalne cjeline prema Von Neumannovoj arhitekturi i klasificirati različite računarske uređaje iz svakodnevnog i radnog okruženja. Učenik bi trebao znati primijeniti znanja o mjernim jedinicama za memorijski utrošak i brzinu rada procesora na promjenu reda veličine. Dodatno, učenik treba poznavati rad u operativnom sistemu, te biti u mogućnosti klasificirati sistemski i aplikativni softver.
+Kroz razgovor i primjere iz svakodnevnog života sa učenicima motivisati učenike da prepoznaju i iskažu dosadašnje znanje o računarskim mrežama. Da bi učenik što kvalitetnije usvojio elemente računarskih mreža predstaviti ih kroz multimedijalne sadržaje. Preporučuje se da se obradi generalni način rada mrežnih protokola kako lokalnih mreža, tako i Interneta, dok u razredima informatičkih usmjerenja posebnu pažnju obratiti na međusobni odnos mrežnih protokola i prenos podataka unutar lokalnih i globalnih mreža.
+Editori za obradu podataka neizostavan su dio današnjeg poslovanja u svim branšama, te rad u njima predstavlja elementarnu informatičku pismenost. Učenici u ovom dijelu nastavnog procesa trebaju savladati rad u jednom od editora za obradu teksta (MS Word, Google Docs, isl.), editora za tabelarnu obradu podataka (MS Excel, Google Sheets, isl.), te editora za izradu prezentacija (MS PowerPoint, Google Slides, Canva, isl.). Pored ovoga, učenici trebaju znati importovati sliku koju su obradili u editoru za obradu slike po izboru (Gimp, Adobe Photoshop, isl.) u tekstualne dokumente i prezentacije.
+Prilikom unaprjeđivanja znanja iz alata editora za obradu teksta preporučuje se obnoviti ranije stečena znanja kod učenika, te potom posebnu pažnju posvetiti ispravnom korištenju alata za obradu objekata unutar dokumenta (tabele, slike, crteži, isl.). Unutar nastavnih jedinica iz editora za tabelarnu obradu preporučeno je krenuti od načina i vrsta zapisa podataka u tabelama i njihovim uređivanjem, a potom obraditi ugrađene funkcije za obradu podataka, te napraviti njihov adekvatan i efikasan prikaz pomoću grafikona različitog tipa.Ovdje dolazi do izražaja računarsko razmišljanje, te sposobnost automatizacije postupaka kroz optimizaciju izraza koji koriste ugrađene funkcije. Prilikom izrade prezentacija u editoru treba akcentirati kreiranje vlastitih stilova, te primjenu pravila uređivanja sadržaja.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Vezu sa matematikom uočavamo u korištenju matematičkih operacija sa brojevnim sistemima, matematičkoj logici, tabelarnoj obradi podataka, te arhitekturi računarskih mreža. Pored toga, logičko razmišljanje u povezivanju pojmova prema specifikacijama također povezuje ovu tematsku cjelinu sa matematikom. Kroz projektovanje logičkih sklopova i vještine povezivanja pojmova na osnovu specifikacija ostvaruje se veza i sa  tehničkim crtanjem i fizikom. Tabelarna obrada podataka koristi i elemente nastavnih predmeta programiranje i baze podataka. Veza je značajna i sa svim prirodnim naukama, jer se u prirodi binarni uzorci i protok (veza sa računarskim mrežama) frekventno javljaju.
+Pored pomenutih veza uočljiva je i veze sa jezicima kroz korištenje pojmova i normi, te upotrebu različitih pisama, kako na maternjem, tako i na stranim jezicima. Kroz uređivanje sadržaja u tekstualnim dokumentima i prezentacijama, te komunikaciju i samoprezentaciju koje se putem njih ostvaruju, moguće je ostvariti vezu sa likovnom kulturom, te psihologijom, sociologijom i filozofijom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: Učenici će steći sposobnosti generalizacije, grupni odnos u radu, te potrebu za istraživanjem i spoznavanjem novih činjenica.
+Informatička pismenost: upotreba tehnologije u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, korištenje tehnologije za podršku kritičkog načina razmišljanja. Sposobnost i spremnost kreiranja i prikazivanja grafičkih prikaza koji imaju univerzalnu primjenu kod opisivanja podjele računarskog sistema. Kritički koristi informacijsko-komunikacijske tehnologije za pridobivanje i razmjenu informacija kroz računarske mreže.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza, sposobnost i spremnost da se upotrijebe i automatiziraju znanja i metodologije u svrhu objašnjavanja objekata iz stvarnog svijeta. Učenici će biti u mogućnosti raspoznati zapise znakova u ASCII tablici - sposobnosti generalizacije, te će razviti potrebu za istraživanjem i spoznavanjem novih činjenica.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti; podrška radoznalosti kroz omogućavanje izražavanja misli, ideja i emocija, te razvijanje sposobnosti posmatranja, učestvovanja i integrisanja novih iskustava.
+Samoinicijativa i poduzetnička kompetencija: Konstruktivno sarađuje u aktivnostima primjenjujući vještine grupnog rada.
+NAPOMENA:
+Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, UG – usmjerena gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama, IT - Informatička gimnazija, S-T srednje škole za stručno obrazovanje i obuku IV stepen, Z srednje škole za stručno obrazovanje i obuku III stepeni)
+Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+B
+Rješavanje problema primjenom IKT-a B.I.1
+Konstruiše rješenja  problema modeliranjem algoritama i pseudokodova. (OG, UG, MI, S-T, Z)
+TIT-4.1.1 TIT-4.1.2 TIT-4.1.3
+B.I.1.a Klasifikuje probleme i metodike njihovog rješavanja.
+B.I.1.b Analizira strukture podataka u algoritamskom pristupu rješavanju problema.
+B.I.1.c Modelira algoritme za rješavanje problemskih zadataka.
+KLJUČNI SADRŽAJI
+Problem, Algoritam i algoritmizacija, Sekvenca, Selekcija, Iteracija,  Dijagram toka, Pseudokod
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Kroz primjere učenicima već poznatih problema (matematika, fizika) ilustrovati kako se formulišu i klasificiraju problemi (računski i problemi dokazivanja, direktni i inverzni problemi), te koji su lakši, a koji teži za rješavanje. Koristeći iste ove primjere dočarati šta je to ulaz i izlaz problema, te koje su metode iznalaženja puta od ulaza ka izlazu. Kroz ove primjere objasniti algoritmizaciju, te korištenje algoritamskih struktura sekvence, selekcije i iteracije pri kreiranju algoritama za rješavanje, dijagrama toka i pseudokoda, i/ili programa pisanog u vizuelnom programskom jeziku (npr. Scratch i Alice) koji omogućava lakše usvajanje gradiva kroz grafičku percepciju. 
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Algoritmizacija rješenja učenicima je već od ranije poznat koncept, iako ne još uvijek uobličen, kroz matematiku i prirodne nauke (fizika, hemija, biologija), te se stoga kroz ove već poznate primjere učenicima najbolje mogu približiti formalne definicije i postupci ove oblasti. Upotrebom vizuelnog programskog jezika u realizaciji ovih sadržaja bi se postigao puni efekat u prijelazu sa algoritamskog na programersko razmišljanje.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja, specijalno generalizacije, i prikazivanja objekata stvarnog života u digitalnom obliku.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja. Razvija svijest o povezanosti nastavnog gradiva s stvarnim životom kroz osmišljavanje koraka algoritma, te  o optimizacijama koje možemo postići koristeći algoritamske postupke. Sposobnost algoritamskog razmišljanja uz kreativan način rješavanja problema.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Samoinicijativa i poduzetnička kompetencija: upravljanje projektima, rad u timovima na kooperativan i fleksibilan način, konstruktivno sarađivanje u aktivnostima i upotreba vještina grupnog rada.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+NAPOMENA:
+Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, UG – usmjerena gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama, IT - Informatička gimnazija, S-T srednje škole za stručno obrazovanje i obuku IV stepen, Z srednje škole za stručno obrazovanje i obuku III stepeni)
+Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+C
+Digitalno društvo C.I.1
+Analizira upotrebu interneta i internet servise u rješavanju svakodnevnih zadataka. (OG, UG, MI, IT, S-T, Z)
+TIT-5.1.1 TIT-5.1.3
+C.I.1.a (OG, UG, MI, IT, S-T)Kritički prosuđuje promjene u društvu koje nastaju pod utjecajem IKTa.
+C.I.1.b(OG, UG, MI, IT, S-T)Primjenjuje internet servise (www, elektronsku poštu, cloud tehnologije, kolaboracioni softver) pri učenju i u svakodnevnom životu.
+C.I.1.c (IT) Upotrebljava kolaboracioni softver za dijeljenje programskih kodova (Git).
+KLJUČNI SADRŽAJI
+Internet servis, Elektronska pošta, Servis oblaka, Kolaboracijski softver
+PREPORUKE ZA OSTVARENJE ISHODA
+Preporuke za realizaciju tematske cjeline
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Potrebno je da profesor sa učenicima ponovi pravila korištenja Interneta i internet servisa. Profesor navodi učenika da kroz konkretne primjere koristi cloud tehnologije (npr. Gdrive, OneDrive, WeTransfer..., te Git i GitHub za IT usmjerenje).
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Međupredmetna korelacija ostvaruje sa svim nastavnim predmetima jer ovaj dio gradiva nalazi primjenu u istraživačkom radu, razmjeni podataka i komunikaciji. Internet servisi i primjena cloud tehnologije su neizostavni servisi nastavnog procesa bilo kog nastavnog predmeta. Komunikacija, dijeljenje nastavnih materijala, arhiviranje i kolaboracija neki su od najkorisnijih načina moguće upotrebe navedenih Internet servisa.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja (logičko i prostorno razmišljanje) i prikazivanja (formula, modela, konstrukcija, grafikona/dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: kritičko korištenje tehnologije za prikupljanje, vrednovanje i pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: razumijevanje odnosa između tehnologije i drugih područja: naučni napredak (npr. u medicini), društvu (vrijednosti, moralna pitanja), kulturi (npr. multimediji), ili okruženju (zagađenost, održivi razvoj).
+Jezičko-komunikacijska kompetencija na maternjem jeziku: Priča i sluša radi prijenosa i razumijevanja informacija s uvažavanjem, djelotvorno, u različitim situacijama i u različite svrhe u konstruktivnom i kritičkom dijalogu; kritički ocjenjuje komunikacije u različitim oblicima.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+Samoinicijativa i poduzetnička kompetencija: Konstruktivno sarađuje u aktivnostima primjenjujući vještine grupnog rada.
+NAPOMENA:
+Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, UG – usmjerena gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama, IT - Informatička gimnazija, S-T srednje škole za stručno obrazovanje i obuku IV stepen, Z srednje škole za stručno obrazovanje i obuku III stepeni)
+Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+Srednje
+II
+Godine učenja i podučavanja predmeta: 11
+A Informacione i komunikacione tehnologije
+A.II.1
+A.II.2
+A.II.3
+A.II.4
+B Rješavanje problema primjenom IKT-a
+B.II.1
+B.II.2
+B.II.3
+B.II.4
+B.II.5
+B.II.6
+C Digitalno društvo
+C.II.1
+C.II.2
+C.II.3
+A
+Informacione i komunikacione tehnologije
+
+A.II.1
+Prezentuje svoj rad koristeći različite aplikacije za obradu podataka. (OG, UG, MI, S-T)
+A.II.2
+Generiše autentične grafičke sadržaje. ( S-T )
+A.II.3
+Implementira bazu podataka pomoću sistema za upravljanje bazama podataka. (S-T)
+TIT-3.4.1 TIT-3.4.3 TIT-3.4.2
+A.II.1.a Kombinuje znanja iz editora za obradu podataka umetanjem sadržaja kreiranih u jednom, u drugi editor.
+A.II.1.b Objedinjuje znanja iz primjene aplikativnog softvera za obradu podataka u projektnu cjelinu.
+A.II.2.a Koristi alate za označavanje, crtanje i bojenje slike.
+A.II.2.b Manipulira bojom i ekspozicijom slike pomoću filtera i drugih alata.
+A.II.2.c Manipulira objektima i slojevima slike.
+A.II.2.d Primjenjuje maske za manipulaciju sadržajem slike.
+A.II.3.a Koristi sistem za upravljanje bazama podataka za prevođenje relacione šeme u digitalno okruženje.
+A.II.3.b Kreira formulare za unos i obradu podataka unutar baze, te izvještaje sa filterima sa podacima iz baze.
+
+A.II.4
+Proizvodi funkcinalan digitalni 3D model. (S-T)
+TIT-3.4.3
+A.II.4.a Istražuje oblike i forme 2D prikaza.
+A.II.4.b Kreira 3D model izvlačenjem nacrta.
+A.II.4.d Uređuje 3D objekte koristeći naprednije alate.
+KLJUČNI SADRŽAJI
+Tabelarni prikaz podataka, Obrada podataka, Grafikon,
+Ekspozicija, Histogram slike, Filter, Retuširanje, Sloj slike, Maska, Rekolorizacija, Restauracija,
+DBMS, Podatak, Relacija, Formular, Izvještaj  
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Učenici primjenjuju programe za obradu teksta, tabelarnih podataka, te za izradu prezentacija u izradi datog projekta po etapama (pogledati PK6). Preporuka za ostvarivanje ishoda  A.II.3 je da se radi projektni zadatak. A i unutar ostalih cjelina mogu se također raditi projektni zadaci ukoliko predavač nađe prostora. Ovaj projektni zadatak trebao bi predstavljati sintezu svih ranije stečenih znanja iz aplikativnog softvera za obradu i prikaz podataka. Učenicima treba dati tačne i detaljno obrazložene smjernice o načinu i procesu izrade projektnog zadatka već na samom početku.
+Grafički sadržaji dio su naše svakodnevnice. Neprestano se generišu novi i vrši digitalizacija starih. Kroz oblast obrade grafičkih sadržaja učenicima treba približiti kako što bolje kreirati crteže, te ispravno manipulirati bojama i sadržajima na slici ili njenim dijelovima. Ovo se može raditi pomoću bilo kojeg editora za grafičku obradu vektorske slike, kao što su npr. Gimp ili Adobe Photoshop. U sklopu ove cjeline učenici bi također trebali savladati i osnovno korištenje slojeva slike i upotrebu maski. Kao posljednji zadatak koji objedinjuje sve vještine koje su stekli kroz ovu oblast, učenicima se može dati da izvrše kompletnu restauraciju sa rekolorizacijom stare skenirane slike sa fizičkim oštećenjima.
+Učenici bi u sklopu cjeline Sistemi za upravljanje bazama podataka trebali usvojiti vještine potrebne da kreiraju jednu funkcionalnu bazu podataka iz koje je moguće pomoću izvještaja pregledati sadržaj, te pomoću formulara unositi, brisati i modificirati ove sadržaje.
+Učenici u sklopu 3D modeliranja trebaju usvojiti vještine kreiranja skice u 2D prostoru koje je moguće transformacijama pretvoriti u 3D modele. Moguće je koristiti bilo koju aplikaciju namijenjenu za 3D modeliranje, kao što su Fusion 360, SketchUp, Blender,... U sklopu ove cjeline učenici bi trebali savladati tehnike obrade ivica, spajanje površina istog modela, uniju, presjek i razliku više modela. Upotrebom stečenih vještina učenici trebaju znati da naprave 3D model koji mogu koristiti kao objekat za 3D štampanje, u video igrama, u simulacijama, isl.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Tabelarna obrada podataka je kroz modele i procese koje koristi u neposrednoj vezi sa matematikom, te programiranjem i bazama podataka. Pored toga, ostvaruje se indirektna veza sa jezicima kroz davanje uputa pametnim tabelama, te sociologijom i psihologijom zbog organizacije načina prikaza podataka.
+Rad sa grafičkim objektima u vektorskom zapisu u neposrednoj je vezi sa matematikom (analitičkom geometrijom) i fizikom (optikom), te u indirektnoj vezi sa likovnom kulturom.
+Rad sa bazama podataka sve je zastupljeniji u raznim branšama, te je kroz projekat koji učenici trebaju realizirati, pored evidentne veze sa matematikom i sociologijom, moguće ostvariti vezu sa bilo kojim drugim predmetom.
+3D modeliranje koristi  se za izradu prototipova objekata iz fizike, matematike, stručno-tehničkih predmeta ili bilo kojeg predmeta gdje za tim postoji potreba.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: upotreba tehnologije u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, korištenje tehnologije za podršku kritičkog načina razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza, sposobnost i spremnost da se upotrijebe znanja i metodologije u svrhu objašnjavanja objekata iz stvarnog svijeta.
+Samoinicijativa i poduzetnička kompetencija: Upravlja projektima, prepoznaje svoje jake i slabe strane, radi u timovima prema načelu kooperativnosti i fleksibilnosti, konstruktivno surađuje u aktivnostima primjenjujući vještine skupnoga rada, upravlja rizikom i razvija svijest o odgovornosti.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti; podrška radoznalosti kroz omogućavanje izražavanja misli, ideja i emocija, te razvijanje sposobnosti posmatranja, učestvovanja i integrisanja novih iskustava.
+NAPOMENA: 
+1.    Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, UG – usmjerena gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama, S-T srednje škole za stručno obrazovanje i obuku IV stepen, Z srednje škole za stručno obrazovanje i obuku III stepeni)
+2.    Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+B
+Rješavanje problema primjenom IKT-a
+
+B.II.1
+Uređuje prikaz vlastitih sadržaja na internet preglednicima u svrhu predstvljanja sebe ili drugih. (OG, UG, MI, S-T)
+B.II.2
+Dizajnira stilove prikaza sadržaja na internet preglednicima. (OG, MI, S-T)
+B.II.3
+Kreira programe koji koriste sekvencu, selekciju i iteraciju. (OG, UG, MI, S-T)
+TIT-5.1.2 TIT-4.2.1 TIT-4.2.1 TIT-4.2.2
+B.II.1.a Objašnjava ulogu internet preglednika kao interpretatora HTML sadržaja.
+B.II.1.b Koristi napredne HTML tagove za uređivanje sadržaja koji se prikazuju na pregledniku.
+B.II.2.a Koristi linijski, unutrašnji i vanjski CSS za kreiranje stilova prikazivanja sadržaja.
+B.II.2.b Izrađuje statičku web stranicu sa autentičnim prikazom sadržaja
+B.II.3.a Koristi ulazni, izlazni tok programa i varijable odgovarajućeg tipa podataka.
+B.II.3.b Identificira odgovarajuće tipove podataka i standardne biblioteke u skladu sa namjenom.
+B.II.3.c Primijenjuje sekvencu, selekciju i iteraciju prilikom izrade programa.
+
+
+
+B.II.4
+Kreira programe sa nizovima različitog tipa. (OG, MI, S-T)
+B.II.5
+Razvija sadržaj sa upravljanjem preko mikrokontrolera. (S-T)
+B.II.6
+Modelira relacionu šemu složene baze podataka. (S-T)
+TIT-4.2.2 TIT-4.2.2 TIT-3.4.2
+B.II.4.a Eksperimentiše sa brojčanim i znakovnim nizovima.
+B.II.4.b Koristi dvodimenzionalne nizove podataka u rješavanju problemskih zadataka.
+B.II.5.a  Upravlja diodama mikrokontrolera.
+B.II.5.b Eksperimentiše sa mogućnostima programiranja dioda i senzora  mikrokontrolera.
+B.II.5.c Razvija jednostavan automatizovani sistem sa upravljanjem preko mikrokontrolera.
+B.II.6.a Upoređuje vrste i strukture različitih tipova baza podataka.
+B.II.6.b Objašnjava pojmove entitet i relacija u bazama podataka i njihove odnose.
+B.II.6.c Projektuje samostalno bazu podataka i njenu relacionu šemu
+KLJUČNI SADRŽAJI
+Prikaz internet sadržaja, Ta g, HTML, CSS (linijski, unutrašnji, vanjski),
+Varijabla, Deklaracija, Inicijalizacija, Dodjela, UI tok, sekvenca, Selekcija, Iteracija, Niz,
+Mikrokontroler, Upravljanje mikrokontrolerom,
+Mrežni, hijerarhijski i relacioni model, Entitet, Relacija, Relaciona šema, Normalizacija
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Uređivanje prikaza sadržaja na internet preglednicima prva je stepenica ka izučavanju kreiranja interaktivnih web sadržaja. Izučavanjem HTMLa učenici pored informatičkih vještina razvijaju i smisao za estetiku i organizaciju, kombinujući nova znanja i znanja stečena ranije. Unutar ove tematske cjeline učenici bi trebali ovladati naprednim uređivanjem sadržaja. Nakon toga, učenici bi trebali savladati i kreiranje sopstvenih, te importovanje gotovih stilova u dokument. Realizacija nastavnih sadržaja moguća je i u nekom od editora sa predlošcima za izradu web sadržaja. Na kraju ove tematske cjeline učenici bi trebali pristupiti kraćem projektnom zadatku izrade statičke web stranice.
+Svaki program mora imati ulaz – ono što nam je poznato na početku, i izlaz – ono što očekujemo da ćemo saznati. Put od ulaza ka izlazu može se odvijati na različite načine: sekvencijalno korak po korak, selektivno na osnovu izabranih ruta, ili iterativno kroz ponavljanja, te kombinovanjem ovakvih načina kretanja kroz program. Veoma je bitno kod učenika razviti sposobnost distinkcije ovakvih načina kretanja, te ih kroz svakodnevne primjere osposobiti da detektuju koju od navedenih algoritamskih struktura da koriste kada i primjene u programima.
+Prilikom obrade nizova neophodno je izdvojiti dovoljno vremena kako bi učenici mogli u potpunosti usvojiti sva potrebna znanja. Veoma je bitno obraditi sve segmente rada sa nizovima: manipulacija jednim elementom, manipulacija nizom kao cjelinom, te promjena rasporeda elemenata. Ovdje je poželjno početi se baviti i problemom memorijskog utroška programa, te potencirati obradu niza "u mjestu", bez korištenja pomoćnih nizova. Dvodimenzionalne nizove treba ilustrovati preko tabela, a ne preko matrica, jer učenici još ne poznaju pojam matrice i apstrakcija tog nivoa nije primjerena za uzrast.
+Programiranje mikrokontrolera treba izučavati postepeno, počevši od lakših primjera, pa nastavljajući ka složenijim, koristeći pritom različite vrste senzora i izlaznih mogućnosti (diode, propelere, isl.). Unutar cijelog procesa učenici trebaju raditi praktično sa uređajima u programskom jeziku koji već znaju. Na kraju izučavanja oblasti učenici trebaju samostalno kroz projektni zadatak kreirati jednostavan uređaj za automatizaciju u domaćinstvu ili industriji. Projektni zadatak treba posjedovati i prateću dokumentaciju. 
+Preporuka je raditi projektne zadatke za ostvarivanje postavljenih ishoda kada god imaju tehničke mogućnosti za projekte.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Uređivanje prikaza sadržaja direktno je povezano sa osjećajem učenika za estetiku (likovna kultura i filozofija), praktičnost i preglednost (psihologija), te sposobnošću da precizno pozicionira sadržaje u koordinatnom sistemu ekrana (matematika). Pored toga, učenici u sklopu ove cjeline izučavaju i novi jezik, te se ostvaruje i veza sa jezicima.
+Ulazni i izlazni tok programa predstavljaju portal preko kojeg program komunicira sa korisnikom, te samim tim ova oblast ostvaruje vezu sa svim naukama koje sadrže socijalnu komponentu: jezicima, psihologijom i sociologijom, te naukama koje se bave vizualizacijom i grafičkim prikazom: matematika (grafički i tabelarni prikazi), tehničko crtanje i likovna kultura. Načini kretanja kroz program povezani su sa načinima kretanja u prirodi i svakodnevnom životu gdje sekvenca predstavlja pravolinijski put, selekcija raskrsnicu, a iteracija kružno kretanje. Zbog toga, možemo uočiti vezu sa mnogobrojnim predmetima koji proučavaju kako prirodne pojave, tako i socijalnu svakodnevnicu: matematikom, fizikom, geografijom, biologijom, te jezicima, istorijom, psihologijom i sociologijom.
+Kako simuliraju rad sa uređenim skupovima, nizovi su u direktnoj korelaciji sa matematikom. Nizovi su prvi način zapisivanja podataka koji učenici obrađuju, a koji ima neposrednu praktičnu primjenu, što je posebno očigledno kod znakovnih nizova u kojima se čuva tekst, pa je ovdje ostvarena veza i sa jezicima.
+U oblasti programiranja mikrokontrolera pored evidentne veze sa matematikom, direktna je veza se jezicima, te zbog primjene izrađenih sadržaja u svakodnevnom životu sa mnogim društvenim naukama, kao što su psihologija i sociologija. Konačno, zbog projektnih zadataka koje učenici izrađuju na kraju izučavanja ovih oblasti, moguće je ostvariti vezu i sa bilo kojim drugim predmetom kroz odabir teme.
+Teorija podataka bavi se načinima pohrane i obrade podataka, te je stoga u direktnoj vezi sa primjenama u svakodnevnom životu. Na temelju ovoga, možemo uspostaviti direktnu vezu sa sociologijom i ekonomijom, te jezicima. Načini zapisivanja podataka koriste stroge matematičke modele, te je stoga veza sa matematikom neizostavna.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja, specijalno generalizacije, i prikazivanja objekata stvarnog života u digitalnom obliku.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Samoinicijativa i poduzetnička kompetencija: upravljanje projektima, rad u timovima na kooperativan i fleksibilan način, konstruktivno sarađivanje u aktivnostima i upotreba vještina grupnog rada.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+NAPOMENA: 
+1.    Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, UG – usmjerena gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama, S-T srednje škole za stručno obrazovanje i obuku IV stepen, Z srednje škole za stručno obrazovanje i obuku III stepeni)
+2.    Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+C
+Digitalno društvo
+
+C.II.1
+Razmatra postupke i alate za legalno, pravilno, sigurno i etičko korištenje interneta. (OG, UG, MI, S-T)
+C.II.2
+Vrjednuje načine, formate pohrane i mogućnosti manipulacije grafičkim digitalnim sadržajima. (S-T)
+C.II.3
+Prosuđuje o mogućnostima, prednostima i nedostacima primjene Interneta stvari. (S-T)
+TIT-5.2.2 TIT-5.2.3 TIT-5.2.4 TIT-5.1.4 TIT-5.1.1 TIT-5.1.4
+C.II.1.a Objašnjava razliku između internet pretraživača i preglednika i opisuje osobine najzastupljenijih pretraživača i preglednika.
+C.II.1.b Objašnjava način rada internet preglednika (prevođenje sadržaja, sesije, kolačići).
+C.II.1.c Klasificira štetni softver i vrste zaštite od njega.
+C.II.1.d Analizira pravila ponašanja u digitalnom društvu na osnovu zakonske regulative.
+C.II.2.a Analizira načine zapisa slike i načina zapisa boja u računarskoj memoriji, te formate digitalnog zapisa grafičkih sadržaja.
+C.II.2.b Klasificira šumove slike.
+C.II.2.c Procjenjuje mogućnosti i efikasnost geometrijskih transformacija slike.
+C.II.3.a Objašnjava pojam, arhitekturu i način rada interneta stvari.
+C.II.3.b Diskutuje o mogućnostima primjene interneta stvari u svakodnevnom životu.
+C.II.3.d Kritički razmatra prednosti i nedostatke primjene Interneta stvari.
+KLJUČNI SADRŽAJI
+Pretraživač, Preglednik, Štetni softver, Zaštitni softver,
+Rasterska i vektorska slika, Aditivni i substraktivni zapis boje, Skaliranje, Translacija, Rotacija,
+Uklopljeni računari, Sveprisutno računarstvo, Kompatibilnost uređaja
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Oblast pretraživanje i pregledanje internet sadržaja fokusira se na ispravno korištenje pretraživača i preglednika u smislu ispravnog, etički korektnog i sigurnog rukovanja. Učenici ovdje trebaju upoznati načine (sesije, kolačići), i alate (privatni prozori, označavanje stranica, podešavanje preglednika,...) rada preglednika. Pored toga, učenici otkrivaju potencijalne opasnosti na internetu kao što su neprimjereni i nevjerodostojni sadržaji, te štetni softver (virusi, crvi) i phishing. Nakon što uspješno identifikuju potencijalne opasnosti, učenici trebaju kreirati sigurno okruženje za rad, te klasifikuju vrste zaštitnog softvera (antivirusi i firewall) i korake sigurnog ponašanja prilikom korištenja kako interneta, tako i računara uopšte uz poznavanje međunarodne zakonske regulative korištenja IKTa. 
+Prva oblast u izučavanju multimedijalnih zapisa je digitalna slika. Ovdje učenici trebaju savladati osnovne pojmove računarske grafike, kao što su osobine rasterskog i vektorskog zapisa, osobine crno-bijele, sive i slike u boji, mogućnosti zapisa boja: RGB i CMYK, broj boja na slici, ton i svjetlo, fizička i digitalna oštećenja (šumovi), te mogućnosti transformacija slike: filteri, skaliranje, translacija i rotacija.
+Tehnologija je danas sveprisutna, pomaže nam i olakšava raznovrsne aktivnosti pomoću mnoštva uklopljenih računara koji međusobno komuniciraju i formiraju Internet stvari. Učenici su uglavnom već upoznati sa korisničkim aspektom ovih tehnologija, a ono što na ovom mjestu trebaju naučiti je kako sve ovo radi, šta su to uklopljeni računari i mikrokontroleri, kako i kroz koje slojeve komuniciraju, te koji su nedostatci rapidnog porasta ovakvih uređaja u smislu kompatibilnosti, brzine zastarjevanja i zaštite okoliša.
+Ishodi učenja za gimnazije su striktno definisani, dok stručne tehničke škole biraju odgovarajući broj ishoda između svih ponuđenih.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+U oblasti pretraživanje i pregledanje internet sadržaja snažna je konekcija sa psihologijom, sociologijom, te maternjim i engleskim jezikom. Pored toga, bitno je napomenuti da se ovdje ostvaruje veza sa kulturom življenja generalno, te se mogu uočiti korelacije sa svim sferama svakodnevnog života.
+Prilikom izučavanja računarske grafike uočavamo snažnu vezu sa fizikom (optika), matematikom (analitička geometrija) i likovnom kulturom (sistemi boja i miješanje). Kako proces digitalizacije sadržaja korijen vuče iz svakodnevnih potreba, to je neizostavna veza i sa psihologijom i sociologijom.
+Automatizacija svakodnevnih radnji je trend u porastu, te je ovdje pored matematike i fizike neizostavna i veza sa predmetima koji izučavaju društvo i pojedinca u društvu – sociologijom i psihologijom, te predmetima koji se bave okolišem i resursima: biologijom i geografijom. Nadalje, kreiranje pametnih sistema ima neposrednu vezu i sa jezicima (kroz programiranje) i tehničkim naukama (kroz hardver).
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja (logičko i prostorno razmišljanje) i prikazivanja (formula, modela, konstrukcija, grafikona/dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: kritičko korištenje tehnologije za prikupljanje, vrednovanje i pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: razumijevanje odnosa između tehnologije i drugih područja: naučni napredak (npr. u medicini), društvu (vrijednosti, moralna pitanja), kulturi (npr. multimediji), ili okruženju (zagađenost, održivi razvoj).
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+NAPOMENA: 
+1.    Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, UG – usmjerena gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama, S-T srednje škole za stručno obrazovanje i obuku IV stepen, Z srednje škole za stručno obrazovanje i obuku III stepeni)
+2.    Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+Srednje
+III
+Godine učenja i podučavanja predmeta: 12
+A Informacione i komunikacione tehnologije
+A.III.1
+A.III.2
+B Rješavanje problema primjenom IKT-a
+B.III.1
+B.III.2
+B.III.3
+B.III.4
+B.III.5
+C Digitalno društvo
+C.III.1
+A
+Informacione i komunikacione tehnologije
+A.III.1
+Generiše autentične grafičke sadržaje. (OG, MI)
+A.III.2
+Implementira bazu podataka pomoću sistema za upravljanje bazama podataka. (OG)
+TIT-3.4.3 TIT-3.4.2
+A.III.1.a Koristi alate za označavanje, crtanje i bojenje slike.
+A.III.1.b Manipulira bojom i ekspozicijom slike pomoću filtera i drugih alata.
+A.III.1.c Manipulira objektima i slojevima slike.
+A.III.1.d Primjenjuje maske za manipulaciju sadržajem slike.
+A.III.2.a Koristi sistem za upravljanje bazama podataka za prevođenje relacione šeme u digitalno okruženje.
+A.III.2.b Kreira formulare za unos i obradu podataka unutar baze, te izvještaje sa filterima sa podacima iz baze.
+KLJUČNI SADRŽAJI
+Ekspozicija, Histogram slike, Filter, Retuširanje, Sloj slike, Maska, Rekolorizacija, Restauracija,
+DBMS, Podatak, Relacija, Formular, Izvještaj
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Grafički sadržaji dio su naše svakodnevnice. Neprestano se generišu novi i vrši digitalizacija starih. Kroz oblast obrade grafičkih sadržaja učenicima treba približiti kako što bolje kreirati crteže, te ispravno manipulirati bojama i sadržajima na slici ili njenim dijelovima. Ovo se može raditi pomoću bilo kojeg editora za grafičku obradu slike, kao što su npr. Gimp ili Adobe Photoshop. U sklopu ove cjeline učenici bi također trebali savladati i osnovno korištenje slojeva slike i upotrebu maski. Kao posljednji zadatak koji objedinjuje sve vještine koje su stekli kroz ovu oblast, učenicima se može dati da izvrše kompletnu restauraciju sa rekolorizacijom stare skenirane slike sa fizičkim oštećenjima.
+Učenici bi u sklopu cjeline Sistemi za upravljanje bazama podataka (npr. Microsft Access ili Oracle) trebali usvojiti vještine potrebne da kreiraju jednu funkcionalnu bazu podataka iz koje je moguće pomoću izvještaja pregledati sadržaj, te pomoću formulara unositi, brisati i modificirati ove sadržaje. Po završetku izučavanja funkcionalnosti sistema i načina kreiranja operativne baze podataka, učenici trebaju pristupiti izradi projektnog zadatka u kojem će prvo isprojektovati samostalno relacionu šemu baze, te potom tu bazu digitalizirati kroz DBMS koji su izučavali. Projekat treba sadržavati i punu projektnu dokumentaciju.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Rad sa grafičkim objektima u vektorskom zapisu u neposrednoj je vezi sa matematikom (analitičkom geometrijom) i fizikom (optikom), te u indirektnoj vezi sa likovnom kulturom.
+Rad sa bazama podataka sve je zastupljeniji u raznim branšama, te je kroz projekat koji učenici trebaju realizirati, pored evidentne veze sa matematikom i sociologijom, moguće ostvariti vezu sa bilo kojim drugim nastavnim predmetom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: upotreba tehnologije u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, korištenje tehnologije za podršku kritičkog načina razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost razumijevanja i primjene različitih načina prikazivanja matematičkih i jezičkih elemenata, te odabira i zamjene načina prikaza, sposobnost i spremnost da se upotrijebe znanja i metodologije u svrhu objašnjavanja objekata iz stvarnog svijeta.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti; podrška radoznalosti kroz omogućavanje izražavanja misli, ideja i emocija, te razvijanje sposobnosti posmatranja, učestvovanja i integrisanja novih iskustava.
+NAPOMENA: 
+1.    Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama)
+2.    Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+  B
+Rješavanje problema primjenom IKT-a
+
+B.III.1
+Modelira relacionu šemu složene baze podataka. (OG)
+B.III.2
+Modelira programe modularnog dizajna. (MI)
+B.III.3
+Analizira složenost i efikasnost programskih rješenja. (MI)
+TIT-3.4.2 TIT-4.1.3 TIT-4.2.1 TIT-4.2.2
+B.III.1.a Nabraja vrste i strukture različitih tipova baza podataka.
+B.III.1.b Objašnjava pojmove entitet i relacija u bazama podataka i njihove odnose.
+B.III.1.c Projektuje bazu podataka i njenu relacionu šemu.
+B.III.2.a Kreira funkcije koje vraćaju i koje ne vraćaju vrijednost, te sa i bez parametara različitog tipa.
+B.III.2.b Konstruiše funkcije sa jednim i dva rekurzivna poziva.
+B.III.2.c Modifikuje poznate rekurzivne algoritme (npr. Hanojske kule).
+B.III.3.a Izračunava broj operacija i memorijski utrošak u programima sa sekvencom, selekcijom i iteracijom, te rekurzijom.
+B.III.3.b Generiše skupove nasumičnih vrijednosti uz ograničenja.
+B.III.3.c Objašnjava funkcije za sortiranje i pretraživanje u svrhu njihovog modifikovanja.
+B.III.3.d Rješava probleme primjenom sortiranja i pretraživanja u programima.
+
+
+B.III.4
+Konstruiše programe primjenom koncepta objektno zasnovanog programiranja. (MI)
+B.III.5
+Razvija jednostavne automatizovane sisteme. (MI)
+TIT-4.2.1
+B.III.4.a Objašnjava koncepte objektno zasnovanog programiranja: zaštitu podataka i enkapsulaciju.
+B.III.4.b Koristi konstruktore, destruktor i preklopljene operatore u programima.
+B.III.4.c Procjenjuje potrebu za preklapanjem operatora specifične namjene.
+B.III.4.d Projektuje klase u programima.
+B.III.5.a  Upravlja diodama mikrokontrolera.
+B.III.5.b Eksperimentiše sa mogućnostima programiranja dioda i senzora  mikrokontrolera.
+B.III.5.c Razvija jednostavan automatizovani sistem sa upravljanjem preko mikrokontrolera.
+KLJUČNI SADRŽAJI
+Mrežni, hijerarhijski i relacioni model, Entitet, Relacija, Relaciona šema, Normalizacija,
+Funkcija, Parametar, Vraćanje vrijednosti, Rekurzija,
+Broj operacija, Slučajna vrijednost, Sortiranje, Pretraživanje,
+OZP, Zaštita podataka, Enkapsulacija, Klasa, Atribut, Metoda, Konstruktor, Preklapanje operatora,
+Mikrokontroler, Strujno kolo, Senzor, Upravljanje mikrokontrolerom
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Osnove teorije podataka učenicima pružaju uvid u moguće načine pohrane podataka (mrežni, hijerarhijski i relacioni model). Veoma je bitno sa učenicima obraditi mnoštvo primjera prilikom izučavanja projektovanja baza podataka, te osposobiti učenike da jasno razgraniče šta su i kako se biraju atributi tabele, a šta su podaci unutar tabele, šta su primarni, alternativni i spoljni ključ i kako se uspostavljaju, te kako se elementi baze kaskadno povezuju.
+Znanje iz funkcija treba graditi kroz postupno uvođenje načina prenosa podataka, te utjecaja funkcija na originalne podatke. Ovdje kroz znatan broj primjera i vježbi treba učenike osposobiti da instinktivno biraju ispravne načine prenosa i obrade podataka. Rekurzivne funkcije su novi koncept koji koristi potpuno drugačiji način razmišljanja od onog na koji su učenici naviknuti do ovog trenutka. Ovdje je bitno veoma postupno proći kroz primjere, te paralelno zadavati zadatke jednake težine onim iz primjera kako bi učenici polako usvojili koncept.
+Kroz primjere programa koji izvršavaju isti zadatak, ali imaju različit broj operacija i memorijski utrošak, učenicima treba prikazati kako izračunati i optimizirati ove aspekte programa. Prilikom izučavanja sortiranja i pretraživanja poželjno je prvo ponoviti sa učenicima relaciju poretka, te načine na koje se vrijednosti mogu sortirati. Nakon toga, učenicima treba detaljno pojasniti klasične metode sortiranja (selection, insertion i bubble), te brze rekurzivne metode (merge i quick), dok ostale metode treba samo spomenuti. Učenici nakon izučavanja ove oblasti trebaju biti u stanju modifikovati funkcije sortiranja i pretraživanja tako da rade sa različitim tipovima podataka i relacijama poretka. Pored toga, učenicima bi na kraju izučavanja oblasti trebalo pokazati i kako koristiti bibliotečke funkcije u svrhu primjene na sortiranje i pretraživanje.
+Kako bi mogli usvojiti koncepte modernog pristupa programiranju učenici trebaju kroz obilan fond sati proći objektno zasnovano programiranje kroz iscrpne primjere i uvježbavanje. Klase koje se obrađuju kao primjeri trebaju biti raznolike i postupno evoluirati od klasa sa atributima bazičnih tipova, do klasa sa nizovima kao atributima. U cilju intuitivnijeg i profesionalnijeg rada sa izvedenim tipovima podataka vrši se i preklapanje operatora, te je ovdje neophodno proći kroz postupke kreiranja konstruktora, operatora dodjele, te preklapanje aritmetičkih i operatora poređenja. Na kraju izučavanja cjeline, poželjno je učenicima dati projektni zadatak, obima po procjeni predavača.
+Programiranje mikrokontrolera treba izučavati postepeno, počevši od lakših primjera, pa nastavljajući ka složenijim, koristeći pritom različite vrste senzora i izlaznih mogućnosti (diode, propelere, isl.). Unutar cijelog procesa učenici trebaju raditi praktično sa uređajima u programskom jeziku koji već znaju. Na kraju izučavanja oblasti učenici trebaju samostalno kroz projektni zadatak kreirati jednostavan uređaj za automatizaciju u domaćinstvu ili industriji. Projektni zadatak treba posjedovati i prateću dokumentaciju.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Teorija podataka bavi se načinima pohrane i obrade podataka, te je stoga u direktnoj vezi sa primjenama u svakodnevnom životu. Na temelju ovoga, možemo uspostaviti direktnu vezu sa sociologijom i ekonomijom, te jezicima. Načini zapisivanja podataka koriste stroge matematičke modele, te je stoga veza sa matematikom neizostavna.
+Obrada podataka unutar funkcija je vrsta preslikavanja, te se ovdje ostvaruje direktna veza sa matematikom. Rekurzivni postupci su postupci koji problem rješavaju usitnjavanjem polaznog problema do trivijalnog slučaja, a potom grade rješenje rekonstrukcijom. Ovakvi postupci uobičajeni su u matematici i prirodnim naukama: fizici, hemiji i biologiji.
+Sortiranje i pretraživanje dio su svakodnevnice i javljaju se kako u svim sferama života, tako i u svim naučnim disciplinama koje na bilo koji način sakupljaju i obrađuju informacije. Neposrednu povezanost možemo uočiti sa matematikom, jezicima, bazama podataka, geografijom,...
+Koncepti objektno zasnovanog i objektno orijentisanog programiranja proizilaze iz društvenog doživljaja podataka i odnosa u prirodi, te ostvaraju direktnu vezu prvenstveno sa biologijom i sociologijom, te neizostavnom matematikom. Kako preklopljeni operatori omogućavaju rad sa standardnim operatorima čiji su operandi izvedeni tipovi podataka, to upotreba izvedenih tipova postaje intuitivnija, jer se približava notaciji na koju su korisnici već naviknuti. Prilagođavanje korisniku uvijek povlači vezu sa psihologijom i sociologijom, dok činjenica da operatorima pridružujemo standardna značenja povlači vezu sa matematikom.
+U oblasti programiranja mikrokontrolera pored evidentne veze sa matematikom, direktna je veza se jezicima, te zbog primjene izrađenih sadržaja u svakodnevnom životu sa mnogim društvenim naukama, kao što su psihologija i sociologija. Konačno, zbog projektnih zadataka koje učenici izrađuju na kraju izučavanja ovih oblasti, moguće je ostvariti vezu i sa bilo kojim drugim predmetom kroz odabir teme.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja, specijalno generalizacije, i prikazivanja objekata stvarnog života u digitalnom obliku.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Samoinicijativa i poduzetnička kompetencija: upravljanje projektima, rad u timovima na kooperativan i fleksibilan način, konstruktivno sarađivanje u aktivnostima i upotreba vještina grupnog rada.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+NAPOMENA: 
+1.    Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama)
+2.    Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+  C
+Digitalno društvo C.III.1
+Vrednuje načine, formate pohrane i mogućnosti manipulacije grafičkim digitalnim sadržajima. (OG, MI)
+TIT-3.4.3 TIT-5.1.4
+C.III.1.a Analizira načine zapisa slike i načina zapisa boja u računarskoj memoriji, te formate digitalnog zapisa grafičkih sadržaja.
+C.III.1.b Klasificira šumove slike.
+C.III.1.c Procjenjuje mogućnosti i efikasnost geometrijskih transformacija slike.
+KLJUČNI SADRŽAJI
+Rasterska i vektorska slika, Aditivni i substraktivni zapis boje, Skaliranje, Translacija, Rotacija
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Početna oblast u izučavanju multimedijalnih zapisa je digitalna slika. Ovdje učenici trebaju savladati osnovne pojmove računarske grafike, kao što su osobine rasterskog i vektorskog zapisa, osobine crno-bijele, sive i slike u boji, mogućnosti zapisa boja: RGB i CMYK, broj boja na slici, ton i svjetlo, fizička i digitalna oštećenja (šumovi), te mogućnosti transformacija slike: filteri, skaliranje, translacija i rotacija.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Prilikom izučavanja računarske grafike uočavamo snažnu vezu sa fizikom (optika), matematikom (analitička geometrija) i likovnom kulturom (sistemi boja i miješanje). Kako proces digitalizacije sadržaja korijen vuče iz svakodnevnih potreba, to je neizostavna veza i sa psihologijom i sociologijom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja (logičko i prostorno razmišljanje) i prikazivanja (formula, modela, konstrukcija, grafikona/dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: kritičko korištenje tehnologije za prikupljanje, vrednovanje i pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: razumijevanje odnosa između tehnologije i drugih područja: naučni napredak (npr. u medicini), društvu (vrijednosti, moralna pitanja), kulturi (npr. multimediji), ili okruženju (zagađenost, održivi razvoj).
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+NAPOMENA: 
+1.    Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama)
+2.    Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+  Srednje
+IV
+Godine učenja i podučavanja predmeta: 13
+A Informacione i komunikacione tehnologije
+A.IV.1
+A.IV.2
+B Rješavanje problema primjenom IKT-a
+B.IV.1
+B.IV.2
+B.IV.3
+C Digitalno društvo
+C.IV.1
+A
+Informacione i komunikacione tehnologije
+A.IV.1
+Programira bazu podataka u online sistemu za upravljanje bazama podataka na virtuelnom serveru. (MI)
+A.IV.2
+Razvija interaktivne skripte za rješavanje problema obrade podataka i prezentacije informacija na internet pregledniku. (OG, MI)
+TIT-3.4.2 TIT-3.4.2
+A.IV.1.a Koristi sistem za upravljanje bazama podataka za izvršavanje upita deklarativnog jezika.
+A.IV.1.b Pokreće interpretaciju baze podataka preko virtuelnog servera u svrhu prikaza na pregledniku.
+A.IV.1.c Implementira relacionu šemu baze podataka u online sistemu za upravljanje.
+A.IV.2.a (OG, MI) Povezuje u jednom tekstualnom editoru HTML i kôd skriptnog jezika.
+A.IV.2.b (OG, MI) Programira obradu podataka proslijeđenih sa preglednika putem formulara i prikazuje rezultate na istoj ili drugoj web stranici.
+A.IV.2.c (MI) Upravlja bazom podataka koja se nalazi na virtuelnom serveru putem skriptnog programa u tekst editoru.
+KLJUČNI SADRŽAJI
+DBMS, Virtuelni server, Tekst editor 
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Učenici bi u sklopu cjeline Sistemi za online upravljanje bazama podataka i virtuelni serveri trebali usvojiti vještine potrebne da isprogramiraju jednu funkcionalnu relacionu bazu podataka koja se čuva na virtuelnom serveru. Ova cjelina podrazumijeva osposobljavanje učenika za pokretanje kodova napisanih u deklarativnom jeziku za rad sa bazama podataka unutar DBMSa i upoznavanje njegovog okruženja i svojstava, te upoznavanje sa pojmom i načinom rada virtuelnih servera.
+Bazični način pokretanja skripti za internet preglednike je preko tekst editora (Notepad++, Atom, isl.). Iako sami tekst editori nemaju veliki broj ugrađenih funkcionalnosti, unutar ove oblasti treba učenicima demonstrirati mehanizme kreiranja fajlova koje preglednici mogu prevesti, te proces njihovog pokretanja na pregledniku. Pored toga, učenicima treba demonstrirati kako skriptni jezik iskombinovati sa HTMLom unutar istog dokumenta u svrhu uređivanja sadržaja koji se prikazuju.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Rad sa bazama podataka sve je zastupljeniji u raznim branšama, te je kroz zadatke koje učenici trebaju realizirati, pored evidentne veze sa matematikom i sociologijom, moguće ostvariti vezu sa bilo kojim drugim predmetom.
+Prilikom rada sa tekst editorom najzastupljenija je veza sa jezicima i to u smislu upoređivanja i kombinovanja različitih sintaksi, te interpretiranja i prevođenja. Pored toga, neizostavna je i stalna veza sa matematikom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja i prikazivanja (formula, modela, dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: kritičko korištenje informacijsko-komnikacijske tehnologije za prikupljanje, vrednovanje i pohranjivanje informacija, za produkciju, predstavljanje i razmjene informacija i za ušešće u virtuelnim društvenim mrežama.
+Kompetencija u nauci i tehnologiji: spremnost sticanja znanja iz prirodnih nauka i interes za nauku, te naučnu i tehnološku karijeru.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti; podrška radoznalosti kroz omogućavanje izražavanja misli, ideja i emocija, te razvijanje sposobnosti posmatranja, učestvovanja i integrisanja novih iskustava.
+NAPOMENA: 
+1.    Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama)
+2.    Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+  B
+Rješavanje problema primjenom IKT-a
+
+B.IV.1
+Modelira relacionu šemu složene baze podataka.
+B.IV.2
+Razvija upite za kreiranje baze podataka i manipulaciju njenim sadržajima. (MI)
+B.IV.3
+Izrađuje programe u skriptnom jeziku koji se izvršavaju u pregledniku. (OG, MI)
+TIT-4.1.2 TIT-4.2.2 TIT-4.2.2
+B.IV.1.a Nabraja vrste i strukture različitih tipova baza podataka.
+B.IV.1.b Objašnjava pojmove entitet i relacija u bazama podataka i njihove odnose.
+B.IV.1.c Projektuje samostalno bazu podataka i njenu relacionu šemu.
+B.IV.2.a Kreira praznu bazu podataka.
+B.IV.2.b Struktuira bazu podataka pomoću upita.
+B.IV.2.c Manipuliše sadržajima tabela baze podataka pomoću upita.
+B.IV.2.d Prezentuje sadržaje baze podataka putem formulara i izvještaja.
+B.IV.3.a (OG, MI) Objašnjava gotove programske kodove napisane u skriptnom jeziku po izboru.
+B.IV.3.b (OG, MI) Koristi objekte (varijable i nizove) i postupke (sekvencu, selekciju i iteraciju) skriptnog jezika.
+B.IV.3.c (OG, MI) Primjenjuje skriptni jezik za izradu interaktivne web stranice sa obradom podataka proslijeđenih preko HTML formulara.
+B.IV.3.d (MI) Kombinuje skriptni jezik sa deklarativnim jezikom za upravljanje bazama podataka u svrhu online upravljanja bazom na virtuelnom serveru.
+KLJUČNI SADRŽAJI
+Mrežni, hijerarhijski i relacioni model, Entitet, Relacija, Relaciona šema, Normalizacija,
+Deklarativni jezik, Upit, Filter,
+Skripta, Izvršavanje skripti, Kombinovanje jezika
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Osnove teorije podataka učenicima pružaju uvid u moguće načine pohrane podataka (mrežni, hijerarhijski i relacioni model). Veoma je bitno sa učenicima obraditi mnoštvo primjera prilikom izučavanja projektovanja baza podataka, te osposobiti učenike da jasno razgraniče šta su i kako se biraju atributi tabele, a šta su podaci unutar tabele, šta su primarni, alternativni i spoljni ključ i kako se uspostavljaju, te kako se elementi baze kaskadno povezuju.
+Nakon izučavanja projektovanja baza podataka u vidu relacionih šema, učenici trebaju savladati njihovo prevođenje u digitalni oblik pomoću nekog deklarativnog jezika (npr. SQL). Učenici ovdje trebaju savladati upite za kreiranje i brisanje tabela, te upite za modifikaciju i pregled sadržaja baze pomoću filtera (logički uslovi, unije, presjeci).
+Oblast skriptno programiranje podrazumijeva izučavanje skriptnog jezika (npr. PHP). Učenje ovog jezika treba vršiti povlačenjem paralela sa programskim jezikom koji su učenici izučavali u prethodnim godinama i već u dobroj mjeri poznaju. Ove paralele podrazumijevaju obradu bazičnih varijabli i nizova, ulazni i izlazni tok programa, te postupke sekvence, selekcije i iteracije, a za Matematičko-informatičo usmjerenje i korisnički definisane funkcije i klase. Skriptni jezik treba kombinovati sa HTMLom kroz obradu HTML formulara. 
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Teorija podataka bavi se načinima pohrane i obrade podataka, te je stoga u direktnoj vezi sa primjenama u svakodnevnom životu. Na temelju ovoga, možemo uspostaviti direktnu vezu sa sociologijom i ekonomijom, te jezicima. Načini zapisivanja podataka koriste stroge matematičke modele, te je stoga veza sa matematikom neizostavna.
+Kroz oblast deklarativnog programiranja učenici uče novi programski jezik, te je pored stalne veze sa matematikom, evidentna povezanost sa jezicima. Programiranje pomoću upita koristi drugačiji, čovjeku razmljiviji, stil pisanja naredbi, pa ovdje uočavamo i vezu sa psihologijom.
+U oblasti skriptno programiranje pored veze sa matematikom, direktna je veza se jezicima, te zbog primjene izrađenih sadržaja u svakodnevnom životu sa mnogim društvenim naukama, kao što su psihologija i sociologija. Konačno, zbog zadataka koje učenici izrađuju na časovima, moguće je ostvariti vezu i sa bilo kojim drugim predmetom.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja, specijalno generalizacije, i prikazivanja objekata stvarnog života u digitalnom obliku.
+Informatička pismenost: upotreba tehnologija u svrhu razvoja kreativnosti, inovativnosti i uključivanja u društvo, te u svrhu podrške kritičkom načinu razmišljanja.
+Kompetencija u nauci i tehnologiji: sposobnost primjene znanja i metodologija programiranja u svrhu prikazivanja prirodnih i društvenih objekata i akcija u digitalnom obliku.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+NAPOMENA: 
+1.    Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama)
+2.    Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+  C
+Digitalno društvo C.IV.1
+Projektuje dinamičku web stranicu. (OG, MI)
+TIT-5.1.4
+C.IV.1.a (OG, MI) Prezentuje prijedlog projekta i plan njegove izrade.
+C.IV.1.b (MI)  Istražuje primjere iz stvarnog života u svrhu uspostavljanja baze podataka sa realnim atributima i relacijama.
+C.IV.1.c (OG) Implementira predloženi projekat kombinujući skriptni jezik i HTML formulare u vidu interaktivne web stranice koja u pozadini vrši obradu podataka.
+C.IV.1.d (MI)  Implementira predloženi projekat kombinujući skriptni jezik, deklarativni jezik za upravljanje bazama podataka, HTML formulare i CSS u vidu dinamičke web stranice.
+C.IV.1.e (OG, MI) Objedinjuje korake i postupke u potpun pisani izvještaj koji sadrži prijedlog, specifikacije, korištene algoritme i rezultate testiranja projekta.
+KLJUČNI SADRŽAJI
+Projekat, Prijedlog projekta, Specifikacije projekta, Rješavanje problema, Testiranje, Dokumentacija
+PREPORUKE ZA OSTVARENJE ISHODA
+Mogućnosti efikasnog učenja i poučavanja tematske cjeline – metodičke smjernice
+Na kraju godine potrebno je planirati neophodno vrijeme za samostalni učenički projekat. Finalni rezultat bi trebala biti interaktivna web stranice unutar koje se vrši obrada podataka, i koja u slučaju Matematičko-informatičkog usmjerenja sadrži bazu podataka na virtuelnom serveru. U toku izrade projekta predavač bi trebao pratiti rad pojedinca, odnosno grupe, koja radi na projektu i pružati im pomoć u vidu navođenja na ispravan put u radu, te ispravljanja grešaka u programu koje učenici ne mogu otkloniti sami. Također, tokom cijele izrade projekta učenike treba navoditi da rade paralelno na dokumentaciji projektnog zadatka.
+Mogućnosti ostvarivanja međupredmetne povezanosti – međupredmetne korelacije
+Prilikom izrade projekta neposredna veza ostvaruje se sa matematičkim modelima, te maternjim jezikom kroz pisanje dokumentacije i prezentovanje projekta. Pored toga, sve veze sa predmetima ostvarene u toku godine (jezici, psihologija, sociologija,...) se preslikavaju na ovu oblastu, a nutar projekta je moguće ostvariti korelaciju sa bilo kojim predmetom kroz odabir teme.
+Mogućnosti odgojnog djelovanja i razvoja ključnih kompetencija – kompetencijski pristup
+Matematička pismenost: sposobnost i spremnost korištenja matematičkih oblika mišljenja (logičko i prostorno razmišljanje) i prikazivanja (formula, modela, konstrukcija, grafikona/dijagrama) koji imaju univerzalnu primjenu kod objašnjavanja i opisivanja stvarnosti.
+Informatička pismenost: kritičko korištenje tehnologije za prikupljanje, vrednovanje i pohranjivanje podataka, te njihovo predstavljanje i reprodukciju.
+Kompetencija u nauci i tehnologiji: razumijevanje odnosa između tehnologije i drugih područja: naučni napredak (npr. u medicini), društvu (vrijednosti, moralna pitanja), kulturi (npr. multimediji), ili okruženju (zagađenost, održivi razvoj).
+Samoinicijativa i poduzetnička kompetencija: upravljanje projektima, rad u timovima na kooperativan i fleksibilan način, konstruktivno sarađivanje u aktivnostima i upotreba vještina grupnog rada.
+Kreativno-produktivna kompetencija: razvijanje kompleksnog mišljenja (generalizacija, anliza, sinteza, kritičko mišljenje), upotreba logičkog struktuiranja, razvijanje kreativnosti, generisanje i povezivanje različitih ideja, pretpostavki i zaključaka.
+NAPOMENA: 
+1.    Iza svakog ishoda navedene su oznake za usmjerenja kome je tematska cjelina namijenjena. (OG – Opšta gimnazija, MI – Matematičko-informatičko usmjerenje u gimnazijama)
+2.    Kada ishodi nisu za sve programe isti, navedeno je i u indikatorima kome su namijenjeni.
+Misija OSCE-a u BiH je podržala izradu ove web-stranice. Svako gledište, izjava ili mišljenje, izraženo na ovoj web-stranici, a za koje nije izričito naznačeno da potiče iz Misije OSCE-a u BiH, ne odražava nužno zvaničnu politiku Misije OSCE-a u BiH.
+Ministarstvo za odgoj i obrazovanje Kantona Sarajevo
+Adresa Reisa Džemaludina Čauševića 1
+Telefon +387(0)33 562-128
+E-mail kurikulum@ks.gov.ba
+Web https://mo.ks.gov.ba/
+  2026 © Ministarstvo za odgoj i obrazovanje Kantona Sarajevo

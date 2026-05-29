@@ -1,0 +1,105 @@
+{
+  "predmet": "Kultura življenja",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "5"
+  },
+  "tematske_cjeline": [
+    "A Opća kultura i život u zajednici",
+    "A Opća kultura i život u zajednici",
+    "B Kultura stanovanja i ekološka svijest",
+    "C Kultura odijevanja",
+    "D Ishrana"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.5.1",
+      "opis": "A Opća kultura i život u zajednici"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "B Kultura stanovanja i ekološka svijest"
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "B.5.2"
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "C Kultura odijevanja"
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "C.5.2"
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": "D.5.2"
+    },
+    {
+      "oznaka": "D.5.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "Interpretira vrijednosti porodičnog života."
+    },
+    {
+      "oznaka": "A.5.1",
+      "opis": "Demonstrira odgovorno ponašanje prema sebi i drugima."
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "Demonstrira osnovna znanja o životnim uvjetima u stanu/kući i okolini."
+    },
+    {
+      "oznaka": "B.5.2",
+      "opis": "Objašnjava značaj kulturno - historijske i prirodne baštine BiH i tradicionalnih elemenata stanovanja."
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "Kreira crtež / maketu estetskog uređenja stana/kuće."
+    },
+    {
+      "oznaka": "C.5.1",
+      "opis": "Analizira značaj kulture odijevanja i  tradicionalnih  elemenata odijevanja."
+    },
+    {
+      "oznaka": "C.5.2",
+      "opis": "Kreira kombinacije odjevnih predmeta."
+    },
+    {
+      "oznaka": "D.5.1",
+      "opis": "Analizira značaj  pravilne ishrane."
+    },
+    {
+      "oznaka": "D.5.2",
+      "opis": "Objašnjava značaj  tradicionalne kuhinje u Bosni i Hercegovini."
+    },
+    {
+      "oznaka": "D.5.3",
+      "opis": "Demonstrira postupke pripreme, čuvanja i posluživanja namirnica u različitim prilikama."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Porodica",
+    "poznavanje porodičnog porijekla",
+    "običaji; potrebe porodice –  uloga",
+    "navike i uticaj porodice",
+    "raspodjela poslova u porodici."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Na uvodnim nastavnim časovima Kulture življenja nastavnik/ca može s učenicima/cama razgovarati o njihovim porodičnim navikama, o tome s kim žive, te o nekim određenim odnosima unutar porodice (npr. običaji u mojoj porodici, odnosi između roditelja i djece).",
+      "Na osnovu toga nastavnik navodi primjere običaja i odnosa u porodici za koje učenici/ce mogu procijeniti smatraju li ih prihvatljivim ili ne. Jedan od bitnih aspekata porodičnog života jeste raspodjela poslova unutar porodice na način da svaki član ima svoje obaveze prilagođene njegovim sposobnostima. Na taj način se potiče aktivna uloga svakog člana unutar porodice. Upotrebom savremenih strategija i nastavnih metoda kod učenika/ca se razvijaju praktične životne vještine kao što su rješavanje svakodnevnih  problema u kući, porodici, školi i društvu općenito. Učenicima/cama se omogućava da razvijaju kritičko i kreativno mišljenje, npr. diskutiranjem o utjecaju i ulozi porodice na rast i razvoj zdrave ličnosti kroz implementiranje i analizu igrokaza koji prikazuju odnose unutar porodice (npr. ljubav, nenasilje, tolerancija, nasilje). Učenike/ce treba navoditi i usmjeravati da istražuju različite izvore (internet, časopisi, udžbenici). Istraživanjem će dolaziti do određenih informacija  koje će im pomoći da donose odluke važne za postizanje optimalnog, zdravog i održivog života za pojedince, porodicu i društvo. Kvalitetno realizirana nastava podrazumijeva poticanje učeničke kreativnosti  kroz realiziranje praktičnih vježbi, npr. lični karton moje porodice, moje dnevne i sedmične aktivnosti u porodici, moji bliski srodnici – samostalno ili uz pomoć nastavnika.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      "Učenicima/cama se može dati zadatak da urade projekat u okviru kojeg će biti potrebno saznati nešto više o običajima unutar porodice. Ovdje se može napraviti poveznica sa nastavnim predmetima: Društvo (npr. istraživanjem običaja unutar porodice nekad i sad); Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (npr. razvijanjem kulture usmenog i pisanog izražavanja, te usvajanja novih pojmova vezanih za porodicu i porodične odnose), Likovna kultura (npr. izradom crteža ili postera „porodično stablo“).",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Ov"
+    ]
+  }
+}

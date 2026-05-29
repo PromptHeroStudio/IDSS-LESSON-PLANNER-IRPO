@@ -1,0 +1,305 @@
+{
+  "predmet": "Sociologija - društveno izborno područje",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "III"
+  },
+  "tematske_cjeline": [
+    "A Sociološke teorije i metode istraživanja",
+    "B Društvo i kultura",
+    "C Porodica i društvo",
+    "D Socijalizacija i kreiranje socijalnog identiteta"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.1.1",
+      "opis": "Prepoznaje specifičnost predmeta sociologije u odnosu na predmete drugih nauka."
+    },
+    {
+      "oznaka": "A.1.2",
+      "opis": "Objašnjava osnovne sociološke pojmove."
+    },
+    {
+      "oznaka": "A.1.3",
+      "opis": "Uspoređuje različite teorijske pristupe u sociologiji i njihovu vezu sa vremenom nastanka."
+    },
+    {
+      "oznaka": "A.1.4",
+      "opis": "Procjenjuje sličnosti i razlike, te obim i domete najznačajnijih socioloških teorija."
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "Objašnjava najvažnije sociološke metode istraživanja."
+    },
+    {
+      "oznaka": "A.2.2",
+      "opis": "Procjenjuje adekvatnost primjene određenih metoda istraživanja u svakom pojedinačnom slučaju."
+    },
+    {
+      "oznaka": "A.2.3",
+      "opis": "Samostalno provodi istraživanje u okviru svoje škole."
+    },
+    {
+      "oznaka": "A.2.4",
+      "opis": "Prezentira rezultate istraživanja u samostalno kreiranom izvještaju."
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "Definira i opisuje društvo i društvene odnose, strukturu i elemente, te društvene pojave i procese."
+    },
+    {
+      "oznaka": "B.1.2",
+      "opis": "Otkriva utjecaj različitih faktora koji uvjetuju društveni razvoj i društvene promjene."
+    },
+    {
+      "oznaka": "B.1.3",
+      "opis": "Objašnjava i uspoređuje različite epohe u razvitku društva i faktore koje su utjecali na njegove promjene."
+    },
+    {
+      "oznaka": "B.1.4",
+      "opis": ". Procjenjuje kako nove tehnologije utiču na promjene društvene strukture i interakcije."
+    },
+    {
+      "oznaka": "B.1.5",
+      "opis": "Istražuje društvene odnose, promjene, pojave i procese na primjerima u bosanskohercegovačkom društvu, ali i globalno."
+    },
+    {
+      "oznaka": "B.2.1",
+      "opis": "Definira najvažnije sociološke pojmove vezane za društvenu nejednakost."
+    },
+    {
+      "oznaka": "B.2.2",
+      "opis": "Prepoznaje elemente i obilježja društvene nejednakosti u vlastitom okruženju."
+    },
+    {
+      "oznaka": "B.2.3",
+      "opis": "Otkriva posljedice društvene nejednakosti na pojedinca i društvo u cjelini."
+    },
+    {
+      "oznaka": "B.2.4",
+      "opis": "Istražuje elemente društvene nejednakosti u svojoj socijalnoj sredini."
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": "Prepoznaje i definira diferencirane oblike društvene svijesti."
+    },
+    {
+      "oznaka": "B.3.2",
+      "opis": "Otkriva društvene norme i njihove običajne, moralne, religijske i pravne izvore."
+    },
+    {
+      "oznaka": "B.3.3",
+      "opis": "Analizira značaj i uticaj ideologije, nauke i umjetnosti na društvo, društvene promjene i društveni razvoj."
+    },
+    {
+      "oznaka": "B.3.4",
+      "opis": "Procjenjuje prisutnost, poštivanje, važnost i značaj vrijednosnih obrazaca proisteklih iz društvene svijesti u društvu u kojem živi."
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": "Definira najvažnije sociološke pojmove vezane za kulturu i objašnjava ključna obilježja kulture i kulturnog identiteta."
+    },
+    {
+      "oznaka": "B.4.2",
+      "opis": "Dokazuje postojanje različitih formi kulture."
+    },
+    {
+      "oznaka": "B.4.3",
+      "opis": "Procjenjuje važnost i ulogu društvenih institucija u očuvanju kulture, kulturnih vrijednosti i naslijeđa."
+    },
+    {
+      "oznaka": "B.4.4",
+      "opis": "Provjerava važnost mehanizma socijalne kontrole i društvenih normi u kreiranju kulturnog koda (identiteta)."
+    },
+    {
+      "oznaka": "B.4.5",
+      "opis": ". Vrednuje obilježja, karakteristike i važnost očuvanja multikulturnog koda/tkiva Bosne i Hercegovine."
+    },
+    {
+      "oznaka": "B.5.1",
+      "opis": "Objašnjava pojam kulturni obrazac."
+    },
+    {
+      "oznaka": "B.5.2",
+      "opis": "Dokazuje postojanje prostorne i vremenske determinacije kulture i kulturnih vrijednosti."
+    },
+    {
+      "oznaka": "B.5.3",
+      "opis": "Razlikuje tradiciju od tradicionalizma i njihovu vezu za kulturnim obrascima, kulturom i kulturnim naslijeđem."
+    },
+    {
+      "oznaka": "B.5.4",
+      "opis": "Analizira vezu između kulturnih obrazaca i društvenih promjena."
+    },
+    {
+      "oznaka": "B.5.5",
+      "opis": "Objašnjava kako tehnološki napredak dovodi do kulturnih adaptacija – „kulturno zaostajanje“."
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": "Objašnjava pojmove vezane za sociologiju porodice."
+    },
+    {
+      "oznaka": "C.1.2",
+      "opis": "Prepoznaje porodičnu raznolikost (različite oblike i tipove porodičnih struktura)."
+    },
+    {
+      "oznaka": "C.1.3",
+      "opis": "Povezuje različite primjere porodičnih oblika i struktura u vlastitom okruženju."
+    },
+    {
+      "oznaka": "C.1.4",
+      "opis": "Objašnjava značaj porodice  u formiranju čovjekovog identiteta i ličnosti."
+    },
+    {
+      "oznaka": "C.2.1",
+      "opis": "Objašnjava funkcionalne i disfunkcionale pojave u porodici i uzroke njihovog nastanka."
+    },
+    {
+      "oznaka": "C.2.2",
+      "opis": "Identificira uzroke koji dovode do pojave porodičnih disfunkcija."
+    },
+    {
+      "oznaka": "C.2.3",
+      "opis": "Utvrđuje vezu između porodičnih funkcija i kreiranja rodnih uloga."
+    },
+    {
+      "oznaka": "C.2.4",
+      "opis": "Analizira uticaj porodice na društvo i društva na porodicu."
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": "Objašnjava životne faze (životna dob)."
+    },
+    {
+      "oznaka": "C.3.2",
+      "opis": "Uspoređuje vezu između životne dobi i porodice."
+    },
+    {
+      "oznaka": "C.3.3",
+      "opis": "Procjenjuje značaj i uloguporodice u formiranju mladih i zaštiti starih."
+    },
+    {
+      "oznaka": "D.1.1",
+      "opis": "Definira socijalizaciju i njene faktore."
+    },
+    {
+      "oznaka": "D.1.2",
+      "opis": "Otkriva utjecaje različitih faktora socijalizacije na oblikovanje čovjekove ličnosti."
+    },
+    {
+      "oznaka": "D.1.3",
+      "opis": "Procjenjuje važnost socijalizacije, socijalnog učenja i socijalne interakcije."
+    },
+    {
+      "oznaka": "D.2.1",
+      "opis": "Objašnjava pojam i karakteristike socijalnog identiteta."
+    },
+    {
+      "oznaka": "D.2.2",
+      "opis": "Procjenjuje  utjecaj i vezu porodične socijalizacije na socijalni identitet."
+    },
+    {
+      "oznaka": "D.2.3",
+      "opis": "Istražuje odnos i vezu između kolektivnog  i individualnog u kontekstu socijalnog idenititeta."
+    },
+    {
+      "oznaka": "D.3.1",
+      "opis": "Objašnjava specifične razlike između primarnog i sekundarnih faktora socijalizacije u smislu njihovog djelovanja na oblikovanje čovjekove ličnosti."
+    },
+    {
+      "oznaka": "D.3.2",
+      "opis": "Uspoređuje različitost, intenzitet i efekte utjecaja faktora socijalizacije u fazama formiranja ličnosti."
+    },
+    {
+      "oznaka": "D.3.3",
+      "opis": "Kroz realizaciju istraživačkog projekta, istražuje efekte djelovanja sekundarnih faktora socijalizacije na formiranje vlastitog identiteta,"
+    },
+    {
+      "oznaka": "D.4.1",
+      "opis": "Analizira seksizam i dinamiku odnosa moći u odnosu na spol i rod u različitim kontekstima."
+    },
+    {
+      "oznaka": "D.4.2",
+      "opis": "Objašnjava utjecaj koji (re)prezentacija žena i muškaraca u medijima, nauci, popularnoj kulturi i umjetnosti ima na nas."
+    },
+    {
+      "oznaka": "D.4.3",
+      "opis": "Analizira društvena, politička, ekonomska i ekološka pitanja koja se odnose na rod u bosansko-hercegovačkom i globalnom kontekstu."
+    },
+    {
+      "oznaka": "D.4.4",
+      "opis": "Razvija strategije i inicijative za prevenciju homofobičnog i rodno zasnovanog nasilja u bosansko-hercegovačkom kontekstu."
+    },
+    {
+      "oznaka": "E.1.1",
+      "opis": "Prepoznaje obilježja globalizacije i globalizacijskih promjena u vlastitom okruženju i globalnom kontekstu."
+    },
+    {
+      "oznaka": "E.1.2",
+      "opis": "Procjenjuje pozitivne i negativne utjecaje i efekte globalizacije."
+    },
+    {
+      "oznaka": "E.1.3",
+      "opis": "Povezuje globalizaciju i medijski uticaj na kreiranje čovjekovog identiteta u odnosu na vlastitu (tradicionalnu) kulturu."
+    },
+    {
+      "oznaka": "E.1.4",
+      "opis": "Vrednuje uticaj globalizacije na oblikovanje vlastitog identiteta."
+    },
+    {
+      "oznaka": "E.2.1",
+      "opis": "Objašnjava fenomen globalnog razvoja."
+    },
+    {
+      "oznaka": "E.2.2",
+      "opis": "Identificira ekološke probleme izazvane nekontrolisanom eksploataciju prirodnih resursa."
+    },
+    {
+      "oznaka": "E.2.3",
+      "opis": "Diskutuje o posljedicama i efektima globalnog razvoja  lokalno i globalno."
+    },
+    {
+      "oznaka": "E.2.4",
+      "opis": "Analizira efekte globalizacije na nepravednu eksploataciju ljudi i prirodnih resursa"
+    },
+    {
+      "oznaka": "E.2.5",
+      "opis": "Procjenjuje pozitivne i negativne efekte ekonomskih migracija (odlazak) iz vlastite domovine."
+    },
+    {
+      "oznaka": "E.3.1",
+      "opis": "Razlikuje različite tipove medija – „novi“ i „tradicionalni“ mediji sa posebnim fokusom na socijalne mreže."
+    },
+    {
+      "oznaka": "E.3.2",
+      "opis": "Obrazlaže ulogu i značaj medija u društvu."
+    },
+    {
+      "oznaka": "E.3.3",
+      "opis": "Procjenjuje uticaj društvenih mreža na formiranje stavova i navika mladih."
+    },
+    {
+      "oznaka": "E.3.4",
+      "opis": "Istražuje efekte medijske perusazije i medijske propagande na društvene promjene."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Sociološke teorije i perspektive; Sociološki korijeni",
+    "Predmet sociologije; Osnovni sociološki pojmovi; Osnove društvenih istraživanja; Sociološke metode; Faze u realizaciji istraživanja (dizajn)."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Sadržaji iz oblasti osnovnih socioloških teorija i perspektiva izrazito su teorijske naravi i prilikom njihove realizacije neophodno je metodički pristupiti nastavi na način da se kombinuje frontalni, grupni i individualni oblik rada, pri čemu je akcenat na grupnom (projektnom) i individualnom učeničkom radu, dok je frontalni neophodan samo kao vodilja i korektiv u izvođenju nastave. Teorijske sadržaje treba realizirati kroz rad na tekstu (originalnom ili adaptiranom) te putem učeničkih prezentacija i drugih oblika samostalnog rada.",
+      "Sadržaje iz oblasti metodologije društvenih istraživanja treba realizirati putem konkretnog i samostalnog istraživačkog projekta učenika/ca u okviru kojih će učenici/ce usvojiti znanja o osnovama socioloških istraživanja te vještine i kompetencije potrebne za njihovo provođenje."
+    ],
+    "medjupredmetne_korelacije": [
+      ":",
+      "Međupredmetna korelacija u oblasti „Sociološke teorije i metode istraživanja“ vezana je za društveno-humanističke nauke, posebno filozofiju i psihologiju, te jednim dijelom korelaciju sa prirodnim naukama (science) - u dijelu u kojem se proučava veza između metodologije i korištenja naučnih metoda prirodnih nauka i njihovoj primjeni u sociologiji."
+    ],
+    "kompetencijski_pristup": [
+      ":",
+      "Radeć"
+    ]
+  }
+}

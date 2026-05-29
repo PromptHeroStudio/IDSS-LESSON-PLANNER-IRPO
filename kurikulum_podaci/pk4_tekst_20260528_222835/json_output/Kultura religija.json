@@ -1,0 +1,169 @@
+{
+  "predmet": "Kultura religija",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "I"
+  },
+  "tematske_cjeline": [
+    "A DRUŠTVO I RELIGIJA",
+    "B KULTURA I RELIGIJA",
+    "C RELIGIJA I SVAKODNEVNI ŽIVOT",
+    "A DRUŠTVO I RELIGIJA",
+    "B KULTURA I RELIGIJA",
+    "C RELIGIJA I SVAKODNEVNI ŽIVOT",
+    "A DRUŠTVO I RELIGIJA",
+    "B KULTURA I RELIGIJA",
+    "C RELIGIJA I SVAKODNEVNI ŽIVOT",
+    "A DRUŠTVO I RELIGIJA",
+    "B KULTURA I RELIGIJA",
+    "C RELIGIJA I SVAKODNEVNI ŽIVOT"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "B.1.1",
+      "opis": ". Analizira odnos kulture i religije"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": ".1. Definira i objašanjava pojam i oblike kulture"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": ".1. Uspoređuje različite društvene, kulturne i religijske faktore i njihov utjecaj na religiju pojedinca"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": ".2. Razvija sliku o kompleksnosti religije i ispreplitanju različitih faktora koji utječu na nju."
+    },
+    {
+      "oznaka": "A.3.2",
+      "opis": ".1. Razlikuje vrste državnih uređenja"
+    },
+    {
+      "oznaka": "A.3.2",
+      "opis": ".2. Kreira primjere"
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": ". Istražuje kulturne dimenzije religije"
+    },
+    {
+      "oznaka": "B.3.2",
+      "opis": ". Razlikuje manifestne oblike religioznosti"
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": ".1. Definira običaje i tradiciju."
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": ".2. Vrednuje običaje i tradiciju unutar određene kulture"
+    },
+    {
+      "oznaka": "B.3.2",
+      "opis": ".1. Objašnjava rituale, mitove i simbole"
+    },
+    {
+      "oznaka": "B.3.2",
+      "opis": ".2. Istražuje sadržajnost različitih oblika religioznosti"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": ". Istražuje zastupljene običaje i tradicijske vrijednosti odabrane religijske zajednice"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": ".1. Ispituje koliko se poštuju običaji religijskih zajednica u Bosni i Hercegovini"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": ".2. Prikazuje i komparira pronađene običaje"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": ".1. Objašnjava porijeklo pojavnih oblika religioznosti"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": ".2. Istražuje zastupljenost i praktičnost oblika religioznosti"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": ".3. Komparira oblike religioznosti zastupljene u Bosni i Hercegovini"
+    },
+    {
+      "oznaka": "A.4.2",
+      "opis": ".1. Definira religijsko poimanje određenih pojmova"
+    },
+    {
+      "oznaka": "A.4.2",
+      "opis": ".2. Pronalazi relacije religije i ljudskih prava"
+    },
+    {
+      "oznaka": "A.4.2",
+      "opis": ".3. Raspravlja o odnosu religije prema ovisnostima"
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": ".1. Pronalazi temelje međureligijskog dijaloga u svetim knjigama"
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": ".2. Povezuje dijalog, kulturu i identitet"
+    },
+    {
+      "oznaka": "B.4.2",
+      "opis": ".1. Objašnjava kulturu nenasilja te odlike kulture mira"
+    },
+    {
+      "oznaka": "B.4.2",
+      "opis": ".2. Istražuje dobre primjere društava građenih na kulturi nenasilja"
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": ".1. Objašnjava nove religijske pokrete"
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": ".2. Procjenjuje frekventnost novi religijskih pokreta u Bosni i Hercegovini"
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": ".3. Utvrđuje priznatost međureligijskog dijaloga u Bosni i Hercegovini"
+    },
+    {
+      "oznaka": "C.4.2",
+      "opis": ".1. Kreira zaključke o religijama Bosne i Hercegovine"
+    },
+    {
+      "oznaka": "C.4.2",
+      "opis": ".2. Predlaže tehnike izgradnje kulture mira u bosanskohercegovačkom društvu"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Religija",
+    "Razvoj i forme religije",
+    "Porijeklo vjerovanja",
+    "Sistem vjerovanja",
+    "Porodica i religija",
+    "Sveto i nesveto",
+    "Kultura",
+    "Oblici i vrste kulture",
+    "Duhovna kultura",
+    "Obredi i rituali"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      ":",
+      "Preporuke za realizaciju tema",
+      "Pri izboru tema važno je da se proširuju ključni sadržaji, primjereni uzrastu i interesovanjima učenika. Važno je uvoditi i nove teme, pogotovo aktuelne da bi učenici mogli jasnije sagledati određenu situaciju.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      ":",
+      "Horizontalno umrežavanje podrazumijeva sadržaje koji se povezuju sa  društvenim naukama, jezikom, matematikom, vjeronaukom, prorodnim naukama, informatikom, umjetnošću. Ključna i primarna međupredmetna korelacija jest korelacija s vjeronaukom.",
+      "3."
+    ],
+    "kompetencijski_pristup": []
+  }
+}

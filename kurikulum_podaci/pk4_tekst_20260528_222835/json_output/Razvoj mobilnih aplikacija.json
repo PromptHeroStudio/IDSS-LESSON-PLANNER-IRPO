@@ -1,0 +1,134 @@
+{
+  "predmet": "Razvoj mobilnih aplikacija",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "I"
+  },
+  "tematske_cjeline": [
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom informacione tehnologije",
+    "C Upravljanje razvojem mobilnih aplikacija"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "V.1.1",
+      "opis": "Objašnjava primjenu operativnih sistema alata u kreiranju mobilnih aplikacija."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "Raščlanjuje strukturu mobilne aplikacije i strukturne fajlove koji su bitni za razvoj i ispravan rad aplikacije."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Procjenjuje uticaj ograničenja hardvera i softvera mobilnog uređaja na performanse aplikacije"
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "Izrađuje konceptualni model i specifikaciju mobilne aplikacije prema zadatim zahtjevima i standardima."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "Koristi alate za praćenje grešaka i optimizaciju koda, analizirajući problematične dijelove aplikacije."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "Objašnjava gotove programske kodove jezika za aplikativni razvoj."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "Primjenjuje tipove podataka, funkcije i objekte u izradi novih rješenja."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Implementira jednostavne korisničke komponente i interakcije u grafičkom sučelju."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "Upotrebljava okruženje za razvoj mobilnih aplikacija."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "Primjenjuje emulatore za prikaz aplikacije."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "Implementira program u okruženju za razvoj mobilnih aplikacija za primjenu na mobilnim uređajima."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "Koristi ugrađene objekte i predloške okruženja za razvoj."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "Implementira ulazne kontorole i događaje koji omogućavaju interakciju korisnika s korisničkim sučeljem."
+    },
+    {
+      "oznaka": "V.3.3",
+      "opis": "Odabire odgovarajući izgled prozora prilikom kreiranja mobilne aplikacije u skladu sa dobrim praksama razvoja fleksibilnog korisničkog sučelja."
+    },
+    {
+      "oznaka": "V.3.4",
+      "opis": "Kombinuje raznovrsne predloške, kontrole i događaje pri izradi fleksibilnog korisničkog sučelja."
+    },
+    {
+      "oznaka": "V.1.1",
+      "opis": "Analizira projektnu ideju za razvoj mobilne aplikacije."
+    },
+    {
+      "oznaka": "V.1.2",
+      "opis": "Objašnjava faze razvoja mobilne aplikacije."
+    },
+    {
+      "oznaka": "V.1.3",
+      "opis": "Primijenjuje agilne metode upravljanja projektom, uključujući SCRUM."
+    },
+    {
+      "oznaka": "V.1.4",
+      "opis": "Procjenjuje prototip odabranog rješenja mobilne aplikacijeu skladu sa zahtjevima i standardima."
+    },
+    {
+      "oznaka": "V.2.1",
+      "opis": "Primjenjuje mogućnost internacionalizacije ili lokalizacije, zaviso od konkretne praktične primjene."
+    },
+    {
+      "oznaka": "V.2.2",
+      "opis": "Objašnjava osobine i funkcionalnost pojedinačnih fragmenata aplikacije."
+    },
+    {
+      "oznaka": "V.2.3",
+      "opis": "Kombinuje komponente internacionalizacije, lokalizacije i fragmentiranja pri izradi praktičnih zadataka."
+    },
+    {
+      "oznaka": "V.3.1",
+      "opis": "Predlaže projektnu ideju kroz ispitivanje tržišta i specifikaciju potreba."
+    },
+    {
+      "oznaka": "V.3.2",
+      "opis": "Implementira mobilnu aplikaciju sa grafičkim korisničkim sučeljem."
+    },
+    {
+      "oznaka": "V.3.3",
+      "opis": "Prezentuje proces izrade i rezultate rada u usmenoj formi."
+    },
+    {
+      "oznaka": "V.3.4",
+      "opis": "Evaluira projekat i izrađuje pisanu dokumentaciju o radu."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Operativni sistemi za mobilne uređaje",
+    "Okruženja za razvoj mobilnih aplikacija",
+    "Višeplatformski razvoj"
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Nastava u ovoj oblasti treba biti organizovana tako da učenici kroz istraživački i praktični rad upoznaju komponente okruženja za rad na mobilnim uređajima te principe i metodologije razvoja softverskih rješenja. Kroz demonstracije nastavnika i vođene vježbe, učenici imaju priliku da upoznaju strukturu mobilnih aplikacija, razumiju ulogu i funkciju pojedinih strukturnih fajlova, te sagledaju kako oni međusobno utiču na stabilnost i funkcionalnost aplikacije. U radu na projektnim zadacima primjenjuju standarde i metodologije razvoja, kreiraju modele i specifikacije aplikacija prema unaprijed definisanim zahtjevima. Rad u laboratorijskim uslovima podrazumijeva i korištenje alata za praćenje grešaka i optimizaciju koda, pri čemu se učenici usmjeravaju na analizu i rješavanje uočenih problema. Ovakav pristup omogućava kombinaciju teorijskog znanja i praktične primjene, uz razvoj vještina neophodnih za samostalni i timski rad u realnim projektima."
+    ],
+    "medjupredmetne_korelacije": [
+      "Ova oblast je u direktnoj vezi sa nastavnim predmetima Matematika, Fizika i Programiranje, a u indirektnoj sa jezicima i sportom (kroz pravila i hijerarhije izvođenja procesa), te sa Psihologijom i Sociologijom."
+    ],
+    "kompetencijski_pristup": [
+      "Matematičk"
+    ]
+  }
+}

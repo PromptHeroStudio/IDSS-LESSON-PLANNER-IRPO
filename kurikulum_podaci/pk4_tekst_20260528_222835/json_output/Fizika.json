@@ -1,0 +1,563 @@
+{
+  "predmet": "Fizika",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "7"
+  },
+  "tematske_cjeline": [
+    "A Priroda fizike i naučni metod",
+    "A Priroda fizike i naučni metod",
+    "B Mehanika",
+    "A Priroda fizike i naučni metod",
+    "B Mehanika",
+    "B Mehanika",
+    "B Mehanika",
+    "B Mehanika",
+    "B Mehanika",
+    "C Molekularna fizika i termodinamika",
+    "A Priroda fizike i naučni metod",
+    "D Elektricitet i magnetizam",
+    "D Elektricitet i magnetizam",
+    "D Elektricitet i magnetizam",
+    "B Mehanika",
+    "A Priroda fizike i naučni metod",
+    "A Priroda fizike i naučni metod",
+    "B Mehanika",
+    "B Mehanika",
+    "B Mehanika",
+    "B Mehanika",
+    "A Priroda fizike i naučni metod",
+    "B Mehanika",
+    "B Mehanika",
+    "C Molekularna fizika i termodinamika",
+    "C Molekularna fizika i termodinamika",
+    "A Priroda fizike i naučni metod",
+    "D Elektricitet i magnetizam",
+    "D Elektricitet i magnetizam",
+    "D Elektricitet i magnetizam",
+    "D Elektricitet i magnetizam",
+    "A Priroda fizika i naučni metod",
+    "A Priroda fizike i naučni metod",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "B MEHANIKA",
+    "C MOLEKULARNA FIZIKA I TERMODINAMIKA",
+    "D ELEKTRICITET I MAGNETIZAM",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "B MEHANIKA",
+    "C MOLEKULARNA FIZIKA I TERMODINAMIKA",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "D ELEKTRICITET I MAGNETIZAM",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "B MEHANIKA",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "C MOLEKULARNA FIZIKA I TERMODINAMIKA",
+    "D ELEKTRICITET I MAGNETIZAM",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "B MEHANIKA",
+    "D ELEKTRICITET I MAGNETIZAM",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "B MEHANIKA",
+    "C MOLEKULARNA FIZIKA I TERMODINAMIKA",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "D ELEKTRICITET I MAGNETIZAM",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "A PRIRODA FIZIKE I NAUČNI METOD",
+    "B MEHANIKA",
+    "C MOLEKULARNA FIZIKA I TERMODINAMIKA",
+    "D ELEKTRICITET I MAGNETIZAM",
+    "A PRIRODA FIZIKE I NAUČNI METOD"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "B Mehanika"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "B.7.2"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "A.7.2"
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Tumači prirodu fizike."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "Analizira ciklus spoznaje u fizici."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Identificira probleme koji mogu biti predmet fizikalnih istraživanja."
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Objašnjava značaj mjerenja fizikalnih veličina."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "Mjeri i određuje temeljne fizikalne veličine."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "Predstavlja i tumači rezultate mjerenja."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "FIZ-5.2.1 FIZ-5.2.1"
+    },
+    {
+      "oznaka": "B.7.1",
+      "opis": "Izvodi zaključke o efektima međudjelovanja tijela."
+    },
+    {
+      "oznaka": "B.7.2",
+      "opis": "Identifikuje i određuje sile u raznovrsnim kontekstima."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "FIZ-1.3.1"
+    },
+    {
+      "oznaka": "A.7.1",
+      "opis": "Koristi eksperimentalni metod u kontekstu fizike."
+    },
+    {
+      "oznaka": "A.7.2",
+      "opis": "Koristi matematički metod u kontekstu fizike."
+    },
+    {
+      "oznaka": "A.7.3",
+      "opis": "Primjenjuje komunikacijske vještine u kontekstu fizike."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-5.2.1 FIZ-5.2.2 FIZ-5.1.1 FIZ-5.2.3 FIZ-5.3.2"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "B Mehanika"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "B Mehanika"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B.8.2"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "A Priroda fizike i naučni metod"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "B"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Uspoređuje temeljne kinematičke pojmove i tumači njihovo značenje."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Istražuje odabrana mehanička kretanja."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-1.2.2"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Istražuje kretanje tijela uzimajući u obzir međudjelovanje tijela."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Izvodi zaključke o prirodi i efektima gravitacionog međudjelovanja tijela."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "Opisuje, mjeri i određuje silu trenja."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "FIZ-1.3.3 FIZ-1.3.1"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Tumači pojam pritiska i objašnjava efekte djelovanja ili promjene pritiska."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Istražuje osnovne zakonitosti statike fluida."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "FIZ-1.4.2"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Analizira međupovezanost energije, rada i snage."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Opisuje pretvaranje energije i kritički procjenjuje problem ograničenih energetskih resursa."
+    },
+    {
+      "oznaka": "B.8.3",
+      "opis": "Eksperimentalno provjerava i primjenjuje zakon očuvanja energije."
+    },
+    {
+      "oznaka": ".3.4",
+      "opis": "FIZ-1.3.4 FIZ-1.3.5 FIZ-1.3.5"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Identificira proste mehanizme i objašnjava njihov praktični značaj."
+    },
+    {
+      "oznaka": "B.8.2",
+      "opis": "Istražuje uvjete ravnoteže na prostim mehanizmima."
+    },
+    {
+      "oznaka": ".3.6",
+      "opis": "FIZ-1.3.6"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "Primjenjuje znanje o molekularnim silama i čestičnoj građi tvari radi analiziranja fizikalnih svojstava, stanja i pojava."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "Analizira međupovezanost unutrašnje energije, toplote, temperature i rada."
+    },
+    {
+      "oznaka": "C.8.3",
+      "opis": "Objašnjava promjene agregatnog stanja tijela i kritički procjenjuje primjene kalorike u raznovrsnim kontekstima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "FIZ-2.1.2 FIZ-2.2.1 FIZ-2.2.2 FIZ-2.2.1 FIZ-2.2.2"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Primjenjuje eksperimentalni metod u kontekstu fizike."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Primjenjuje matematički metod u kontekstu fizike."
+    },
+    {
+      "oznaka": "A.8.3",
+      "opis": "Primjenjuje komunikacijske vještine u kontekstu fizike."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-5.2.3 FIZ-5.2.1 FIZ-5.2.2 FIZ-5.1.1 FIZ-5.2.3 FIZ-5.3.2"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "D Elektricitet i magnetizam"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "D.9.2"
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "B Mehanika"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": "E.9.1",
+      "opis": "E.9.2"
+    },
+    {
+      "oznaka": "E.9.1",
+      "opis": "E.9.2"
+    },
+    {
+      "oznaka": "E.9.3",
+      "opis": "A Priroda fizike i naučni metod"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "A.9.2"
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "D"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Analizira razvoj ideja o elektricitetu, te objašnjava procese naelektrisavanja i razelektrisavanja tijela."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Istražuje međudjelovanje naboja i ponašanje tijela u električnom polju."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "FIZ-3.1.1 FIZ-3.1.2"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Objašnjava pojavu i efekte protjecanja električne struje u čvrstim tijelima, tečnostima i gasovima."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Sastavlja i analizira kolo istosmjerne struje."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "Prikuplja i kritički procjenjuje informacije o kolima istosmjerne struje u autentičnim kontekstima."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-3.2.2 FIZ-3.2.2"
+    },
+    {
+      "oznaka": "D.9.1",
+      "opis": "Istražuje magnetno svojstvo tvari i karakteristike magnetskog polja."
+    },
+    {
+      "oznaka": "D.9.2",
+      "opis": "Primjenjuje znanje o magnetnom međudjelovanju u raznovrsnim kontekstima."
+    },
+    {
+      "oznaka": "D.9.3",
+      "opis": "Istražuje pojavu elektromagnetne indukcije i kritički procjenjuje mogućnosti njene primjene u praksi."
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "FIZ-3.3.2 FIZ-3.3.3"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Analizira oscilatorno i talasno kretanje."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "Objašnjava svojstva zvuka i kritički procjenjuje mogućnosti primjene zvučnih talasa u praksi."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "FIZ-4.1.2"
+    },
+    {
+      "oznaka": "E.9.1",
+      "opis": "Analizira razvoj ideja o pojmu svjetlosti i objašnjava viđenje predmeta različitih boja."
+    },
+    {
+      "oznaka": "E.9.2",
+      "opis": "Primjenjuje zakone geometrijske optike i procjenjuje njihov praktični značaj."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "FIZ-4.2.2"
+    },
+    {
+      "oznaka": "E.9.1",
+      "opis": "Tumači različite modele atoma."
+    },
+    {
+      "oznaka": "E.9.2",
+      "opis": "Analizira jednostavne nuklearne procese i kritički procjenjuje posljedice razvoja nuklearne fizike."
+    },
+    {
+      "oznaka": "E.9.3",
+      "opis": "Diskutuje o modelu nastanka i evolucije Svemira, te opisuje sastav i strukturu Svemira."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "FIZ-4.3.3 FIZ-5.1.1 FIZ-4.3.3 FIZ-4.4.1 FIZ-4.4.2"
+    },
+    {
+      "oznaka": "A.9.1",
+      "opis": "Primjenjuje eksperimentalni metod u kontekstu fizike."
+    },
+    {
+      "oznaka": "A.9.2",
+      "opis": "Primjenjuje matematički metod u kontekstu fizike."
+    },
+    {
+      "oznaka": "A.9.3",
+      "opis": "Primjenjuje komunikacijske vještine u kontekstu fizike."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-5.2.3 FIZ-5.2.1 FIZ-5.2.2 FIZ-5.1.1 FIZ-5.2.3 FIZ-5.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "FIZ-5.1.2 FIZ-5.2.1 FIZ-5.2.2 FIZ-5.2.3"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-1.2.2 FIZ-1.2.2"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "FIZ-1.2.2 FIZ-1.3.1 FIZ-1.3.3"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "FIZ-1.3.1 FIZ-1.3.2 FIZ-1.3.6"
+    },
+    {
+      "oznaka": ".3.4",
+      "opis": "FIZ-1.3.5 FIZ-1.3.5"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-5.2.3 FIZ-5.2.1 FIZ-5.2.2 FIZ-5.1.1 FIZ-5.2.3 FIZ-5.3.2"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "FIZ-1.4.2 FIZ-1.4.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "FIZ-4.1.2 FIZ-4.1.1 FIZ-4.1.2 FIZ-4.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "FIZ-2.1.2 FIZ-2.2.1 FIZ-2.1.2 FIZ-2.2.1 FIZ-2.1.2 FIZ-2.2.1 FIZ-2.2.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-2.2.2 FIZ-2.1.2 FIZ-2.2.1 FIZ-2.2.2 FIZ-2.2.1 FIZ-2.2.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-5.2.3 FIZ-5.2.1 FIZ-5.2.2 FIZ-5.1.1 FIZ-5.2.3 FIZ-5.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "FIZ-3.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-3.2.2"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "FIZ-3.3.2 FIZ-3.3.3"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Analizira konceptualne razlike između istosmjerne i naizmjenične struje, uključujući i mehanizme njihovog dobijanja."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-5.2.3 FIZ-5.2.1 FIZ-5.2.2 FIZ-5.1.1 FIZ-5.2.3 FIZ-5.3.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-4.2.2 FIZ-4.2.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "FIZ-4.2.2"
+    },
+    {
+      "oznaka": ".2.3",
+      "opis": "FIZ-4.2.3"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "FIZ-4.3.1"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "FIZ-4.3.3 FIZ-4.3.3"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "FIZ-4.4.2 FIZ-4.4.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "FIZ-5.2.3 FIZ-5.2.1 FIZ-5.2.2 FIZ-5.1.1 FIZ-5.2.3 FIZ-5.3.2"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Priroda i podjela  fizike",
+    "priroda",
+    "materija",
+    "tvar",
+    "tijelo",
+    "fizički sistem",
+    "fizičko polje i pojave",
+    "metode fizike - teorija",
+    "eksperiment",
+    "primjena fizike - poveznice sa društvom i tehnologijom."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Specifičnost tematske cjeline Upoznajemo svijet fizike ogleda se u tome da kroz nju  započinjemo formalno učenje fizike. Zbog toga je bitno unutar ove cjeline početi razvijanje prikladnih stavova o prirodi fizike i prirodi učenja fizike. Prije svega treba ukazati na činjenicu da je današnja fizika plod predanog rada velikog broja generacija naučnika, te da se naučna slika svijeta kontinuirano unapređuje. Osim toga, potrebno je skrenuti pažnju da je fizikalno znanje umreženo, te da je prilikom učenja fizike jako bitno kreirati poveznice između pojmova. Znanje fizike čine sadržaji (produkti rada fizičara) i procesi (aktivnosti posredstvom kojih se došlo do produkata), te je u okviru nastave Fizike podjednako bitno uvažiti obje ove dimenzije znanja.",
+      "Naročitu pažnju treba posvetiti procesima fizikalnog spoznavanja prirode. Korištenjem zornih primjera potrebno je ilustrirati nadmoć naučnog metoda u odnosu na  obrasce ponašanja koje smo naučili koristiti u svakodnevnici. Ipak, treba istovremeno ukazati da intuitivno znanje o fizikalnim pojavama koje se razvija kroz svakodnevni život predstavlja dobru osnovu za dalje učenje fizike. Kod učenja o metodama fizike potrebno je istaknuti da ne postoji algoritam za spoznavanje prirode, ali je moguće raspoznati okvirnu strategiju u kojoj se isprepliću logika i mašta naučnika (prikupljanje informacija, postavljanje model-hipoteze, izvođenje posljedica iz modela, eksperiment). Pokazuje se da je učenje o prirodi i metodama fizike naročito efektivno ukoliko je potkrijepljeno zornim primjerima iz historije fizike i istraživačkim radom.",
+      "Kompetencije razvijene unutar ove tematske cjeline potrebno je primjenjivati i nadograđivati tokom cjelokupnog obrazovanja iz fizike.",
+      "2."
+    ],
+    "medjupredmetne_korelacije": [
+      "Potrebno je ukazati kako različite nauke, svaka iz svoje perspektive, može doprinijeti razvoju čovječanstva i unapređivanju kvaliteta življenja svakog pojedinca. Također je korisno prodiskutovati sličnosti i razlike u istraživačkim pristupima između prirodnih i humanističkih nauka, ali i odnos između pojedinih prirodnih nauka (npr. po pitanju predmeta i metoda istraživanja). Moguće je ostvariti i poveznicu sa Historijom, u smislu razvoja slike svijeta kroz različite epohe.",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Treb"
+    ]
+  }
+}

@@ -1,0 +1,1141 @@
+{
+  "predmet": "Matematika",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "1"
+  },
+  "tematske_cjeline": [
+    "C Geometrija i mjerenja",
+    "A Skupovi, brojevi i operacije",
+    "B Algebra",
+    "B Algebra",
+    "C Geometrija i mjerenja",
+    "B Algebra",
+    "C Geometrija i mjerenja",
+    "A Skupovi, brojevi i operacije",
+    "B Algebra",
+    "C Geometrija i mjerenja",
+    "B Algebra",
+    "C Geometrija i mjerenja",
+    "B Algebra",
+    "A Skupovi, brojevi i operacije",
+    "B Algebra",
+    "B Algebra",
+    "B Algebra",
+    "B Algebra",
+    "B Algebra",
+    "B Algebra",
+    "C Geometrija i mjerenja",
+    "B Algebra",
+    "B Algebra",
+    "D Podaci i vjerovatnoća",
+    "B Algebra",
+    "B Algebra",
+    "B Algebra",
+    "A Skupovi, brojevi i operacije, B: Algebra, D: Podaci i vjerovatnoća",
+    "B Algebra",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "A Skupovi, brojevi i operacije, B: Algebra, D: Podaci i vjerovatnoća",
+    "B Algebra, D: Podaci i vjerovatnoća",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "A Skupovi, brojevi i operacije, B: Algebra, D: Podaci i vjerovatnoća",
+    "B Algebra",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "C Geometrija i mjerenja, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "A Skupovi, brojevi i operacije, B: Algebra, D: Podaci i vjerovatnoća",
+    "B Algebra, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja",
+    "A Skupovi, brojevi i operacije, B: Algebra, C: Geometrija i mjerenja",
+    "B Algebra, D: Podaci i vjerovatnoća",
+    "D Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra, C: Geometrija i mjerenja",
+    "A Skupovi, brojevi i operacije, B: Algebra, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "B Algebra, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "A Skupovi, brojevi i operacije, B. Algebra",
+    "A Skupovi, brojevi i operacije, B. Algebra",
+    "B Algebra",
+    "B Algebra, C. Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B. Algebra",
+    "B Algebra, C: Geometrija i mjerenja",
+    "C Geometrija i mjerenja",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "B Algebra, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra",
+    "C Geometrija i mjerenja",
+    "D Podaci i vjerovatnoća",
+    "B Algebra, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "A Skupovi, brojevi i operacije, B: Algebra, D: Podaci i vjerovatnoća",
+    "B Algebra",
+    "B Algebra, C: Geometrija i mjerenja",
+    "C Geometrija i mjerenja, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "B Algebra, C: Geometrija i mjerenja",
+    "C Geometrija i mjerenja",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "B Algebra, D: Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra, C: Geometrija i mjerenja",
+    "B Algebra",
+    "C Geometrija i mjerenja",
+    "D Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B: Algebra, D: Podaci i vjerovatnoća",
+    "A A Skupovi, brojevi i operacije, B Algebra, C Geometrija i mjerenja",
+    "A Skupovi, brojevi i operacije, B Algebra, C Geometrija i mjerenja",
+    "B A Skupovi, brojevi i operacije, B Algebra",
+    "B B Algebra, D Podaci i vjerovatnoća",
+    "A A Skupovi, brojevi i operacije, B Algebra",
+    "B B Algebra, C Geometrija i mjerenja",
+    "D Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B Algebra",
+    "B Algebra, D Podaci i vjerovatnoća",
+    "A Skupovi, brojevi i operacije, B Algebra A.II.1",
+    "B Algebra, C Geometrija i mjerenja"
+  ],
+  "ishodi": [
+    {
+      "oznaka": ".1.1",
+      "opis": ".1.2"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "B: Algebra. C: Geometrija i mjerenja"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ".1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": ".1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Razlikuje svojstva i odnose skupova u različitim formama prikazivanja i primjenjuje ih prilikom rješavanja problemskih situacija."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Koristi simbole i različite prikaze, te primjenjuje svojstva  operacija prema kontekstu problema."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Primjenjuje zakonitosti, odnose, zavisnosti, veze i funkcije u matematici i realnom svijetu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-1.1.2 MTP-2.1.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Razlikuje predmete i odnose među njima."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Razlikuje konvencionalne mjere i mjerne instrumente."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Razlikuje prostorne i ravanske geometrijske oblike."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Identifikuje svojstva i odnose geometrijskih elemenata."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.1.3"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ".2.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "B: Algebra. C: Geometrija i mjerenja"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": ".2.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Objašnjava svojstva i odnose brojeva, te koristi simbole i različite prikaze."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Bira i kombinuje strategije i operacije za rješavanje problema."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Kombinuje mjerne jedinice, mjerne instrumente  u procesima mjerenja."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Imenuje jedinice za dužinu, masu, zapreminu tečnosti, vrijeme i novac"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Koristi svojstva i odnose geometrijskih elemenata uz različite prikaze."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Povezuje geometrijske osobine raznih figura."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.1.2"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": ".3.2"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "C: Geometrija i mjerenja"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "A: Skupovi, brojevi i operacije. B: Algebra. D: Podaci i vjerovatnoća"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "Koristi simbole i različite prikaze."
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "Bira i kombinuje strategije i operacije za rješavanje problema."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "Razlikuje mjerljiva obilježja objekata i pojava, te koristi mjerne instrumente i mjerne jedinice."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Koristi mjerne jedinice"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "Razlikuje svojstva geometrijskih elemenata."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Crta geometrijske figure"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": ".4.2"
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": ".4.4"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": ".4.2"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": ".4.2"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "A: Skupovi, brojevi i operacije. B: Algebra. D: Podaci i vjerovatnoća"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "Identifikuje svojstva i odnose brojeva do 100 000."
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "Bira i kombinuje strategije i operacije za rješavanje problema."
+    },
+    {
+      "oznaka": ".4.3",
+      "opis": "Razvija matematičke pretpostavke i logički zaključuje."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1 MTP-2.3.2"
+    },
+    {
+      "oznaka": ".4.4",
+      "opis": "Određuje razlomke kao dio jednog cijelog ili više cijelih."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Prikazuje razlomke koristeći riječi, cifre i modele"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "Razlikuje mjerljiva obilježja objekata, te koristi mjerne instrumente i mjerne jedinice u procesu mjerenja."
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "Rješava probleme koji uključuju mjerne jedinice."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-3.2.2"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "Povezuje svojstva i odnose geometrijskih elemenata, te ih predstavlja grafički."
+    },
+    {
+      "oznaka": ".4.2",
+      "opis": "Obrazlaže matematičke argumente o geometrijskim odnosima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.1.2"
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "Koristi raznovrsne podatke u rješavanju problema."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Čita i interpretira podatke iz tabele, piktograma, histograma, linijskih grafikona i kružnih dijagrama"
+    },
+    {
+      "oznaka": ".5.1",
+      "opis": ".5.2"
+    },
+    {
+      "oznaka": ".5.3",
+      "opis": ".5.4"
+    },
+    {
+      "oznaka": ".5.5",
+      "opis": "C: Geometrija i mjerenja"
+    },
+    {
+      "oznaka": ".5.1",
+      "opis": "A: Skupovi, brojevi i operacije. B: Algebra. C: Geometrija i mjerenja"
+    },
+    {
+      "oznaka": ".5.1",
+      "opis": ".5.2"
+    },
+    {
+      "oznaka": ".5.1",
+      "opis": "Analizira svojstva i odnose brojeva i brojevnih sistema uz korištenje simbola."
+    },
+    {
+      "oznaka": ".5.2",
+      "opis": "Bira i kombinuje različite operacije za rješavanje problemskih zadataka."
+    },
+    {
+      "oznaka": ".5.3",
+      "opis": "Procjenjuje tačnost i opravdanost izabranih metoda kroz diskusiju o krajnjem rješenju."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1 MTP-1.2.2"
+    },
+    {
+      "oznaka": ".5.4",
+      "opis": "Primjenjuje jednačine i nejednačine pri rješavanju problemskih situacija."
+    },
+    {
+      "oznaka": ".5.5",
+      "opis": "Analizira podatke za određene probleme."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-4.1.2"
+    },
+    {
+      "oznaka": ".5.1",
+      "opis": "Analizira vrste trouglova i četverouglova."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Razlikuje elemente trouglova"
+    },
+    {
+      "oznaka": ".5.1",
+      "opis": "Razlikuje mjerljiva obilježja dvodimenzionalnih i trodimenzionalnih geometrijskih figura."
+    },
+    {
+      "oznaka": ".5.2",
+      "opis": "Vrši mjerenja i određuje vrijednost obima, površine i zapremine."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.2.1"
+    },
+    {
+      "oznaka": ".6.1",
+      "opis": ".6.2"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "A: Skupovi, brojevi i operacije. B: Algebra"
+    },
+    {
+      "oznaka": ".6.1",
+      "opis": ".6.2"
+    },
+    {
+      "oznaka": ".6.1",
+      "opis": ".6.2"
+    },
+    {
+      "oznaka": ".6.3",
+      "opis": "A: Skupovi, brojevi i operacije. D: Podaci i vjerovatnoća"
+    },
+    {
+      "oznaka": ".6.1",
+      "opis": "Upotrebljava svojstva i odnose skupova u različitim formama prikazivanja i primjenjuje ih prilikom rješavanja problemskih zadataka."
+    },
+    {
+      "oznaka": ".6.2",
+      "opis": "Analizira podatke prikupljene iz različitih izvora, te ih predstavlja u različitim formama."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-4.1.1"
+    },
+    {
+      "oznaka": "C.6.1",
+      "opis": "Povezuje svojstva i odnose kružnice, kruga i uglova."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Predstavlja uglove, kružnicu i krug u ravni koristeći matematičke simbole."
+    },
+    {
+      "oznaka": ".6.1",
+      "opis": "Bira i kombinuje strategije i operacije za rješavanje problema i daje rješenja u kontekstu problema."
+    },
+    {
+      "oznaka": ".6.2",
+      "opis": "Zaključuje logički i primjenjuje matematički dokaz kao ključne matematičke aspekte."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-2.3.2"
+    },
+    {
+      "oznaka": ".6.1",
+      "opis": "Primjenjuje svojstva pozitivnih razlomaka i decimalnih brojeva."
+    },
+    {
+      "oznaka": ".6.2",
+      "opis": "Primjenjuje operacije i njihove zakonitosti za rješavanje brojevnih izraza."
+    },
+    {
+      "oznaka": ".6.3",
+      "opis": "Sastavlja jednačine i nejednačine pri rješavanju problema u skupu Q+"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-2.1.1 MTP-2.2.1"
+    },
+    {
+      "oznaka": ".7.1",
+      "opis": ".7.2"
+    },
+    {
+      "oznaka": ".7.3",
+      "opis": "A: Skupovi, brojevi i operacije. B: Algebra. D: Podaci i vjerovatnoća"
+    },
+    {
+      "oznaka": ".7.1",
+      "opis": ".7.2"
+    },
+    {
+      "oznaka": ".7.3",
+      "opis": "A: Skupovi, brojevi i operacije. B: Algebra. C: Geometrija i mjerenja"
+    },
+    {
+      "oznaka": ".7.1",
+      "opis": ".7.2"
+    },
+    {
+      "oznaka": ".7.3",
+      "opis": "A: Skupovi, brojevi i operacije. B: Algebra. D: Podaci i vjerovatnoća"
+    },
+    {
+      "oznaka": ".7.1",
+      "opis": "Analizira svojstva i odnose brojeva u skupu Z."
+    },
+    {
+      "oznaka": ".7.2",
+      "opis": "Kombinuje metode i operacije pri rješavanju problema u skupu Z."
+    },
+    {
+      "oznaka": ".7.3",
+      "opis": "Sastavlja linearne jednačine i nejednačine pri rješavanju problema u skupu Z."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1 MTP-2.2.1"
+    },
+    {
+      "oznaka": ".7.1",
+      "opis": "Analizira svojstva i odnose brojeva u skupu Q."
+    },
+    {
+      "oznaka": ".7.2",
+      "opis": "Kombinuje metode i operacije pri rješavanju problema u skupu Q."
+    },
+    {
+      "oznaka": ".7.3",
+      "opis": "Sastavlja linearne jednačine i nejednačine pri rješavanju problema u skupu Q."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1 MTP-2.2.1"
+    },
+    {
+      "oznaka": ".7.1",
+      "opis": "Analizira svojstva i odnose geometrijskih elemenata, te koristi simbole i različite prikaze."
+    },
+    {
+      "oznaka": ".7.2",
+      "opis": "Kombinuje matematičke argumente o geometrijskim odnosima."
+    },
+    {
+      "oznaka": ".7.3",
+      "opis": "Primjenjuje svojstva  mnogouglova."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.1.2 MTP-3.1.3"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "A.8.2"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "B Algebra"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "C Geometrija i mjerenja"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "C.8.2"
+    },
+    {
+      "oznaka": ".8.1",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.8.1",
+      "opis": "Analizira svojstva i odnose brojeva u skupu R."
+    },
+    {
+      "oznaka": "A.8.2",
+      "opis": "Bira i kombinuje metode i operacije pri rješavanju problema u skupu R."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Analizira svojstva linearne funkcije i prikazuje je u koordinatnom sistemu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Određuje položaj i udaljenost tačaka kao i položaj prave u koordinatnom sistemu"
+    },
+    {
+      "oznaka": "B.8.1",
+      "opis": "Primjenjuje matematičke modele za predstavljanje i tumačenje proporcionalnosti i procentnog računa."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Primjenjuje funkciju direktne i obrnute proporcionalnosti"
+    },
+    {
+      "oznaka": "C.8.1",
+      "opis": "Analizira svojstva geometrijskih likova i tijela."
+    },
+    {
+      "oznaka": "C.8.2",
+      "opis": "Analizira mjerljiva obilježja objekata i mjerne jedinice u procesima mjerenja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.2.1"
+    },
+    {
+      "oznaka": ".8.1",
+      "opis": "Iznosi procjene na osnovu prikupljenih podataka u kontekstu problemskog pitanja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Povezuje podatke koji opisuju problemsku situaciju"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "B.9.2"
+    },
+    {
+      "oznaka": ".9.1",
+      "opis": ".9.2"
+    },
+    {
+      "oznaka": ".9.3",
+      "opis": "A: Skupovi, brojevi i operacije. B: Algebra"
+    },
+    {
+      "oznaka": ".9.1",
+      "opis": "C Geometrija i mjerenja"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "C.9.2"
+    },
+    {
+      "oznaka": "B.9.1",
+      "opis": "Argumentuje postupke za rješavanje linearnih jednačina, linearnih nejednačina i Sistema."
+    },
+    {
+      "oznaka": "B.9.2",
+      "opis": "Diskutuje o rješenjima linearnih jednačina i nejednačina i sistema linearnih jednačina i nejednačina."
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "MTP-2.2.3"
+    },
+    {
+      "oznaka": ".9.1",
+      "opis": "Analizira i prikazuje matematičke situacije upotrebom algebarskih simbola."
+    },
+    {
+      "oznaka": ".9.2",
+      "opis": "Analizira zakonitosti i prikazuje matematičke situacije i strukture upotrebom algebarskih simbola."
+    },
+    {
+      "oznaka": ".9.3",
+      "opis": "Prikuplja i obrađuje podatke iz različitih izvora."
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-2.1.1 MTP-4.1.1"
+    },
+    {
+      "oznaka": ".9.1",
+      "opis": "Primjenjuje kongruencije"
+    },
+    {
+      "oznaka": "C.9.1",
+      "opis": "Analizira svojstva geometrijskih likova i tijela."
+    },
+    {
+      "oznaka": "C.9.2",
+      "opis": "Analizira mjerljiva obilježja objekata i mjerne jedinice u procesima mjerenja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Koristi osnovne elemente Booleove algebre"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Koristi stepene sa cjelobrojnim eksponentom"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.1.2 MTP-3.1.4"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Primjenjuje operacije sa stepenima i korijenima"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-4.1.1"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Objašnjava vezu između trigonometrijskih funkcija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.1.2 MTP-2.2.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Predstavlja jednačinu prave u raznim oblicima"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Primjenjuje skalarni, vektorski i mješoviti proizvod vektora"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Povezuje  koeficijente sistema linearnih jednačina sa više nepoznatih u novi model - matrice"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-3.1.2"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "MTP-2.1.1"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "Rješava problemske situacije primjenom odgovarajućih strategija iz kombinatorike"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-4.1.1 MTP-4.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Povezuje eksperimentalne podatke i teorijske vjerovatnoće"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Tumači odnose između članova nizova realnih brojeva"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Ispituje svojstva realne funkcije jedne realne promjenljive"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "MTP-2.1.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-1.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Koristi stepene sa cjelobrojnim eksponentom"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Analizira odnose između elementarnih geometrijskihpojmova"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Definiše i primjenjuje trigonometrijske funkcije u pravouglom trouglu"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Koristi različite metode za rješavanje linearnih jednačina sajednom nepoznatom"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Formuliše operacije sa stepenima i korijenima"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Analizira povezanost realnih i kompleksnih brojeva"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Rješava kvadratne jednačine i nejednačine"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Analizira svojstva trigonometrijskih funkcija"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Predstavlja jednačinu prave u raznim oblicima"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Koristi osnovne elemente Booleove algebre"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Upoređuje skupove N, Z, Q, I i R i njihovu međusobnupovezanost"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "Koristi stepene sa cjelobrojnim eksponentom"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.1.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.1.1 MTP-2.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-2.2.2 MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "MTP-3.1.4"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Formuliše operacije sa stepenima, korijenima i logaritmima"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-4.1.1"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-2.2.2 MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.1.2 MTP-2.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-2.2.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Predstavlja jednačinu prave u raznim oblicima"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-3.1.3"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "Rješava probleme koristeći odgovarajuću strategiju iz kombinatorike"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-4.1.2 MTP-4.1.2 MTP-4.2.1"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-4.2.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-2.1.1"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-1.2.1"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "MTP-2.1.4"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.1.3"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-2.1.3"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "MTP-2.1.4 MTP-1.2.1"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "MTP-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.2.3 MTP-2.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-1.1.2 MTP-1.2.1 MTP-1.1.1 MTP-2.1.1 MTP-4.1.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izvodi operacije sa polinomima čiji su koeficijenti realni brojevi"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "MTP-3.1.1 MTP-2.3.2 MTP-3.1.2 MTP-3.1.4"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.1.3 MTP-4.1.1"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "MTP-2.1.1 MTP-2.2.2 MTP-1.2.1 MTP-2.1.4 MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.3.2 MTP-3.1.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-3.1.4 MTP-3.1.2 MTP-3.1.4 MTP-3.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-1.2.1 MTP-2.1.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-1.1.2 MTP-2.1.2 MTP-1.2.1 MTP-2.1.2 MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.1.3 MTP-4.1.2 MTP-2.1.1 MTP-4.1.1 MTP-4.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-1.2.2 MTP-2.2.2 MTP-1.2.1 MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.2.1 MTP-3.2.1 MTP-2.1.1 MTP-2.1.2 MTP-2.2.2 MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-2.2.3 MTP-3.1.1 MTP-2.1.2 MTP-3.1.2 MTP-3.1.3"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-3.1.1 MTP-3.1.2"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-2.1.3 MTP-2.2.2"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "MTP-3.2.1 MTP-3.1.2 MTP-3.1.3 MTP-3.2.1"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-2.3.1 MTP-2.3.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "MTP-2.1.3 MTP-4.2.2 MTP-2.1.1 MTP-2.3.2 MTP-4.2.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-4.1.1 MTP-4.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Povezuje eksperimentalne podatke i teorijske vjerovatnoće"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-2.1.3 MTP-3.2.1 MTP-1.2.1 MTP-1.2.2 MTP-2.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-1.2.2 MTP-2.1.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.1.2 MTP-4.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-2.1.2 MTP-2.1.3 MTP-1.2.1 MTP-1.2.2 MTP-2.1.3"
+    },
+    {
+      "oznaka": ".3.1",
+      "opis": "MTP-2.3.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.2.3 MTP-2.3.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-1.1.2 MTP-1.2.1 MTP-1.1.1 MTP-2.1.1 MTP-4.1.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Izvodi operacije sa polinomima čiji su koeficijenti realni brojevi"
+    },
+    {
+      "oznaka": ".3.2",
+      "opis": "MTP-3.1.1 MTP-2.3.2 MTP-3.1.2 MTP-3.1.4"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-4.1.1 UMP-2.1.3"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "MTP-2.1.1 MTP-2.2.2 MTP-1.2.1 MTP-2.1.4 MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.3.2 MTP-3.1.1"
+    },
+    {
+      "oznaka": ".1.4",
+      "opis": "UMP-3.1.1 MTP-3.1.2 MTP-3.1.4 MTP-3.2.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-1.2.1 MTP-2.1.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-1.1.2 MTP-2.1.2 MTP-1.2.1 MTP-2.1.2 MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.1.3 MTP-4.1.2 MTP-2.1.1 MTP-4.1.1 MTP-4.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-1.2.2 MTP-2.2.2 MTP-1.2.1 MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.2.1 MTP-3.2.1 MTP-2.1.1 MTP-2.1.2 MTP-2.2.2 MTP-2.2.3"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-2.2.3 MTP-3.1.1"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-3.1.1 MTP-3.1.2"
+    },
+    {
+      "oznaka": ".1.2",
+      "opis": "MTP-2.1.3 MTP-2.2.2"
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "MTP-3.2.1 MTP-3.1.2 MTP-3.1.3 MTP-3.2.1"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-2.3.1 MTP-2.3.2"
+    },
+    {
+      "oznaka": ".2.2",
+      "opis": "MTP-2.1.3 MTP-4.2.2 MTP-2.1.1 MTP-2.3.2 MTP-4.2.2"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-4.1.1 MTP-4.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "Povezuje eksperimentalne podatke i teorijske vjerovatnoće"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-1.2.2 MTP-2.1.1"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "MTP-2.1.2 MTP-4.1.2"
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "MTP-2.1.2 MTP-2.1.3 MTP-1.2.1 MTP-1.2.2 MTP-2.1.3"
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "Analizira rezultate istraživanja."
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Skupovi i njihovi elementi; Jednakobrojni skupovi; Brojnost skupa; Brojevi do 10 uključujući i 0; Brojevna linija; Relacije među brojevima; Sabiranje i oduzimanje brojeva do 10; Veza sabiranja i oduzimanja; Znaci: +",
+    "-",
+    "=",
+    ">",
+    "<",
+    "≠; Redni brojevi do 10."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "Postupci brojanja, pravilnog čitanja, pisanja ciframa i brojevnom riječi, upoređivanja i prikazivanja brojeva, usvajaju se na konkretnim materijalima kako bi se pravilno oblikovao koncept broja. Nakon skupovnog pristupa, koristiti brojevni. Na brojevnoj liniji upoznati pojmove prethodnik i sljedbenik. Isticati razlike u zapisima glavnog i rednog broja. Osvještavati"
+    ],
+    "medjupredmetne_korelacije": [
+      "Bosanski jezik i književnost, Hrvatski jezik i književnost, Srpski jezik i književnost (npr. pravilno čitanje i zapisivanje brojevnih riječi); Moja okolina (npr. opis pojava iz okruženja uz upotrebu brojevnih riječi i prebrojavanja); Tjelesni i zdravstveni odgoj (npr. tabelarni prikaz podataka); Likovna kultura (npr. tačka, linija, površ-vizuelno razlikovanje i izražavanje različitim bojama)",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      "Sadržaj"
+    ]
+  }
+}

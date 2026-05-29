@@ -1,0 +1,548 @@
+{
+  "predmet": "Moja okolina",
+  "razred_info": {
+    "nivo": "Osnovno",
+    "razred": "1"
+  },
+  "tematske_cjeline": [
+    "A Zemlja-prostor življenja",
+    "B Priroda oko nas",
+    "C Nauka oko nas",
+    "A Zemlja-prostor življenja",
+    "B Priroda oko nas",
+    "C Nauka oko nas",
+    "A Zemlja-prostor življenja",
+    "B Priroda oko nas",
+    "C Nauka oko nas",
+    "A Zemlja-prostor življenja",
+    "B Priroda oko nas",
+    "C Nauka oko nas"
+  ],
+  "ishodi": [
+    {
+      "oznaka": "A.1.1",
+      "opis": "A.1.2"
+    },
+    {
+      "oznaka": "A.1.3",
+      "opis": "A.1.4"
+    },
+    {
+      "oznaka": "A.1.5",
+      "opis": "A.1.6"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "B.1.2"
+    },
+    {
+      "oznaka": "B.1.3",
+      "opis": "C Nauka oko nas"
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": "C.1.2"
+    },
+    {
+      "oznaka": "C.1.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.1.1",
+      "opis": "Prepoznaje organizaciju života i rada u školi i porodici."
+    },
+    {
+      "oznaka": "A.1.2",
+      "opis": "Opisuje prirodno-geografska i društveno-geografska obilježja neposrednog okruženja."
+    },
+    {
+      "oznaka": "A.1.3",
+      "opis": "Objasni važnost održavanja higijene prostora i brige o zdravlju."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "DHP-4.3.1 PNP-1.1.2 GEO-2.1.2 GEO-2.2.1 BIO-1.3.3 BIO-1.3.4"
+    },
+    {
+      "oznaka": "A.1.4",
+      "opis": "Opisuje prostor za sigurno kretanje učenika u saobraćaju na putu od kuće do škole."
+    },
+    {
+      "oznaka": "A.1.5",
+      "opis": "Koristi se različitim načinima snalaženja u vremenu i prostoru."
+    },
+    {
+      "oznaka": "A.1.6",
+      "opis": "Opisuje vremenske promjene, promjene na biljkama i životinjama, te promjene u djelatnosti ljudi u određenom godišnjem dobu."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "PNP-1.3.3 GEO-2.2.4 PNP-1.1.1 PNP-1.2.1 GEO-1.3.2 PNP-1.2.3 BIO-1.2.5 BIO-1.4.4"
+    },
+    {
+      "oznaka": "B.1.1",
+      "opis": "Objašnjava sličnosti i razlike između biljaka, između životinja i njihove međusobne sličnosti i  razlike."
+    },
+    {
+      "oznaka": "B.1.2",
+      "opis": "Grupiše biljke i životinje neposrednog okruženja."
+    },
+    {
+      "oznaka": "B.1.3",
+      "opis": "Povezuje zdravlje čovjeka sa higijenom, ishranom i tjelesnom aktivnošću."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-1.1.3 BIO-1.1.3 BIO-4.1.2 BIO-4.3.1 BIO-4.4.3"
+    },
+    {
+      "oznaka": "C.1.1",
+      "opis": "Opisuje sličnosti i razlike predmeta na temelju fizičkih osobina."
+    },
+    {
+      "oznaka": "C.1.2",
+      "opis": "Opisuje kretanja tijela u neposrednom okruženju."
+    },
+    {
+      "oznaka": "C.1.3",
+      "opis": "Istražuje osobine predmeta i kretanje tijela."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "HEM-2.1.3 FIZ-1.2.2 HEM-3.1.1"
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "A.2.2"
+    },
+    {
+      "oznaka": "A.2.3",
+      "opis": "A.2.4"
+    },
+    {
+      "oznaka": "A.2.5",
+      "opis": "A.2.6"
+    },
+    {
+      "oznaka": "B.2.1",
+      "opis": "B.2.2"
+    },
+    {
+      "oznaka": "B.2.3",
+      "opis": "B.2.4"
+    },
+    {
+      "oznaka": "B.2.5",
+      "opis": "C Nauka oko nas"
+    },
+    {
+      "oznaka": "C.2.1",
+      "opis": "C.2.2"
+    },
+    {
+      "oznaka": "C.2.3",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.2.1",
+      "opis": "Opisuje organizaciju života i rada u školi i porodici."
+    },
+    {
+      "oznaka": "A.2.2",
+      "opis": "Opisuje prirodno-geografska i društveno-geografska obilježja prostora u kojem živi."
+    },
+    {
+      "oznaka": "A.2.3",
+      "opis": "Povezuje važnost održavanja higijene prostora za  zdravlje čovjeka, održivi razvoj, te demonstrira građanski aktivizam."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "DHP-1.1.2 DHP-3.2.1 PNP-1.1.2 GEO-1.1.1 GEO-2.2.1 PNP-1.3.2 BIO-1.3.4 DHP-3.2.1"
+    },
+    {
+      "oznaka": "A.2.4",
+      "opis": "Primjenjuje saobraćajna pravila za pješake u saobraćaju."
+    },
+    {
+      "oznaka": "A.2.5",
+      "opis": "Koristi se različitim načinima snalaženja u vremenu i prostoru."
+    },
+    {
+      "oznaka": "A.2.6",
+      "opis": "Zaključuje o utjecaju vremenskih promjena na biljke, životinje i djelatnosti ljudi u neposrednom okruženju kroz godišnja doba."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "PNP-1.3.3 GEO-2.2.4 PNP-1.1.1 GEO-1.3.2 BIO-1.2.5 BIO-1.4.4 GEO-1.2.3"
+    },
+    {
+      "oznaka": "B.2.1",
+      "opis": "Opisuje obilježja žive i nežive prirode."
+    },
+    {
+      "oznaka": "B.2.2",
+      "opis": "Opisuje biljke i životinje u okruženju."
+    },
+    {
+      "oznaka": "B.2.3",
+      "opis": "Opisuje određene dijelove tijela živih bića u svrhu razlikovanja uloga."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-1.1.2 BIO-1.1.3 BIO-1.3.2 BIO-2.1.1"
+    },
+    {
+      "oznaka": "B.2.4",
+      "opis": "Objašnjava povezanost živih bića i okoline, te prepoznaje načine prilagođavanja."
+    },
+    {
+      "oznaka": "B.2.5",
+      "opis": "Objašnjava povezanost zdravlja čovjeka sa ishranom, tjelesnom aktivnošću  i higijenom."
+    },
+    {
+      "oznaka": ".2.1",
+      "opis": "BIO-1.2.2 BIO-1.4.4 BIO-4.1.2 BIO-4.3.1 BIO-4.4.3"
+    },
+    {
+      "oznaka": "C.2.1",
+      "opis": "Povezuje osobinu materijala sa  upotrebom."
+    },
+    {
+      "oznaka": "C.2.2",
+      "opis": "Opisuje različite izvore, oblike,  štednju i važnost  energije."
+    },
+    {
+      "oznaka": "C.2.3",
+      "opis": "Predstavlja rezultate opažanja prirode."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "HEM-3.1.1 PNP-3.2.1 HEM-3.3.1 BIO-3.2.2 PNP-3.4.1"
+    },
+    {
+      "oznaka": "A.3.1",
+      "opis": "A.3.2"
+    },
+    {
+      "oznaka": "A.3.3",
+      "opis": "A.3.4"
+    },
+    {
+      "oznaka": "A.3.5",
+      "opis": "A.3.6"
+    },
+    {
+      "oznaka": "A.3.7",
+      "opis": "B Priroda oko nas"
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": "B.3.2"
+    },
+    {
+      "oznaka": "B.3.3",
+      "opis": "B.3.4"
+    },
+    {
+      "oznaka": "B.3.5",
+      "opis": "B.3.6"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": "C.3.2"
+    },
+    {
+      "oznaka": "C.3.3",
+      "opis": "C.3.4"
+    },
+    {
+      "oznaka": "A.3.1",
+      "opis": "Opisuje prirodno-geografska obilježja užeg zavičaja."
+    },
+    {
+      "oznaka": "A.3.2",
+      "opis": "Objašnjava povezanost života i rada ljudi u užem zavičaju kao kulturnoj, društvenoj i privrednoj cjelini."
+    },
+    {
+      "oznaka": "A.3.3",
+      "opis": "Objašnjava karakteristike saobraćaja i značaj saobraćajne povezanosti užeg zavičaja."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "PNP-1.4.1 GEO-1.1.1 PNP-1.3.1 GEO-2.2.1 DHP-1.2.5 PNP-1.1.3 GEO-2.2.4 DHP-3.3.1"
+    },
+    {
+      "oznaka": "A.3.4",
+      "opis": "Koristi  različite načine snalaženja u prostoru užeg zavičaja."
+    },
+    {
+      "oznaka": "A.3.5",
+      "opis": "Koristi različite načine snalaženja  u vremenu."
+    },
+    {
+      "oznaka": "A.3.6",
+      "opis": "Zaključuje o promjenljivosti životne zajednice kroz godišnja doba."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "PNP-1.2.1 GEO-1.3.1 PNP-1.2.2 GEO-1.3.2 GEO-2.1.3 BIO-1.4.4 GEO-1.2.3"
+    },
+    {
+      "oznaka": "A.3.7",
+      "opis": "Povezuje važnost higijene prostora za zdravlje čovjeka, održivi razvoj, te demonstrira građanski aktivizam."
+    },
+    {
+      "oznaka": ".3.4",
+      "opis": "GEO-3.3.4 DHP-3.3.1"
+    },
+    {
+      "oznaka": "B.3.1",
+      "opis": "Objašnjava obilježja žive i nežive prirode."
+    },
+    {
+      "oznaka": "B.3.2",
+      "opis": "Objašnjava dijelove tijela biljke i životinje povezujući ih sa funkcijom."
+    },
+    {
+      "oznaka": "B.3.3",
+      "opis": "Razvrstava biljke i životinje po kriterijima."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-1.1.1 BIO-1.1.2 BIO-2.1.1 PNP-2.1.1 BIO-1.1.3"
+    },
+    {
+      "oznaka": "B.3.4",
+      "opis": "Istražuje  i opisuje životno stanište i životnu zajednicu staništa."
+    },
+    {
+      "oznaka": "B.3.5",
+      "opis": "Analizira značaj zaštite zdravlja čovjeka."
+    },
+    {
+      "oznaka": "B.3.6",
+      "opis": "Objašnjava utjecaj čovjeka na životnu sredinu."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "BIO-1.2.1 BIO-4.1.1 BIO-4.3.1 BIO-1.3.1 BIO-1.3.5 GEO-3.1.2"
+    },
+    {
+      "oznaka": "C.3.1",
+      "opis": "Opisuje osobine vode i zraka."
+    },
+    {
+      "oznaka": "C.3.2",
+      "opis": "Povezuje osobinu materijala sa upotrebom."
+    },
+    {
+      "oznaka": "C.3.3",
+      "opis": "Opisuje različite primjere korištenja, prijenosa i pretvaranja energije na temelju vlastitih iskustava."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "BIO-1.2.1 GEO-1.1.2 HEM-1.1.3 HEM-3.3.2 GEO-3.1.3"
+    },
+    {
+      "oznaka": "C.3.4",
+      "opis": "Izvodi oglede kojima otkriva i dokazuje osobine materijala."
+    },
+    {
+      "oznaka": ".4.1",
+      "opis": "BIO-3.4.1"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "A.4.2"
+    },
+    {
+      "oznaka": "A.4.3",
+      "opis": "A.4.4"
+    },
+    {
+      "oznaka": "A.4.5",
+      "opis": "A.4.6"
+    },
+    {
+      "oznaka": "A.4.7",
+      "opis": "A.4.8"
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": "B.4.2"
+    },
+    {
+      "oznaka": "B.4.3",
+      "opis": "B.4.4"
+    },
+    {
+      "oznaka": "B.4.5",
+      "opis": "B.4.6"
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": "C.4.2"
+    },
+    {
+      "oznaka": "C.4.3",
+      "opis": "C.4.4"
+    },
+    {
+      "oznaka": "C.4.5",
+      "opis": "A"
+    },
+    {
+      "oznaka": "A.4.1",
+      "opis": "Orijentiše se i snalazi na različite načine u prostoru i na geografskoj karti."
+    },
+    {
+      "oznaka": "A.4.2",
+      "opis": "Objašnjava obilježja kantona koristeći geografsku kartu."
+    },
+    {
+      "oznaka": "A.4.3",
+      "opis": "Opisuje prirodno-geografska obilježja kantona, te izrađuje tematske karte."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "PNP-1.2.1 GEO-1.3.3 GEO-1.3.3 PNP-1.1.1 GEO-1.1.4 GEO-1.2.2"
+    },
+    {
+      "oznaka": "A.4.4",
+      "opis": "Prikazuje i objašnjava razvijenost i važnost saobraćajne povezanosti u kantonu."
+    },
+    {
+      "oznaka": "A.4.5",
+      "opis": "Istražuje kanton kao privrednu, kulturnu i društvenu cjelinu."
+    },
+    {
+      "oznaka": "A.4.6",
+      "opis": "Utvrđuje važnost higijene prostora za održivi razvoj, te demonstrira građanski aktivizam."
+    },
+    {
+      "oznaka": ".1.3",
+      "opis": "PNP-1.3.1 GEO-2.2.4 PNP-1.3.1 PNP-1.3.2 GEO-2.2.1 PNP-1.3.1 PNP-1.3.2 DHP-1.2.5"
+    },
+    {
+      "oznaka": "A.4.7",
+      "opis": "Snalazi se u vremenu."
+    },
+    {
+      "oznaka": "A.4.8",
+      "opis": "Donosi zaključke o karakteristikama  vremena obradom prikupljenih podataka."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "GEO-1.2.3"
+    },
+    {
+      "oznaka": "B.4.1",
+      "opis": "Opisuje funkcije dijelova tijela živih bića."
+    },
+    {
+      "oznaka": "B.4.2",
+      "opis": "Objašnjava etape i  razlike životnih  ciklusa biljaka, životinja i čovjeka."
+    },
+    {
+      "oznaka": "B.4.3",
+      "opis": "Razvrstava po kategorijama predstavnike žive prirode."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-2.4.1 BIO-4.1.2 BIO-2.1.1 BIO-2.2.1 BIO-2.2.3 BIO-1.1.3 BIO-1.4.4"
+    },
+    {
+      "oznaka": "B.4.4",
+      "opis": "Objašnjava uređenost u životnoj zajednici."
+    },
+    {
+      "oznaka": "B.4.5",
+      "opis": "Analizira   povezanost i značaj žive i nežive prirode."
+    },
+    {
+      "oznaka": "B.4.6",
+      "opis": "Primjenjuje znanje o zaraznim bolestima u svakodnevnom životu."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "BIO-1.2.2 BIO-3.2.1 BIO-1.2.5 BIO-4.3.1"
+    },
+    {
+      "oznaka": "C.4.1",
+      "opis": "Opisuje  promjene osobina tvari na primjerima iz svakodnevnog života."
+    },
+    {
+      "oznaka": "C.4.2",
+      "opis": "Opisuje osobine magneta."
+    },
+    {
+      "oznaka": "C.4.3",
+      "opis": "Opisuje smjese."
+    },
+    {
+      "oznaka": ".1.1",
+      "opis": "HEM-1.3.3 BIO-1.1.2 FIZ-3.3.1 FIZ-3.3.3 HEM-1.1.1"
+    },
+    {
+      "oznaka": "C.4.4",
+      "opis": "Opisuje različite primjere pretvaranja, skladištenja i korištenja energije."
+    },
+    {
+      "oznaka": "C.4.5",
+      "opis": "Izvodi  oglede o  osobinama tvari, smjesama i magnetima."
+    },
+    {
+      "oznaka": ".3.5",
+      "opis": "BIO-3.1.3 GEO-3.1.3 FIZ-5.2.1 HEM-1.3.3 BIO-1.4.4"
+    }
+  ],
+  "kljucni_sadrzaji": [
+    "Ko sam ja? Moja škola. Moja porodica (obitelj) i moj dom. Prostor i njegovi dijelovi. Sigurno rukovanje aparatima. Praznici (rođendanska čestitka",
+    "grb i himna škole",
+    "simboli domovine). Mjesto u kojem živim (naziv mjesta). Objekti na putu od kuće do škole. Zanimanja ljudi. Higijena prostora. Najsigurniji put od kuće do škole: učenik/ca",
+    "ulica",
+    "kolovoz",
+    "trotoar",
+    "pješački prijelaz - zebra",
+    "semafor za pješake i  vozače",
+    "saobraćajni znakovi - za učenika/cu",
+    "stajališta i sredstva javnog prijevoza",
+    "policaja saobraćajac. Prostorne odrednice (gore",
+    "dolje",
+    "lijevo",
+    "desno",
+    "ispred",
+    "naprijed",
+    "iza - pozadi",
+    "pokraj - pored",
+    "nasuprot",
+    "između). Vremenske odrednice (sada",
+    "prije",
+    "poslije",
+    "danas",
+    "juče",
+    "sutra",
+    "dan",
+    "dijelovi dana",
+    "sedmica",
+    "dani u sedmici). Lenta vremena. Dijelova dana. Promjene vremena (sunčano",
+    "oblačno",
+    "promjenljivo",
+    "kišovito",
+    "vjetrovito",
+    "maglovito",
+    "snjegovito)  Kalendar prirode i djelatnosti ljudi.  Koncepti: - organizacija - povezanost potreba i života - kretanje - promjenljivost i prilagođavanje."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [],
+    "medjupredmetne_korelacije": [
+      ":",
+      "Različiti oblici komunikacije, govor, pisanje i bogaćenje rječnika, kao i različiti oblici saradnje prate sve aktivnosti učenika. Promatranjem prirode i njenih dijelova u neposrednoj okolini, te verbalizacijom  uočenog učenik/ca usvaja pojmove vezane za  život ljudi u neposrednom okruženju, zanimanja ljudi u neposrednom okruženju, zanimanja roditelja. Povezanost s matematikom ostvaruje se primjenom vještina opažanja, upoređivanja, kao i upotrebom simboličkog jezika. Učenik/ca upoređuje zajednice u kojima boravi i živi po različitim kriterijima (npr. broj djevojčica i dječaka, broj članova porodice). Crtanjem, slikanjem i modelovanjem pojava u okruženju i prostoru, te dijelova prostora na nastavi Likovne kulture učenik/ca proširuje i produbljuje znanja o prostoru. Praktični radovi učenika utječu na razvoj fine motorike (npr. modelovanje saobraćajnih znakova pomoću plastelina) i razvijanja potreba za izražavanjem doživljenog i kreativnosti, te osjećaja za estetske vrijednosti. Izvanučioničkom nastavom i boravkom u prirodi učenik/ca prepoznaje higijenski onečišćene prostore i uočava utjecaj onečišćenja na zdravlje i na taj način formira svijest o važnosti higijene prostora za zdravlje čovjeka. Učenje i slušanje kompozicija na nastavi Muzičke kulture (npr.o saobraćaju, značajnim praznicima, tradiciji i  domovini) doprinosi razumijevanju učenih pojmova i razvijanju socijalnih i građanskih kompetencija, te kulturne svijesti. Koristeći  tehničko-informatičke vještine igranjem edukativnih igrica npr. o saobraćaju i saobraćajnim znakovima i pravilima, crtanjem predmeta i objekata iz okoline u programu za crtanje (Paint), te promatranjem audio-vizuelnih zapisa ostvaruje se korelacija s informatikom.",
+      "3."
+    ],
+    "kompetencijski_pristup": [
+      ":",
+      "Realizacijo"
+    ]
+  }
+}

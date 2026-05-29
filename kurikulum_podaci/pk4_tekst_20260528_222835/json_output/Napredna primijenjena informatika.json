@@ -1,0 +1,34 @@
+{
+  "predmet": "Napredna primijenjena informatika",
+  "razred_info": {
+    "nivo": "Srednje",
+    "razred": "III"
+  },
+  "tematske_cjeline": [
+    "A Informacione i komunikacione tehnologije",
+    "B Rješavanje problema primjenom IKT-a",
+    "C Digitalno društvo"
+  ],
+  "ishodi": [],
+  "kljucni_sadrzaji": [
+    "Operativni sistem",
+    "Digitalni zvuk",
+    "Digitalni video",
+    "3D model",
+    "3D štampa."
+  ],
+  "preporuke": {
+    "metodicke_smjernice": [
+      "U sklopu cjeline Operativni sistemi učenici treba da se upoznaju sa strukturom operativnih sistema na programerskom nivou, koji su slojevi jednog sistema i kako se vrši upravljanje instrukcijama. Nakon toga, treba proći kroz aktuelne operativne sisteme kako za računare, tako i za mobilne uređaje. Neophodno je sa učenicima proći proces instalacije i konfiguracije ovih sistema, te rada u njima. Također, treba povlačiti paralele između operativnih sistema, te navesti učenike da uočavaju prednosti jednog operativnog sistema nad drugim u specifičnim okolnostima.",
+      "Nakon što upoznaju načine i formate zapisa audio i video sadržaja, učenicima treba pokazati kako u praksi primijeniti ova znanja kroz vježbe u okruženjima za obradu digitalnih audio, odnosno video sadržaja.",
+      "Učenici u sklopu 3D modeliranja trebaju usvojiti vještine kreiranja skice u 2D prostoru koje je moguće transformacijama pretvoriti u 3D modele. Moguće je koristiti bilo koju aplikaciju namijenjenu za 3D modeliranje, kao što su Fusion 360, SketchUp, Blender, Tinkercad... U sklopu ove cjeline učenici bi trebali savladati tehnike obrade ivica, spajanje površina istog modela, uniju, presjek i razliku više modela. Upotrebom stečenih vještina učenici trebaju znati da naprave 3D model koji mogu koristiti kao objekt za 3D štampanje, u video igrama, u simulacijama, i sl. Ukoliko postoji mogućnost učenicima treba i praktično pokazati kako izgleda 3D štampa nekog modela kreiranog na času. Također, moguće je učenicima dati i projektne zadatke iz 3D modeliranja i štampanja."
+    ],
+    "medjupredmetne_korelacije": [
+      "Tematska cjelina Operativni sistemi u direktnoj je vezi s nastavnim predmetima matematika, fizika i programiranje, a u indirektnoj s jezicima i sportom (kroz pravila i hijerarhije izvođenja procesa).  Naredne dvije tematske cjeline neposrednu vezu ostvaruju s fizikom, te muzičkom kulturom (audio) i likovnom kulturom (video).",
+      "3D modeliranje koristi  se za izradu prototipova objekata iz fizike, matematike, hemije, biologije, geografije ili bilo kojeg nastavnog predmeta gdje za tim postoji potreba, a na osnovu ulaznih informacija predmeta za koji se 3D model kreira."
+    ],
+    "kompetencijski_pristup": [
+      "Matematičk"
+    ]
+  }
+}
